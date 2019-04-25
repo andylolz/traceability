@@ -16,7 +16,7 @@
   stroke: red;
 }
 
-circle {
+.nodes circle {
   fill: #ccc;
   stroke: #333;
   stroke-width: 1.5px;
@@ -26,37 +26,61 @@ text {
   font: 10px sans-serif;
   pointer-events: none;
   text-shadow: 0 1px 0 #fff, 1px 0 0 #fff, 0 -1px 0 #fff, -1px 0 0 #fff;
+  /*display: none;*/
+}
+
+.nodes circle:hover {
+  stroke: #ff0;
 }
 
 </style>
-<body>
-<script src="//d3js.org/d3.v3.min.js"></script>
+<svg></svg>
+<script src="https://d3js.org/d3.v4.min.js"></script>
 <script>
 
-// Compute the distinct nodes from the links.
-d3.json("links.json", function (links) {
-  var nodes = {};
-
-  links.forEach(function(link) {
-    link.source = nodes[link.source] || (nodes[link.source] = {name: link.source});
-    link.target = nodes[link.target] || (nodes[link.target] = {name: link.target});
-  });
-
-  var width = window.innerWidth,
+//create somewhere to put the force directed graph
+var width = window.innerWidth,
       height = window.innerHeight;
 
-  var force = d3.layout.force()
-      .nodes(d3.values(nodes))
-      .links(links)
-      .size([width, height])
-      .linkDistance(60)
-      .charge(-300)
-      .on("tick", tick)
-      .start();
-
-  var svg = d3.select("body").append("svg")
+var svg = d3.select("svg")
       .attr("width", width)
       .attr("height", height);
+
+var radius = 5;
+
+d3.json("links.json", function (links) {
+    var nodes = {};
+    links.forEach(function (link) {
+      link.source = nodes[link.source] || (nodes[link.source] = {name: link.source});
+      link.target = nodes[link.target] || (nodes[link.target] = {name: link.target});
+    });
+    nodes = d3.values(nodes);
+
+    //set up the simulation and add forces
+    var simulation = d3.forceSimulation()
+                        .nodes(nodes);
+
+    var link_force =  d3.forceLink(links)
+                            .id(function(d) { return d.name; });
+
+    var charge_force = d3.forceManyBody()
+        .strength(-100);
+
+    var center_force = d3.forceCenter(width / 2, height / 2);
+
+    simulation
+        .force("charge_force", charge_force)
+        .force("center_force", center_force)
+        .force("links",link_force)
+     ;
+
+
+    //add tick instructions:
+    simulation.on("tick", tickActions );
+
+    //add encompassing group for the zoom
+    var g = svg.append("g")
+        .attr("class", "everything");
 
   // Per-type markers, as they don't inherit styles.
   svg.append("defs").selectAll("marker")
@@ -72,42 +96,95 @@ d3.json("links.json", function (links) {
     .append("path")
       .attr("d", "M0,-5L10,0L0,5");
 
-  var path = svg.append("g").selectAll("path")
-      .data(force.links())
-    .enter().append("path")
-      .attr("class", function(d) { return "link " + d.type; })
-      .attr("marker-end", function(d) { return "url(#" + d.type + ")"; });
+    //draw lines for the links
+    var path = g.append("g")
+          .attr("class", "links")
+        .selectAll("path")
+        .data(links)
+        .enter().append("path")
+          .attr("class", function(d) { return "link " + d.type; })
+          .attr("marker-end", function(d) { return "url(#" + d.type + ")"; });
 
-  var circle = svg.append("g").selectAll("circle")
-      .data(force.nodes())
-    .enter().append("circle")
-      .attr("r", 6)
-      .call(force.drag);
+    //draw circles for the nodes
+    var node = g.append("g")
+            .attr("class", "nodes")
+            .selectAll("circle")
+            .data(nodes)
+            .enter()
+            .append("circle")
+            .attr("r", radius)
+            .attr("fill", 'blue');
 
-  var text = svg.append("g").selectAll("text")
-      .data(force.nodes())
-    .enter().append("text")
-      .attr("x", 8)
-      .attr("y", ".31em")
-      .text(function(d) { return d.name; });
+    var text = g.append("g")
+            .attr("class", "text")
+            .selectAll("circle")
+            .data(nodes)
+            .enter().append("text")
+              .attr("x", 8)
+              .attr("y", ".31em")
+              .text(function(d) { return d.name; });
 
-  // Use elliptical arc path segments to doubly-encode directionality.
-  function tick() {
-    path.attr("d", linkArc);
-    circle.attr("transform", transform);
-    text.attr("transform", transform);
-  }
+
+    //add drag capabilities
+    var drag_handler = d3.drag()
+        .on("start", drag_start)
+        .on("drag", drag_drag)
+        .on("end", drag_end);
+
+    drag_handler(node);
+
+
+    //add zoom capabilities
+    var zoom_handler = d3.zoom()
+        .on("zoom", zoom_actions);
+
+    zoom_handler(svg);
+
+    /** Functions **/
+
+    //Drag functions
+    //d is the node
+    function drag_start(d) {
+     if (!d3.event.active) simulation.alphaTarget(0.3).restart();
+        d.fx = d.x;
+        d.fy = d.y;
+    }
+
+    //make sure you can't drag the circle outside the box
+    function drag_drag(d) {
+      d.fx = d3.event.x;
+      d.fy = d3.event.y;
+    }
+
+    function drag_end(d) {
+      if (!d3.event.active) simulation.alphaTarget(0);
+      d.fx = null;
+      d.fy = null;
+    }
+
+    //Zoom functions
+    function zoom_actions(){
+        g.attr("transform", d3.event.transform)
+    }
 
   function linkArc(d) {
     var dx = d.target.x - d.source.x,
         dy = d.target.y - d.source.y,
         dr = Math.sqrt(dx * dx + dy * dy);
-    return "M" + d.source.x + "," + d.source.y + "A" + dr + "," + dr + " 0 0,1 " + d.target.x + "," + d.target.y;
+    return "M" + d.source.x + "," + d.source.y + " " + d.target.x + "," + d.target.y;
   }
 
-  function transform(d) {
-    return "translate(" + d.x + "," + d.y + ")";
-  }
+    function tickActions() {
+        //update circle positions each tick of the simulation
+           node
+            .attr("cx", function(d) { return d.x; })
+            .attr("cy", function(d) { return d.y; });
+
+           text
+            .attr("x", function(d) { return d.x; })
+            .attr("y", function(d) { return d.y; });
+
+        path.attr("d", linkArc);
+    }
 });
-
 </script>
