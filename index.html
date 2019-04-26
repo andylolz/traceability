@@ -3,21 +3,14 @@
 <style>
 
 .link {
-  fill: none;
+  fill: #666;
   stroke: #666;
   stroke-width: 1.5px;
 }
 
-#downstream {
-  fill: red;
-}
-
-#upstream {
-  fill: #666;
-}
-
 .link.downstream {
   stroke: red;
+  fill: red;
 }
 
 .nodes circle {
@@ -80,23 +73,12 @@ d3.json("links.json", function (links) {
     var g = svg.append("g")
         .attr("class", "everything");
 
-  // Per-type markers, as they don't inherit styles.
-  svg.append("defs").selectAll("marker")
-      .data(["downstream", "upstream"])
-    .enter().append("marker")
-      .attr("id", function(d) { return d; })
-      .attr("viewBox", "0 -5 10 10")
-      .attr("refX", 15)
-      .attr("refY", 0)
-      .attr("markerWidth", 6)
-      .attr("markerHeight", 6)
-      .attr("orient", "auto")
-    .append("path")
-      .attr("d", "M0,-5L10,0L0,5");
-
     //draw lines for the links
     var path = g.append("g")
           .attr("class", "links")
+          .attr("fill", function(d) { return "none"; })
+          .attr("stroke-width", function(d) { return "1.5px"; })
+          .attr("stroke", function(d) { return "#666"; })
         .selectAll("path")
         .data(links)
         .enter().append("path")
@@ -166,6 +148,18 @@ d3.json("links.json", function (links) {
     }
 
     function tickActions() {
+      path.attr("d", function(d) {
+        var dx = d.target.x - d.source.x,
+            dy = d.target.y - d.source.y,
+            dr = Math.sqrt(dx * dx + dy * dy),
+            theta = Math.atan2(dy, dx) + Math.PI / 7.85,
+            d90 = Math.PI / 2,
+            dtxs = d.target.x - 6 * Math.cos(theta),
+            dtys = d.target.y - 6 * Math.sin(theta);
+        return "M" + d.source.x + "," + d.source.y + "A" + dr + "," + dr + " 0 0 1," + d.target.x + "," + d.target.y + "A" + dr + "," + dr + " 0 0 0," + d.source.x + "," + d.source.y + "M" + dtxs + "," + dtys +  "l" + (3.5 * Math.cos(d90 - theta) - 10 * Math.cos(theta)) + "," + (-3.5 * Math.sin(d90 - theta) - 10 * Math.sin(theta)) + "L" + (dtxs - 3.5 * Math.cos(d90 - theta) - 10 * Math.cos(theta)) + "," + (dtys + 3.5 * Math.sin(d90 - theta) - 10 * Math.sin(theta)) + "z";
+      });
+
+
         //update circle positions each tick of the simulation
            node
             .attr("cx", function(d) { return d.x; })
@@ -174,8 +168,6 @@ d3.json("links.json", function (links) {
            text
             .attr("x", function(d) { return d.x; })
             .attr("y", function(d) { return d.y; });
-
-        path.attr("d", function(d) { return "M" + d.source.x + "," + d.source.y + " " + d.target.x + "," + d.target.y; });
     }
 });
 </script>
