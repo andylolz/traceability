@@ -1,3 +1,5 @@
+import csv
+from collections import defaultdict
 from itertools import zip_longest
 
 import iatikit
@@ -48,3 +50,20 @@ for pub in iatikit.data().publishers:
         for link in links:
             print(link)
             store.append(link)
+
+dedupe_store = defaultdict(int)
+for link in store:
+    dedupe_store[link] += 1
+
+dedupe_store = [{
+    'type': k[0],
+    'source': k[1],
+    'target': k[2],
+    'weight': v,
+} for k, v in dedupe_store.items()]
+
+fieldnames = ['source', 'target', 'type', 'weight']
+with open('links.csv', 'w') as handler:
+    writer = csv.DictWriter(handler, fieldnames=fieldnames)
+    writer.writeheader()
+    _ = [writer.writerow(x) for x in dedupe_store]
