@@ -39,7 +39,7 @@ var svg = d3.select("svg")
 
 var radius = 5;
 
-d3.json("links.json", function (links) {
+d3.csv("links.csv", function (links) {
     var nodes = {};
     links.forEach(function (link) {
       link.source = nodes[link.source] || (nodes[link.source] = {name: link.source});
