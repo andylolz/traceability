@@ -8,6 +8,7 @@ import redis
 
 
 r = redis.Redis()
+iatikit.download.data()
 
 
 for pub in iatikit.data().publishers:
