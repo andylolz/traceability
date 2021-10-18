@@ -1,6 +1,7 @@
 import csv
 from collections import defaultdict
 from itertools import zip_longest
+from os.path import join
 
 import iatikit
 import redis
@@ -63,7 +64,7 @@ dedupe_store = [{
 } for k, v in dedupe_store.items()]
 
 fieldnames = ['source', 'target', 'type', 'weight']
-with open('links.csv', 'w') as handler:
+with open(join('output', 'links.csv'), 'w') as handler:
     writer = csv.DictWriter(handler, fieldnames=fieldnames)
     writer.writeheader()
     _ = [writer.writerow(x) for x in dedupe_store]
