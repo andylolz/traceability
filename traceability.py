@@ -57,12 +57,13 @@ dedupe_store = defaultdict(int)
 for link in store:
     dedupe_store[link] += 1
 
-dedupe_store = [{
-    'type': k[0],
-    'source': k[1],
-    'target': k[2],
-    'weight': v,
-} for k, v in dedupe_store.items()]
+dedupe_store = sorted([{
+        'type': k[0],
+        'source': k[1],
+        'target': k[2],
+        'weight': v,
+    } for k, v in dedupe_store.items()],
+    key=lambda x: list(x.values()))
 
 fieldnames = ['source', 'target', 'type', 'weight']
 with open(join('output', 'links.csv'), 'w') as handler:
