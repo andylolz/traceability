@@ -2,7 +2,8 @@
 
 **Click to drag; scroll to zoom.** Red links are downstream; black links are upstream.
 
-[Link to full screen demo](https://codeforiati.org/traceability-graph/)
+ * [Traceability graph is here](https://codeforiati.org/traceability-graph/)
+ * [Source data used is here](https://codeforiati.org/traceability-graph/links.csv)
 
 Some initial takehomes:
 
