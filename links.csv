@@ -408,7 +408,6 @@ scnl,wvnld,downstream,1
 scnl,zoa,downstream,4
 simavi,amrefnl,downstream,1
 skn,icdi,downstream,1
-skn,thp_org,downstream,1
 skn,uva_org,downstream,1
 snv,cidr,downstream,1
 snv,hsi,downstream,1
@@ -436,6 +435,9 @@ stichting-subsidiegelden-dra,zoa,downstream,1
 taf,dipr,downstream,1
 tearfund,acatba,downstream,1
 the_power_of_nutrition,worldbank,downstream,2
+thp_org,acfspain,downstream,1
+thp_org,scnl,downstream,1
+thp_org,wvnld,downstream,1
 traidcraft,fci,downstream,1
 tripleline_crownagents,acord,downstream,1
 tripleline_crownagents,adrauk,downstream,1
@@ -651,7 +653,7 @@ carenederland,warchildholland,upstream,4
 carenederland,wvnld,upstream,3
 carenederland,zoa,upstream,7
 cerf,iom,upstream,118
-cerf,unhcr,upstream,94
+cerf,unhcr,upstream,95
 cfyas,ippf,upstream,1
 ciuk,cnepal,upstream,2
 ciuk,csom1,upstream,3
@@ -705,7 +707,7 @@ danida,missioneast,upstream,3
 danida,plb,upstream,1
 danida,redbarnet,upstream,1
 danida,transparency-international,upstream,1
-danida,unhcr,upstream,1
+danida,unhcr,upstream,2
 danida,wwfdk,upstream,1
 ddp,dhrc_nepal,upstream,1
 dec-uk,aauk,upstream,5
@@ -1173,7 +1175,7 @@ minbuza_nl,asf,upstream,1
 minbuza_nl,asi,upstream,1
 minbuza_nl,atmf,upstream,4
 minbuza_nl,auxfinbi,upstream,1
-minbuza_nl,avsi_uganda,upstream,1
+minbuza_nl,avsi_uganda,upstream,2
 minbuza_nl,berytech,upstream,1
 minbuza_nl,bopinc,upstream,1
 minbuza_nl,bothends,upstream,1
@@ -1287,7 +1289,7 @@ minbuza_nl,nuffic20171017,upstream,2
 minbuza_nl,nwo,upstream,1
 minbuza_nl,nwp,upstream,1
 minbuza_nl,odi,upstream,1
-minbuza_nl,onl,upstream,1149
+minbuza_nl,onl,upstream,1150
 minbuza_nl,orientame,upstream,1
 minbuza_nl,oyw,upstream,1
 minbuza_nl,p-t-f-,upstream,1
@@ -1332,6 +1334,7 @@ minbuza_nl,tbi,upstream,1
 minbuza_nl,tdh_foundation,upstream,1
 minbuza_nl,tdh_nl,upstream,14
 minbuza_nl,tear,upstream,1
+minbuza_nl,thp_org,upstream,1
 minbuza_nl,tni,upstream,1
 minbuza_nl,tns,upstream,1
 minbuza_nl,transparency-international,upstream,1
@@ -1510,7 +1513,6 @@ simavi,wai,upstream,1
 simavi,waste,upstream,1
 simavi,wi,upstream,2
 skn,icdi,upstream,1
-skn,thp_org,upstream,1
 skn,uva_org,upstream,1
 snv,hsi,upstream,1
 snv,protos,upstream,1
@@ -1550,6 +1552,7 @@ tdh_nl,plannlno,upstream,1
 tfac,tfacmalawi,upstream,1
 theglobalfund,iom,upstream,1
 theglobalfund,undp,upstream,72
+thp_org,scnl,upstream,2
 traidcraft,fci,upstream,1
 udpk,fida,upstream,1
 undp,idlo,upstream,1
