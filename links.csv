@@ -406,7 +406,7 @@ scnl,redeenkind,downstream,1
 scnl,sosvdb_italia,downstream,1
 scnl,tdh_nl,downstream,2
 scnl,tear,downstream,7
-scnl,warchildholland,downstream,3
+scnl,warchildholland,downstream,4
 scnl,wvnld,downstream,1
 scnl,zoa,downstream,4
 simavi,amrefnl,downstream,1
@@ -893,6 +893,7 @@ fcdo,msi,upstream,12
 fcdo,namati_inc,upstream,1
 fcdo,nathan,upstream,2
 fcdo,nrgi,upstream,1
+fcdo,nutritionintl,upstream,1
 fcdo,odi,upstream,13
 fcdo,odi_sales_ltd,upstream,1
 fcdo,onetoonecf,upstream,1
@@ -1323,7 +1324,7 @@ minbuza_nl,simavi,upstream,3
 minbuza_nl,siwi,upstream,1
 minbuza_nl,sjac,upstream,1
 minbuza_nl,skn,upstream,1
-minbuza_nl,snv,upstream,11
+minbuza_nl,snv,upstream,10
 minbuza_nl,solidaridad-europe,upstream,1
 minbuza_nl,solidaridad-ssea,upstream,2
 minbuza_nl,solidaridad-waf,upstream,2
@@ -1477,7 +1478,7 @@ scnl,simavi,upstream,1
 scnl,st_vluchteling,upstream,4
 scnl,tdh_nl,upstream,2
 scnl,tear,upstream,10
-scnl,warchildholland,upstream,4
+scnl,warchildholland,upstream,5
 scnl,wcc,upstream,1
 scnl,wvnld,upstream,2
 scnl,zoa,upstream,8
