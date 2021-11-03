@@ -419,6 +419,7 @@ snv,protos,downstream,2
 snv,vngi,downstream,1
 st_vluchteling,carenederland,downstream,1
 st_vluchteling,cordaid,downstream,1
+st_vluchteling,intersos_main,downstream,1
 st_vluchteling,irc_inc,downstream,1
 st_vluchteling,mcn,downstream,1
 st_vluchteling,wvnld,downstream,1
@@ -439,6 +440,7 @@ taf,dipr,downstream,1
 tearfund,acatba,downstream,1
 the_power_of_nutrition,worldbank,downstream,2
 thp_org,acfspain,downstream,1
+thp_org,max-foundation,downstream,1
 thp_org,scnl,downstream,1
 thp_org,wvnld,downstream,1
 traidcraft,fci,downstream,1
@@ -493,7 +495,7 @@ wvnld,wcuk,downstream,1
 wvnld,wvi,downstream,11
 wvnld,zoa,downstream,1
 wvuk,open_university,downstream,1
-wvuk,wvi,downstream,63
+wvuk,wvi,downstream,92
 zoa,carenederland,downstream,2
 zoa,cordaid,downstream,7
 zoa,dai,downstream,6
@@ -1192,7 +1194,7 @@ minbuza_nl,chs_alliance,upstream,1
 minbuza_nl,cilc,upstream,1
 minbuza_nl,cis,upstream,1
 minbuza_nl,clingendael,upstream,5
-minbuza_nl,cordaid,upstream,23
+minbuza_nl,cordaid,upstream,24
 minbuza_nl,cowi,upstream,2
 minbuza_nl,cpd,upstream,1
 minbuza_nl,creausa-org,upstream,1
@@ -1557,6 +1559,7 @@ tdh_nl,plannlno,upstream,1
 tfac,tfacmalawi,upstream,1
 theglobalfund,iom,upstream,1
 theglobalfund,undp,upstream,72
+thp_org,max-foundation,upstream,1
 thp_org,scnl,upstream,3
 traidcraft,fci,upstream,1
 udpk,fida,upstream,1
