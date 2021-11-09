@@ -82,6 +82,7 @@ fcdo,irc_inc,downstream,4
 fcdo,lcd_admin,downstream,1
 fcdo,options,downstream,2
 fcdo,pa,downstream,1
+fcdo,pwc,downstream,1
 fcdo,sinda,downstream,1
 foenl,foei,downstream,1
 foenl,iucn_nl,downstream,1
@@ -918,7 +919,7 @@ fcdo,pont,upstream,1
 fcdo,populationcouncil,upstream,2
 fcdo,pri,upstream,1
 fcdo,pumpaid,upstream,1
-fcdo,pwc,upstream,8
+fcdo,pwc,upstream,9
 fcdo,pwcplindia,upstream,10
 fcdo,ran,upstream,1
 fcdo,rc,upstream,1
