@@ -79,6 +79,7 @@ fcdo,healthpartners-international,downstream,1
 fcdo,ippf,downstream,1
 fcdo,irc_inc,downstream,4
 fcdo,lcd_admin,downstream,1
+fcdo,msi,downstream,1
 fcdo,options,downstream,2
 fcdo,pa,downstream,1
 fcdo,pwc,downstream,1
@@ -124,6 +125,7 @@ hpa,manniondaniels,downstream,1
 inasp,afelt,downstream,1
 inasp,udom,downstream,1
 inasp,umu,downstream,1
+ippf,msi,downstream,1
 irc,minbuza_nl,downstream,3
 irc_inc,bbcmediaaction,downstream,1
 irc_inc,concern_worldwide,downstream,2
@@ -190,7 +192,7 @@ manniondaniels,bvs-nepal,downstream,1
 manniondaniels,cafod,downstream,1
 manniondaniels,caid,downstream,1
 manniondaniels,camfed,downstream,1
-manniondaniels,cbm,downstream,1
+manniondaniels,cbm,downstream,2
 manniondaniels,cecily,downstream,1
 manniondaniels,childhopeuk,downstream,1
 manniondaniels,cicni,downstream,1
@@ -216,6 +218,7 @@ manniondaniels,eap,downstream,1
 manniondaniels,eel,downstream,1
 manniondaniels,eiuk,downstream,1
 manniondaniels,emms,downstream,1
+manniondaniels,eti,downstream,1
 manniondaniels,excellent,downstream,1
 manniondaniels,fa,downstream,2
 manniondaniels,fact,downstream,1
@@ -226,6 +229,7 @@ manniondaniels,fhfuk,downstream,1
 manniondaniels,foe-ghana,downstream,1
 manniondaniels,ftm-291333,downstream,1
 manniondaniels,fyf,downstream,1
+manniondaniels,gb-chc-220949,downstream,1
 manniondaniels,goal,downstream,1
 manniondaniels,growmovement_admin,downstream,1
 manniondaniels,hagar_uk,downstream,1
