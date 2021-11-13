@@ -222,7 +222,6 @@ manniondaniels,eti,downstream,1
 manniondaniels,excellent,downstream,1
 manniondaniels,fa,downstream,2
 manniondaniels,fact,downstream,1
-manniondaniels,fci,downstream,1
 manniondaniels,femnet,downstream,1
 manniondaniels,fh,downstream,1
 manniondaniels,fhfuk,downstream,1
@@ -662,7 +661,7 @@ carenederland,warchildholland,upstream,4
 carenederland,wvnld,upstream,3
 carenederland,zoa,upstream,7
 cerf,iom,upstream,121
-cerf,unhcr,upstream,96
+cerf,unhcr,upstream,98
 cfyas,ippf,upstream,1
 ciuk,cnepal,upstream,2
 ciuk,csom1,upstream,3
@@ -1012,7 +1011,7 @@ gecfundmanagerpwc,mgcubed,upstream,1
 gecfundmanagerpwc,open_university,upstream,1
 gecfundmanagerpwc,opportunity-international-uk,upstream,1
 gecfundmanagerpwc,rains,upstream,1
-gecfundmanagerpwc,street_child,upstream,2
+gecfundmanagerpwc,street_child,upstream,1
 gecfundmanagerpwc,vso,upstream,4
 gecfundmanagerpwc,wei,upstream,1
 gecfundmanagerpwc,wusc,upstream,1
@@ -1243,7 +1242,7 @@ minbuza_nl,hif,upstream,2
 minbuza_nl,hiil_mfa,upstream,3
 minbuza_nl,hsi,upstream,2
 minbuza_nl,ibfd,upstream,1
-minbuza_nl,icco-cooperation,upstream,17
+minbuza_nl,icco-cooperation,upstream,16
 minbuza_nl,icnl_org,upstream,5
 minbuza_nl,ictj,upstream,8
 minbuza_nl,icwrsa,upstream,1
@@ -1332,7 +1331,7 @@ minbuza_nl,simavi,upstream,3
 minbuza_nl,siwi,upstream,1
 minbuza_nl,sjac,upstream,1
 minbuza_nl,skn,upstream,1
-minbuza_nl,snv,upstream,10
+minbuza_nl,snv,upstream,11
 minbuza_nl,solidaridad-europe,upstream,1
 minbuza_nl,solidaridad-ssea,upstream,2
 minbuza_nl,solidaridad-waf,upstream,2
