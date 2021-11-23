@@ -351,6 +351,7 @@ mefbenin,toviklin,downstream,1
 mefbenin,ze,downstream,1
 minbuza_nl,carenederland,downstream,2
 minbuza_nl,cidr,downstream,1
+minbuza_nl,cordaid,downstream,1
 minbuza_nl,irc_inc,downstream,1
 minbuza_nl,onl,downstream,1
 minbuza_nl,protos,downstream,1
@@ -680,10 +681,11 @@ cordaid,onl,upstream,16
 cordaid,plannlno,upstream,3
 cordaid,scnl,upstream,2
 cordaid,st_vluchteling,upstream,11
+cordaid,stichting-subsidiegelden-dra,upstream,1
 cordaid,tdh_nl,upstream,1
 cordaid,warchildholland,upstream,4
 cordaid,wcuk,upstream,3
-cordaid,wvnld,upstream,7
+cordaid,wvnld,upstream,6
 cordaid,zoa,upstream,8
 cr,hdcentre,upstream,1
 cr,riia,upstream,1
@@ -1311,7 +1313,7 @@ minbuza_nl,pax,upstream,4
 minbuza_nl,pcf,upstream,2
 minbuza_nl,pidg,upstream,3
 minbuza_nl,plama,upstream,1
-minbuza_nl,plannlno,upstream,8
+minbuza_nl,plannlno,upstream,7
 minbuza_nl,populationcouncil,upstream,1
 minbuza_nl,promsex,upstream,1
 minbuza_nl,protos,upstream,1
@@ -1378,7 +1380,7 @@ minbuza_nl,womankindworld,upstream,1
 minbuza_nl,worldveg,upstream,1
 minbuza_nl,worldwaternet,upstream,1
 minbuza_nl,wpp,upstream,1
-minbuza_nl,wvnld,upstream,5
+minbuza_nl,wvnld,upstream,4
 minbuza_nl,ww-gvc,upstream,2
 minbuza_nl,yai-hub,upstream,1
 minbuza_nl,yffhsd,upstream,2
