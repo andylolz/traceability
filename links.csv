@@ -1147,11 +1147,11 @@ manniondaniels,whpca,upstream,1
 manniondaniels,ycare,upstream,1
 mce,irc_uk,upstream,2
 mce,st_vluchteling,upstream,1
-mefbenin,ancb_benin,upstream,1
 mefbenin,ine_benin,upstream,1
 mefbenin,parakou,upstream,1
 mefbenin,soneb-benin,upstream,1
 mfat,iom,upstream,1
+minbuza_nl,aanl,upstream,1
 minbuza_nl,ac1999,upstream,1
 minbuza_nl,acfshr,upstream,2
 minbuza_nl,acted,upstream,1
@@ -1218,7 +1218,7 @@ minbuza_nl,fimi_iiwf_2019,upstream,1
 minbuza_nl,fipag,upstream,1
 minbuza_nl,fmo,upstream,19
 minbuza_nl,fms,upstream,1
-minbuza_nl,foenl,upstream,2
+minbuza_nl,foenl,upstream,1
 minbuza_nl,free_press_unlimited,upstream,3
 minbuza_nl,fwf,upstream,1
 minbuza_nl,gain,upstream,3
@@ -1290,7 +1290,7 @@ minbuza_nl,nuffic20171017,upstream,2
 minbuza_nl,nwo,upstream,1
 minbuza_nl,nwp,upstream,1
 minbuza_nl,odi,upstream,1
-minbuza_nl,onl,upstream,1165
+minbuza_nl,onl,upstream,1171
 minbuza_nl,orientame,upstream,1
 minbuza_nl,oyw,upstream,1
 minbuza_nl,p-t-f-,upstream,1
@@ -1327,6 +1327,7 @@ minbuza_nl,solidaridad-europe,upstream,1
 minbuza_nl,solidaridad-ssea,upstream,2
 minbuza_nl,solidaridad-waf,upstream,2
 minbuza_nl,solidarsuisse,upstream,1
+minbuza_nl,somo,upstream,1
 minbuza_nl,spark,upstream,5
 minbuza_nl,st_vluchteling,upstream,2
 minbuza_nl,stc-international,upstream,1
@@ -1337,7 +1338,6 @@ minbuza_nl,tdh_foundation,upstream,1
 minbuza_nl,tdh_nl,upstream,14
 minbuza_nl,tear,upstream,1
 minbuza_nl,thp_org,upstream,1
-minbuza_nl,tni,upstream,1
 minbuza_nl,tns,upstream,1
 minbuza_nl,transparency-international,upstream,1
 minbuza_nl,trig,upstream,1
@@ -1422,6 +1422,7 @@ palladium,hiuk,upstream,1
 palladium,manniondaniels,upstream,1
 pax,amnesty,upstream,2
 pcst,pcst,upstream,1
+pegasys-eu,rfuk,upstream,1
 pin,concernuk,upstream,2
 plan_uk,aauk,upstream,1
 plan_uk,hiuk,upstream,1
@@ -1574,7 +1575,8 @@ unpf,unhcr,upstream,3
 uoe,bpcrs,upstream,1
 uoe,icddrb,upstream,1
 uoe,ipcrg,upstream,1
-usaid,iom,upstream,111
+usaid,iom,upstream,114
+usaid,itc,upstream,4
 usaid,odi,upstream,1
 usaid,saferworld,upstream,1
 viva,bucksfarm,upstream,1
