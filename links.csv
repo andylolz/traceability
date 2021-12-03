@@ -621,10 +621,11 @@ bmgf,cabi,upstream,4
 bmgf,malariaconsortium,upstream,4
 bmgf,unhcr,upstream,9
 bmz,unhcr,upstream,4
-bothends,aanl,upstream,1
+bothends,aanl,upstream,2
 bothends,ccc,upstream,1
 bothends,foei,upstream,1
 bothends,foenl,upstream,1
+bothends,itforchange,upstream,1
 bothends,somo,upstream,1
 bothends,tni,upstream,1
 bracuk,hiuk,upstream,1
@@ -635,6 +636,7 @@ cal,abtbritain,upstream,1
 cal,acf,upstream,1
 cal,hpa,upstream,1
 cal,irc_inc,upstream,3
+cal_2000-pu,jass,upstream,1
 carbontrustadvisory,e4i,upstream,1
 carbontrustadvisory,shortlistogti,upstream,1
 carbontrustadvisory,uct,upstream,1
@@ -1003,6 +1005,7 @@ gecfundmanagerpwc,vso,upstream,4
 gecfundmanagerpwc,wei,upstream,1
 gecfundmanagerpwc,wusc,upstream,1
 gecfundmanagerpwc,wvuk,upstream,1
+genderatwork,jass,upstream,1
 giro555,carenederland,upstream,2
 giro555,cordaid,upstream,2
 giro555,giro555,upstream,1
@@ -1070,6 +1073,9 @@ irishaid,idi,upstream,1
 irishaid,odi,upstream,1
 irishaid,unhcr,upstream,1
 iucn_nl,tbi,upstream,1
+jass,cal_2000-pu,upstream,1
+jass,genderatwork,upstream,1
+jass,pekka_21,upstream,1
 kpmgllp,rfuk,upstream,1
 kpmgllp,wwf-uk,upstream,1
 lcd_admin,open_university,upstream,1
@@ -1287,7 +1293,7 @@ minbuza_nl,nuffic20171017,upstream,2
 minbuza_nl,nwo,upstream,1
 minbuza_nl,nwp,upstream,1
 minbuza_nl,odi,upstream,1
-minbuza_nl,onl,upstream,1171
+minbuza_nl,onl,upstream,1173
 minbuza_nl,orientame,upstream,1
 minbuza_nl,oyw,upstream,1
 minbuza_nl,p-t-f-,upstream,1
@@ -1420,6 +1426,7 @@ palladium,manniondaniels,upstream,1
 pax,amnesty,upstream,2
 pcst,pcst,upstream,1
 pegasys-eu,rfuk,upstream,1
+pekka_21,jass,upstream,1
 pin,concernuk,upstream,2
 plan_uk,aauk,upstream,1
 plan_uk,hiuk,upstream,1
