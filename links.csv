@@ -713,7 +713,7 @@ dec-uk,ciuk,upstream,1
 dec-uk,concern_worldwide,upstream,1
 dec-uk,concernuk,upstream,6
 dec-uk,gb-chc-220949,upstream,3
-dec-uk,irw,upstream,1
+dec-uk,irw,upstream,2
 dec-uk,oxfamgb,upstream,29
 dec-uk,plan_uk,upstream,5
 dec-uk,tearfund,upstream,4
@@ -875,6 +875,7 @@ fcdo,lcd_admin,upstream,4
 fcdo,lcds,upstream,1
 fcdo,lepra,upstream,2
 fcdo,lhcf,upstream,1
+fcdo,lse,upstream,1
 fcdo,lshtm,upstream,1
 fcdo,lstm,upstream,1
 fcdo,lts,upstream,2
@@ -1031,6 +1032,7 @@ hewlett-foundation,manniondaniels,upstream,1
 hiuk,hi_fed,upstream,2
 hpa,lcdi_admin,upstream,1
 hpa,tamtf,upstream,1
+icco-cooperation,healthnet,upstream,2
 icco-cooperation,nl-kvk-54436222-27541,upstream,1
 icco-cooperation,scnl,upstream,2
 icco-cooperation,warchildholland,upstream,1
@@ -1228,7 +1230,7 @@ minbuza_nl,gain,upstream,3
 minbuza_nl,gi-jhu,upstream,1
 minbuza_nl,gichd,upstream,12
 minbuza_nl,giro555,upstream,1
-minbuza_nl,halo,upstream,11
+minbuza_nl,halo,upstream,9
 minbuza_nl,hdcentre,upstream,1
 minbuza_nl,hi_fed,upstream,2
 minbuza_nl,hif,upstream,2
@@ -1263,7 +1265,7 @@ minbuza_nl,leprazending-tlm-nl,upstream,1
 minbuza_nl,lpi,upstream,1
 minbuza_nl,mag,upstream,2
 minbuza_nl,mamac,upstream,2
-minbuza_nl,manniondaniels,upstream,1
+minbuza_nl,manniondaniels,upstream,2
 minbuza_nl,max-foundation,upstream,1
 minbuza_nl,mce,upstream,4
 minbuza_nl,mcn,upstream,1
@@ -1438,7 +1440,7 @@ plannlno,cfyas,upstream,1
 plannlno,cordaid,upstream,1
 plannlno,dciecpatnl,upstream,7
 plannlno,femnet,upstream,1
-plannlno,healthnet,upstream,1
+plannlno,healthnet,upstream,2
 plannlno,kit,upstream,9
 plannlno,onl,upstream,2
 plannlno,pax,upstream,1
