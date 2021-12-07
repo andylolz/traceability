@@ -357,6 +357,9 @@ msi,pmc,downstream,1
 nimd-hq,awepa,downstream,1
 niras,lts,downstream,1
 nl-kvk-41207989,inpud_admin,downstream,1
+nl-kvk-41207989,isdao,downstream,1
+nl-kvk-41207989,sanpud,downstream,1
+nl-kvk-41207989,uhai-eashri,downstream,1
 open_university,uom,downstream,1
 openmindedly,oxfamgb,downstream,2
 orbis_international,nnjs_nepal,downstream,1
@@ -472,6 +475,7 @@ warchildholland,wcuk,downstream,7
 warchildholland,wvnld,downstream,1
 waste,amrefnl,downstream,1
 wei,rains,downstream,1
+womankindworld,fowode,downstream,1
 wv_de,wvi,downstream,91
 wvnld,cordaid,downstream,1
 wvnld,dai,downstream,1
@@ -1283,7 +1287,7 @@ minbuza_nl,ndsicde,upstream,1
 minbuza_nl,nef_mali,upstream,1
 minbuza_nl,nfp,upstream,4
 minbuza_nl,nimd-hq,upstream,2
-minbuza_nl,nl-kvk-41207989,upstream,1
+minbuza_nl,nl-kvk-41207989,upstream,2
 minbuza_nl,nl-kvk-54436222-27541,upstream,1
 minbuza_nl,nl_wg,upstream,1
 minbuza_nl,nlr,upstream,2
@@ -1388,6 +1392,7 @@ nl-kvk-41207989,afewinternational,upstream,1
 nl-kvk-41207989,cocnl_publisher,upstream,4
 nl-kvk-41207989,f-aids,upstream,1
 nl-kvk-41207989,inpud_admin,upstream,1
+nl-kvk-41207989,isdao,upstream,1
 nl-kvk-41207989,mainline,upstream,3
 nlrc,carenederland,upstream,1
 nlrc,cordaid,upstream,1
