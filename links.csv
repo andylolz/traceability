@@ -356,6 +356,7 @@ msi,options,downstream,2
 msi,pmc,downstream,1
 nimd-hq,awepa,downstream,1
 niras,lts,downstream,1
+nl-kvk-41207989,galz,downstream,2
 nl-kvk-41207989,inpud_admin,downstream,1
 nl-kvk-41207989,isdao,downstream,1
 nl-kvk-41207989,sanpud,downstream,1
@@ -848,6 +849,7 @@ fcdo,gi-toc,upstream,1
 fcdo,globalcanopy,upstream,1
 fcdo,gsma_foundation,upstream,115
 fcdo,handinhand,upstream,1
+fcdo,hgc,upstream,2
 fcdo,hha,upstream,1
 fcdo,hi,upstream,4
 fcdo,hiuk,upstream,7
@@ -1262,6 +1264,7 @@ minbuza_nl,issafrica,upstream,2
 minbuza_nl,itc,upstream,4
 minbuza_nl,iucn,upstream,2
 minbuza_nl,iucn_nl,upstream,3
+minbuza_nl,jass,upstream,1
 minbuza_nl,josa,upstream,1
 minbuza_nl,kepsa,upstream,2
 minbuza_nl,ldsps,upstream,1
@@ -1298,7 +1301,7 @@ minbuza_nl,nuffic20171017,upstream,2
 minbuza_nl,nwo,upstream,1
 minbuza_nl,nwp,upstream,1
 minbuza_nl,odi,upstream,1
-minbuza_nl,onl,upstream,1175
+minbuza_nl,onl,upstream,1177
 minbuza_nl,orientame,upstream,1
 minbuza_nl,oyw,upstream,1
 minbuza_nl,p-t-f-,upstream,1
@@ -1358,7 +1361,7 @@ minbuza_nl,universiteit_leiden,upstream,2
 minbuza_nl,unocha-sdc,upstream,2
 minbuza_nl,utz,upstream,1
 minbuza_nl,uvw,upstream,1
-minbuza_nl,vei_nl,upstream,2
+minbuza_nl,vei_nl,upstream,1
 minbuza_nl,vngi,upstream,5
 minbuza_nl,w-d,upstream,1
 minbuza_nl,wageningen_ur,upstream,8
