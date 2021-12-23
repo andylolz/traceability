@@ -481,7 +481,7 @@ warchildholland,rtp,downstream,1
 warchildholland,wcc,downstream,1
 warchildholland,wcuk,downstream,7
 warchildholland,wvnld,downstream,1
-waste,amrefnl,downstream,1
+waste,amrefnl,downstream,2
 wei,rains,downstream,1
 womankindworld,fowode,downstream,1
 wv_de,wvi,downstream,91
@@ -1369,11 +1369,12 @@ minbuza_nl,universiteit_leiden,upstream,2
 minbuza_nl,unocha-sdc,upstream,2
 minbuza_nl,utz,upstream,1
 minbuza_nl,uvw,upstream,1
-minbuza_nl,vei_nl,upstream,1
+minbuza_nl,vei_nl,upstream,2
 minbuza_nl,vngi,upstream,5
 minbuza_nl,w-d,upstream,1
 minbuza_nl,wageningen_ur,upstream,8
 minbuza_nl,warchildholland,upstream,7
+minbuza_nl,waste,upstream,1
 minbuza_nl,wba,upstream,1
 minbuza_nl,wf-asia,upstream,5
 minbuza_nl,wff,upstream,1
