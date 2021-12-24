@@ -464,7 +464,6 @@ tripleline_crownagents,waronwant,downstream,2
 troc,trocaire,downstream,1
 unf,fcdo,downstream,1
 unicefnl,solidaridad-europe,downstream,1
-unpf,bmu_iki,downstream,12
 uoe,bpcrs,downstream,1
 uoe,icddrb,downstream,1
 uoe,ipcrg,downstream,1
@@ -963,7 +962,6 @@ fcdo,traidcraft,upstream,5
 fcdo,tripleline_crownagents,upstream,2
 fcdo,troc,upstream,1
 fcdo,umn,upstream,1
-fcdo,undp,upstream,7
 fcdo,unf,upstream,2
 fcdo,unhcr,upstream,80
 fcdo,unocha,upstream,5
@@ -980,6 +978,7 @@ fcdo,wcf,upstream,2
 fcdo,wfwiuk,upstream,2
 fcdo,worldveg,upstream,1
 fcdo,wowni,upstream,1
+fcdo,wri,upstream,1
 fcdo,wsup,upstream,1
 fcdo,wvuk,upstream,1
 fcdo,wwfpakistan,upstream,2
@@ -1051,6 +1050,7 @@ icco-cooperation,scnl,upstream,2
 icco-cooperation,warchildholland,upstream,1
 icf,aauk,upstream,1
 icf,odi_sales_ltd,upstream,1
+icf,wwf-uk,upstream,1
 idrccrdi,ssn,upstream,1
 ids,tdh_foundation,upstream,1
 inasp,ashoka,upstream,1
@@ -1235,7 +1235,7 @@ minbuza_nl,f-aids,upstream,2
 minbuza_nl,fca,upstream,1
 minbuza_nl,fcam,upstream,1
 minbuza_nl,fipag,upstream,1
-minbuza_nl,fmo,upstream,4
+minbuza_nl,fmo,upstream,5
 minbuza_nl,fms,upstream,1
 minbuza_nl,foenl,upstream,2
 minbuza_nl,free_press_unlimited,upstream,3
@@ -1361,7 +1361,6 @@ minbuza_nl,thp_org,upstream,1
 minbuza_nl,tns,upstream,1
 minbuza_nl,trig,upstream,1
 minbuza_nl,udpk,upstream,1
-minbuza_nl,undp,upstream,2
 minbuza_nl,unhcr,upstream,50
 minbuza_nl,unicefnl,upstream,1
 minbuza_nl,united_work,upstream,4
@@ -1444,6 +1443,7 @@ palladium,manniondaniels,upstream,1
 pax,amnesty,upstream,2
 pcst,pcst,upstream,1
 pegasys-eu,rfuk,upstream,1
+pegasys-eu,wwf-uk,upstream,1
 pekka_21,jass,upstream,1
 pin,concernuk,upstream,2
 plan_uk,aauk,upstream,1
@@ -1577,21 +1577,15 @@ tdh_nl,icco-cooperation,upstream,2
 tdh_nl,plannlno,upstream,1
 tfac,tfacmalawi,upstream,1
 theglobalfund,iom,upstream,1
-theglobalfund,undp,upstream,72
 thp_org,max-foundation,upstream,1
 thp_org,scnl,upstream,3
 traidcraft,fci,upstream,1
 udpk,fida,upstream,1
-undp,idlo,upstream,1
-undp,warchildholland,upstream,1
 unf,iif,upstream,1
 unitedstates,idlo,upstream,11
 unocha-cbpf,cordaid,upstream,2
 unocha-cbpf,unhcr,upstream,19
 unocha-cbpf,warchildholland,upstream,1
-unpf,iom,upstream,3
-unpf,undp,upstream,82
-unpf,unhcr,upstream,3
 uoe,bpcrs,upstream,1
 uoe,icddrb,upstream,1
 uoe,ipcrg,upstream,1
