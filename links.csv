@@ -1036,6 +1036,7 @@ giro555,wvnld,upstream,3
 gppac,wfm-igp,upstream,1
 guttmacher,arcfge,upstream,1
 guttmacher,bapsa,upstream,1
+guttmacher,crerd_ng,upstream,1
 guttmacher,epha,upstream,1
 guttmacher,ipas,upstream,1
 guttmacher,iyafp,upstream,1
@@ -1312,7 +1313,7 @@ minbuza_nl,nuffic20171017,upstream,2
 minbuza_nl,nwo,upstream,1
 minbuza_nl,nwp,upstream,1
 minbuza_nl,odi,upstream,1
-minbuza_nl,onl,upstream,1181
+minbuza_nl,onl,upstream,1182
 minbuza_nl,orientame,upstream,1
 minbuza_nl,oyw,upstream,1
 minbuza_nl,p-t-f-,upstream,1
