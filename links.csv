@@ -10,7 +10,7 @@ aauk,aar,downstream,1
 acf,acfspain,downstream,1
 ageintl,dec-uk,downstream,1
 ageintl,fca,downstream,1
-ageintl,helpage_international,downstream,6
+ageintl,helpage_international,downstream,3
 akfuk73,akf_afghanistan,downstream,1
 alcrer-1,swb_1,downstream,1
 amrefnl,amrefeth,downstream,1
@@ -372,7 +372,6 @@ pax,amnesty,downstream,1
 plan_uk,irc_inc,downstream,1
 plannlno,amrefeth,downstream,1
 plannlno,amrefkenya,downstream,1
-plannlno,amrefmw,downstream,1
 pmo-us,rutgers,downstream,1
 pwc,acu,downstream,1
 pwc,dcapitalpartners,downstream,1
@@ -1458,6 +1457,7 @@ plan_uk,irc_uk,upstream,1
 plan_uk,open_university,upstream,3
 plannlno,amrefeth,upstream,1
 plannlno,amrefmw,upstream,1
+plannlno,amrefnl,upstream,1
 plannlno,cfyas,upstream,1
 plannlno,cordaid,upstream,1
 plannlno,dciecpatnl,upstream,7
