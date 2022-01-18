@@ -218,6 +218,7 @@ manniondaniels,eti,downstream,1
 manniondaniels,excellent,downstream,1
 manniondaniels,fa,downstream,2
 manniondaniels,fact,downstream,1
+manniondaniels,fci,downstream,1
 manniondaniels,femnet,downstream,1
 manniondaniels,fh,downstream,1
 manniondaniels,fhfuk,downstream,1
@@ -476,6 +477,7 @@ warchildholland,wvnld,downstream,1
 waste,amrefnl,downstream,2
 wei,rains,downstream,1
 womankindworld,fowode,downstream,1
+womankindworld,swda,downstream,1
 wv_de,wvi,downstream,91
 wvnld,cordaid,downstream,1
 wvnld,dai,downstream,1
@@ -609,7 +611,7 @@ be-dgd,trias,upstream,1
 be-dgd,ub,upstream,1
 be-dgd,ucos,upstream,1
 be-dgd,ulbcoop,upstream,1
-be-dgd,unhcr,upstream,21
+be-dgd,unhcr,upstream,14
 be-dgd,uvcw,upstream,4
 be-dgd,vlir-uos,upstream,1
 be-dgd,vvob,upstream,1
@@ -1239,6 +1241,7 @@ minbuza_nl,esfd,upstream,1
 minbuza_nl,f-aids,upstream,2
 minbuza_nl,fca,upstream,1
 minbuza_nl,fcam,upstream,1
+minbuza_nl,fimi_iiwf_2019,upstream,1
 minbuza_nl,fipag,upstream,1
 minbuza_nl,fmo,upstream,5
 minbuza_nl,fms,upstream,1
@@ -1388,7 +1391,6 @@ minbuza_nl,wgnrr_iati,upstream,1
 minbuza_nl,win,upstream,2
 minbuza_nl,wlrc_aau,upstream,1
 minbuza_nl,wo-men,upstream,1
-minbuza_nl,womankindworld,upstream,1
 minbuza_nl,worldveg,upstream,1
 minbuza_nl,worldwaternet,upstream,1
 minbuza_nl,wpp,upstream,1
@@ -1620,6 +1622,7 @@ warchildholland,wcc,upstream,1
 warchildholland,wcuk,upstream,4
 waste,amrefnl,upstream,1
 womankindworld,fowode,upstream,1
+womankindworld,swda,upstream,1
 world_ywca,e_n,upstream,1
 world_ywca,f2a,upstream,1
 world_ywca,ywca,upstream,1
