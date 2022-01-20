@@ -826,7 +826,7 @@ fcdo,dca,upstream,1
 fcdo,ddp,upstream,4
 fcdo,dec-uk,upstream,5
 fcdo,dmi_admin,upstream,1
-fcdo,drc,upstream,4
+fcdo,drc,upstream,3
 fcdo,ecuk,upstream,3
 fcdo,eddevtrust,upstream,1
 fcdo,edt_rwanda,upstream,1
@@ -990,6 +990,7 @@ fcdo,zet,upstream,1
 fcdo,zoa,upstream,3
 fo_germany,unhcr,upstream,22
 foenl,foei,upstream,1
+foenl,wecf,upstream,1
 free_press_unlimited,ejc,upstream,6
 fwf,nl-kvk-54436222-27541,upstream,1
 gac-amc,idi,upstream,1
@@ -1101,6 +1102,7 @@ mag,crs,upstream,1
 mag,halo,upstream,1
 mamac,creausa-org,upstream,1
 mamac,jass,upstream,1
+mamac,uaf-africa,upstream,3
 manniondaniels,aaik,upstream,1
 manniondaniels,aar,upstream,1
 manniondaniels,aauk,upstream,1
