@@ -150,6 +150,7 @@ lts,snv,downstream,1
 mag,halo,downstream,1
 mag,npa,downstream,1
 manniondaniels,_admin,downstream,1
+manniondaniels,aaik,downstream,1
 manniondaniels,aar,downstream,1
 manniondaniels,aauk,downstream,1
 manniondaniels,abaseen,downstream,1
@@ -893,7 +894,7 @@ fcdo,lstm,upstream,1
 fcdo,lts,upstream,2
 fcdo,m2m_sa,upstream,1
 fcdo,malariaconsortium,upstream,4
-fcdo,manniondaniels,upstream,2
+fcdo,manniondaniels,upstream,3
 fcdo,marysmeals,upstream,2
 fcdo,mce,upstream,8
 fcdo,mml,upstream,21
