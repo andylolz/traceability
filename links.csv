@@ -82,11 +82,11 @@ fcdo,msi,downstream,1
 fcdo,options,downstream,2
 fcdo,pa,downstream,1
 fcdo,pmc,downstream,1
-fcdo,pwc,downstream,1
 fcdo,sinda,downstream,1
 foenl,foei,downstream,1
 foenl,iucn_nl,downstream,1
 foenl,tbi,downstream,1
+foenl,wecf,downstream,1
 free_press_unlimited,ejc,downstream,1
 fundacion-acceso,minbuza_nl,downstream,1
 gecfundmanagerpwc,aaik,downstream,1
@@ -1193,7 +1193,6 @@ minbuza_nl,al_majmoua,upstream,1
 minbuza_nl,alab,upstream,2
 minbuza_nl,alcrer-1,upstream,1
 minbuza_nl,amrefnl,upstream,1
-minbuza_nl,aqua4all,upstream,1
 minbuza_nl,arcfge,upstream,7
 minbuza_nl,arij,upstream,1
 minbuza_nl,art19,upstream,1
@@ -1248,7 +1247,7 @@ minbuza_nl,fimi_iiwf_2019,upstream,1
 minbuza_nl,fipag,upstream,1
 minbuza_nl,fmo,upstream,5
 minbuza_nl,fms,upstream,1
-minbuza_nl,foenl,upstream,2
+minbuza_nl,foenl,upstream,1
 minbuza_nl,free_press_unlimited,upstream,3
 minbuza_nl,fwf,upstream,2
 minbuza_nl,gain,upstream,3
@@ -1388,6 +1387,7 @@ minbuza_nl,wageningen_ur,upstream,8
 minbuza_nl,warchildholland,upstream,7
 minbuza_nl,waste,upstream,1
 minbuza_nl,wba,upstream,1
+minbuza_nl,wecf,upstream,1
 minbuza_nl,wf-asia,upstream,5
 minbuza_nl,wff,upstream,1
 minbuza_nl,wfp,upstream,2
@@ -1589,7 +1589,7 @@ tdh_nl,icco-cooperation,upstream,2
 tdh_nl,plannlno,upstream,1
 tfac,tfacmalawi,upstream,1
 theglobalfund,iom,upstream,1
-theglobalfund,undp,upstream,72
+theglobalfund,undp,upstream,70
 thp_org,max-foundation,upstream,1
 thp_org,scnl,upstream,3
 traidcraft,fci,upstream,1
@@ -1603,7 +1603,7 @@ unocha-cbpf,cordaid,upstream,2
 unocha-cbpf,unhcr,upstream,19
 unocha-cbpf,warchildholland,upstream,1
 unpf,iom,upstream,3
-unpf,undp,upstream,82
+unpf,undp,upstream,74
 unpf,unhcr,upstream,3
 uoe,bpcrs,upstream,1
 uoe,icddrb,upstream,1
