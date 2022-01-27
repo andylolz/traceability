@@ -341,7 +341,6 @@ minbuza_nl,promsex,downstream,1
 minbuza_nl,protos,downstream,1
 minbuza_nl,scnl,downstream,2
 minbuza_nl,st_vluchteling,downstream,2
-minbuza_nl,tear,downstream,1
 minbuza_nl,vngi,downstream,1
 minbuza_nl,warchildholland,downstream,1
 minbuza_nl,wvnld,downstream,1
@@ -394,14 +393,14 @@ saferworld,cr,downstream,1
 scnl,carenederland,downstream,3
 scnl,cordaid,downstream,3
 scnl,dai,downstream,3
-scnl,icco-cooperation,downstream,4
+scnl,icco-cooperation,downstream,5
 scnl,minbuza_nl,downstream,1
-scnl,plannlno,downstream,3
+scnl,plannlno,downstream,4
 scnl,redeenkind,downstream,1
 scnl,sosvdb_italia,downstream,1
-scnl,tdh_nl,downstream,2
+scnl,tdh_nl,downstream,1
 scnl,tear,downstream,7
-scnl,warchildholland,downstream,4
+scnl,warchildholland,downstream,5
 scnl,wvnld,downstream,1
 scnl,zoa,downstream,4
 simavi,amrefnl,downstream,1
@@ -478,6 +477,7 @@ warchildholland,wcuk,downstream,7
 warchildholland,wvnld,downstream,1
 waste,amrefnl,downstream,2
 wei,rains,downstream,1
+womankindworld,ewdna2025,downstream,1
 womankindworld,fowode,downstream,1
 womankindworld,swda,downstream,1
 wv_de,wvi,downstream,91
@@ -1397,6 +1397,7 @@ minbuza_nl,wgnrr_iati,upstream,1
 minbuza_nl,win,upstream,2
 minbuza_nl,wlrc_aau,upstream,1
 minbuza_nl,wo-men,upstream,1
+minbuza_nl,womankindworld,upstream,1
 minbuza_nl,worldveg,upstream,1
 minbuza_nl,worldwaternet,upstream,1
 minbuza_nl,wpp,upstream,1
@@ -1404,7 +1405,7 @@ minbuza_nl,wvnld,upstream,5
 minbuza_nl,ww-gvc,upstream,2
 minbuza_nl,yai-hub,upstream,1
 minbuza_nl,yffhsd,upstream,2
-minbuza_nl,zoa,upstream,21
+minbuza_nl,zoa,upstream,20
 mml,sddirect,upstream,1
 msi,icwrsa,upstream,1
 msi,ippf,upstream,1
@@ -1579,7 +1580,7 @@ stichting-subsidiegelden-dra,dai,upstream,1
 stichting-subsidiegelden-dra,onl,upstream,21
 stichting-subsidiegelden-dra,plannlno,upstream,1
 stichting-subsidiegelden-dra,redeenkind,upstream,1
-stichting-subsidiegelden-dra,scnl,upstream,6
+stichting-subsidiegelden-dra,scnl,upstream,7
 stichting-subsidiegelden-dra,sosvdb_italia,upstream,1
 stichting-subsidiegelden-dra,st_vluchteling,upstream,3
 stichting-subsidiegelden-dra,wvnld,upstream,1
