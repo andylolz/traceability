@@ -425,7 +425,7 @@ stichting-subsidiegelden-dra,onl,downstream,1
 stichting-subsidiegelden-dra,plannlno,downstream,1
 stichting-subsidiegelden-dra,redeenkind,downstream,1
 stichting-subsidiegelden-dra,scnl,downstream,2
-stichting-subsidiegelden-dra,sosnl,downstream,1
+stichting-subsidiegelden-dra,sosnl,downstream,2
 stichting-subsidiegelden-dra,st_vluchteling,downstream,2
 stichting-subsidiegelden-dra,tear,downstream,1
 stichting-subsidiegelden-dra,warchildholland,downstream,1
@@ -480,6 +480,7 @@ waste,amrefnl,downstream,2
 wei,rains,downstream,1
 womankindworld,ewdna2025,downstream,1
 womankindworld,fowode,downstream,1
+womankindworld,nuwodu,downstream,1
 womankindworld,swda,downstream,1
 wv_de,wvi,downstream,121
 wvnld,cordaid,downstream,1
@@ -536,9 +537,11 @@ amrefnl,amrefmw,upstream,3
 amrefnl,amrefug,upstream,1
 amrefnl,hai,upstream,2
 amrefnl,wemos,upstream,1
+amrefug,cordaid,upstream,1
 appro-eu,appro-af,upstream,2
 ares,vlir-uos,upstream,1
 ausgov,unhcr,upstream,2
+avsi_uganda,cordaid,upstream,1
 bbcmediaaction,ims,upstream,1
 be-dgd,111111_publisher,upstream,2
 be-dgd,a-t,upstream,1
@@ -1249,7 +1252,7 @@ minbuza_nl,fimi_iiwf_2019,upstream,1
 minbuza_nl,fipag,upstream,1
 minbuza_nl,fmo,upstream,5
 minbuza_nl,fms,upstream,1
-minbuza_nl,foenl,upstream,1
+minbuza_nl,foenl,upstream,2
 minbuza_nl,free_press_unlimited,upstream,3
 minbuza_nl,fwf,upstream,2
 minbuza_nl,gain,upstream,3
@@ -1324,7 +1327,7 @@ minbuza_nl,nuffic20171017,upstream,2
 minbuza_nl,nwo,upstream,1
 minbuza_nl,nwp,upstream,1
 minbuza_nl,odi,upstream,1
-minbuza_nl,onl,upstream,1224
+minbuza_nl,onl,upstream,1236
 minbuza_nl,oyw,upstream,1
 minbuza_nl,p-t-f-,upstream,1
 minbuza_nl,palladium_eur,upstream,1
@@ -1366,6 +1369,7 @@ minbuza_nl,st_vluchteling,upstream,2
 minbuza_nl,stc-international,upstream,1
 minbuza_nl,stichting-subsidiegelden-dra,upstream,3
 minbuza_nl,stichting_hivos,upstream,11
+minbuza_nl,swda,upstream,1
 minbuza_nl,tbi,upstream,1
 minbuza_nl,tdh_foundation,upstream,1
 minbuza_nl,tdh_nl,upstream,14
@@ -1397,7 +1401,6 @@ minbuza_nl,wgnrr_iati,upstream,1
 minbuza_nl,win,upstream,2
 minbuza_nl,wlrc_aau,upstream,1
 minbuza_nl,wo-men,upstream,1
-minbuza_nl,womankindworld,upstream,1
 minbuza_nl,worldveg,upstream,1
 minbuza_nl,worldwaternet,upstream,1
 minbuza_nl,wpp,upstream,1
@@ -1630,6 +1633,7 @@ warchildholland,wcuk,upstream,4
 waste,amrefnl,upstream,1
 womankindworld,ewdna2025,upstream,1
 womankindworld,fowode,upstream,1
+womankindworld,nuwodu,upstream,1
 womankindworld,swda,upstream,1
 world_ywca,e_n,upstream,1
 world_ywca,f2a,upstream,1
