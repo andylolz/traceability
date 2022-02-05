@@ -967,7 +967,7 @@ fcdo,troc,upstream,1
 fcdo,umn,upstream,1
 fcdo,undp,upstream,5
 fcdo,unf,upstream,2
-fcdo,unhcr,upstream,80
+fcdo,unhcr,upstream,81
 fcdo,unocha,upstream,5
 fcdo,uom,upstream,1
 fcdo,uq,upstream,6
@@ -1294,6 +1294,7 @@ minbuza_nl,iucn_nl,upstream,3
 minbuza_nl,jass,upstream,1
 minbuza_nl,josa,upstream,1
 minbuza_nl,kepsa,upstream,2
+minbuza_nl,kit,upstream,1
 minbuza_nl,ldsps,upstream,1
 minbuza_nl,leprazending-tlm-nl,upstream,1
 minbuza_nl,lpi,upstream,1
@@ -1328,11 +1329,12 @@ minbuza_nl,nuffic20171017,upstream,2
 minbuza_nl,nwo,upstream,1
 minbuza_nl,nwp,upstream,1
 minbuza_nl,odi,upstream,1
-minbuza_nl,onl,upstream,1238
+minbuza_nl,onl,upstream,1237
 minbuza_nl,oyw,upstream,1
 minbuza_nl,p-t-f-,upstream,1
 minbuza_nl,palladium_eur,upstream,1
 minbuza_nl,partos_nl,upstream,1
+minbuza_nl,pathfinder1,upstream,1
 minbuza_nl,pax,upstream,4
 minbuza_nl,pcf,upstream,2
 minbuza_nl,pidg,upstream,1
