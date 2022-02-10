@@ -39,10 +39,10 @@ concern_worldwide,irc_uk,downstream,1
 concernuk,concern_worldwide,downstream,57
 concernuk,irc_uk,downstream,1
 cordaid,carenederland,downstream,2
-cordaid,dai,downstream,2
+cordaid,dai,downstream,1
 cordaid,icco-cooperation,downstream,5
 cordaid,onl,downstream,7
-cordaid,plannlno,downstream,4
+cordaid,plannlno,downstream,5
 cordaid,scnl,downstream,4
 cordaid,sosnl,downstream,6
 cordaid,st_vluchteling,downstream,9
@@ -86,6 +86,8 @@ fcdo,pmc,downstream,1
 fcdo,sinda,downstream,1
 foenl,foei,downstream,1
 foenl,iucn_nl,downstream,1
+foenl,sdi,downstream,1
+foenl,stichtingfern,downstream,1
 foenl,tbi,downstream,1
 foenl,wecf,downstream,1
 free_press_unlimited,ejc,downstream,1
@@ -346,7 +348,6 @@ minbuza_nl,scnl,downstream,2
 minbuza_nl,st_vluchteling,downstream,2
 minbuza_nl,swda,downstream,1
 minbuza_nl,vngi,downstream,1
-minbuza_nl,warchildholland,downstream,1
 minbuza_nl,wvnld,downstream,1
 minbuza_nl,zoa,downstream,2
 msi,ciuk,downstream,1
@@ -431,7 +432,7 @@ stichting-subsidiegelden-dra,scnl,downstream,2
 stichting-subsidiegelden-dra,sosnl,downstream,2
 stichting-subsidiegelden-dra,st_vluchteling,downstream,2
 stichting-subsidiegelden-dra,tear,downstream,1
-stichting-subsidiegelden-dra,warchildholland,downstream,1
+stichting-subsidiegelden-dra,warchildholland,downstream,2
 stichting-subsidiegelden-dra,wvnld,downstream,1
 stichting-subsidiegelden-dra,zoa,downstream,1
 taf,dipr,downstream,1
@@ -491,7 +492,7 @@ wvnld,onl,downstream,1
 wvnld,plannlno,downstream,1
 wvnld,scnl,downstream,1
 wvnld,st_vluchteling,downstream,1
-wvnld,warchildholland,downstream,2
+wvnld,warchildholland,downstream,1
 wvnld,wcuk,downstream,1
 wvnld,wvi,downstream,11
 wvnld,zoa,downstream,1
@@ -1255,7 +1256,7 @@ minbuza_nl,fimi_iiwf_2019,upstream,1
 minbuza_nl,fipag,upstream,1
 minbuza_nl,fmo,upstream,5
 minbuza_nl,fms,upstream,1
-minbuza_nl,foenl,upstream,2
+minbuza_nl,foenl,upstream,1
 minbuza_nl,free_press_unlimited,upstream,3
 minbuza_nl,fwf,upstream,2
 minbuza_nl,gain,upstream,3
@@ -1342,7 +1343,7 @@ minbuza_nl,pax,upstream,4
 minbuza_nl,pcf,upstream,2
 minbuza_nl,pidg,upstream,1
 minbuza_nl,plama,upstream,1
-minbuza_nl,plannlno,upstream,9
+minbuza_nl,plannlno,upstream,8
 minbuza_nl,populationcouncil,upstream,1
 minbuza_nl,protos,upstream,1
 minbuza_nl,psi,upstream,3
@@ -1411,7 +1412,7 @@ minbuza_nl,wo-men,upstream,1
 minbuza_nl,worldveg,upstream,1
 minbuza_nl,worldwaternet,upstream,1
 minbuza_nl,wpp,upstream,1
-minbuza_nl,wvnld,upstream,5
+minbuza_nl,wvnld,upstream,4
 minbuza_nl,ww-gvc,upstream,2
 minbuza_nl,yai-hub,upstream,1
 minbuza_nl,yffhsd,upstream,2
@@ -1654,6 +1655,7 @@ wvnld,icco-cooperation,upstream,2
 wvnld,onl,upstream,1
 wvnld,scnl,upstream,1
 wvnld,st_vluchteling,upstream,3
+wvnld,stichting-subsidiegelden-dra,upstream,1
 wvnld,tear,upstream,2
 wvnld,warchildholland,upstream,2
 wvnld,zoa,upstream,1
