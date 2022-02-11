@@ -86,6 +86,7 @@ fcdo,pmc,downstream,1
 fcdo,sinda,downstream,1
 foenl,foei,downstream,1
 foenl,iucn_nl,downstream,1
+foenl,ntfp-ep,downstream,1
 foenl,sdi,downstream,1
 foenl,stichtingfern,downstream,1
 foenl,tbi,downstream,1
@@ -203,7 +204,6 @@ manniondaniels,cifal,downstream,1
 manniondaniels,ciuk,downstream,1
 manniondaniels,clgf_data,downstream,1
 manniondaniels,colalife,downstream,1
-manniondaniels,comp_uk,downstream,1
 manniondaniels,concernuk,downstream,1
 manniondaniels,concordis,downstream,1
 manniondaniels,cord,downstream,1
@@ -664,7 +664,7 @@ carenederland,warchildholland,upstream,4
 carenederland,wvnld,upstream,3
 carenederland,zoa,upstream,7
 cerf,iom,upstream,134
-cerf,unhcr,upstream,99
+cerf,unhcr,upstream,100
 cfyas,ippf,upstream,1
 ciuk,cnepal,upstream,2
 ciuk,csom1,upstream,3
@@ -740,7 +740,7 @@ drc,ieu,upstream,1
 drc,irc_uk,upstream,1
 drc,irw,upstream,1
 drc,mapaction,upstream,1
-drc,nrc,upstream,2
+drc,nrc,upstream,1
 ec-echo,iom,upstream,57
 ec-echo,nlrc,upstream,2
 ec-echo,onl,upstream,40
@@ -1123,7 +1123,6 @@ manniondaniels,bracuk,upstream,4
 manniondaniels,buildafrica,upstream,1
 manniondaniels,cafod,upstream,10
 manniondaniels,cbm,upstream,2
-manniondaniels,comp_uk,upstream,1
 manniondaniels,concernuk,upstream,3
 manniondaniels,concordis,upstream,1
 manniondaniels,cu,upstream,1
@@ -1327,13 +1326,13 @@ minbuza_nl,nl_wg,upstream,1
 minbuza_nl,nlr,upstream,2
 minbuza_nl,nlr_indonesia,upstream,1
 minbuza_nl,nlrc,upstream,216
-minbuza_nl,nrc,upstream,2
+minbuza_nl,nrc,upstream,1
 minbuza_nl,nso,upstream,1
 minbuza_nl,nuffic20171017,upstream,2
 minbuza_nl,nwo,upstream,1
 minbuza_nl,nwp,upstream,1
 minbuza_nl,odi,upstream,1
-minbuza_nl,onl,upstream,1242
+minbuza_nl,onl,upstream,1248
 minbuza_nl,oyw,upstream,1
 minbuza_nl,p-t-f-,upstream,1
 minbuza_nl,palladium_eur,upstream,1
