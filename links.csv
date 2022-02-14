@@ -64,6 +64,7 @@ dai,tear,downstream,1
 dai,wvnld,downstream,1
 danmission,danida,downstream,1
 ddp,dhrc_nepal,downstream,2
+drc,irc_inc,downstream,1
 drc,irc_uk,downstream,2
 edt_kenya,amurt_kenya,downstream,1
 edt_kenya,kesho_kenya,downstream,1
@@ -77,7 +78,7 @@ fcdo,fcdo,downstream,3
 fcdo,healthpartners-international,downstream,1
 fcdo,ipas,downstream,1
 fcdo,ippf,downstream,1
-fcdo,irc_inc,downstream,5
+fcdo,irc_inc,downstream,4
 fcdo,lcd_admin,downstream,1
 fcdo,msi,downstream,1
 fcdo,options,downstream,2
@@ -143,7 +144,7 @@ irc_inc,zoa,downstream,1
 irc_uk,concern_worldwide,downstream,1
 irc_uk,fcdo,downstream,2
 irc_uk,goal,downstream,1
-irc_uk,irc_inc,downstream,68
+irc_uk,irc_inc,downstream,69
 irc_uk,irc_uk,downstream,1
 irc_uk,msi,downstream,1
 irc_uk,plan_uk,downstream,1
@@ -738,6 +739,7 @@ drc,fh_ch,upstream,1
 drc,ground-truth-solutions,upstream,1
 drc,hiuk,upstream,1
 drc,ieu,upstream,1
+drc,irc_inc,upstream,1
 drc,irc_uk,upstream,1
 drc,irw,upstream,1
 drc,mapaction,upstream,1
@@ -876,8 +878,8 @@ fcdo,interburns,upstream,1
 fcdo,iom,upstream,12
 fcdo,ipeglobal,upstream,7
 fcdo,ippf,upstream,4
-fcdo,irc_inc,upstream,5
-fcdo,irc_uk,upstream,12
+fcdo,irc_inc,upstream,4
+fcdo,irc_uk,upstream,13
 fcdo,irw,upstream,4
 fcdo,itad,upstream,2
 fcdo,itc,upstream,12
@@ -1090,7 +1092,8 @@ irc_inc,msi,upstream,1
 irc_inc,restless,upstream,2
 irc_inc,zoa,upstream,1
 irc_uk,goal,upstream,1
-irc_uk,irc_inc,upstream,69
+irc_uk,hiuk,upstream,1
+irc_uk,irc_inc,upstream,70
 irc_uk,nrc,upstream,1
 irc_uk,restless,upstream,1
 irishaid,ecdpm,upstream,1
