@@ -131,7 +131,7 @@ ippf,msi,downstream,1
 irc,minbuza_nl,downstream,7
 irc_inc,bbcmediaaction,downstream,1
 irc_inc,concern_worldwide,downstream,2
-irc_inc,concernuk,downstream,2
+irc_inc,concernuk,downstream,1
 irc_inc,cuamm,downstream,1
 irc_inc,goal,downstream,1
 irc_inc,irc_uk,downstream,2
@@ -141,14 +141,17 @@ irc_inc,nrc,downstream,2
 irc_inc,plan_uk,downstream,1
 irc_inc,restless,downstream,2
 irc_inc,zoa,downstream,1
+irc_uk,bbcmediaaction,downstream,1
 irc_uk,concern_worldwide,downstream,1
+irc_uk,concernuk,downstream,2
+irc_uk,cuamm,downstream,1
 irc_uk,fcdo,downstream,2
 irc_uk,goal,downstream,1
 irc_uk,irc_inc,downstream,69
 irc_uk,irc_uk,downstream,1
-irc_uk,msi,downstream,1
-irc_uk,plan_uk,downstream,1
+irc_uk,nrc,downstream,1
 irc_uk,restless,downstream,1
+irc_uk,zoa,downstream,1
 jass,cal_2000-pu,downstream,1
 jass,genderatwork,downstream,1
 jass,pekka_21,downstream,1
@@ -277,7 +280,7 @@ manniondaniels,nef-uk,downstream,1
 manniondaniels,network4africa,downstream,1
 manniondaniels,onetoonecf,downstream,1
 manniondaniels,opportunity-international-uk,downstream,1
-manniondaniels,orbis_international,downstream,2
+manniondaniels,orbis_international,downstream,1
 manniondaniels,orbis_uk,downstream,2
 manniondaniels,pa,downstream,1
 manniondaniels,peacedirect,downstream,1
@@ -1094,8 +1097,8 @@ irc_inc,zoa,upstream,1
 irc_uk,goal,upstream,1
 irc_uk,hiuk,upstream,1
 irc_uk,irc_inc,upstream,70
-irc_uk,nrc,upstream,1
 irc_uk,restless,upstream,1
+irc_uk,zoa,upstream,1
 irishaid,ecdpm,upstream,1
 irishaid,idi,upstream,1
 irishaid,odi,upstream,1
