@@ -151,7 +151,6 @@ irc_uk,irc_inc,downstream,69
 irc_uk,irc_uk,downstream,1
 irc_uk,nrc,downstream,1
 irc_uk,restless,downstream,1
-irc_uk,zoa,downstream,1
 jass,cal_2000-pu,downstream,1
 jass,genderatwork,downstream,1
 jass,pekka_21,downstream,1
@@ -837,7 +836,7 @@ fcdo,dca,upstream,1
 fcdo,ddp,upstream,4
 fcdo,dec-uk,upstream,5
 fcdo,dmi_admin,upstream,1
-fcdo,drc,upstream,3
+fcdo,drc,upstream,4
 fcdo,ecuk,upstream,3
 fcdo,eddevtrust,upstream,1
 fcdo,edt_rwanda,upstream,1
@@ -1338,7 +1337,7 @@ minbuza_nl,nuffic20171017,upstream,2
 minbuza_nl,nwo,upstream,1
 minbuza_nl,nwp,upstream,1
 minbuza_nl,odi,upstream,1
-minbuza_nl,onl,upstream,1248
+minbuza_nl,onl,upstream,1250
 minbuza_nl,oyw,upstream,1
 minbuza_nl,p-t-f-,upstream,1
 minbuza_nl,palladium_eur,upstream,1
@@ -1666,9 +1665,9 @@ wvnld,tear,upstream,2
 wvnld,warchildholland,upstream,2
 wvnld,zoa,upstream,1
 wvuk,open_university,upstream,1
-wvuk,wv_cd,upstream,3
-wvuk,wv_cf,upstream,1
-wvuk,wv_et_activities,upstream,2
+wvuk,wv_cd,upstream,9
+wvuk,wv_cf,upstream,2
+wvuk,wv_et_activities,upstream,3
 wvuk,wvz-gec,upstream,1
 wygi,lts,upstream,1
 zoa,carenederland,upstream,2
