@@ -862,7 +862,7 @@ fcdo,gecfundmanagerpwc,upstream,3
 fcdo,gi-jhu,upstream,1
 fcdo,gi-toc,upstream,1
 fcdo,globalcanopy,upstream,1
-fcdo,gsma_foundation,upstream,115
+fcdo,gsma_foundation,upstream,230
 fcdo,guttmacher,upstream,1
 fcdo,handinhand,upstream,1
 fcdo,hgc,upstream,2
@@ -1235,7 +1235,7 @@ minbuza_nl,cpd,upstream,1
 minbuza_nl,creausa-org,upstream,1
 minbuza_nl,crehpa,upstream,1
 minbuza_nl,crisisgroup,upstream,1
-minbuza_nl,d4d,upstream,1
+minbuza_nl,d4d,upstream,2
 minbuza_nl,dai,upstream,4
 minbuza_nl,dai-e,upstream,1
 minbuza_nl,dca,upstream,1
@@ -1612,7 +1612,7 @@ traidcraft,fci,upstream,1
 undp,idlo,upstream,1
 undp,warchildholland,upstream,1
 unf,iif,upstream,1
-unitedstates,idlo,upstream,11
+unitedstates,idlo,upstream,12
 unitedstates,unhcr,upstream,294
 unocha-cbpf,cordaid,upstream,2
 unocha-cbpf,unhcr,upstream,43
