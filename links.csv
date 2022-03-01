@@ -118,7 +118,7 @@ gecfundmanagerpwc,rains,downstream,1
 gecfundmanagerpwc,street_child,downstream,1
 gecfundmanagerpwc,varkeyfoundation,downstream,1
 gecfundmanagerpwc,viva,downstream,1
-gecfundmanagerpwc,vso,downstream,4
+gecfundmanagerpwc,vso,downstream,5
 gecfundmanagerpwc,wusc,downstream,2
 gecfundmanagerpwc,wvuk,downstream,1
 goal,irc_inc,downstream,1
@@ -339,6 +339,7 @@ manniondaniels,yoneco1997,downstream,1
 manniondaniels,zet,downstream,1
 manniondaniels,zoa_uk,downstream,1
 marysmeals,fcdo,downstream,1
+mefbenin,anaepmr_benin,downstream,2
 mefbenin,ine_benin,downstream,1
 mefbenin,parakou,downstream,1
 minbuza_nl,carenederland,downstream,2
@@ -545,6 +546,7 @@ amrefnl,amrefug,upstream,1
 amrefnl,hai,upstream,2
 amrefnl,wemos,upstream,1
 amrefug,cordaid,upstream,1
+ancb_benin,ancb_benin,upstream,23
 appro-eu,appro-af,upstream,2
 ares,vlir-uos,upstream,1
 ausgov,unhcr,upstream,2
@@ -1187,8 +1189,8 @@ manniondaniels,ycare,upstream,1
 mce,concernuk,upstream,1
 mce,irc_uk,upstream,2
 mce,st_vluchteling,upstream,1
+mefbenin,anaepmr_benin,upstream,1
 mefbenin,ine_benin,upstream,1
-mefbenin,parakou,upstream,1
 mefbenin,soneb-benin,upstream,1
 mfat,iom,upstream,1
 mfat,unhcr,upstream,1
@@ -1202,11 +1204,11 @@ minbuza_nl,agriterra,upstream,2
 minbuza_nl,ahead,upstream,1
 minbuza_nl,aias,upstream,1
 minbuza_nl,ajar,upstream,1
-minbuza_nl,akvo,upstream,2
 minbuza_nl,al_majmoua,upstream,1
 minbuza_nl,alab,upstream,2
 minbuza_nl,alcrer-1,upstream,1
 minbuza_nl,amrefnl,upstream,1
+minbuza_nl,ancb_benin,upstream,4
 minbuza_nl,arcfge,upstream,7
 minbuza_nl,arij,upstream,1
 minbuza_nl,art19,upstream,1
@@ -1546,8 +1548,8 @@ sida,onl,upstream,190
 sida,pidg,upstream,1
 siharegional,musawah,upstream,1
 simavi,ads-nyanza,upstream,1
-simavi,akvo,upstream,3
 simavi,amrefnl,upstream,3
+simavi,ancb_benin,upstream,5
 simavi,bnps,upstream,1
 simavi,cavwoc,upstream,1
 simavi,cini_jhk,upstream,1
