@@ -874,7 +874,7 @@ fcdo,hiuk,upstream,7
 fcdo,htspe,upstream,2
 fcdo,icf,upstream,4
 fcdo,idi,upstream,1
-fcdo,ids,upstream,1
+fcdo,ids,upstream,6
 fcdo,ifpri,upstream,1
 fcdo,ilo,upstream,2
 fcdo,imcw_admin,upstream,10
@@ -1421,7 +1421,7 @@ minbuza_nl,worldveg,upstream,1
 minbuza_nl,worldwaternet,upstream,1
 minbuza_nl,wpp,upstream,1
 minbuza_nl,wvnld,upstream,4
-minbuza_nl,ww-gvc,upstream,2
+minbuza_nl,ww-gvc,upstream,3
 minbuza_nl,yai-hub,upstream,1
 minbuza_nl,yffhsd,upstream,2
 minbuza_nl,zoa,upstream,19
