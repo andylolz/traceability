@@ -1162,7 +1162,6 @@ manniondaniels,orbis_international,upstream,2
 manniondaniels,orbis_uk,upstream,3
 manniondaniels,pcst,upstream,1
 manniondaniels,peacedirect,upstream,1
-manniondaniels,raleigh_int,upstream,1
 manniondaniels,rnli_international,upstream,1
 manniondaniels,saferworld,upstream,1
 manniondaniels,sct,upstream,1
@@ -1489,7 +1488,7 @@ plannlno,cordaid,upstream,1
 plannlno,dciecpatnl,upstream,7
 plannlno,healthnet,upstream,3
 plannlno,kit,upstream,9
-plannlno,onl,upstream,2
+plannlno,onl,upstream,3
 plannlno,pax,upstream,2
 plannlno,rutgers,upstream,1
 plannlno,scnl,upstream,1
