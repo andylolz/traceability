@@ -625,7 +625,7 @@ be-dgd,trias,upstream,1
 be-dgd,ub,upstream,1
 be-dgd,ucos,upstream,1
 be-dgd,ulbcoop,upstream,1
-be-dgd,unhcr,upstream,14
+be-dgd,unhcr,upstream,2
 be-dgd,uvcw,upstream,4
 be-dgd,vlir-uos,upstream,1
 be-dgd,vvob,upstream,1
@@ -1232,7 +1232,7 @@ minbuza_nl,cilc,upstream,1
 minbuza_nl,cis,upstream,1
 minbuza_nl,civicus,upstream,1
 minbuza_nl,clingendael,upstream,5
-minbuza_nl,cordaid,upstream,26
+minbuza_nl,cordaid,upstream,24
 minbuza_nl,cowi,upstream,2
 minbuza_nl,cpd,upstream,1
 minbuza_nl,creausa-org,upstream,1
@@ -1306,6 +1306,7 @@ minbuza_nl,iucn_nl,upstream,3
 minbuza_nl,josa,upstream,1
 minbuza_nl,kepsa,upstream,2
 minbuza_nl,kit,upstream,1
+minbuza_nl,law,upstream,1
 minbuza_nl,ldsps,upstream,1
 minbuza_nl,leprazending-tlm-nl,upstream,1
 minbuza_nl,lpi,upstream,6
@@ -1340,7 +1341,7 @@ minbuza_nl,nuffic20171017,upstream,2
 minbuza_nl,nwo,upstream,1
 minbuza_nl,nwp,upstream,1
 minbuza_nl,odi,upstream,1
-minbuza_nl,onl,upstream,1269
+minbuza_nl,onl,upstream,1275
 minbuza_nl,oyw,upstream,1
 minbuza_nl,p-t-f-,upstream,1
 minbuza_nl,palladium_eur,upstream,1
@@ -1360,7 +1361,7 @@ minbuza_nl,redeenkind,upstream,1
 minbuza_nl,rlb,upstream,2
 minbuza_nl,rmf-lb,upstream,1
 minbuza_nl,rutgers,upstream,2
-minbuza_nl,rvo,upstream,1
+minbuza_nl,rvo,upstream,14
 minbuza_nl,saferworld,upstream,10
 minbuza_nl,scnl,upstream,12
 minbuza_nl,scss,upstream,1
@@ -1468,7 +1469,6 @@ orbis_uk,orbis_international,upstream,3
 oxfamgb,bond,upstream,1
 oxfamgb,concern_worldwide,upstream,1
 oxfamgb,onl,upstream,38
-pacja,onl,upstream,13
 palladium,hiuk,upstream,1
 palladium,manniondaniels,upstream,1
 pax,amnesty,upstream,2
@@ -1517,6 +1517,9 @@ rutgers,rutgers,upstream,1
 rutgers,simavi,upstream,2
 rutgers,sjg,upstream,1
 rutgers,stichting_hivos,upstream,1
+rvo,cabi,upstream,1
+rvo,cordaid,upstream,1
+rvo,idlo,upstream,1
 saferworld,cr,upstream,1
 sci,concernuk,upstream,1
 scnl,carenederland,upstream,2
