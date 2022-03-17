@@ -500,7 +500,7 @@ wvnld,wcuk,downstream,1
 wvnld,wvi,downstream,11
 wvnld,zoa,downstream,1
 wvuk,open_university,downstream,1
-wvuk,wvi,downstream,92
+wvuk,wvi,downstream,69
 zoa,carenederland,downstream,2
 zoa,cordaid,downstream,7
 zoa,dai,downstream,6
@@ -625,7 +625,7 @@ be-dgd,trias,upstream,1
 be-dgd,ub,upstream,1
 be-dgd,ucos,upstream,1
 be-dgd,ulbcoop,upstream,1
-be-dgd,unhcr,upstream,2
+be-dgd,unhcr,upstream,14
 be-dgd,uvcw,upstream,4
 be-dgd,vlir-uos,upstream,1
 be-dgd,vvob,upstream,1
