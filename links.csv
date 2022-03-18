@@ -637,9 +637,7 @@ beis,ctbeijing,upstream,1
 beis,icf,upstream,1
 beis,pwc,upstream,2
 beis,rmi,upstream,2
-bmgf,bond,upstream,2
 bmgf,cabi,upstream,4
-bmgf,malariaconsortium,upstream,4
 bmgf,unhcr,upstream,24
 bmz,unhcr,upstream,4
 bothends,aanl,upstream,2
@@ -1238,7 +1236,7 @@ minbuza_nl,cpd,upstream,1
 minbuza_nl,creausa-org,upstream,1
 minbuza_nl,crehpa,upstream,1
 minbuza_nl,crisisgroup,upstream,1
-minbuza_nl,d4d,upstream,2
+minbuza_nl,d4d,upstream,1
 minbuza_nl,dai,upstream,5
 minbuza_nl,dai-e,upstream,1
 minbuza_nl,dca,upstream,1
@@ -1299,7 +1297,7 @@ minbuza_nl,ippf,upstream,2
 minbuza_nl,irc,upstream,7
 minbuza_nl,irc_inc,upstream,1
 minbuza_nl,irc_uk,upstream,1
-minbuza_nl,issafrica,upstream,4
+minbuza_nl,issafrica,upstream,2
 minbuza_nl,itc,upstream,4
 minbuza_nl,iucn,upstream,2
 minbuza_nl,iucn_nl,upstream,3
@@ -1341,7 +1339,7 @@ minbuza_nl,nuffic20171017,upstream,2
 minbuza_nl,nwo,upstream,1
 minbuza_nl,nwp,upstream,1
 minbuza_nl,odi,upstream,1
-minbuza_nl,onl,upstream,1275
+minbuza_nl,onl,upstream,1282
 minbuza_nl,oyw,upstream,1
 minbuza_nl,p-t-f-,upstream,1
 minbuza_nl,palladium_eur,upstream,1
@@ -1542,7 +1540,7 @@ sida,asi,upstream,1
 sida,dcaf,upstream,1
 sida,f-aids,upstream,1
 sida,idlo,upstream,2
-sida,onl,upstream,190
+sida,onl,upstream,191
 sida,pidg,upstream,1
 siharegional,musawah,upstream,1
 simavi,ads-nyanza,upstream,1
