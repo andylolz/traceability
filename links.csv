@@ -12,7 +12,6 @@ ageintl,dec-uk,downstream,1
 ageintl,fca,downstream,1
 ageintl,helpage_international,downstream,3
 akfuk73,akf_afghanistan,downstream,1
-alcrer-1,swb_1,downstream,1
 amrefnl,amrefeth,downstream,1
 amrefnl,amrefkenya,downstream,1
 amrefnl,amrefmw,downstream,2
@@ -73,6 +72,7 @@ emms,dgmh,downstream,1
 emms,mmh,downstream,1
 emms,pcst,downstream,1
 fca,helpage_international,downstream,1
+fcdo,cafod,downstream,1
 fcdo,ciuk,downstream,1
 fcdo,fcdo,downstream,3
 fcdo,healthpartners-international,downstream,1
@@ -533,7 +533,6 @@ aics,unhcr,upstream,13
 aics,unocha,upstream,1
 akfuk73,akf_afghanistan,upstream,1
 akfuk73,crs,upstream,1
-alcrer-1,swb_1,upstream,1
 amrefnl,amrefeth,upstream,1
 amrefnl,amrefhq,upstream,2
 amrefnl,amrefkenya,upstream,1
@@ -542,7 +541,7 @@ amrefnl,amrefug,upstream,1
 amrefnl,hai,upstream,2
 amrefnl,wemos,upstream,1
 amrefug,cordaid,upstream,1
-ancb_benin,ancb_benin,upstream,23
+ancb_benin,ancb_benin,upstream,1
 appro-eu,appro-af,upstream,2
 ares,vlir-uos,upstream,1
 ausgov,unhcr,upstream,2
@@ -800,7 +799,7 @@ fcdo,britishcouncil,upstream,5
 fcdo,bu,upstream,1
 fcdo,bvs-nepal,upstream,1
 fcdo,cabi,upstream,3
-fcdo,cafod,upstream,124
+fcdo,cafod,upstream,125
 fcdo,cal,upstream,4
 fcdo,carbontrustadvisory,upstream,1
 fcdo,cardnoem,upstream,5
@@ -1202,7 +1201,7 @@ minbuza_nl,alab,upstream,2
 minbuza_nl,alcrer-1,upstream,1
 minbuza_nl,amrefnl,upstream,1
 minbuza_nl,amrefug,upstream,1
-minbuza_nl,ancb_benin,upstream,4
+minbuza_nl,ancb_benin,upstream,2
 minbuza_nl,arcfge,upstream,7
 minbuza_nl,arij,upstream,1
 minbuza_nl,art19,upstream,1
@@ -1412,7 +1411,6 @@ minbuza_nl,win,upstream,2
 minbuza_nl,wlrc_aau,upstream,1
 minbuza_nl,wo-men,upstream,1
 minbuza_nl,womankindworld,upstream,1
-minbuza_nl,worldveg,upstream,1
 minbuza_nl,worldwaternet,upstream,1
 minbuza_nl,wpp,upstream,1
 minbuza_nl,wvnld,upstream,4
@@ -1543,7 +1541,7 @@ sida,pidg,upstream,1
 siharegional,musawah,upstream,1
 simavi,ads-nyanza,upstream,1
 simavi,amrefnl,upstream,3
-simavi,ancb_benin,upstream,5
+simavi,ancb_benin,upstream,3
 simavi,bnps,upstream,1
 simavi,cavwoc,upstream,1
 simavi,cini_jhk,upstream,1
@@ -1601,7 +1599,7 @@ tdh_nl,icco-cooperation,upstream,2
 tdh_nl,plannlno,upstream,1
 tfac,tfacmalawi,upstream,1
 theglobalfund,iom,upstream,1
-theglobalfund,undp,upstream,31
+theglobalfund,undp,upstream,24
 thp_org,max-foundation,upstream,1
 thp_org,scnl,upstream,3
 traidcraft,fci,upstream,1
@@ -1614,7 +1612,7 @@ unocha-cbpf,cordaid,upstream,2
 unocha-cbpf,unhcr,upstream,45
 unocha-cbpf,warchildholland,upstream,1
 unpf,iom,upstream,3
-unpf,undp,upstream,44
+unpf,undp,upstream,39
 unpf,unhcr,upstream,2
 uoe,bpcrs,upstream,1
 uoe,icddrb,upstream,1
