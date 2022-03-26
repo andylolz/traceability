@@ -831,6 +831,7 @@ fcdo,dc,upstream,1
 fcdo,dca,upstream,1
 fcdo,ddp,upstream,4
 fcdo,dec-uk,upstream,5
+fcdo,dmi_admin,upstream,1
 fcdo,drc,upstream,4
 fcdo,ecuk,upstream,3
 fcdo,eddevtrust,upstream,1
@@ -877,7 +878,7 @@ fcdo,interburns,upstream,1
 fcdo,iom,upstream,13
 fcdo,ipeglobal,upstream,7
 fcdo,ippf,upstream,4
-fcdo,irc_inc,upstream,3
+fcdo,irc_inc,upstream,4
 fcdo,irc_uk,upstream,13
 fcdo,irw,upstream,4
 fcdo,itad,upstream,2
