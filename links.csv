@@ -345,7 +345,7 @@ manniondaniels,zoa_uk,downstream,1
 marysmeals,fcdo,downstream,1
 mefbenin,anaepmr_benin,downstream,2
 mefbenin,ine_benin,downstream,1
-mefbenin,parakou,downstream,1
+mefbenin,ze,downstream,1
 minbuza_nl,carenederland,downstream,2
 minbuza_nl,irc_inc,downstream,1
 minbuza_nl,onl,downstream,1
@@ -1187,6 +1187,7 @@ mce,st_vluchteling,upstream,1
 mefbenin,anaepmr_benin,upstream,1
 mefbenin,ine_benin,upstream,1
 mefbenin,soneb-benin,upstream,1
+mefbenin,ze,upstream,3
 mfat,iom,upstream,1
 mfat,unhcr,upstream,1
 minbuza_nl,aanl,upstream,1
