@@ -750,7 +750,7 @@ ec-echo,unhcr,upstream,243
 ec-echo,warchildholland,upstream,4
 ec-fpi,iom,upstream,3
 ec-fpi,warchildholland,upstream,1
-ec-intpa,cabi,upstream,1
+ec-intpa,cabi,upstream,2
 ec-intpa,idlo,upstream,1
 ec-near,iom,upstream,5
 ec-near,onl,upstream,3
@@ -800,7 +800,7 @@ fcdo,bond,upstream,3
 fcdo,britishcouncil,upstream,5
 fcdo,bu,upstream,1
 fcdo,bvs-nepal,upstream,1
-fcdo,cabi,upstream,3
+fcdo,cabi,upstream,4
 fcdo,cafod,upstream,125
 fcdo,cal,upstream,4
 fcdo,carbontrustadvisory,upstream,1
@@ -1220,7 +1220,7 @@ minbuza_nl,bothends,upstream,1
 minbuza_nl,brac_admin2,upstream,2
 minbuza_nl,bsr_admin,upstream,1
 minbuza_nl,bwh,upstream,1
-minbuza_nl,cabi,upstream,2
+minbuza_nl,cabi,upstream,3
 minbuza_nl,cal_2000-pu,upstream,1
 minbuza_nl,carenederland,upstream,6
 minbuza_nl,ccc,upstream,1
@@ -1538,6 +1538,7 @@ scnl,warchildholland,upstream,5
 scnl,wcc,upstream,1
 scnl,wvnld,upstream,2
 scnl,zoa,upstream,8
+sdc_ch,cabi,upstream,1
 sida,asi,upstream,1
 sida,dcaf,upstream,1
 sida,f-aids,upstream,1
