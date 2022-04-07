@@ -710,7 +710,7 @@ danida,drc,upstream,29
 danida,ecdpm,upstream,1
 danida,globaltfokus,upstream,3
 danida,ibis_denmark,upstream,1
-danida,ims,upstream,1
+danida,ims,upstream,2
 danida,loftf,upstream,2
 danida,missioneast,upstream,5
 danida,plb,upstream,1
@@ -752,9 +752,8 @@ ec-fpi,iom,upstream,3
 ec-fpi,warchildholland,upstream,1
 ec-intpa,cabi,upstream,2
 ec-intpa,idlo,upstream,1
-ec-near,iom,upstream,5
-ec-near,onl,upstream,3
-ec-near,warchildholland,upstream,2
+ec-near,iom,upstream,3
+ec-near,warchildholland,upstream,1
 ecuk,sddirect,upstream,1
 edt_kenya,amurt_kenya,upstream,1
 edt_kenya,concernuk,upstream,1
@@ -1406,7 +1405,7 @@ minbuza_nl,unocha-sdc,upstream,2
 minbuza_nl,utz,upstream,1
 minbuza_nl,uvw,upstream,1
 minbuza_nl,vei_nl,upstream,2
-minbuza_nl,vngi,upstream,6
+minbuza_nl,vngi,upstream,7
 minbuza_nl,w-d,upstream,2
 minbuza_nl,wageningen_ur,upstream,8
 minbuza_nl,warchildholland,upstream,7
@@ -1428,7 +1427,7 @@ minbuza_nl,ww-gvc,upstream,3
 minbuza_nl,wwf-kenya,upstream,1
 minbuza_nl,yai-hub,upstream,1
 minbuza_nl,yffhsd,upstream,3
-minbuza_nl,zoa,upstream,19
+minbuza_nl,zoa,upstream,18
 mml,sddirect,upstream,1
 msi,icwrsa,upstream,1
 msi,ippf,upstream,1
@@ -1631,6 +1630,7 @@ unpf,unhcr,upstream,2
 uoe,bpcrs,upstream,1
 uoe,icddrb,upstream,1
 uoe,ipcrg,upstream,1
+uom,iied,upstream,1
 usaid,iom,upstream,121
 usaid,odi,upstream,1
 usaid,saferworld,upstream,1
