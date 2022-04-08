@@ -695,7 +695,7 @@ dai,scnl,upstream,2
 dai,st_vluchteling,upstream,1
 dai-e,nathan,upstream,2
 dance4life,ippf,upstream,1
-danida,12921047,upstream,1
+danida,12921047,upstream,2
 danida,aadk,upstream,2
 danida,adra-dk,upstream,1
 danida,caritas_denmark,upstream,2
@@ -752,8 +752,9 @@ ec-fpi,iom,upstream,3
 ec-fpi,warchildholland,upstream,1
 ec-intpa,cabi,upstream,2
 ec-intpa,idlo,upstream,1
-ec-near,iom,upstream,3
-ec-near,warchildholland,upstream,1
+ec-near,iom,upstream,5
+ec-near,onl,upstream,3
+ec-near,warchildholland,upstream,2
 ecuk,sddirect,upstream,1
 edt_kenya,amurt_kenya,upstream,1
 edt_kenya,concernuk,upstream,1
@@ -957,7 +958,6 @@ fcdo,sense_international,upstream,2
 fcdo,sfcg,upstream,1
 fcdo,spuk,upstream,3
 fcdo,ss-org,upstream,131
-fcdo,stichting_hivos,upstream,1
 fcdo,stichtingfern,upstream,1
 fcdo,street_child,upstream,4
 fcdo,stromme_ug,upstream,1
@@ -1340,7 +1340,7 @@ minbuza_nl,nuffic20171017,upstream,2
 minbuza_nl,nwo,upstream,1
 minbuza_nl,nwp,upstream,1
 minbuza_nl,odi,upstream,1
-minbuza_nl,onl,upstream,1288
+minbuza_nl,onl,upstream,1290
 minbuza_nl,oyw,upstream,1
 minbuza_nl,p-t-f-,upstream,1
 minbuza_nl,palladium_eur,upstream,1
@@ -1350,7 +1350,7 @@ minbuza_nl,pax,upstream,4
 minbuza_nl,pcf,upstream,2
 minbuza_nl,pidg,upstream,1
 minbuza_nl,plama,upstream,1
-minbuza_nl,plannlno,upstream,8
+minbuza_nl,plannlno,upstream,9
 minbuza_nl,populationcouncil,upstream,1
 minbuza_nl,ppag_123,upstream,1
 minbuza_nl,promsex,upstream,1
@@ -1386,7 +1386,7 @@ minbuza_nl,spark,upstream,6
 minbuza_nl,st_vluchteling,upstream,2
 minbuza_nl,stc-international,upstream,1
 minbuza_nl,stichting-subsidiegelden-dra,upstream,3
-minbuza_nl,stichting_hivos,upstream,11
+minbuza_nl,stichting_hivos,upstream,6
 minbuza_nl,swda,upstream,1
 minbuza_nl,tbi,upstream,1
 minbuza_nl,tdh_foundation,upstream,1
@@ -1570,7 +1570,6 @@ simavi,ruaf,upstream,4
 simavi,savsign-org,upstream,1
 simavi,simavi,upstream,4
 simavi,solidaridad-europe,upstream,1
-simavi,stichting_hivos,upstream,1
 simavi,vhai-org,upstream,1
 simavi,wai,upstream,1
 simavi,waste,upstream,1
