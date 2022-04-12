@@ -350,6 +350,7 @@ minbuza_nl,onl,downstream,1
 minbuza_nl,promsex,downstream,1
 minbuza_nl,scnl,downstream,2
 minbuza_nl,st_vluchteling,downstream,2
+minbuza_nl,swda,downstream,1
 minbuza_nl,wvnld,downstream,1
 minbuza_nl,zoa,downstream,2
 msi,ciuk,downstream,1
@@ -1337,6 +1338,7 @@ minbuza_nl,nlrc,upstream,216
 minbuza_nl,nrc,upstream,1
 minbuza_nl,nso,upstream,1
 minbuza_nl,nuffic20171017,upstream,2
+minbuza_nl,nuwodu,upstream,1
 minbuza_nl,nwo,upstream,1
 minbuza_nl,nwp,upstream,1
 minbuza_nl,odi,upstream,1
@@ -1387,7 +1389,6 @@ minbuza_nl,st_vluchteling,upstream,2
 minbuza_nl,stc-international,upstream,1
 minbuza_nl,stichting-subsidiegelden-dra,upstream,3
 minbuza_nl,stichting_hivos,upstream,6
-minbuza_nl,swda,upstream,1
 minbuza_nl,tbi,upstream,1
 minbuza_nl,tdh_foundation,upstream,1
 minbuza_nl,tdh_nl,upstream,14
@@ -1419,7 +1420,6 @@ minbuza_nl,wgnrr_iati,upstream,1
 minbuza_nl,win,upstream,2
 minbuza_nl,wlrc_aau,upstream,1
 minbuza_nl,wo-men,upstream,1
-minbuza_nl,womankindworld,upstream,1
 minbuza_nl,worldwaternet,upstream,1
 minbuza_nl,wpp,upstream,1
 minbuza_nl,wvnld,upstream,4
@@ -1618,7 +1618,7 @@ traidcraft,fci,upstream,1
 undp,idlo,upstream,1
 undp,warchildholland,upstream,1
 unf,iif,upstream,1
-unitedstates,idlo,upstream,12
+unitedstates,idlo,upstream,11
 unitedstates,unhcr,upstream,294
 unocha-cbpf,cordaid,upstream,2
 unocha-cbpf,unhcr,upstream,45
