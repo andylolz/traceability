@@ -47,6 +47,7 @@ cordaid,sosnl,downstream,6
 cordaid,st_vluchteling,downstream,9
 cordaid,tear,downstream,4
 cordaid,warchildholland,downstream,4
+cordaid,wipc,downstream,1
 cordaid,wvnld,downstream,7
 cordaid,zoa,downstream,6
 cr,cr,downstream,1
@@ -370,6 +371,7 @@ niras,lts,downstream,1
 nl-kvk-41207989,galz,downstream,2
 nl-kvk-41207989,isdao,downstream,1
 nl-kvk-41207989,sanpud,downstream,1
+nl-kvk-41207989,sisonke,downstream,1
 nl-kvk-41207989,uhai-eashri,downstream,1
 open_university,uom,downstream,1
 openmindedly,oxfamgb,downstream,2
@@ -486,7 +488,6 @@ womankindworld,ewdna2025,downstream,1
 womankindworld,fowode,downstream,1
 womankindworld,nuwodu,downstream,1
 womankindworld,swda,downstream,1
-wv_de,wvi,downstream,121
 wvnld,cordaid,downstream,1
 wvnld,dai,downstream,1
 wvnld,onl,downstream,1
@@ -495,10 +496,8 @@ wvnld,scnl,downstream,1
 wvnld,st_vluchteling,downstream,1
 wvnld,warchildholland,downstream,1
 wvnld,wcuk,downstream,1
-wvnld,wvi,downstream,11
 wvnld,zoa,downstream,1
 wvuk,open_university,downstream,1
-wvuk,wvi,downstream,69
 zoa,carenederland,downstream,2
 zoa,cordaid,downstream,7
 zoa,dai,downstream,6
@@ -649,7 +648,6 @@ bothends,tni,upstream,1
 bracuk,hiuk,upstream,1
 britishcouncil,open_university,upstream,1
 britishcouncil,pwc,upstream,1
-caeb_mali,cordaid,upstream,1
 carbontrustadvisory,e4i,upstream,1
 carbontrustadvisory,shortlistogti,upstream,1
 carbontrustadvisory,uct,upstream,1
@@ -687,6 +685,7 @@ cordaid,tdh_nl,upstream,1
 cordaid,wanep,upstream,1
 cordaid,warchildholland,upstream,4
 cordaid,wcuk,upstream,3
+cordaid,wipc,upstream,1
 cordaid,wvnld,upstream,6
 cordaid,zoa,upstream,8
 cr,hdcentre,upstream,1
@@ -1045,7 +1044,6 @@ giro555,scnl,upstream,5
 giro555,st_vluchteling,upstream,4
 giro555,tdh_nl,upstream,1
 giro555,unicefnl,upstream,1
-giro555,wvi,upstream,1
 giro555,wvnld,upstream,3
 gppac,wfm-igp,upstream,1
 guttmacher,arcfge,upstream,1
@@ -1288,7 +1286,7 @@ minbuza_nl,idh,upstream,1
 minbuza_nl,idh_im,upstream,1
 minbuza_nl,idlo,upstream,14
 minbuza_nl,ieu,upstream,1
-minbuza_nl,ifdc-us,upstream,4
+minbuza_nl,ifdc-us,upstream,6
 minbuza_nl,iisd,upstream,1
 minbuza_nl,ilo,upstream,14
 minbuza_nl,imc_uk,upstream,1
@@ -1329,7 +1327,7 @@ minbuza_nl,ndsicde,upstream,1
 minbuza_nl,nef_mali,upstream,1
 minbuza_nl,nfp,upstream,4
 minbuza_nl,nimd-hq,upstream,2
-minbuza_nl,nl-kvk-41207989,upstream,2
+minbuza_nl,nl-kvk-41207989,upstream,3
 minbuza_nl,nl-kvk-54436222-27541,upstream,20
 minbuza_nl,nl_wg,upstream,1
 minbuza_nl,nlr,upstream,2
@@ -1418,6 +1416,7 @@ minbuza_nl,wff,upstream,1
 minbuza_nl,wfp,upstream,2
 minbuza_nl,wgnrr_iati,upstream,1
 minbuza_nl,win,upstream,2
+minbuza_nl,wipc,upstream,1
 minbuza_nl,wlrc_aau,upstream,1
 minbuza_nl,wo-men,upstream,1
 minbuza_nl,worldwaternet,upstream,1
