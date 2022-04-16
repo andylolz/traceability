@@ -373,6 +373,9 @@ nl-kvk-41207989,isdao,downstream,1
 nl-kvk-41207989,sanpud,downstream,1
 nl-kvk-41207989,sisonke,downstream,1
 nl-kvk-41207989,uhai-eashri,downstream,1
+nl_wg,apn,downstream,1
+nl_wg,gfcf,downstream,1
+nl_wg,kcdf,downstream,1
 open_university,uom,downstream,1
 openmindedly,oxfamgb,downstream,2
 orbis_international,nnjs_nepal,downstream,1
@@ -648,6 +651,7 @@ bothends,tni,upstream,1
 bracuk,hiuk,upstream,1
 britishcouncil,open_university,upstream,1
 britishcouncil,pwc,upstream,1
+caeb_mali,cordaid,upstream,1
 carbontrustadvisory,e4i,upstream,1
 carbontrustadvisory,shortlistogti,upstream,1
 carbontrustadvisory,uct,upstream,1
