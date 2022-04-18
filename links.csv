@@ -1266,7 +1266,7 @@ minbuza_nl,fcam,upstream,1
 minbuza_nl,fipag,upstream,1
 minbuza_nl,fmo,upstream,5
 minbuza_nl,fms,upstream,1
-minbuza_nl,foenl,upstream,2
+minbuza_nl,foenl,upstream,1
 minbuza_nl,free_press_unlimited,upstream,2
 minbuza_nl,fwf,upstream,2
 minbuza_nl,gain,upstream,3
@@ -1370,7 +1370,6 @@ minbuza_nl,rvo,upstream,14
 minbuza_nl,saferworld,upstream,10
 minbuza_nl,scnl,upstream,12
 minbuza_nl,scss,upstream,1
-minbuza_nl,sdi,upstream,1
 minbuza_nl,ser,upstream,1
 minbuza_nl,sfcg,upstream,1
 minbuza_nl,sfd-yemen,upstream,1
@@ -1414,6 +1413,7 @@ minbuza_nl,wageningen_ur,upstream,8
 minbuza_nl,warchildholland,upstream,7
 minbuza_nl,waste,upstream,1
 minbuza_nl,wba,upstream,1
+minbuza_nl,wecf,upstream,1
 minbuza_nl,wf-asia,upstream,1
 minbuza_nl,wfaf,upstream,1
 minbuza_nl,wff,upstream,1
