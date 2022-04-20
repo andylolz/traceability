@@ -1279,7 +1279,7 @@ minbuza_nl,halo,upstream,9
 minbuza_nl,hdcentre,upstream,1
 minbuza_nl,hi_fed,upstream,2
 minbuza_nl,hif,upstream,2
-minbuza_nl,hiil_mfa,upstream,4
+minbuza_nl,hiil_mfa,upstream,5
 minbuza_nl,hsi,upstream,1
 minbuza_nl,ibfd,upstream,1
 minbuza_nl,icco-cooperation,upstream,17
@@ -1350,7 +1350,7 @@ minbuza_nl,oyw,upstream,1
 minbuza_nl,p-t-f-,upstream,1
 minbuza_nl,palladium_eur,upstream,1
 minbuza_nl,partos_nl,upstream,2
-minbuza_nl,pathfinder1,upstream,1
+minbuza_nl,pathfinder1,upstream,2
 minbuza_nl,pax,upstream,5
 minbuza_nl,pcf,upstream,2
 minbuza_nl,pidg,upstream,1
@@ -1380,7 +1380,7 @@ minbuza_nl,siren,upstream,1
 minbuza_nl,siwi,upstream,1
 minbuza_nl,sjac,upstream,1
 minbuza_nl,skn,upstream,1
-minbuza_nl,snv,upstream,10
+minbuza_nl,snv,upstream,12
 minbuza_nl,solidaridad-europe,upstream,1
 minbuza_nl,solidaridad-ssea,upstream,2
 minbuza_nl,solidaridad-waf,upstream,2
@@ -1652,6 +1652,7 @@ warchildholland,unicefnl,upstream,1
 warchildholland,wcc,upstream,1
 warchildholland,wcuk,upstream,4
 waste,amrefnl,upstream,2
+wnf,wwfbr,upstream,1
 womankindworld,ewdna2025,upstream,1
 womankindworld,fida,upstream,1
 womankindworld,fowode,upstream,1
