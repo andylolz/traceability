@@ -384,7 +384,6 @@ orbis_international,orbis_ethiopia,downstream,1
 orbis_uk,orbis_africa,downstream,1
 orbis_uk,orbis_ethiopia,downstream,1
 orbis_uk,orbis_international,downstream,3
-pax,amnesty,downstream,1
 plan_uk,irc_inc,downstream,1
 plannlno,amrefeth,downstream,1
 plannlno,amrefkenya,downstream,1
@@ -666,7 +665,7 @@ carenederland,tear,upstream,1
 carenederland,warchildholland,upstream,4
 carenederland,wvnld,upstream,3
 carenederland,zoa,upstream,7
-cerf,iom,upstream,144
+cerf,iom,upstream,150
 cerf,unhcr,upstream,108
 cfyas,ippf,upstream,1
 ciuk,cnepal,upstream,2
@@ -876,7 +875,7 @@ fcdo,imc_uk,upstream,1
 fcdo,imcw_admin,upstream,10
 fcdo,interburns,upstream,1
 fcdo,iom,upstream,13
-fcdo,ipeglobal,upstream,7
+fcdo,ipeglobal,upstream,8
 fcdo,ippf,upstream,5
 fcdo,irc_inc,upstream,2
 fcdo,irc_uk,upstream,13
@@ -917,7 +916,7 @@ fcdo,odi_sales_ltd,upstream,1
 fcdo,onetoonecf,upstream,1
 fcdo,onl,upstream,2
 fcdo,opml,upstream,2
-fcdo,options,upstream,14
+fcdo,options,upstream,13
 fcdo,orbis_africa,upstream,1
 fcdo,orbis_uk,upstream,1
 fcdo,orientame,upstream,1
@@ -1001,6 +1000,7 @@ foenl,foei,upstream,2
 foenl,gaia,upstream,1
 foenl,ntfp-ep,upstream,1
 foenl,sdi,upstream,1
+foenl,tbi,upstream,1
 foenl,wecf,upstream,1
 free_press_unlimited,ejc,upstream,2
 fwf,cdi_vn_2021,upstream,1
@@ -1252,7 +1252,7 @@ minbuza_nl,esfd,upstream,1
 minbuza_nl,f-aids,upstream,2
 minbuza_nl,fca,upstream,1
 minbuza_nl,fcam,upstream,1
-minbuza_nl,fimi_iiwf_2019,upstream,1
+minbuza_nl,fimi_iiwf_2019,upstream,4
 minbuza_nl,fipag,upstream,1
 minbuza_nl,fmo,upstream,5
 minbuza_nl,fms,upstream,1
@@ -1386,6 +1386,7 @@ minbuza_nl,tear,upstream,1
 minbuza_nl,thp_org,upstream,1
 minbuza_nl,tns,upstream,1
 minbuza_nl,trig,upstream,1
+minbuza_nl,twynstragudde,upstream,1
 minbuza_nl,udpk,upstream,1
 minbuza_nl,undp,upstream,2
 minbuza_nl,unhcr,upstream,86
@@ -1466,7 +1467,6 @@ oxfamgb,onl,upstream,38
 pacja,onl,upstream,13
 palladium,hiuk,upstream,1
 palladium,manniondaniels,upstream,1
-pax,amnesty,upstream,2
 pcst,pcst,upstream,1
 pegasys-eu,rfuk,upstream,1
 pegasys-eu,wwf-uk,upstream,1
@@ -1494,6 +1494,7 @@ plannlno,stad,upstream,1
 plannlno,tdh_nl,upstream,24
 practica,amrefnl,upstream,1
 prosperityfund,mml,upstream,1
+prosperityfund,nathan,upstream,1
 psi,msi,upstream,1
 pwc,acu,upstream,4
 pwc,dcapitalpartners,upstream,1
