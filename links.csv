@@ -653,7 +653,7 @@ bothends,ccc,upstream,1
 bothends,foei,upstream,2
 bothends,foenl,upstream,2
 bothends,itforchange,upstream,1
-bothends,somo,upstream,1
+bothends,somo,upstream,2
 bothends,tni,upstream,1
 bracuk,hiuk,upstream,1
 britishcouncil,open_university,upstream,1
@@ -1349,7 +1349,7 @@ minbuza_nl,nuffic20171017,upstream,2
 minbuza_nl,nwo,upstream,1
 minbuza_nl,nwp,upstream,1
 minbuza_nl,odi,upstream,1
-minbuza_nl,onl,upstream,1300
+minbuza_nl,onl,upstream,1307
 minbuza_nl,oyw,upstream,1
 minbuza_nl,p-t-f-,upstream,1
 minbuza_nl,palladium_eur,upstream,1
@@ -1561,6 +1561,7 @@ scnl,wcc,upstream,1
 scnl,wvnld,upstream,2
 scnl,zoa,upstream,8
 sdc_ch,cabi,upstream,1
+sdi-int,sdi-k,upstream,1
 sida,asi,upstream,1
 sida,dcaf,upstream,1
 sida,f-aids,upstream,1
