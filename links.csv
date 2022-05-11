@@ -37,8 +37,9 @@ cal,fcdo,downstream,1
 cbm,fhfuk,downstream,1
 childhopeuk,fcdo,downstream,2
 childhopeuk,gecfundmanagerpwc,downstream,1
+concern_worldwide,cbm,downstream,1
 concern_worldwide,cu,downstream,1
-concern_worldwide,goal,downstream,2
+concern_worldwide,goal,downstream,1
 concern_worldwide,irc_uk,downstream,1
 cordaid,carenederland,downstream,2
 cordaid,dai,downstream,1
@@ -353,14 +354,17 @@ mefbenin,anaepmr_benin,downstream,2
 mefbenin,ine_benin,downstream,1
 mefbenin,ze,downstream,1
 minbuza_nl,carenederland,downstream,2
+minbuza_nl,cidr,downstream,1
 minbuza_nl,ewdna2025,downstream,1
 minbuza_nl,irc_inc,downstream,1
 minbuza_nl,minbuza_nl,downstream,1
 minbuza_nl,onl,downstream,1
 minbuza_nl,promsex,downstream,1
+minbuza_nl,protos,downstream,1
 minbuza_nl,scnl,downstream,2
 minbuza_nl,st_vluchteling,downstream,2
 minbuza_nl,tear,downstream,1
+minbuza_nl,vngi,downstream,1
 minbuza_nl,wvnld,downstream,1
 minbuza_nl,zoa,downstream,2
 msi,ciuk,downstream,1
@@ -408,7 +412,7 @@ restless,intrac,downstream,1
 restless,wcuk,downstream,1
 rutgers,ippf,downstream,1
 rutgers,nl-kvk-41207989,downstream,1
-rutgers,pmo-us,downstream,1
+rutgers,pmo-us,downstream,2
 rutgers,simavi,downstream,1
 rutgers,sjg,downstream,1
 saferworld,cr,downstream,1
@@ -428,6 +432,11 @@ scnl,zoa,downstream,4
 simavi,amrefnl,downstream,1
 skn,icdi,downstream,1
 skn,uva_org,downstream,1
+snv,cidr,downstream,1
+snv,hsi,downstream,1
+snv,onl,downstream,1
+snv,protos,downstream,2
+snv,vngi,downstream,1
 st_vluchteling,carenederland,downstream,1
 st_vluchteling,cordaid,downstream,1
 st_vluchteling,intersos_main,downstream,1
@@ -521,7 +530,7 @@ zoa,plannlno,downstream,1
 zoa,scnl,downstream,3
 zoa,st_vluchteling,downstream,3
 zoa,syf,downstream,1
-zoa,tdh_nl,downstream,5
+zoa,tdh_nl,downstream,6
 zoa,tear,downstream,1
 zoa,tha,downstream,1
 zoa,vngi,downstream,1
@@ -917,7 +926,7 @@ fcdo,malariaconsortium,upstream,4
 fcdo,manniondaniels,upstream,3
 fcdo,marysmeals,upstream,2
 fcdo,mce,upstream,8
-fcdo,mml,upstream,21
+fcdo,mml,upstream,23
 fcdo,motivation,upstream,3
 fcdo,mrc-sierra-leone,upstream,1
 fcdo,msi,upstream,11
@@ -967,6 +976,7 @@ fcdo,sddirect,upstream,2
 fcdo,sendacow,upstream,4
 fcdo,sense_international,upstream,2
 fcdo,sfcg,upstream,1
+fcdo,snv,upstream,1
 fcdo,spuk,upstream,3
 fcdo,ss-org,upstream,131
 fcdo,stichting_hivos,upstream,1
@@ -1286,10 +1296,10 @@ minbuza_nl,hdcentre,upstream,1
 minbuza_nl,hi_fed,upstream,2
 minbuza_nl,hif,upstream,2
 minbuza_nl,hiil_mfa,upstream,5
-minbuza_nl,hsi,upstream,1
+minbuza_nl,hsi,upstream,2
 minbuza_nl,ibfd,upstream,14
 minbuza_nl,icco-cooperation,upstream,17
-minbuza_nl,icnl_org,upstream,10
+minbuza_nl,icnl_org,upstream,5
 minbuza_nl,ictj,upstream,8
 minbuza_nl,icwrsa,upstream,1
 minbuza_nl,idh,upstream,1
@@ -1365,6 +1375,7 @@ minbuza_nl,plannlno,upstream,10
 minbuza_nl,populationcouncil,upstream,1
 minbuza_nl,ppag_123,upstream,1
 minbuza_nl,promsex,upstream,1
+minbuza_nl,protos,upstream,1
 minbuza_nl,psi,upstream,3
 minbuza_nl,pstc_1102,upstream,1
 minbuza_nl,pumnl,upstream,1
@@ -1372,7 +1383,7 @@ minbuza_nl,rcn,upstream,2
 minbuza_nl,redeenkind,upstream,1
 minbuza_nl,rlb,upstream,2
 minbuza_nl,rmf-lb,upstream,1
-minbuza_nl,rutgers,upstream,2
+minbuza_nl,rutgers,upstream,3
 minbuza_nl,rvo,upstream,14
 minbuza_nl,saferworld,upstream,10
 minbuza_nl,scnl,upstream,12
@@ -1387,7 +1398,7 @@ minbuza_nl,siren,upstream,1
 minbuza_nl,siwi,upstream,1
 minbuza_nl,sjac,upstream,1
 minbuza_nl,skn,upstream,1
-minbuza_nl,snv,upstream,12
+minbuza_nl,snv,upstream,16
 minbuza_nl,solidaridad,upstream,1
 minbuza_nl,solidaridad-europe,upstream,1
 minbuza_nl,solidaridad-ssea,upstream,2
@@ -1494,6 +1505,7 @@ orbis_uk,orbis_ethiopia,upstream,2
 orbis_uk,orbis_international,upstream,3
 oxfamgb,bond,upstream,1
 oxfamgb,onl,upstream,38
+pacja,nj_1,upstream,1
 pacja,onl,upstream,13
 palladium,hiuk,upstream,1
 palladium,manniondaniels,upstream,1
@@ -1595,6 +1607,9 @@ simavi,waste,upstream,1
 simavi,wi,upstream,2
 skn,icdi,upstream,1
 skn,uva_org,upstream,1
+snv,hsi,upstream,1
+snv,protos,upstream,1
+snv,vngi,upstream,1
 solidaridad,bwi,upstream,2
 solidaridad,fairfood,upstream,5
 solidaridad,trustafrica,upstream,16
@@ -1610,7 +1625,7 @@ sosnl,st_vluchteling,upstream,1
 sosnl,tdh_nl,upstream,1
 sosnl,tear,upstream,2
 sosnl,zoa,upstream,1
-ss-org,addinternational,upstream,1
+ss-org,addinternational,upstream,3
 ss-org,hiuk,upstream,1
 ss-org,lcd_admin,upstream,1
 ss-org,sddirect,upstream,1
@@ -1677,6 +1692,7 @@ wnf,fundacionavina,upstream,1
 wnf,ssn,upstream,1
 wnf,stichting_hivos,upstream,1
 wnf,wwfbr,upstream,1
+wnf,wwfna,upstream,1
 womankindworld,ewdna2025,upstream,1
 womankindworld,fida,upstream,1
 womankindworld,fowode,upstream,1
@@ -1710,7 +1726,7 @@ zoa,cordaid,upstream,7
 zoa,dai,upstream,4
 zoa,icco-cooperation,upstream,3
 zoa,leprazending-tlm-nl,upstream,1
-zoa,onl,upstream,7
+zoa,onl,upstream,8
 zoa,scnl,upstream,4
 zoa,st_vluchteling,upstream,2
 zoa,syf,upstream,1
