@@ -413,6 +413,7 @@ restless,wcuk,downstream,1
 rutgers,ippf,downstream,1
 rutgers,nl-kvk-41207989,downstream,1
 rutgers,pmo-us,downstream,2
+rutgers,rnw_org,downstream,1
 rutgers,simavi,downstream,1
 rutgers,sjg,downstream,1
 saferworld,cr,downstream,1
@@ -822,7 +823,7 @@ fcdo,britishcouncil,upstream,5
 fcdo,bu,upstream,1
 fcdo,bvs-nepal,upstream,1
 fcdo,cabi,upstream,4
-fcdo,cafod,upstream,125
+fcdo,cafod,upstream,112
 fcdo,cal,upstream,4
 fcdo,carbontrustadvisory,upstream,1
 fcdo,cardnoem,upstream,5
@@ -1383,7 +1384,7 @@ minbuza_nl,rcn,upstream,2
 minbuza_nl,redeenkind,upstream,1
 minbuza_nl,rlb,upstream,2
 minbuza_nl,rmf-lb,upstream,1
-minbuza_nl,rutgers,upstream,3
+minbuza_nl,rutgers,upstream,4
 minbuza_nl,rvo,upstream,14
 minbuza_nl,saferworld,upstream,10
 minbuza_nl,scnl,upstream,12
@@ -1522,6 +1523,7 @@ plannlno,amrefmw,upstream,1
 plannlno,amrefnl,upstream,1
 plannlno,cfyas,upstream,1
 plannlno,dciecpatnl,upstream,8
+plannlno,fawe-rs,upstream,1
 plannlno,femnet,upstream,1
 plannlno,healthnet,upstream,3
 plannlno,icco-cooperation,upstream,1
@@ -1550,6 +1552,7 @@ rutgers,cfyas,upstream,2
 rutgers,ippf,upstream,2
 rutgers,nl-kvk-41207989,upstream,1
 rutgers,pmo-us,upstream,1
+rutgers,rnw_org,upstream,1
 rutgers,rutgers,upstream,1
 rutgers,simavi,upstream,2
 rutgers,sjg,upstream,1
@@ -1654,7 +1657,7 @@ traidcraft,fci,upstream,1
 undp,idlo,upstream,1
 undp,warchildholland,upstream,1
 unf,iif,upstream,1
-unitedstates,idlo,upstream,11
+unitedstates,idlo,upstream,12
 unitedstates,unhcr,upstream,294
 unocha-cbpf,cordaid,upstream,2
 unocha-cbpf,unhcr,upstream,45
@@ -1691,8 +1694,10 @@ wnf,amwa,upstream,1
 wnf,fundacionavina,upstream,1
 wnf,ssn,upstream,1
 wnf,stichting_hivos,upstream,1
+wnf,wwf_id,upstream,1
 wnf,wwfbr,upstream,1
 wnf,wwfna,upstream,1
+wnf,wwfzambia,upstream,1
 womankindworld,ewdna2025,upstream,1
 womankindworld,fida,upstream,1
 womankindworld,fowode,upstream,1
