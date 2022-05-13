@@ -503,7 +503,6 @@ warchildholland,wcc,downstream,1
 warchildholland,wcuk,downstream,7
 warchildholland,wvnld,downstream,1
 waste,amrefnl,downstream,2
-wccuk,fcdo,downstream,1
 wei,rains,downstream,1
 womankindworld,ewdna2025,downstream,1
 womankindworld,fowode,downstream,1
@@ -670,6 +669,8 @@ bracuk,hiuk,upstream,1
 britishcouncil,open_university,upstream,1
 britishcouncil,pwc,upstream,1
 caeb_mali,cordaid,upstream,1
+cal,acf,upstream,1
+cal,hpa,upstream,1
 carbontrustadvisory,e4i,upstream,1
 carbontrustadvisory,shortlistogti,upstream,1
 carbontrustadvisory,uct,upstream,1
@@ -824,7 +825,7 @@ fcdo,bu,upstream,1
 fcdo,bvs-nepal,upstream,1
 fcdo,cabi,upstream,4
 fcdo,cafod,upstream,112
-fcdo,cal,upstream,4
+fcdo,cal,upstream,6
 fcdo,carbontrustadvisory,upstream,1
 fcdo,cardnoem,upstream,5
 fcdo,cepr,upstream,2
@@ -865,7 +866,7 @@ fcdo,energy_saving_trust,upstream,1
 fcdo,evc,upstream,2
 fcdo,excellent,upstream,1
 fcdo,f-aids,upstream,1
-fcdo,fcdo,upstream,19
+fcdo,fcdo,upstream,20
 fcdo,fh,upstream,2
 fcdo,fhi360,upstream,1
 fcdo,foe_ewni,upstream,1
@@ -1007,7 +1008,7 @@ fcdo,vso,upstream,30
 fcdo,wacc-uk,upstream,1
 fcdo,wateraid,upstream,5
 fcdo,waterworks,upstream,1
-fcdo,wccuk,upstream,2
+fcdo,wccuk,upstream,3
 fcdo,wcf,upstream,2
 fcdo,wfwiuk,upstream,2
 fcdo,worldveg,upstream,1
@@ -1285,7 +1286,7 @@ minbuza_nl,fimi_iiwf_2019,upstream,4
 minbuza_nl,fipag,upstream,1
 minbuza_nl,fmo,upstream,5
 minbuza_nl,fms,upstream,1
-minbuza_nl,foenl,upstream,2
+minbuza_nl,foenl,upstream,1
 minbuza_nl,free_press_unlimited,upstream,2
 minbuza_nl,fwf,upstream,2
 minbuza_nl,gain,upstream,3
@@ -1361,7 +1362,7 @@ minbuza_nl,nuffic20171017,upstream,2
 minbuza_nl,nwo,upstream,1
 minbuza_nl,nwp,upstream,1
 minbuza_nl,odi,upstream,1
-minbuza_nl,onl,upstream,1307
+minbuza_nl,onl,upstream,1311
 minbuza_nl,oyw,upstream,1
 minbuza_nl,p-t-f-,upstream,1
 minbuza_nl,palladium_eur,upstream,1
@@ -1470,6 +1471,7 @@ nimd-hq,gen,upstream,1
 nimd-hq,gorin,upstream,1
 nimd-hq,saferworld,upstream,1
 nl-kvk-41207989,isdao,upstream,1
+nl-kvk-41207989,sisonke,upstream,1
 nl_wg,gfcf,upstream,1
 nlrc,carenederland,upstream,1
 nlrc,cordaid,upstream,1
