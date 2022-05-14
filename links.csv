@@ -140,6 +140,7 @@ irc_inc,bbcmediaaction,downstream,1
 irc_inc,concern_worldwide,downstream,2
 irc_inc,cuamm,downstream,1
 irc_inc,goal,downstream,1
+irc_inc,irc_inc,downstream,1
 irc_inc,irc_uk,downstream,2
 irc_inc,mcn,downstream,1
 irc_inc,msi,downstream,1
@@ -148,13 +149,12 @@ irc_inc,plan_uk,downstream,1
 irc_inc,restless,downstream,2
 irc_inc,zoa,downstream,1
 irc_uk,bbcmediaaction,downstream,1
-irc_uk,concern_worldwide,downstream,1
-irc_uk,cuamm,downstream,1
-irc_uk,fcdo,downstream,2
+irc_uk,fcdo,downstream,1
 irc_uk,goal,downstream,1
 irc_uk,irc_inc,downstream,67
 irc_uk,irc_uk,downstream,1
-irc_uk,nrc,downstream,1
+irc_uk,msi,downstream,1
+irc_uk,plan_uk,downstream,1
 irc_uk,restless,downstream,1
 itad,fcdo,downstream,1
 jass,cal_2000-pu,downstream,1
@@ -286,7 +286,7 @@ manniondaniels,nef-uk,downstream,1
 manniondaniels,network4africa,downstream,1
 manniondaniels,onetoonecf,downstream,1
 manniondaniels,opportunity-international-uk,downstream,1
-manniondaniels,orbis_international,downstream,1
+manniondaniels,orbis_international,downstream,2
 manniondaniels,orbis_uk,downstream,2
 manniondaniels,pa,downstream,1
 manniondaniels,peacedirect,downstream,1
@@ -677,10 +677,10 @@ carbontrustadvisory,uct,upstream,1
 carenederland,cordaid,upstream,2
 carenederland,dai,upstream,1
 carenederland,icco-cooperation,upstream,1
-carenederland,onl,upstream,4
+carenederland,onl,upstream,5
 carenederland,plannlno,upstream,1
 carenederland,rnw_org,upstream,1
-carenederland,scnl,upstream,9
+carenederland,scnl,upstream,10
 carenederland,st_vluchteling,upstream,6
 carenederland,tear,upstream,1
 carenederland,warchildholland,upstream,4
@@ -866,7 +866,7 @@ fcdo,energy_saving_trust,upstream,1
 fcdo,evc,upstream,2
 fcdo,excellent,upstream,1
 fcdo,f-aids,upstream,1
-fcdo,fcdo,upstream,20
+fcdo,fcdo,upstream,21
 fcdo,fh,upstream,2
 fcdo,fhi360,upstream,1
 fcdo,foe_ewni,upstream,1
@@ -1045,6 +1045,7 @@ gecfundmanagerpwc,edt_kenya,upstream,2
 gecfundmanagerpwc,gecfundmanagerpwc,upstream,1
 gecfundmanagerpwc,hiuk,upstream,1
 gecfundmanagerpwc,hpa,upstream,1
+gecfundmanagerpwc,irc_inc,upstream,1
 gecfundmanagerpwc,irc_uk,upstream,3
 gecfundmanagerpwc,lcd_admin,upstream,2
 gecfundmanagerpwc,lcdi_admin,upstream,1
@@ -1107,17 +1108,15 @@ irc_inc,cuamm,upstream,1
 irc_inc,drc,upstream,1
 irc_inc,goal,upstream,1
 irc_inc,hiuk,upstream,1
-irc_inc,irc_inc,upstream,1
 irc_inc,irc_uk,upstream,2
 irc_inc,mcn,upstream,1
 irc_inc,msi,upstream,1
 irc_inc,restless,upstream,2
 irc_inc,zoa,upstream,1
+irc_uk,bbcmediaaction,upstream,1
 irc_uk,goal,upstream,1
 irc_uk,hiuk,upstream,1
 irc_uk,irc_inc,upstream,71
-irc_uk,restless,upstream,1
-irc_uk,zoa,upstream,1
 irishaid,ecdpm,upstream,1
 irishaid,idi,upstream,1
 irishaid,iied,upstream,1
@@ -1224,7 +1223,6 @@ minbuza_nl,agriterra,upstream,2
 minbuza_nl,ahead,upstream,1
 minbuza_nl,aias,upstream,1
 minbuza_nl,ajar,upstream,1
-minbuza_nl,al_majmoua,upstream,1
 minbuza_nl,alab,upstream,2
 minbuza_nl,alcrer-1,upstream,1
 minbuza_nl,amrefnl,upstream,2
@@ -1239,7 +1237,6 @@ minbuza_nl,asi,upstream,1
 minbuza_nl,atmf,upstream,4
 minbuza_nl,auxfinbi,upstream,1
 minbuza_nl,avsi_uganda,upstream,2
-minbuza_nl,berytech,upstream,1
 minbuza_nl,bopinc,upstream,1
 minbuza_nl,bothends,upstream,1
 minbuza_nl,brac_admin2,upstream,2
@@ -1249,7 +1246,7 @@ minbuza_nl,bwh,upstream,1
 minbuza_nl,cabi,upstream,3
 minbuza_nl,cal_2000-pu,upstream,1
 minbuza_nl,carebenintogo,upstream,1
-minbuza_nl,carenederland,upstream,7
+minbuza_nl,carenederland,upstream,8
 minbuza_nl,ccc,upstream,1
 minbuza_nl,cesc,upstream,1
 minbuza_nl,chs_alliance,upstream,1
@@ -1384,7 +1381,6 @@ minbuza_nl,pumnl,upstream,1
 minbuza_nl,rcn,upstream,2
 minbuza_nl,redeenkind,upstream,1
 minbuza_nl,rlb,upstream,2
-minbuza_nl,rmf-lb,upstream,1
 minbuza_nl,rutgers,upstream,4
 minbuza_nl,rvo,upstream,14
 minbuza_nl,saferworld,upstream,10
@@ -1433,7 +1429,7 @@ minbuza_nl,vei_nl,upstream,2
 minbuza_nl,vngi,upstream,7
 minbuza_nl,w-d,upstream,2
 minbuza_nl,wageningen_ur,upstream,8
-minbuza_nl,warchildholland,upstream,7
+minbuza_nl,warchildholland,upstream,8
 minbuza_nl,waste,upstream,1
 minbuza_nl,wba,upstream,1
 minbuza_nl,wf-asia,upstream,1
@@ -1443,7 +1439,6 @@ minbuza_nl,wfp,upstream,2
 minbuza_nl,wgnrr_iati,upstream,1
 minbuza_nl,win,upstream,2
 minbuza_nl,wipc,upstream,1
-minbuza_nl,wlrc_aau,upstream,1
 minbuza_nl,wo-men,upstream,1
 minbuza_nl,womankindworld,upstream,1
 minbuza_nl,world_ywca,upstream,1
@@ -1560,7 +1555,6 @@ rutgers,simavi,upstream,2
 rutgers,sjg,upstream,1
 rutgers,stichting_hivos,upstream,1
 rvo,cabi,upstream,1
-rvo,idlo,upstream,1
 saferworld,cr,upstream,1
 scnl,carenederland,upstream,2
 scnl,cordaid,upstream,5
@@ -1685,7 +1679,7 @@ w-d,pascib_benin,upstream,1
 w-d,seco-ong-mali,upstream,1
 w-d,spong-burkina,upstream,1
 warchildholland,knvb,upstream,1
-warchildholland,onl,upstream,2
+warchildholland,onl,upstream,6
 warchildholland,rtp,upstream,1
 warchildholland,scnl,upstream,1
 warchildholland,unicefnl,upstream,1
