@@ -1010,6 +1010,7 @@ fcdo,tns,upstream,2
 fcdo,traidcraft,upstream,5
 fcdo,tripleline_crownagents,upstream,2
 fcdo,troc,upstream,1
+fcdo,ul,upstream,1
 fcdo,umn,upstream,1
 fcdo,undp,upstream,5
 fcdo,unf,upstream,2
@@ -1416,7 +1417,7 @@ minbuza_nl,siren,upstream,1
 minbuza_nl,siwi,upstream,1
 minbuza_nl,sjac,upstream,1
 minbuza_nl,skn,upstream,1
-minbuza_nl,snv,upstream,16
+minbuza_nl,snv,upstream,17
 minbuza_nl,solidaridad,upstream,1
 minbuza_nl,solidaridad-europe,upstream,1
 minbuza_nl,solidaridad-ssea,upstream,2
@@ -1597,6 +1598,7 @@ scnl,wcc,upstream,1
 scnl,wvnld,upstream,2
 scnl,zoa,upstream,8
 sdc_ch,cabi,upstream,1
+sdi-int,pphpz,upstream,1
 sdi-int,sdi-k,upstream,1
 sida,asi,upstream,1
 sida,dcaf,upstream,1
