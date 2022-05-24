@@ -70,6 +70,7 @@ dai,scnl,downstream,4
 dai,st_vluchteling,downstream,1
 dai,tear,downstream,1
 dai,wvnld,downstream,1
+danida,di,downstream,1
 danmission,danida,downstream,1
 ddp,dhrc_nepal,downstream,2
 drc,irc_inc,downstream,1
@@ -568,7 +569,7 @@ amrefnl,rutgers,upstream,1
 amrefnl,sjg,upstream,1
 amrefnl,wemos,upstream,1
 amrefug,cordaid,upstream,1
-ancb_benin,ancb_benin,upstream,23
+ancb_benin,ancb_benin,upstream,1
 appro-eu,appro-af,upstream,2
 ares,vlir-uos,upstream,1
 ausgov,unhcr,upstream,2
@@ -1249,7 +1250,7 @@ minbuza_nl,alab,upstream,2
 minbuza_nl,alcrer-1,upstream,1
 minbuza_nl,amrefnl,upstream,2
 minbuza_nl,amrefug,upstream,1
-minbuza_nl,ancb_benin,upstream,4
+minbuza_nl,ancb_benin,upstream,2
 minbuza_nl,aphrc,upstream,1
 minbuza_nl,arcfge,upstream,7
 minbuza_nl,arij,upstream,1
@@ -1387,7 +1388,7 @@ minbuza_nl,p-t-f-,upstream,1
 minbuza_nl,palladium_eur,upstream,1
 minbuza_nl,partos_nl,upstream,2
 minbuza_nl,pathfinder1,upstream,2
-minbuza_nl,pax,upstream,7
+minbuza_nl,pax,upstream,3
 minbuza_nl,pcf,upstream,2
 minbuza_nl,pekka_21,upstream,1
 minbuza_nl,pidg,upstream,1
@@ -1555,7 +1556,7 @@ plannlno,healthnet,upstream,3
 plannlno,icco-cooperation,upstream,1
 plannlno,kit,upstream,9
 plannlno,onl,upstream,2
-plannlno,pax,upstream,4
+plannlno,pax,upstream,2
 plannlno,rutgers,upstream,1
 plannlno,stad,upstream,1
 plannlno,tdh_nl,upstream,38
@@ -1614,7 +1615,7 @@ sida,pidg,upstream,1
 siharegional,musawah,upstream,1
 simavi,ads-nyanza,upstream,1
 simavi,amrefnl,upstream,3
-simavi,ancb_benin,upstream,5
+simavi,ancb_benin,upstream,3
 simavi,bnps,upstream,1
 simavi,cavwoc,upstream,1
 simavi,cini_jhk,upstream,1
