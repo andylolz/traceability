@@ -171,7 +171,6 @@ lts,snv,downstream,1
 mag,halo,downstream,1
 mag,npa,downstream,1
 manniondaniels,_admin,downstream,1
-manniondaniels,aaik,downstream,1
 manniondaniels,aar,downstream,1
 manniondaniels,aauk,downstream,1
 manniondaniels,abaseen,downstream,1
@@ -400,6 +399,7 @@ orbis_international,orbis_ethiopia,downstream,1
 orbis_uk,orbis_africa,downstream,1
 orbis_uk,orbis_ethiopia,downstream,1
 orbis_uk,orbis_international,downstream,3
+pax,amnesty,downstream,1
 plan_uk,irc_inc,downstream,1
 plannlno,amrefeth,downstream,1
 plannlno,amrefkenya,downstream,1
@@ -1471,7 +1471,6 @@ minbuza_nl,wipc,upstream,1
 minbuza_nl,wlrc_aau,upstream,1
 minbuza_nl,wo-men,upstream,1
 minbuza_nl,womankindworld,upstream,1
-minbuza_nl,world_ywca,upstream,1
 minbuza_nl,worldveg,upstream,1
 minbuza_nl,worldwaternet,upstream,1
 minbuza_nl,wpp,upstream,1
@@ -1541,6 +1540,7 @@ pacja,nj_1,upstream,1
 pacja,onl,upstream,13
 palladium,hiuk,upstream,1
 palladium,manniondaniels,upstream,1
+pax,amnesty,upstream,1
 pcst,pcst,upstream,1
 pegasys-eu,globalcanopy,upstream,1
 pegasys-eu,rfuk,upstream,1
@@ -1677,6 +1677,7 @@ stichting-subsidiegelden-dra,scnl,upstream,7
 stichting-subsidiegelden-dra,st_vluchteling,upstream,3
 stichting-subsidiegelden-dra,wvnld,upstream,1
 stichting-subsidiegelden-dra,zoa,upstream,1
+stichting_hivos,restless,upstream,1
 tbi,iucn_nl,upstream,1
 tccec,mce,upstream,1
 tdh_nl,freeagirl,upstream,2
