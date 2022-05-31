@@ -665,6 +665,7 @@ beis,pwc,upstream,2
 beis,rmi,upstream,2
 bmgf,cabi,upstream,4
 bmgf,unhcr,upstream,24
+bmz,unhcr,upstream,4
 bothends,aanl,upstream,2
 bothends,ccc,upstream,1
 bothends,foei,upstream,2
@@ -1013,7 +1014,7 @@ fcdo,undp,upstream,5
 fcdo,unf,upstream,2
 fcdo,unhcr,upstream,82
 fcdo,unocha,upstream,5
-fcdo,uom,upstream,1
+fcdo,uom,upstream,2
 fcdo,uq,upstream,6
 fcdo,vao,upstream,1
 fcdo,vfan,upstream,1
