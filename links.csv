@@ -84,10 +84,10 @@ emms,pcst,downstream,1
 fca,helpage_international,downstream,1
 fcdo,cafod,downstream,1
 fcdo,fcdo,downstream,3
-fcdo,fhi360,downstream,1
 fcdo,healthpartners-international,downstream,1
+fcdo,ipas,downstream,1
 fcdo,ippf,downstream,1
-fcdo,irc_inc,downstream,4
+fcdo,irc_inc,downstream,3
 fcdo,irc_uk,downstream,1
 fcdo,msi,downstream,1
 fcdo,options,downstream,1
@@ -364,7 +364,6 @@ minbuza_nl,ewdna2025,downstream,1
 minbuza_nl,irc_inc,downstream,1
 minbuza_nl,minbuza_nl,downstream,1
 minbuza_nl,onl,downstream,1
-minbuza_nl,promsex,downstream,1
 minbuza_nl,protos,downstream,1
 minbuza_nl,scnl,downstream,2
 minbuza_nl,st_vluchteling,downstream,2
@@ -888,6 +887,7 @@ fcdo,excellent,upstream,1
 fcdo,f-aids,upstream,1
 fcdo,fcdo,upstream,21
 fcdo,fh,upstream,2
+fcdo,fhi360,upstream,1
 fcdo,foe_ewni,upstream,1
 fcdo,ftm-291333,upstream,2
 fcdo,fyf,upstream,3
@@ -919,9 +919,10 @@ fcdo,imc_uk,upstream,1
 fcdo,imcw_admin,upstream,10
 fcdo,interburns,upstream,1
 fcdo,iom,upstream,13
+fcdo,ipas,upstream,1
 fcdo,ipeglobal,upstream,8
 fcdo,ippf,upstream,5
-fcdo,irc_inc,upstream,2
+fcdo,irc_inc,upstream,3
 fcdo,irc_uk,upstream,13
 fcdo,irw,upstream,4
 fcdo,itad,upstream,1
@@ -935,7 +936,7 @@ fcdo,kpmgllp,upstream,1
 fcdo,lbg,upstream,1
 fcdo,lboro,upstream,1
 fcdo,lbs,upstream,1
-fcdo,lcd_admin,upstream,4
+fcdo,lcd_admin,upstream,5
 fcdo,lcds,upstream,1
 fcdo,lepra,upstream,2
 fcdo,lhcf,upstream,1
@@ -1050,6 +1051,7 @@ foenl,tbi,upstream,1
 foenl,wecf,upstream,1
 free_press_unlimited,ejc,upstream,2
 fwf,cdi_vn_2021,upstream,1
+fwf,cividep,upstream,1
 gac-amc,idi,upstream,1
 gac-amc,idlo,upstream,1
 gac-amc,iisd,upstream,1
@@ -1356,7 +1358,6 @@ minbuza_nl,iucn_nl,upstream,3
 minbuza_nl,iyafp,upstream,1
 minbuza_nl,josa,upstream,1
 minbuza_nl,kepsa,upstream,2
-minbuza_nl,ktk,upstream,1
 minbuza_nl,law,upstream,1
 minbuza_nl,ldsps,upstream,1
 minbuza_nl,leprazending-tlm-nl,upstream,1
@@ -1562,7 +1563,7 @@ plannlno,amrefmw,upstream,1
 plannlno,amrefnl,upstream,1
 plannlno,cfyas,upstream,1
 plannlno,dciecpatnl,upstream,8
-plannlno,fawe-rs,upstream,1
+plannlno,fawe-rs,upstream,2
 plannlno,femnet,upstream,1
 plannlno,healthnet,upstream,3
 plannlno,icco-cooperation,upstream,1
