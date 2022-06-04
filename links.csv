@@ -82,7 +82,6 @@ emms,dgmh,downstream,1
 emms,mmh,downstream,1
 emms,pcst,downstream,1
 fca,helpage_international,downstream,1
-fcdo,cafod,downstream,1
 fcdo,fcdo,downstream,3
 fcdo,healthpartners-international,downstream,1
 fcdo,ipas,downstream,1
@@ -1358,6 +1357,7 @@ minbuza_nl,iucn_nl,upstream,3
 minbuza_nl,iyafp,upstream,1
 minbuza_nl,josa,upstream,1
 minbuza_nl,kepsa,upstream,2
+minbuza_nl,kit,upstream,1
 minbuza_nl,law,upstream,1
 minbuza_nl,ldsps,upstream,1
 minbuza_nl,leprazending-tlm-nl,upstream,1
@@ -1400,7 +1400,7 @@ minbuza_nl,pacja,upstream,1
 minbuza_nl,palladium_eur,upstream,1
 minbuza_nl,partos_nl,upstream,2
 minbuza_nl,pathfinder1,upstream,2
-minbuza_nl,pax,upstream,5
+minbuza_nl,pax,upstream,6
 minbuza_nl,pcf,upstream,2
 minbuza_nl,pekka_21,upstream,1
 minbuza_nl,pidg,upstream,1
