@@ -36,13 +36,6 @@ cal,fcdo,downstream,1
 cbm,fhfuk,downstream,1
 childhopeuk,fcdo,downstream,2
 childhopeuk,gecfundmanagerpwc,downstream,1
-concern_worldwide,cbm,downstream,1
-concern_worldwide,cu,downstream,1
-concern_worldwide,goal,downstream,1
-concern_worldwide,irc_uk,downstream,1
-concernuk,concern_worldwide,downstream,60
-concernuk,goal,downstream,1
-concernuk,irc_uk,downstream,1
 cordaid,carenederland,downstream,2
 cordaid,dai,downstream,1
 cordaid,icco-cooperation,downstream,5
@@ -140,7 +133,6 @@ inasp,umu,downstream,1
 ippf,msi,downstream,1
 irc,minbuza_nl,downstream,7
 irc_inc,bbcmediaaction,downstream,1
-irc_inc,concern_worldwide,downstream,3
 irc_inc,concernuk,downstream,2
 irc_inc,cuamm,downstream,1
 irc_inc,goal,downstream,1
@@ -705,9 +697,6 @@ ciuk,csom1,upstream,3
 clasp,energy_saving_trust,upstream,1
 coffey,oca,upstream,1
 coffey,sddirect,upstream,2
-concernuk,concern_worldwide,upstream,60
-concernuk,goal,upstream,1
-concernuk,irc_uk,upstream,1
 cordaid,carenederland,upstream,1
 cordaid,icco-cooperation,upstream,10
 cordaid,onl,upstream,16
@@ -762,7 +751,6 @@ dec-uk,aauk,upstream,5
 dec-uk,acf,upstream,2
 dec-uk,ageintl,upstream,8
 dec-uk,ciuk,upstream,1
-dec-uk,concern_worldwide,upstream,1
 dec-uk,concernuk,upstream,6
 dec-uk,gb-chc-220949,upstream,3
 dec-uk,irw,upstream,2
@@ -1126,7 +1114,6 @@ ippf,msi,upstream,1
 ippf,open_university,upstream,1
 ippf,options,upstream,1
 irc_inc,bbcmediaaction,upstream,1
-irc_inc,concern_worldwide,upstream,1
 irc_inc,concernuk,upstream,2
 irc_inc,cuamm,upstream,1
 irc_inc,drc,upstream,1
@@ -1541,7 +1528,6 @@ orbis_uk,orbis_africa,upstream,2
 orbis_uk,orbis_ethiopia,upstream,2
 orbis_uk,orbis_international,upstream,3
 oxfamgb,bond,upstream,1
-oxfamgb,concern_worldwide,upstream,1
 oxfamgb,onl,upstream,38
 pacja,nj_1,upstream,1
 pacja,onl,upstream,13
