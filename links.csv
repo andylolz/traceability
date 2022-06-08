@@ -36,6 +36,13 @@ cal,fcdo,downstream,1
 cbm,fhfuk,downstream,1
 childhopeuk,fcdo,downstream,2
 childhopeuk,gecfundmanagerpwc,downstream,1
+concern_worldwide,cbm,downstream,1
+concern_worldwide,cu,downstream,1
+concern_worldwide,goal,downstream,1
+concern_worldwide,irc_uk,downstream,1
+concernuk,concern_worldwide,downstream,60
+concernuk,goal,downstream,1
+concernuk,irc_uk,downstream,1
 cordaid,carenederland,downstream,2
 cordaid,dai,downstream,1
 cordaid,icco-cooperation,downstream,5
@@ -75,6 +82,8 @@ emms,dgmh,downstream,1
 emms,mmh,downstream,1
 emms,pcst,downstream,1
 fca,helpage_international,downstream,1
+fcam,bothends,downstream,1
+fcam,mamac,downstream,1
 fcdo,fcdo,downstream,3
 fcdo,healthpartners-international,downstream,1
 fcdo,ipas,downstream,1
@@ -133,6 +142,7 @@ inasp,umu,downstream,1
 ippf,msi,downstream,1
 irc,minbuza_nl,downstream,7
 irc_inc,bbcmediaaction,downstream,1
+irc_inc,concern_worldwide,downstream,3
 irc_inc,concernuk,downstream,2
 irc_inc,cuamm,downstream,1
 irc_inc,goal,downstream,1
@@ -163,6 +173,7 @@ lts,snv,downstream,1
 mag,halo,downstream,1
 mag,npa,downstream,1
 manniondaniels,_admin,downstream,1
+manniondaniels,aaik,downstream,1
 manniondaniels,aar,downstream,1
 manniondaniels,aauk,downstream,1
 manniondaniels,abaseen,downstream,1
@@ -408,7 +419,7 @@ restless,intrac,downstream,1
 restless,wcuk,downstream,1
 rutgers,ippf,downstream,1
 rutgers,nl-kvk-41207989,downstream,1
-rutgers,pmo-us,downstream,2
+rutgers,pmo-us,downstream,1
 rutgers,rnw_org,downstream,1
 rutgers,simavi,downstream,1
 rutgers,sjg,downstream,1
@@ -697,6 +708,9 @@ ciuk,csom1,upstream,3
 clasp,energy_saving_trust,upstream,1
 coffey,oca,upstream,1
 coffey,sddirect,upstream,2
+concernuk,concern_worldwide,upstream,60
+concernuk,goal,upstream,1
+concernuk,irc_uk,upstream,1
 cordaid,carenederland,upstream,1
 cordaid,icco-cooperation,upstream,10
 cordaid,onl,upstream,16
@@ -751,6 +765,7 @@ dec-uk,aauk,upstream,5
 dec-uk,acf,upstream,2
 dec-uk,ageintl,upstream,8
 dec-uk,ciuk,upstream,1
+dec-uk,concern_worldwide,upstream,1
 dec-uk,concernuk,upstream,6
 dec-uk,gb-chc-220949,upstream,3
 dec-uk,irw,upstream,2
@@ -795,7 +810,8 @@ emms,pacam,upstream,1
 emms,pcst,upstream,2
 energy_saving_trust,walaltd,upstream,1
 fca,ageintl,upstream,1
-fcam,bothends,upstream,1
+fcam,bothends,upstream,2
+fcam,mamac,upstream,1
 fcdo,3ie,upstream,6
 fcdo,_path_,upstream,3
 fcdo,aauk,upstream,1
@@ -1114,6 +1130,7 @@ ippf,msi,upstream,1
 ippf,open_university,upstream,1
 ippf,options,upstream,1
 irc_inc,bbcmediaaction,upstream,1
+irc_inc,concern_worldwide,upstream,1
 irc_inc,concernuk,upstream,2
 irc_inc,cuamm,upstream,1
 irc_inc,drc,upstream,1
@@ -1158,7 +1175,7 @@ manniondaniels,afrikids,upstream,2
 manniondaniels,amrefha,upstream,1
 manniondaniels,apt,upstream,1
 manniondaniels,asil,upstream,2
-manniondaniels,bracuk,upstream,4
+manniondaniels,bracuk,upstream,5
 manniondaniels,buildafrica,upstream,1
 manniondaniels,cafod,upstream,10
 manniondaniels,cbm,upstream,2
@@ -1403,7 +1420,7 @@ minbuza_nl,rcn,upstream,2
 minbuza_nl,redeenkind,upstream,1
 minbuza_nl,rlb,upstream,2
 minbuza_nl,rmf-lb,upstream,1
-minbuza_nl,rutgers,upstream,4
+minbuza_nl,rutgers,upstream,6
 minbuza_nl,rvo,upstream,14
 minbuza_nl,saferworld,upstream,10
 minbuza_nl,scnl,upstream,12
@@ -1528,6 +1545,7 @@ orbis_uk,orbis_africa,upstream,2
 orbis_uk,orbis_ethiopia,upstream,2
 orbis_uk,orbis_international,upstream,3
 oxfamgb,bond,upstream,1
+oxfamgb,concern_worldwide,upstream,1
 oxfamgb,onl,upstream,38
 pacja,nj_1,upstream,1
 pacja,onl,upstream,13
