@@ -36,6 +36,8 @@ cal,fcdo,downstream,1
 cbm,fhfuk,downstream,1
 childhopeuk,fcdo,downstream,2
 childhopeuk,gecfundmanagerpwc,downstream,1
+cocnl_publisher,ilgaasia,downstream,1
+cocnl_publisher,pai155669,downstream,1
 concern_worldwide,cbm,downstream,1
 concern_worldwide,cu,downstream,1
 concern_worldwide,goal,downstream,1
@@ -407,6 +409,7 @@ plannlno,amrefeth,downstream,1
 plannlno,amrefkenya,downstream,1
 pmo-us,rutgers,downstream,1
 pwc,acu,downstream,1
+pwc,britishcouncil,downstream,1
 pwc,dcapitalpartners,downstream,1
 pwc,inasp,downstream,1
 pwc,kingscollegelondon,downstream,1
@@ -1001,6 +1004,7 @@ fcdo,sendacow,upstream,4
 fcdo,sense_international,upstream,2
 fcdo,sfcg,upstream,1
 fcdo,snv,upstream,1
+fcdo,soas,upstream,2
 fcdo,spuk,upstream,3
 fcdo,ss-org,upstream,131
 fcdo,stichting_hivos,upstream,1
@@ -1289,6 +1293,7 @@ minbuza_nl,cilc,upstream,1
 minbuza_nl,cis,upstream,1
 minbuza_nl,civicus,upstream,1
 minbuza_nl,clingendael,upstream,5
+minbuza_nl,cocnl_publisher,upstream,1
 minbuza_nl,cordaid,upstream,24
 minbuza_nl,cowi,upstream,2
 minbuza_nl,cpd,upstream,1
@@ -1465,7 +1470,7 @@ minbuza_nl,unocha-sdc,upstream,2
 minbuza_nl,utz,upstream,1
 minbuza_nl,uvw,upstream,1
 minbuza_nl,vei_nl,upstream,2
-minbuza_nl,vngi,upstream,5
+minbuza_nl,vngi,upstream,4
 minbuza_nl,w-d,upstream,2
 minbuza_nl,wageningen_ur,upstream,8
 minbuza_nl,warchildholland,upstream,8
@@ -1786,6 +1791,6 @@ zoa,st_vluchteling,upstream,2
 zoa,syf,upstream,1
 zoa,tdh_nl,upstream,3
 zoa,tha,upstream,1
-zoa,vngi,upstream,2
+zoa,vngi,upstream,5
 zoa,warchildholland,upstream,5
 zoa,wvnld,upstream,3
