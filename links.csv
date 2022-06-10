@@ -364,13 +364,13 @@ mefbenin,ine_benin,downstream,1
 mefbenin,ze,downstream,1
 minbuza_nl,carenederland,downstream,2
 minbuza_nl,cidr,downstream,1
-minbuza_nl,ewdna2025,downstream,1
 minbuza_nl,irc_inc,downstream,1
 minbuza_nl,minbuza_nl,downstream,1
 minbuza_nl,onl,downstream,1
 minbuza_nl,protos,downstream,1
 minbuza_nl,scnl,downstream,2
 minbuza_nl,st_vluchteling,downstream,2
+minbuza_nl,swda,downstream,1
 minbuza_nl,tear,downstream,1
 minbuza_nl,vngi,downstream,1
 minbuza_nl,wvnld,downstream,1
@@ -1402,7 +1402,7 @@ minbuza_nl,nuffic20171017,upstream,2
 minbuza_nl,nwo,upstream,1
 minbuza_nl,nwp,upstream,1
 minbuza_nl,odi,upstream,1
-minbuza_nl,onl,upstream,1327
+minbuza_nl,onl,upstream,1331
 minbuza_nl,oyw,upstream,1
 minbuza_nl,p-t-f-,upstream,1
 minbuza_nl,pacja,upstream,1
@@ -1708,7 +1708,7 @@ traidcraft,fci,upstream,1
 undp,idlo,upstream,1
 undp,warchildholland,upstream,1
 unf,iif,upstream,1
-unitedstates,idlo,upstream,12
+unitedstates,idlo,upstream,11
 unitedstates,unhcr,upstream,294
 unocha-cbpf,cordaid,upstream,2
 unocha-cbpf,unhcr,upstream,45
@@ -1720,7 +1720,7 @@ uoe,bpcrs,upstream,1
 uoe,icddrb,upstream,1
 uoe,ipcrg,upstream,1
 uom,iied,upstream,1
-usaid,iom,upstream,121
+usaid,iom,upstream,125
 usaid,odi,upstream,1
 usaid,saferworld,upstream,1
 viva,bucksfarm,upstream,1
