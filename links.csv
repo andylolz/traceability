@@ -1294,7 +1294,7 @@ minbuza_nl,cis,upstream,1
 minbuza_nl,civicus,upstream,1
 minbuza_nl,clingendael,upstream,5
 minbuza_nl,cocnl_publisher,upstream,1
-minbuza_nl,cordaid,upstream,24
+minbuza_nl,cordaid,upstream,27
 minbuza_nl,cowi,upstream,2
 minbuza_nl,cpd,upstream,1
 minbuza_nl,creausa-org,upstream,3
@@ -1607,6 +1607,7 @@ rutgers,simavi,upstream,2
 rutgers,sjg,upstream,1
 rutgers,stichting_hivos,upstream,1
 rvo,cabi,upstream,1
+rvo,cordaid,upstream,1
 saferworld,cr,upstream,1
 sci,concernuk,upstream,1
 scnl,carenederland,upstream,2
@@ -1669,7 +1670,7 @@ solidaridad,trustafrica,upstream,16
 solidaridad-europe,solidaridad,upstream,148
 solidaridad-europe,solidaridad-ssea,upstream,24
 solidaridad-europe,solidaridad-waf,upstream,9
-sosnl,cordaid,upstream,3
+sosnl,cordaid,upstream,4
 sosnl,icco-cooperation,upstream,1
 sosnl,onl,upstream,3
 sosnl,plannlno,upstream,1
