@@ -372,7 +372,6 @@ minbuza_nl,scnl,downstream,2
 minbuza_nl,st_vluchteling,downstream,2
 minbuza_nl,swda,downstream,1
 minbuza_nl,tear,downstream,1
-minbuza_nl,vngi,downstream,1
 minbuza_nl,wvnld,downstream,1
 minbuza_nl,zoa,downstream,2
 msi,ciuk,downstream,1
@@ -447,7 +446,6 @@ snv,cidr,downstream,1
 snv,hsi,downstream,1
 snv,onl,downstream,1
 snv,protos,downstream,2
-snv,vngi,downstream,1
 st_vluchteling,carenederland,downstream,1
 st_vluchteling,cordaid,downstream,1
 st_vluchteling,intersos_main,downstream,1
@@ -546,7 +544,6 @@ zoa,syf,downstream,1
 zoa,tdh_nl,downstream,6
 zoa,tear,downstream,1
 zoa,tha,downstream,1
-zoa,vngi,downstream,1
 zoa,warchildholland,downstream,6
 zoa,wvnld,downstream,3
 _path_,gain,upstream,1
@@ -578,7 +575,7 @@ amrefnl,rutgers,upstream,1
 amrefnl,sjg,upstream,1
 amrefnl,wemos,upstream,1
 amrefug,cordaid,upstream,1
-ancb_benin,ancb_benin,upstream,1
+ancb_benin,ancb_benin,upstream,23
 appro-eu,appro-af,upstream,2
 ares,vlir-uos,upstream,1
 ausgov,unhcr,upstream,2
@@ -1264,7 +1261,7 @@ minbuza_nl,alab,upstream,2
 minbuza_nl,alcrer-1,upstream,1
 minbuza_nl,amrefnl,upstream,2
 minbuza_nl,amrefug,upstream,1
-minbuza_nl,ancb_benin,upstream,2
+minbuza_nl,ancb_benin,upstream,4
 minbuza_nl,aphrc,upstream,1
 minbuza_nl,arcfge,upstream,7
 minbuza_nl,arij,upstream,1
@@ -1470,7 +1467,6 @@ minbuza_nl,unocha-sdc,upstream,2
 minbuza_nl,utz,upstream,1
 minbuza_nl,uvw,upstream,1
 minbuza_nl,vei_nl,upstream,2
-minbuza_nl,vngi,upstream,4
 minbuza_nl,w-d,upstream,2
 minbuza_nl,wageningen_ur,upstream,8
 minbuza_nl,warchildholland,upstream,8
@@ -1553,7 +1549,6 @@ oxfamgb,bond,upstream,1
 oxfamgb,concern_worldwide,upstream,1
 oxfamgb,onl,upstream,38
 pacja,nj_1,upstream,1
-pacja,onl,upstream,13
 palladium,hiuk,upstream,1
 palladium,manniondaniels,upstream,1
 pax,amnesty,upstream,1
@@ -1572,7 +1567,7 @@ plannlno,amrefmw,upstream,1
 plannlno,amrefnl,upstream,1
 plannlno,cfyas,upstream,1
 plannlno,dciecpatnl,upstream,8
-plannlno,fawe-rs,upstream,2
+plannlno,fawe-rs,upstream,1
 plannlno,femnet,upstream,1
 plannlno,healthnet,upstream,3
 plannlno,icco-cooperation,upstream,1
@@ -1638,7 +1633,7 @@ sida,pidg,upstream,1
 siharegional,musawah,upstream,1
 simavi,ads-nyanza,upstream,1
 simavi,amrefnl,upstream,3
-simavi,ancb_benin,upstream,3
+simavi,ancb_benin,upstream,5
 simavi,bnps,upstream,1
 simavi,cavwoc,upstream,1
 simavi,cini_jhk,upstream,1
@@ -1663,7 +1658,6 @@ skn,icdi,upstream,1
 skn,uva_org,upstream,1
 snv,hsi,upstream,1
 snv,protos,upstream,1
-snv,vngi,upstream,1
 solidaridad,bwi,upstream,2
 solidaridad,fairfood,upstream,5
 solidaridad,trustafrica,upstream,16
@@ -1792,6 +1786,5 @@ zoa,st_vluchteling,upstream,2
 zoa,syf,upstream,1
 zoa,tdh_nl,upstream,3
 zoa,tha,upstream,1
-zoa,vngi,upstream,5
 zoa,warchildholland,upstream,5
 zoa,wvnld,upstream,3
