@@ -123,7 +123,6 @@ gecfundmanagerpwc,irc_uk,downstream,2
 gecfundmanagerpwc,ke-ngc-3372,downstream,2
 gecfundmanagerpwc,lcd_admin,downstream,2
 gecfundmanagerpwc,mce,downstream,2
-gecfundmanagerpwc,open_university,downstream,1
 gecfundmanagerpwc,opportunity-international-uk,downstream,2
 gecfundmanagerpwc,peas,downstream,2
 gecfundmanagerpwc,pin,downstream,1
@@ -134,7 +133,6 @@ gecfundmanagerpwc,varkeyfoundation,downstream,1
 gecfundmanagerpwc,viva,downstream,1
 gecfundmanagerpwc,vso,downstream,5
 gecfundmanagerpwc,wusc,downstream,2
-gecfundmanagerpwc,wvuk,downstream,1
 goal,irc_inc,downstream,1
 hiuk,hi_fed,downstream,5
 hpa,manniondaniels,downstream,1
@@ -372,6 +370,7 @@ minbuza_nl,scnl,downstream,2
 minbuza_nl,st_vluchteling,downstream,2
 minbuza_nl,swda,downstream,1
 minbuza_nl,tear,downstream,1
+minbuza_nl,vngi,downstream,1
 minbuza_nl,wvnld,downstream,1
 minbuza_nl,zoa,downstream,2
 msi,ciuk,downstream,1
@@ -446,6 +445,7 @@ snv,cidr,downstream,1
 snv,hsi,downstream,1
 snv,onl,downstream,1
 snv,protos,downstream,2
+snv,vngi,downstream,1
 st_vluchteling,carenederland,downstream,1
 st_vluchteling,cordaid,downstream,1
 st_vluchteling,intersos_main,downstream,1
@@ -528,7 +528,6 @@ wvnld,st_vluchteling,downstream,1
 wvnld,warchildholland,downstream,1
 wvnld,wcuk,downstream,1
 wvnld,zoa,downstream,1
-wvuk,open_university,downstream,1
 zoa,carenederland,downstream,2
 zoa,cordaid,downstream,7
 zoa,dai,downstream,6
@@ -544,6 +543,7 @@ zoa,syf,downstream,1
 zoa,tdh_nl,downstream,6
 zoa,tear,downstream,1
 zoa,tha,downstream,1
+zoa,vngi,downstream,1
 zoa,warchildholland,downstream,6
 zoa,wvnld,downstream,3
 _path_,gain,upstream,1
@@ -960,8 +960,8 @@ fcdo,namati_inc,upstream,1
 fcdo,nathan,upstream,2
 fcdo,nrgi,upstream,1
 fcdo,nutritionintl,upstream,1
-fcdo,odi,upstream,13
-fcdo,odi_sales_ltd,upstream,1
+fcdo,odi,upstream,30
+fcdo,odi_sales_ltd,upstream,4
 fcdo,onetoonecf,upstream,1
 fcdo,onl,upstream,2
 fcdo,opml,upstream,2
@@ -1076,14 +1076,12 @@ gecfundmanagerpwc,lcd_admin,upstream,2
 gecfundmanagerpwc,lcdi_admin,upstream,1
 gecfundmanagerpwc,mce,upstream,2
 gecfundmanagerpwc,mgcubed,upstream,1
-gecfundmanagerpwc,open_university,upstream,1
 gecfundmanagerpwc,opportunity-international-uk,upstream,1
 gecfundmanagerpwc,rains,upstream,1
 gecfundmanagerpwc,street_child,upstream,1
 gecfundmanagerpwc,vso,upstream,4
 gecfundmanagerpwc,wei,upstream,1
 gecfundmanagerpwc,wusc,upstream,1
-gecfundmanagerpwc,wvuk,upstream,1
 giro555,carenederland,upstream,2
 giro555,cordaid,upstream,2
 giro555,giro555,upstream,1
@@ -1419,7 +1417,7 @@ minbuza_nl,psi,upstream,3
 minbuza_nl,pstc_1102,upstream,1
 minbuza_nl,pumnl,upstream,1
 minbuza_nl,rcn,upstream,2
-minbuza_nl,redeenkind,upstream,1
+minbuza_nl,redeenkind,upstream,2
 minbuza_nl,rlb,upstream,2
 minbuza_nl,rmf-lb,upstream,1
 minbuza_nl,rutgers,upstream,6
@@ -1467,6 +1465,7 @@ minbuza_nl,unocha-sdc,upstream,2
 minbuza_nl,utz,upstream,1
 minbuza_nl,uvw,upstream,1
 minbuza_nl,vei_nl,upstream,2
+minbuza_nl,vngi,upstream,4
 minbuza_nl,w-d,upstream,2
 minbuza_nl,wageningen_ur,upstream,8
 minbuza_nl,warchildholland,upstream,8
@@ -1529,7 +1528,7 @@ onl,icco-cooperation,upstream,5
 onl,oqc,upstream,1
 onl,oxfamgb,upstream,70
 onl,plannlno,upstream,3
-onl,redeenkind,upstream,1
+onl,redeenkind,upstream,2
 onl,rnw_org,upstream,1
 onl,scnl,upstream,1
 onl,somo,upstream,1
@@ -1589,7 +1588,7 @@ pwc,mml,upstream,2
 pwc,open_university,upstream,1
 pwc,pasgr,upstream,1
 pwc,sddirect,upstream,1
-redeenkind,mm1,upstream,2
+redeenkind,afsc,upstream,1
 restless,ycare,upstream,1
 rikolto_belgium,rikolto,upstream,12
 rutgers,cfyas,upstream,2
@@ -1599,7 +1598,7 @@ rutgers,pmo-us,upstream,1
 rutgers,rnw_org,upstream,1
 rutgers,rutgers,upstream,1
 rutgers,simavi,upstream,2
-rutgers,sjg,upstream,1
+rutgers,sjg,upstream,2
 rutgers,stichting_hivos,upstream,1
 rvo,cabi,upstream,1
 rvo,cordaid,upstream,1
@@ -1612,7 +1611,7 @@ scnl,icco-cooperation,upstream,12
 scnl,onl,upstream,20
 scnl,plannlno,upstream,8
 scnl,populationcouncil,upstream,1
-scnl,redeenkind,upstream,1
+scnl,redeenkind,upstream,2
 scnl,simavi,upstream,1
 scnl,st_vluchteling,upstream,4
 scnl,tdh_nl,upstream,2
@@ -1658,6 +1657,7 @@ skn,icdi,upstream,1
 skn,uva_org,upstream,1
 snv,hsi,upstream,1
 snv,protos,upstream,1
+snv,vngi,upstream,1
 solidaridad,bwi,upstream,2
 solidaridad,fairfood,upstream,5
 solidaridad,trustafrica,upstream,16
@@ -1683,7 +1683,7 @@ stichting-subsidiegelden-dra,cordaid,upstream,2
 stichting-subsidiegelden-dra,dai,upstream,1
 stichting-subsidiegelden-dra,onl,upstream,21
 stichting-subsidiegelden-dra,plannlno,upstream,1
-stichting-subsidiegelden-dra,redeenkind,upstream,1
+stichting-subsidiegelden-dra,redeenkind,upstream,2
 stichting-subsidiegelden-dra,scnl,upstream,7
 stichting-subsidiegelden-dra,st_vluchteling,upstream,3
 stichting-subsidiegelden-dra,wvnld,upstream,1
@@ -1773,7 +1773,6 @@ wvuk,open_university,upstream,1
 wvuk,wv_cd,upstream,5
 wvuk,wv_cf,upstream,1
 wvuk,wv_et_activities,upstream,3
-wvuk,wvz-gec,upstream,1
 wygi,lts,upstream,1
 zoa,carenederland,upstream,2
 zoa,cordaid,upstream,7
@@ -1786,5 +1785,6 @@ zoa,st_vluchteling,upstream,2
 zoa,syf,upstream,1
 zoa,tdh_nl,upstream,3
 zoa,tha,upstream,1
+zoa,vngi,upstream,6
 zoa,warchildholland,upstream,5
 zoa,wvnld,upstream,3
