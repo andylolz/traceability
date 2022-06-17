@@ -850,7 +850,7 @@ fcdo,carbontrustadvisory,upstream,1
 fcdo,cardnoem,upstream,5
 fcdo,cepr,upstream,2
 fcdo,cgiar,upstream,7
-fcdo,chemonics,upstream,2
+fcdo,chemonics,upstream,3
 fcdo,childhopeuk,upstream,2
 fcdo,cic,upstream,2
 fcdo,cifal,upstream,1
@@ -1046,9 +1046,10 @@ fcdo,ycare,upstream,4
 fcdo,yoneco1997,upstream,1
 fcdo,zet,upstream,1
 fcdo,zoa,upstream,3
-fo_germany,unhcr,upstream,22
+fo_germany,unhcr,upstream,28
 foenl,foei,upstream,2
 foenl,gaia,upstream,1
+foenl,iucn_nl,upstream,1
 foenl,ntfp-ep,upstream,1
 foenl,sdi,upstream,1
 foenl,tbi,upstream,1
@@ -1329,6 +1330,7 @@ minbuza_nl,giro555,upstream,1
 minbuza_nl,guttmacher,upstream,1
 minbuza_nl,halo,upstream,9
 minbuza_nl,hdcentre,upstream,1
+minbuza_nl,hefoundation,upstream,1
 minbuza_nl,hi_fed,upstream,2
 minbuza_nl,hif,upstream,2
 minbuza_nl,hiil_mfa,upstream,5
@@ -1343,6 +1345,7 @@ minbuza_nl,idh_im,upstream,1
 minbuza_nl,idlo,upstream,14
 minbuza_nl,ieu,upstream,1
 minbuza_nl,ifdc-us,upstream,6
+minbuza_nl,ihedelft,upstream,1
 minbuza_nl,iisd,upstream,1
 minbuza_nl,ilo,upstream,14
 minbuza_nl,imc_uk,upstream,1
