@@ -647,7 +647,6 @@ be-dgd,solsoc,upstream,12
 be-dgd,sosfaim,upstream,1
 be-dgd,svdbskb_admin,upstream,1
 be-dgd,tfb_admin1,upstream,1
-be-dgd,trias,upstream,1
 be-dgd,ub,upstream,1
 be-dgd,ucos,upstream,1
 be-dgd,ulbcoop,upstream,1
@@ -829,7 +828,7 @@ fcdo,allwecan,upstream,2
 fcdo,aphrc,upstream,1
 fcdo,apt,upstream,3
 fcdo,arfh,upstream,1
-fcdo,art19,upstream,2
+fcdo,art19,upstream,3
 fcdo,asi,upstream,5
 fcdo,asil,upstream,3
 fcdo,basicneeds,upstream,1
@@ -845,7 +844,7 @@ fcdo,cal,upstream,6
 fcdo,carbontrustadvisory,upstream,1
 fcdo,cardnoem,upstream,5
 fcdo,cepr,upstream,2
-fcdo,cgiar,upstream,7
+fcdo,cgiar,upstream,6
 fcdo,chemonics,upstream,3
 fcdo,childhopeuk,upstream,2
 fcdo,cic,upstream,2
@@ -871,7 +870,7 @@ fcdo,dc,upstream,1
 fcdo,dca,upstream,1
 fcdo,ddp,upstream,4
 fcdo,dec-uk,upstream,5
-fcdo,drc,upstream,4
+fcdo,drc,upstream,5
 fcdo,ecuk,upstream,3
 fcdo,eddevtrust,upstream,3
 fcdo,edt_rwanda,upstream,2
@@ -1035,7 +1034,6 @@ fcdo,worldveg,upstream,1
 fcdo,wowni,upstream,1
 fcdo,wri,upstream,1
 fcdo,wsup,upstream,1
-fcdo,wvuk,upstream,1
 fcdo,wwfpakistan,upstream,2
 fcdo,wygi,upstream,6
 fcdo,ycare,upstream,4
@@ -1288,7 +1286,6 @@ minbuza_nl,civicus,upstream,1
 minbuza_nl,clingendael,upstream,5
 minbuza_nl,cocnl_publisher,upstream,1
 minbuza_nl,cordaid,upstream,27
-minbuza_nl,cowi,upstream,2
 minbuza_nl,cpd,upstream,1
 minbuza_nl,creausa-org,upstream,3
 minbuza_nl,crisisgroup,upstream,1
