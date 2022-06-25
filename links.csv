@@ -844,7 +844,7 @@ fcdo,cal,upstream,6
 fcdo,carbontrustadvisory,upstream,1
 fcdo,cardnoem,upstream,5
 fcdo,cepr,upstream,2
-fcdo,cgiar,upstream,6
+fcdo,cgiar,upstream,7
 fcdo,chemonics,upstream,3
 fcdo,childhopeuk,upstream,2
 fcdo,cic,upstream,2
@@ -1336,7 +1336,7 @@ minbuza_nl,ictj,upstream,8
 minbuza_nl,icwrsa,upstream,1
 minbuza_nl,idh,upstream,1
 minbuza_nl,idh_im,upstream,1
-minbuza_nl,idlo,upstream,15
+minbuza_nl,idlo,upstream,14
 minbuza_nl,ieu,upstream,1
 minbuza_nl,ifdc-us,upstream,6
 minbuza_nl,ihedelft,upstream,1
@@ -1417,7 +1417,7 @@ minbuza_nl,rcn,upstream,2
 minbuza_nl,redeenkind,upstream,2
 minbuza_nl,rlb,upstream,2
 minbuza_nl,rmf-lb,upstream,1
-minbuza_nl,rutgers,upstream,6
+minbuza_nl,rutgers,upstream,5
 minbuza_nl,rvo,upstream,14
 minbuza_nl,saferworld,upstream,10
 minbuza_nl,scnl,upstream,12
@@ -1594,7 +1594,7 @@ rutgers,pmo-us,upstream,1
 rutgers,rnw_org,upstream,1
 rutgers,rutgers,upstream,1
 rutgers,simavi,upstream,2
-rutgers,sjg,upstream,2
+rutgers,sjg,upstream,1
 rutgers,stichting_hivos,upstream,1
 rvo,cabi,upstream,1
 rvo,cordaid,upstream,1
@@ -1651,6 +1651,7 @@ simavi,waste,upstream,1
 simavi,wi,upstream,2
 skn,icdi,upstream,1
 skn,uva_org,upstream,1
+snv,cidr,upstream,1
 snv,hsi,upstream,1
 snv,protos,upstream,1
 snv,vngi,upstream,1
