@@ -844,7 +844,7 @@ fcdo,cal,upstream,6
 fcdo,carbontrustadvisory,upstream,1
 fcdo,cardnoem,upstream,5
 fcdo,cepr,upstream,2
-fcdo,cgiar,upstream,7
+fcdo,cgiar,upstream,6
 fcdo,chemonics,upstream,3
 fcdo,childhopeuk,upstream,2
 fcdo,cic,upstream,2
@@ -1109,6 +1109,7 @@ icf,aauk,upstream,1
 icf,odi_sales_ltd,upstream,1
 icf,wwf-uk,upstream,1
 idrccrdi,ssn,upstream,1
+ids,childhopeuk,upstream,1
 ids,tdh_foundation,upstream,1
 inasp,ashoka,upstream,1
 inasp,liwa-admin,upstream,1
