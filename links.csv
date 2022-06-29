@@ -92,7 +92,6 @@ fcdo,ipas,downstream,1
 fcdo,ippf,downstream,1
 fcdo,irc_inc,downstream,3
 fcdo,irc_uk,downstream,1
-fcdo,msi,downstream,1
 fcdo,options,downstream,1
 fcdo,pa,downstream,1
 fcdo,pin,downstream,1
@@ -139,7 +138,6 @@ hpa,manniondaniels,downstream,1
 inasp,afelt,downstream,1
 inasp,udom,downstream,1
 inasp,umu,downstream,1
-ippf,msi,downstream,1
 irc,minbuza_nl,downstream,7
 irc_inc,bbcmediaaction,downstream,1
 irc_inc,concern_worldwide,downstream,3
@@ -612,7 +610,7 @@ be-dgd,fairtrade_be,upstream,1
 be-dgd,fian-belgium,upstream,5
 be-dgd,foncaba,upstream,4
 be-dgd,fos,upstream,1
-be-dgd,fucid,upstream,5
+be-dgd,fucid,upstream,6
 be-dgd,g3w-m3m_admin,upstream,1
 be-dgd,geomoun,upstream,1
 be-dgd,hib,upstream,1
@@ -844,7 +842,7 @@ fcdo,cal,upstream,6
 fcdo,carbontrustadvisory,upstream,1
 fcdo,cardnoem,upstream,5
 fcdo,cepr,upstream,2
-fcdo,cgiar,upstream,7
+fcdo,cgiar,upstream,6
 fcdo,chemonics,upstream,3
 fcdo,childhopeuk,upstream,2
 fcdo,cic,upstream,2
@@ -902,7 +900,6 @@ fcdo,gsma_foundation,upstream,230
 fcdo,guttmacher,upstream,1
 fcdo,handinhand,upstream,1
 fcdo,healthpartners-international,upstream,1
-fcdo,hgc,upstream,2
 fcdo,hha,upstream,1
 fcdo,hi,upstream,4
 fcdo,hiuk,upstream,7
@@ -950,7 +947,7 @@ fcdo,mce,upstream,8
 fcdo,mml,upstream,23
 fcdo,motivation,upstream,3
 fcdo,mrc-sierra-leone,upstream,1
-fcdo,msi,upstream,11
+fcdo,msi,upstream,12
 fcdo,namati_inc,upstream,1
 fcdo,nathan,upstream,2
 fcdo,nrgi,upstream,1
@@ -1375,6 +1372,7 @@ minbuza_nl,mefbenin,upstream,2
 minbuza_nl,minbuza_nl,upstream,25
 minbuza_nl,mm1,upstream,2
 minbuza_nl,msi,upstream,7
+minbuza_nl,musawah,upstream,1
 minbuza_nl,mvo_nederland,upstream,2
 minbuza_nl,mwatana,upstream,1
 minbuza_nl,ncea,upstream,5
@@ -1427,14 +1425,13 @@ minbuza_nl,sdi,upstream,1
 minbuza_nl,ser,upstream,1
 minbuza_nl,sfcg,upstream,1
 minbuza_nl,sfd-yemen,upstream,1
-minbuza_nl,siharegional,upstream,1
 minbuza_nl,simavi,upstream,3
 minbuza_nl,siren,upstream,1
 minbuza_nl,siwi,upstream,1
 minbuza_nl,sjac,upstream,1
 minbuza_nl,skn,upstream,1
 minbuza_nl,snv,upstream,15
-minbuza_nl,solidaridad,upstream,1
+minbuza_nl,solidaridad,upstream,2
 minbuza_nl,solidaridad-europe,upstream,1
 minbuza_nl,solidaridad-ssea,upstream,2
 minbuza_nl,solidaridad-waf,upstream,2
@@ -1447,7 +1444,7 @@ minbuza_nl,stichting-subsidiegelden-dra,upstream,3
 minbuza_nl,stichting_hivos,upstream,14
 minbuza_nl,tbi,upstream,1
 minbuza_nl,tdh_foundation,upstream,1
-minbuza_nl,tdh_nl,upstream,15
+minbuza_nl,tdh_nl,upstream,16
 minbuza_nl,tear,upstream,1
 minbuza_nl,thp_org,upstream,1
 minbuza_nl,tns,upstream,1
@@ -1659,7 +1656,7 @@ snv,vngi,upstream,1
 solidaridad,bwi,upstream,2
 solidaridad,fairfood,upstream,5
 solidaridad,trustafrica,upstream,16
-solidaridad-europe,solidaridad,upstream,148
+solidaridad-europe,solidaridad,upstream,86
 solidaridad-europe,solidaridad-ssea,upstream,24
 solidaridad-europe,solidaridad-waf,upstream,9
 sosnl,cordaid,upstream,4
