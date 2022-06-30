@@ -586,7 +586,7 @@ be-dgd,ares,upstream,1
 be-dgd,asf,upstream,1
 be-dgd,bac,upstream,1
 be-dgd,bd,upstream,1
-be-dgd,be-dgd,upstream,11
+be-dgd,be-dgd,upstream,12
 be-dgd,bismsi,upstream,1
 be-dgd,bos_plus_tropen,upstream,2
 be-dgd,brulocalis,upstream,4
@@ -1271,7 +1271,6 @@ minbuza_nl,bu,upstream,1
 minbuza_nl,bwh,upstream,1
 minbuza_nl,cabi,upstream,3
 minbuza_nl,cal_2000-pu,upstream,1
-minbuza_nl,carebenintogo,upstream,1
 minbuza_nl,carenederland,upstream,7
 minbuza_nl,ccc,upstream,1
 minbuza_nl,cdi_vn_2021,upstream,1
@@ -1623,6 +1622,7 @@ sida,f-aids,upstream,1
 sida,idlo,upstream,2
 sida,onl,upstream,193
 sida,pidg,upstream,1
+siharegional,ewla,upstream,1
 siharegional,musawah,upstream,1
 simavi,ads-nyanza,upstream,1
 simavi,amrefnl,upstream,3
