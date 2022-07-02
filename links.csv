@@ -504,6 +504,7 @@ vso,gan,downstream,1
 vso,hiuk,downstream,1
 warchildholland,knvb,downstream,1
 warchildholland,rtp,downstream,1
+warchildholland,scnl,downstream,1
 warchildholland,wcc,downstream,1
 warchildholland,wcuk,downstream,7
 warchildholland,wvnld,downstream,1
@@ -747,6 +748,7 @@ danida,drc,upstream,30
 danida,ecdpm,upstream,1
 danida,globaltfokus,upstream,3
 danida,ibis_denmark,upstream,1
+danida,idh,upstream,1
 danida,ims,upstream,2
 danida,loftf,upstream,2
 danida,missioneast,upstream,5
@@ -1333,7 +1335,7 @@ minbuza_nl,icco-cooperation,upstream,17
 minbuza_nl,icnl_org,upstream,5
 minbuza_nl,ictj,upstream,8
 minbuza_nl,icwrsa,upstream,1
-minbuza_nl,idh,upstream,1
+minbuza_nl,idh,upstream,13
 minbuza_nl,idh_im,upstream,1
 minbuza_nl,idlo,upstream,14
 minbuza_nl,ieu,upstream,1
@@ -1682,8 +1684,9 @@ stichting-subsidiegelden-dra,dai,upstream,1
 stichting-subsidiegelden-dra,onl,upstream,21
 stichting-subsidiegelden-dra,plannlno,upstream,1
 stichting-subsidiegelden-dra,redeenkind,upstream,2
-stichting-subsidiegelden-dra,scnl,upstream,7
+stichting-subsidiegelden-dra,scnl,upstream,6
 stichting-subsidiegelden-dra,st_vluchteling,upstream,3
+stichting-subsidiegelden-dra,warchildholland,upstream,1
 stichting-subsidiegelden-dra,wvnld,upstream,1
 stichting-subsidiegelden-dra,zoa,upstream,1
 stichting_hivos,restless,upstream,1
