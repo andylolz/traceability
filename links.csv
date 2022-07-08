@@ -360,9 +360,10 @@ mefbenin,ine_benin,downstream,1
 mefbenin,ze,downstream,1
 minbuza_nl,carenederland,downstream,2
 minbuza_nl,cidr,downstream,1
-minbuza_nl,ewdna2025,downstream,1
+minbuza_nl,fowode,downstream,1
 minbuza_nl,irc_inc,downstream,1
 minbuza_nl,minbuza_nl,downstream,1
+minbuza_nl,nuwodu,downstream,1
 minbuza_nl,onl,downstream,1
 minbuza_nl,protos,downstream,1
 minbuza_nl,scnl,downstream,2
@@ -412,7 +413,6 @@ pwc,kingscollegelondon,downstream,1
 pwc,open_university,downstream,1
 pwc,pasgr,downstream,1
 pwc,sddirect,downstream,3
-rcn,minbuza_nl,downstream,1
 restless,accountablenow,downstream,1
 restless,intrac,downstream,1
 restless,wcuk,downstream,1
@@ -636,7 +636,7 @@ be-dgd,oxsol,upstream,1
 be-dgd,pib,upstream,1
 be-dgd,protos,upstream,1
 be-dgd,quinoa,upstream,1
-be-dgd,rcn,upstream,6
+be-dgd,rcn,upstream,8
 be-dgd,rikolto_belgium,upstream,1
 be-dgd,rkiv,upstream,1
 be-dgd,scibelgium,upstream,1
@@ -1398,6 +1398,7 @@ minbuza_nl,nwo,upstream,1
 minbuza_nl,nwp,upstream,1
 minbuza_nl,odi,upstream,1
 minbuza_nl,onl,upstream,1333
+minbuza_nl,oxfamintermon,upstream,1
 minbuza_nl,oyw,upstream,1
 minbuza_nl,p-t-f-,upstream,1
 minbuza_nl,pacja,upstream,1
@@ -1480,7 +1481,6 @@ minbuza_nl,win,upstream,2
 minbuza_nl,wipc,upstream,1
 minbuza_nl,wlrc_aau,upstream,1
 minbuza_nl,wo-men,upstream,1
-minbuza_nl,womankindworld,upstream,1
 minbuza_nl,worldwaternet,upstream,1
 minbuza_nl,wpp,upstream,1
 minbuza_nl,wvnld,upstream,4
@@ -1505,6 +1505,7 @@ nimd-hq,gen,upstream,1
 nimd-hq,gorin,upstream,1
 nimd-hq,saferworld,upstream,1
 nl-kvk-41207989,galz,upstream,1
+nl-kvk-41207989,gnpplus,upstream,1
 nl-kvk-41207989,isdao,upstream,1
 nl-kvk-41207989,sisonke,upstream,1
 nl_wg,gfcf,upstream,1
