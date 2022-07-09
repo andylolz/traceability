@@ -360,10 +360,10 @@ mefbenin,ine_benin,downstream,1
 mefbenin,ze,downstream,1
 minbuza_nl,carenederland,downstream,2
 minbuza_nl,cidr,downstream,1
+minbuza_nl,ewdna2025,downstream,1
 minbuza_nl,fowode,downstream,1
 minbuza_nl,irc_inc,downstream,1
 minbuza_nl,minbuza_nl,downstream,1
-minbuza_nl,nuwodu,downstream,1
 minbuza_nl,onl,downstream,1
 minbuza_nl,protos,downstream,1
 minbuza_nl,scnl,downstream,2
@@ -1393,7 +1393,7 @@ minbuza_nl,nlr_indonesia,upstream,1
 minbuza_nl,nlrc,upstream,216
 minbuza_nl,nrc,upstream,2
 minbuza_nl,nso,upstream,1
-minbuza_nl,nuffic20171017,upstream,2
+minbuza_nl,nuffic20171017,upstream,1
 minbuza_nl,nwo,upstream,1
 minbuza_nl,nwp,upstream,1
 minbuza_nl,odi,upstream,1
@@ -1481,6 +1481,7 @@ minbuza_nl,win,upstream,2
 minbuza_nl,wipc,upstream,1
 minbuza_nl,wlrc_aau,upstream,1
 minbuza_nl,wo-men,upstream,1
+minbuza_nl,womankindworld,upstream,1
 minbuza_nl,worldwaternet,upstream,1
 minbuza_nl,wpp,upstream,1
 minbuza_nl,wvnld,upstream,4
