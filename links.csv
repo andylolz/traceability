@@ -369,7 +369,6 @@ minbuza_nl,protos,downstream,1
 minbuza_nl,scnl,downstream,2
 minbuza_nl,st_vluchteling,downstream,2
 minbuza_nl,tear,downstream,1
-minbuza_nl,vngi,downstream,1
 minbuza_nl,wvnld,downstream,1
 minbuza_nl,zoa,downstream,2
 msi,ciuk,downstream,1
@@ -443,7 +442,6 @@ snv,cidr,downstream,1
 snv,hsi,downstream,1
 snv,onl,downstream,1
 snv,protos,downstream,2
-snv,vngi,downstream,1
 st_vluchteling,carenederland,downstream,1
 st_vluchteling,cordaid,downstream,1
 st_vluchteling,intersos_main,downstream,1
@@ -1660,7 +1658,6 @@ skn,uva_org,upstream,1
 snv,cidr,upstream,1
 snv,hsi,upstream,1
 snv,protos,upstream,1
-snv,vngi,upstream,1
 solidaridad,bwi,upstream,2
 solidaridad,fairfood,upstream,5
 solidaridad,trustafrica,upstream,16
