@@ -487,7 +487,7 @@ tripleline_crownagents,tbalert,downstream,1
 tripleline_crownagents,traidcraft,downstream,1
 tripleline_crownagents,waronwant,downstream,2
 unf,fcdo,downstream,1
-unicefnl,solidaridad-europe,downstream,1
+unicefnl,solidaridad-europe,downstream,2
 unpf,bmu_iki,downstream,12
 uoe,bpcrs,downstream,1
 uoe,icddrb,downstream,1
@@ -736,8 +736,8 @@ danida,aadk,upstream,3
 danida,adra-dk,upstream,1
 danida,caritas_denmark,upstream,2
 danida,cisu,upstream,2
-danida,cku,upstream,3
-danida,danida,upstream,11
+danida,cku,upstream,2
+danida,danida,upstream,10
 danida,danishrc,upstream,4
 danida,danmission,upstream,20
 danida,dca,upstream,4
@@ -838,7 +838,7 @@ fcdo,bond,upstream,3
 fcdo,britishcouncil,upstream,5
 fcdo,bvs-nepal,upstream,1
 fcdo,cabi,upstream,4
-fcdo,cafod,upstream,112
+fcdo,cafod,upstream,38
 fcdo,cal,upstream,6
 fcdo,carbontrustadvisory,upstream,1
 fcdo,cardnoem,upstream,5
@@ -1084,7 +1084,7 @@ giro555,plannlno,upstream,5
 giro555,scnl,upstream,5
 giro555,st_vluchteling,upstream,4
 giro555,tdh_nl,upstream,1
-giro555,unicefnl,upstream,1
+giro555,unicefnl,upstream,3
 giro555,wvnld,upstream,3
 gppac,wfm-igp,upstream,1
 guttmacher,arcfge,upstream,1
@@ -1456,7 +1456,7 @@ minbuza_nl,twynstragudde,upstream,1
 minbuza_nl,udpk,upstream,1
 minbuza_nl,undp,upstream,2
 minbuza_nl,unhcr,upstream,87
-minbuza_nl,unicefnl,upstream,1
+minbuza_nl,unicefnl,upstream,2
 minbuza_nl,united_work,upstream,4
 minbuza_nl,universiteit_leiden,upstream,2
 minbuza_nl,unocha-sdc,upstream,2
@@ -1731,7 +1731,7 @@ warchildholland,knvb,upstream,1
 warchildholland,onl,upstream,6
 warchildholland,rtp,upstream,1
 warchildholland,scnl,upstream,1
-warchildholland,unicefnl,upstream,1
+warchildholland,unicefnl,upstream,2
 warchildholland,wcc,upstream,1
 warchildholland,wcuk,upstream,4
 waste,amrefnl,upstream,2
