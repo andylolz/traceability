@@ -133,6 +133,7 @@ gecfundmanagerpwc,viva,downstream,1
 gecfundmanagerpwc,vso,downstream,5
 gecfundmanagerpwc,wusc,downstream,2
 goal,irc_inc,downstream,1
+hiil_mfa,minbuza_nl,downstream,1
 hiuk,hi_fed,downstream,5
 hpa,manniondaniels,downstream,1
 inasp,afelt,downstream,1
@@ -362,7 +363,7 @@ minbuza_nl,carenederland,downstream,2
 minbuza_nl,cidr,downstream,1
 minbuza_nl,fowode,downstream,1
 minbuza_nl,irc_inc,downstream,1
-minbuza_nl,minbuza_nl,downstream,1
+minbuza_nl,minbuza_nl,downstream,2
 minbuza_nl,nuwodu,downstream,1
 minbuza_nl,onl,downstream,1
 minbuza_nl,protos,downstream,1
@@ -685,7 +686,6 @@ carenederland,dai,upstream,1
 carenederland,icco-cooperation,upstream,1
 carenederland,onl,upstream,5
 carenederland,plannlno,upstream,1
-carenederland,rnw_org,upstream,1
 carenederland,scnl,upstream,10
 carenederland,st_vluchteling,upstream,6
 carenederland,tear,upstream,1
@@ -1272,7 +1272,7 @@ minbuza_nl,bu,upstream,1
 minbuza_nl,bwh,upstream,1
 minbuza_nl,cabi,upstream,3
 minbuza_nl,cal_2000-pu,upstream,1
-minbuza_nl,carenederland,upstream,7
+minbuza_nl,carenederland,upstream,6
 minbuza_nl,ccc,upstream,1
 minbuza_nl,cdi_vn_2021,upstream,1
 minbuza_nl,cesc,upstream,1
@@ -1326,7 +1326,7 @@ minbuza_nl,hdcentre,upstream,1
 minbuza_nl,hefoundation,upstream,1
 minbuza_nl,hi_fed,upstream,3
 minbuza_nl,hif,upstream,2
-minbuza_nl,hiil_mfa,upstream,5
+minbuza_nl,hiil_mfa,upstream,6
 minbuza_nl,hsi,upstream,2
 minbuza_nl,ibfd,upstream,14
 minbuza_nl,icco-cooperation,upstream,17
@@ -1338,7 +1338,7 @@ minbuza_nl,idh_im,upstream,1
 minbuza_nl,idlo,upstream,14
 minbuza_nl,ieu,upstream,1
 minbuza_nl,ifdc-us,upstream,6
-minbuza_nl,ihedelft,upstream,1
+minbuza_nl,ihedelft,upstream,2
 minbuza_nl,iisd,upstream,1
 minbuza_nl,ilo,upstream,14
 minbuza_nl,imc_uk,upstream,1
@@ -1371,7 +1371,7 @@ minbuza_nl,mce,upstream,4
 minbuza_nl,mcn,upstream,1
 minbuza_nl,mdf,upstream,4
 minbuza_nl,mefbenin,upstream,2
-minbuza_nl,minbuza_nl,upstream,25
+minbuza_nl,minbuza_nl,upstream,24
 minbuza_nl,mm1,upstream,2
 minbuza_nl,msi,upstream,7
 minbuza_nl,mvo_nederland,upstream,2
