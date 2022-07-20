@@ -100,7 +100,8 @@ fcdo,pmc,downstream,1
 fcdo,pwc,downstream,1
 fcdo,sinda,downstream,1
 foenl,foei,downstream,2
-foenl,iucn_nl,downstream,1
+foenl,gaia,downstream,1
+foenl,iucn_nl,downstream,2
 foenl,ntfp-ep,downstream,1
 foenl,sdi,downstream,1
 foenl,stichtingfern,downstream,1
@@ -783,12 +784,6 @@ drc,irc_uk,upstream,1
 drc,irw,upstream,1
 drc,mapaction,upstream,1
 drc,nrc,upstream,1
-ec-echo,iom,upstream,59
-ec-echo,nlrc,upstream,2
-ec-echo,onl,upstream,40
-ec-echo,tdh_nl,upstream,4
-ec-echo,unhcr,upstream,247
-ec-echo,warchildholland,upstream,4
 ec-fpi,iom,upstream,3
 ec-fpi,warchildholland,upstream,1
 ec-intpa,cabi,upstream,2
@@ -1297,7 +1292,7 @@ minbuza_nl,dai-e,upstream,1
 minbuza_nl,dca,upstream,1
 minbuza_nl,dcaf,upstream,2
 minbuza_nl,decp,upstream,3
-minbuza_nl,deltares,upstream,3
+minbuza_nl,deltares,upstream,4
 minbuza_nl,dggf_financing_local_smes,upstream,1
 minbuza_nl,dkti,upstream,1
 minbuza_nl,drc,upstream,7
@@ -1385,7 +1380,7 @@ minbuza_nl,nchrdk,upstream,1
 minbuza_nl,ndsicde,upstream,1
 minbuza_nl,nef_mali,upstream,1
 minbuza_nl,nfp,upstream,4
-minbuza_nl,nimd-hq,upstream,2
+minbuza_nl,nimd-hq,upstream,4
 minbuza_nl,nl-kvk-41207989,upstream,5
 minbuza_nl,nl-kvk-54436222-27541,upstream,20
 minbuza_nl,nl_wg,upstream,1
@@ -1448,8 +1443,7 @@ minbuza_nl,st_vluchteling,upstream,2
 minbuza_nl,stc-international,upstream,1
 minbuza_nl,stichting-subsidiegelden-dra,upstream,3
 minbuza_nl,stichting_hivos,upstream,14
-minbuza_nl,stichtingfern,upstream,1
-minbuza_nl,tbi,upstream,1
+minbuza_nl,tbi,upstream,2
 minbuza_nl,tdh_foundation,upstream,1
 minbuza_nl,tdh_nl,upstream,16
 minbuza_nl,tear,upstream,1
@@ -1732,6 +1726,9 @@ vso,alfalit,upstream,1
 vso,anda,upstream,1
 vso,gan,upstream,1
 vso,hiuk,upstream,1
+w-d,pascib_benin,upstream,1
+w-d,seco-ong-mali,upstream,1
+w-d,spong-burkina,upstream,1
 warchildholland,knvb,upstream,1
 warchildholland,onl,upstream,6
 warchildholland,rtp,upstream,1
