@@ -373,6 +373,7 @@ minbuza_nl,st_vluchteling,downstream,2
 minbuza_nl,tear,downstream,1
 minbuza_nl,wvnld,downstream,1
 minbuza_nl,zoa,downstream,2
+mondiaalfnv,yipl,downstream,1
 msi,ciuk,downstream,1
 msi,fhi360,downstream,1
 msi,icwrsa,downstream,1
@@ -784,6 +785,12 @@ drc,irc_uk,upstream,1
 drc,irw,upstream,1
 drc,mapaction,upstream,1
 drc,nrc,upstream,1
+ec-echo,iom,upstream,59
+ec-echo,nlrc,upstream,2
+ec-echo,onl,upstream,40
+ec-echo,tdh_nl,upstream,4
+ec-echo,unhcr,upstream,247
+ec-echo,warchildholland,upstream,4
 ec-fpi,iom,upstream,3
 ec-fpi,warchildholland,upstream,1
 ec-intpa,cabi,upstream,2
@@ -1125,7 +1132,7 @@ irc_inc,bbcmediaaction,upstream,1
 irc_inc,concern_worldwide,upstream,1
 irc_inc,concernuk,upstream,2
 irc_inc,cuamm,upstream,1
-irc_inc,drc,upstream,1
+irc_inc,drc,upstream,2
 irc_inc,goal,upstream,1
 irc_inc,hiuk,upstream,1
 irc_inc,irc_uk,upstream,2
@@ -1397,7 +1404,6 @@ minbuza_nl,onl,upstream,1334
 minbuza_nl,oxfamintermon,upstream,1
 minbuza_nl,oyw,upstream,1
 minbuza_nl,p-t-f-,upstream,1
-minbuza_nl,pacja,upstream,1
 minbuza_nl,palladium_eur,upstream,1
 minbuza_nl,partos_nl,upstream,2
 minbuza_nl,pathfinder1,upstream,2
@@ -1443,6 +1449,7 @@ minbuza_nl,st_vluchteling,upstream,2
 minbuza_nl,stc-international,upstream,1
 minbuza_nl,stichting-subsidiegelden-dra,upstream,3
 minbuza_nl,stichting_hivos,upstream,14
+minbuza_nl,tan,upstream,1
 minbuza_nl,tbi,upstream,2
 minbuza_nl,tdh_foundation,upstream,1
 minbuza_nl,tdh_nl,upstream,16
@@ -1461,7 +1468,7 @@ minbuza_nl,unocha-sdc,upstream,2
 minbuza_nl,utz,upstream,1
 minbuza_nl,uvw,upstream,1
 minbuza_nl,vei_nl,upstream,2
-minbuza_nl,vngi,upstream,4
+minbuza_nl,vngi,upstream,5
 minbuza_nl,w-d,upstream,2
 minbuza_nl,wageningen_ur,upstream,8
 minbuza_nl,warchildholland,upstream,8
@@ -1490,6 +1497,7 @@ mm1,sfcg,upstream,4
 mm1,spr,upstream,1
 mm1,tear,upstream,1
 mml,sddirect,upstream,1
+mondiaalfnv,yipl,upstream,2
 msi,icwrsa,upstream,1
 msi,ippf,upstream,1
 msi,irc_inc,upstream,1
@@ -1786,6 +1794,6 @@ zoa,st_vluchteling,upstream,2
 zoa,syf,upstream,1
 zoa,tdh_nl,upstream,3
 zoa,tha,upstream,1
-zoa,vngi,upstream,6
+zoa,vngi,upstream,7
 zoa,warchildholland,upstream,5
 zoa,wvnld,upstream,3
