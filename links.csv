@@ -52,7 +52,7 @@ cordaid,onl,downstream,7
 cordaid,plannlno,downstream,4
 cordaid,scnl,downstream,4
 cordaid,sosnl,downstream,6
-cordaid,st_vluchteling,downstream,9
+cordaid,st_vluchteling,downstream,10
 cordaid,tear,downstream,4
 cordaid,warchildholland,downstream,4
 cordaid,wipc,downstream,1
@@ -163,6 +163,7 @@ irc_uk,irc_uk,downstream,1
 irc_uk,msi,downstream,1
 irc_uk,plan_uk,downstream,1
 irc_uk,restless,downstream,1
+irc_uk,zoa,downstream,1
 itad,fcdo,downstream,1
 jass,cal_2000-pu,downstream,1
 jass,genderatwork,downstream,1
@@ -364,7 +365,7 @@ minbuza_nl,carenederland,downstream,2
 minbuza_nl,cidr,downstream,1
 minbuza_nl,fowode,downstream,1
 minbuza_nl,irc_inc,downstream,1
-minbuza_nl,minbuza_nl,downstream,2
+minbuza_nl,minbuza_nl,downstream,1
 minbuza_nl,nuwodu,downstream,1
 minbuza_nl,onl,downstream,1
 minbuza_nl,protos,downstream,1
@@ -720,7 +721,7 @@ cordaid,onl,upstream,16
 cordaid,plannlno,upstream,3
 cordaid,scnl,upstream,2
 cordaid,sfcg,upstream,1
-cordaid,st_vluchteling,upstream,12
+cordaid,st_vluchteling,upstream,13
 cordaid,tdh_nl,upstream,1
 cordaid,wanep,upstream,1
 cordaid,warchildholland,upstream,4
@@ -1147,6 +1148,7 @@ irc_inc,zoa,upstream,1
 irc_uk,goal,upstream,1
 irc_uk,hiuk,upstream,1
 irc_uk,irc_inc,upstream,72
+irc_uk,zoa,upstream,1
 irishaid,ecdpm,upstream,1
 irishaid,idi,upstream,1
 irishaid,iied,upstream,1
@@ -1381,7 +1383,7 @@ minbuza_nl,mce,upstream,4
 minbuza_nl,mcn,upstream,1
 minbuza_nl,mdf,upstream,4
 minbuza_nl,mefbenin,upstream,2
-minbuza_nl,minbuza_nl,upstream,24
+minbuza_nl,minbuza_nl,upstream,20
 minbuza_nl,mm1,upstream,2
 minbuza_nl,msi,upstream,7
 minbuza_nl,mvo_nederland,upstream,2
@@ -1549,6 +1551,7 @@ onl,twnafrica,upstream,1
 onl,wvnld,upstream,3
 onl,zoa,upstream,2
 open_university,uom,upstream,1
+options,aauk,upstream,1
 orbis_international,nnjs_nepal,upstream,1
 orbis_international,orbis_africa,upstream,1
 orbis_international,orbis_ethiopia,upstream,1
