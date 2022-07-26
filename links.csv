@@ -940,7 +940,6 @@ fcdo,kipkelion,upstream,1
 fcdo,knust,upstream,1
 fcdo,kpmgea,upstream,3
 fcdo,kpmgllp,upstream,1
-fcdo,lbg,upstream,1
 fcdo,lboro,upstream,1
 fcdo,lbs,upstream,1
 fcdo,lcd_admin,upstream,5
@@ -1091,6 +1090,7 @@ giro555,cordaid,upstream,2
 giro555,giro555,upstream,1
 giro555,icco-cooperation,upstream,17
 giro555,nlrc,upstream,14
+giro555,pax,upstream,1
 giro555,plannlno,upstream,5
 giro555,scnl,upstream,5
 giro555,st_vluchteling,upstream,4
@@ -1635,7 +1635,6 @@ scnl,warchildholland,upstream,5
 scnl,wcc,upstream,1
 scnl,wvnld,upstream,2
 scnl,zoa,upstream,8
-sdc_ch,cabi,upstream,1
 sdi-int,pphpz,upstream,1
 sdi-int,sdi-k,upstream,1
 sida,asi,upstream,1
