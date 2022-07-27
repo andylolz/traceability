@@ -698,7 +698,7 @@ carenederland,icco-cooperation,upstream,1
 carenederland,onl,upstream,5
 carenederland,plannlno,upstream,1
 carenederland,scnl,upstream,10
-carenederland,st_vluchteling,upstream,6
+carenederland,st_vluchteling,upstream,7
 carenederland,tear,upstream,1
 carenederland,warchildholland,upstream,4
 carenederland,wvnld,upstream,3
@@ -1406,7 +1406,7 @@ minbuza_nl,nuffic20171017,upstream,1
 minbuza_nl,nwo,upstream,1
 minbuza_nl,nwp,upstream,1
 minbuza_nl,odi,upstream,1
-minbuza_nl,onl,upstream,1337
+minbuza_nl,onl,upstream,1339
 minbuza_nl,oxfamintermon,upstream,1
 minbuza_nl,oyw,upstream,1
 minbuza_nl,p-t-f-,upstream,1
@@ -1519,6 +1519,7 @@ nimd-hq,saferworld,upstream,1
 nl-kvk-41207989,galz,upstream,2
 nl-kvk-41207989,gnpplus,upstream,1
 nl-kvk-41207989,isdao,upstream,1
+nl-kvk-41207989,sanpud,upstream,1
 nl-kvk-41207989,sisonke,upstream,1
 nl_wg,gfcf,upstream,1
 nl_wg,kcdf,upstream,1
@@ -1635,6 +1636,7 @@ scnl,warchildholland,upstream,5
 scnl,wcc,upstream,1
 scnl,wvnld,upstream,2
 scnl,zoa,upstream,8
+sdc_ch,cabi,upstream,1
 sdi-int,pphpz,upstream,1
 sdi-int,sdi-k,upstream,1
 sida,asi,upstream,1
