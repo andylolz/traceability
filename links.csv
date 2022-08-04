@@ -467,6 +467,7 @@ stichting-subsidiegelden-dra,warchildholland,downstream,2
 stichting-subsidiegelden-dra,wvnld,downstream,1
 stichting-subsidiegelden-dra,zoa,downstream,1
 taf,dipr,downstream,1
+tear,tdh_nl,downstream,1
 tffus,aain,downstream,1
 the_power_of_nutrition,worldbank,downstream,2
 thp_org,acfspain,downstream,1
@@ -681,7 +682,7 @@ bothends,foenl,upstream,2
 bothends,itforchange,upstream,1
 bothends,somo,upstream,2
 bothends,tni,upstream,1
-bracuk,hiuk,upstream,1
+bracintl,hiuk,upstream,1
 britishcouncil,open_university,upstream,1
 britishcouncil,pwc,upstream,1
 caeb_mali,cordaid,upstream,1
@@ -1442,7 +1443,7 @@ minbuza_nl,siren,upstream,1
 minbuza_nl,siwi,upstream,1
 minbuza_nl,sjac,upstream,1
 minbuza_nl,skn,upstream,1
-minbuza_nl,snv,upstream,15
+minbuza_nl,snv,upstream,17
 minbuza_nl,solidaridad,upstream,2
 minbuza_nl,solidaridad-europe,upstream,1
 minbuza_nl,solidaridad-ssea,upstream,2
@@ -1544,7 +1545,7 @@ onl,plannlno,upstream,3
 onl,redeenkind,upstream,2
 onl,rnw_org,upstream,1
 onl,scnl,upstream,1
-onl,somo,upstream,1
+onl,somo,upstream,2
 onl,st_vluchteling,upstream,1
 onl,tear,upstream,2
 onl,twnafrica,upstream,1
