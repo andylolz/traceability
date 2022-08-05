@@ -371,7 +371,6 @@ minbuza_nl,st_vluchteling,downstream,2
 minbuza_nl,tear,downstream,1
 minbuza_nl,wvnld,downstream,1
 minbuza_nl,zoa,downstream,2
-mondiaalfnv,yipl,downstream,1
 msi,ciuk,downstream,1
 msi,fhi360,downstream,1
 msi,icwrsa,downstream,1
@@ -384,11 +383,6 @@ msi,pmc,downstream,1
 msi,promsex,downstream,1
 nimd-hq,awepa,downstream,1
 niras,lts,downstream,1
-nl-kvk-41207989,galz,downstream,2
-nl-kvk-41207989,isdao,downstream,1
-nl-kvk-41207989,sanpud,downstream,1
-nl-kvk-41207989,sisonke,downstream,1
-nl-kvk-41207989,uhai-eashri,downstream,1
 nl_wg,apn,downstream,1
 nl_wg,gfcf,downstream,1
 nl_wg,kcdf,downstream,1
@@ -1394,7 +1388,7 @@ minbuza_nl,ndsicde,upstream,1
 minbuza_nl,nef_mali,upstream,1
 minbuza_nl,nfp,upstream,4
 minbuza_nl,nimd-hq,upstream,4
-minbuza_nl,nl-kvk-41207989,upstream,6
+minbuza_nl,nl-kvk-41207989,upstream,5
 minbuza_nl,nl-kvk-54436222-27541,upstream,20
 minbuza_nl,nl_wg,upstream,1
 minbuza_nl,nlr,upstream,2
@@ -1504,7 +1498,6 @@ mm1,sfcg,upstream,4
 mm1,spr,upstream,1
 mm1,tear,upstream,1
 mml,sddirect,upstream,1
-mondiaalfnv,yipl,upstream,2
 msi,icwrsa,upstream,1
 msi,ippf,upstream,1
 msi,irc_inc,upstream,1
@@ -1516,11 +1509,6 @@ nimd-hq,bltp,upstream,1
 nimd-hq,gen,upstream,1
 nimd-hq,gorin,upstream,1
 nimd-hq,saferworld,upstream,1
-nl-kvk-41207989,galz,upstream,2
-nl-kvk-41207989,gnpplus,upstream,1
-nl-kvk-41207989,isdao,upstream,1
-nl-kvk-41207989,sanpud,upstream,1
-nl-kvk-41207989,sisonke,upstream,1
 nl_wg,gfcf,upstream,1
 nl_wg,kcdf,upstream,1
 nlrc,carenederland,upstream,1
