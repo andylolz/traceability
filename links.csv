@@ -1288,7 +1288,7 @@ minbuza_nl,cis,upstream,1
 minbuza_nl,civicus,upstream,1
 minbuza_nl,clingendael,upstream,5
 minbuza_nl,cocnl_publisher,upstream,1
-minbuza_nl,cordaid,upstream,27
+minbuza_nl,cordaid,upstream,28
 minbuza_nl,cpd,upstream,1
 minbuza_nl,creausa-org,upstream,3
 minbuza_nl,crisisgroup,upstream,1
@@ -1552,6 +1552,7 @@ oxfamgb,bond,upstream,1
 oxfamgb,concern_worldwide,upstream,1
 oxfamgb,onl,upstream,38
 pacja,nj_1,upstream,1
+pacja,onl,upstream,13
 palladium,hiuk,upstream,1
 palladium,manniondaniels,upstream,1
 pax,amnesty,upstream,1
