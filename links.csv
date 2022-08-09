@@ -156,7 +156,7 @@ irc_uk,bbcmediaaction,downstream,1
 irc_uk,concernuk,downstream,1
 irc_uk,fcdo,downstream,1
 irc_uk,goal,downstream,1
-irc_uk,irc_inc,downstream,68
+irc_uk,irc_inc,downstream,67
 irc_uk,irc_uk,downstream,1
 irc_uk,msi,downstream,1
 irc_uk,plan_uk,downstream,1
@@ -383,6 +383,11 @@ msi,pmc,downstream,1
 msi,promsex,downstream,1
 nimd-hq,awepa,downstream,1
 niras,lts,downstream,1
+nl-kvk-41207989,galz,downstream,2
+nl-kvk-41207989,isdao,downstream,1
+nl-kvk-41207989,sanpud,downstream,1
+nl-kvk-41207989,sisonke,downstream,1
+nl-kvk-41207989,uhai-eashri,downstream,1
 nl_wg,apn,downstream,1
 nl_wg,gfcf,downstream,1
 nl_wg,kcdf,downstream,1
@@ -1066,7 +1071,7 @@ gecfundmanagerpwc,edt_kenya,upstream,2
 gecfundmanagerpwc,gecfundmanagerpwc,upstream,1
 gecfundmanagerpwc,hiuk,upstream,1
 gecfundmanagerpwc,hpa,upstream,1
-gecfundmanagerpwc,irc_inc,upstream,1
+gecfundmanagerpwc,irc_inc,upstream,2
 gecfundmanagerpwc,irc_uk,upstream,3
 gecfundmanagerpwc,lcd_admin,upstream,2
 gecfundmanagerpwc,lcdi_admin,upstream,1
@@ -1388,7 +1393,7 @@ minbuza_nl,ndsicde,upstream,1
 minbuza_nl,nef_mali,upstream,1
 minbuza_nl,nfp,upstream,4
 minbuza_nl,nimd-hq,upstream,4
-minbuza_nl,nl-kvk-41207989,upstream,5
+minbuza_nl,nl-kvk-41207989,upstream,6
 minbuza_nl,nl-kvk-54436222-27541,upstream,20
 minbuza_nl,nl_wg,upstream,1
 minbuza_nl,nlr,upstream,2
@@ -1437,7 +1442,7 @@ minbuza_nl,siren,upstream,1
 minbuza_nl,siwi,upstream,1
 minbuza_nl,sjac,upstream,1
 minbuza_nl,skn,upstream,1
-minbuza_nl,snv,upstream,17
+minbuza_nl,snv,upstream,18
 minbuza_nl,solidaridad,upstream,2
 minbuza_nl,solidaridad-europe,upstream,1
 minbuza_nl,solidaridad-ssea,upstream,2
@@ -1509,6 +1514,11 @@ nimd-hq,bltp,upstream,1
 nimd-hq,gen,upstream,1
 nimd-hq,gorin,upstream,1
 nimd-hq,saferworld,upstream,1
+nl-kvk-41207989,galz,upstream,2
+nl-kvk-41207989,gnpplus,upstream,1
+nl-kvk-41207989,isdao,upstream,1
+nl-kvk-41207989,sanpud,upstream,1
+nl-kvk-41207989,sisonke,upstream,1
 nl_wg,gfcf,upstream,1
 nl_wg,kcdf,upstream,1
 nlrc,carenederland,upstream,1
@@ -1703,7 +1713,7 @@ tdh_nl,icco-cooperation,upstream,2
 tdh_nl,plannlno,upstream,1
 tfac,tfacmalawi,upstream,1
 theglobalfund,iom,upstream,1
-theglobalfund,undp,upstream,31
+theglobalfund,undp,upstream,26
 thp_org,max-foundation,upstream,1
 thp_org,scnl,upstream,1
 traidcraft,fci,upstream,1
