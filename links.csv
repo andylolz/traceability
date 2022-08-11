@@ -469,7 +469,6 @@ taf,dipr,downstream,1
 tear,tdh_nl,downstream,1
 tffus,aain,downstream,1
 the_power_of_nutrition,worldbank,downstream,2
-thp_org,acfspain,downstream,1
 thp_org,max-foundation,downstream,1
 thp_org,scnl,downstream,1
 thp_org,wvnld,downstream,1
@@ -1249,6 +1248,7 @@ mfat,unhcr,upstream,1
 minbuza_nl,1-uz,upstream,1
 minbuza_nl,aanl,upstream,1
 minbuza_nl,ac1999,upstream,1
+minbuza_nl,acet,upstream,1
 minbuza_nl,acfshr,upstream,2
 minbuza_nl,acted,upstream,1
 minbuza_nl,adsb,upstream,1
