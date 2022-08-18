@@ -709,6 +709,7 @@ cfyas,ippf,upstream,1
 ciuk,cnepal,upstream,2
 ciuk,csom1,upstream,3
 clasp,energy_saving_trust,upstream,1
+cocnl_publisher,pai155669,upstream,1
 coffey,oca,upstream,1
 coffey,sddirect,upstream,2
 concernuk,concern_worldwide,upstream,60
@@ -1428,7 +1429,7 @@ minbuza_nl,psi,upstream,3
 minbuza_nl,pstc_1102,upstream,1
 minbuza_nl,pumnl,upstream,1
 minbuza_nl,rcn,upstream,2
-minbuza_nl,redeenkind,upstream,2
+minbuza_nl,redeenkind,upstream,1
 minbuza_nl,rlb,upstream,2
 minbuza_nl,rmf-lb,upstream,1
 minbuza_nl,rutgers,upstream,4
@@ -1501,7 +1502,7 @@ minbuza_nl,ww-gvc,upstream,3
 minbuza_nl,wwf-kenya,upstream,1
 minbuza_nl,yai-hub,upstream,1
 minbuza_nl,yffhsd,upstream,3
-minbuza_nl,zoa,upstream,18
+minbuza_nl,zoa,upstream,19
 mm1,sfcg,upstream,4
 mm1,spr,upstream,1
 mm1,tear,upstream,1
@@ -1524,6 +1525,7 @@ nl-kvk-41207989,sanpud,upstream,1
 nl-kvk-41207989,sisonke,upstream,1
 nl_wg,gfcf,upstream,1
 nl_wg,kcdf,upstream,1
+nl_wg,micfound,upstream,1
 nlrc,carenederland,upstream,1
 nlrc,cordaid,upstream,1
 nlrc,crb-ai_admin,upstream,1
@@ -1543,7 +1545,7 @@ onl,icco-cooperation,upstream,5
 onl,oqc,upstream,1
 onl,oxfamgb,upstream,70
 onl,plannlno,upstream,3
-onl,redeenkind,upstream,2
+onl,redeenkind,upstream,1
 onl,rnw_org,upstream,1
 onl,scnl,upstream,1
 onl,somo,upstream,2
@@ -1630,7 +1632,7 @@ scnl,icco-cooperation,upstream,12
 scnl,onl,upstream,20
 scnl,plannlno,upstream,8
 scnl,populationcouncil,upstream,1
-scnl,redeenkind,upstream,2
+scnl,redeenkind,upstream,1
 scnl,simavi,upstream,1
 scnl,st_vluchteling,upstream,4
 scnl,tdh_nl,upstream,2
@@ -1703,7 +1705,7 @@ stichting-subsidiegelden-dra,cordaid,upstream,2
 stichting-subsidiegelden-dra,dai,upstream,1
 stichting-subsidiegelden-dra,onl,upstream,21
 stichting-subsidiegelden-dra,plannlno,upstream,1
-stichting-subsidiegelden-dra,redeenkind,upstream,2
+stichting-subsidiegelden-dra,redeenkind,upstream,1
 stichting-subsidiegelden-dra,scnl,upstream,6
 stichting-subsidiegelden-dra,st_vluchteling,upstream,3
 stichting-subsidiegelden-dra,warchildholland,upstream,1
