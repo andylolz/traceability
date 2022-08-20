@@ -87,6 +87,7 @@ emms,pcst,downstream,1
 fca,helpage_international,downstream,1
 fcam,bothends,downstream,1
 fcam,mamac,downstream,1
+fcdo,ciuk,downstream,1
 fcdo,fcdo,downstream,3
 fcdo,healthpartners-international,downstream,1
 fcdo,ipas,downstream,1
@@ -390,7 +391,6 @@ nl-kvk-41207989,isdao,downstream,1
 nl-kvk-41207989,sanpud,downstream,1
 nl-kvk-41207989,sisonke,downstream,1
 nl-kvk-41207989,uhai-eashri,downstream,1
-nl_wg,apn,downstream,1
 nl_wg,gfcf,downstream,1
 nl_wg,kcdf,downstream,1
 open_university,uom,downstream,1
@@ -469,6 +469,7 @@ stichting-subsidiegelden-dra,wvnld,downstream,1
 stichting-subsidiegelden-dra,zoa,downstream,1
 taf,dipr,downstream,1
 tear,tdh_nl,downstream,1
+tearfund,acatba,downstream,1
 tffus,aain,downstream,1
 the_power_of_nutrition,worldbank,downstream,2
 thp_org,max-foundation,downstream,1
@@ -709,6 +710,7 @@ cfyas,ippf,upstream,1
 ciuk,cnepal,upstream,2
 ciuk,csom1,upstream,3
 clasp,energy_saving_trust,upstream,1
+cocnl_publisher,ilgaasia,upstream,1
 cocnl_publisher,pai155669,upstream,1
 coffey,oca,upstream,1
 coffey,sddirect,upstream,2
@@ -860,7 +862,6 @@ fcdo,childhopeuk,upstream,2
 fcdo,cic,upstream,2
 fcdo,cifal,upstream,1
 fcdo,cip,upstream,1
-fcdo,ciuk,upstream,1
 fcdo,clgf_data,upstream,1
 fcdo,cnepal,upstream,1
 fcdo,coda,upstream,1
@@ -1279,7 +1280,7 @@ minbuza_nl,auxfinbi,upstream,1
 minbuza_nl,avsi_uganda,upstream,2
 minbuza_nl,berytech,upstream,1
 minbuza_nl,bopinc,upstream,1
-minbuza_nl,bothends,upstream,1
+minbuza_nl,bothends,upstream,2
 minbuza_nl,brac_admin2,upstream,2
 minbuza_nl,bsr_admin,upstream,1
 minbuza_nl,bu,upstream,1
@@ -1377,7 +1378,7 @@ minbuza_nl,kit,upstream,1
 minbuza_nl,law,upstream,1
 minbuza_nl,ldsps,upstream,1
 minbuza_nl,leprazending-tlm-nl,upstream,1
-minbuza_nl,lpi,upstream,6
+minbuza_nl,lpi,upstream,12
 minbuza_nl,mag,upstream,2
 minbuza_nl,mamac,upstream,3
 minbuza_nl,manniondaniels,upstream,2
@@ -1464,6 +1465,7 @@ minbuza_nl,tdh_foundation,upstream,1
 minbuza_nl,tdh_nl,upstream,16
 minbuza_nl,tear,upstream,1
 minbuza_nl,thp_org,upstream,1
+minbuza_nl,tni,upstream,1
 minbuza_nl,tns,upstream,1
 minbuza_nl,traide_foundation,upstream,1
 minbuza_nl,trig,upstream,1
@@ -1777,6 +1779,7 @@ womankindworld,fida,upstream,1
 womankindworld,fowode,upstream,1
 womankindworld,nuwodu,upstream,1
 womankindworld,swda,upstream,1
+womankindworld,wctc,upstream,1
 world_ywca,e_n,upstream,1
 world_ywca,imc-2021,upstream,1
 world_ywca,ywca,upstream,1
