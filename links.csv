@@ -537,6 +537,7 @@ zoa,carenederland,downstream,2
 zoa,cordaid,downstream,7
 zoa,dai,downstream,7
 zoa,icco-cooperation,downstream,2
+zoa,ida,downstream,1
 zoa,leprazending-tlm-nl,downstream,1
 zoa,onl,downstream,8
 zoa,pa,downstream,1
@@ -562,7 +563,6 @@ aauk,aaik,upstream,4
 aauk,aar,upstream,1
 acf,aahusa,upstream,1
 acf,acf-fr,upstream,1
-aecom,sddirect,upstream,1
 afdb,iom,upstream,1
 afghanaid,concernuk,upstream,1
 aics,iom,upstream,1
@@ -585,7 +585,6 @@ ancb_benin,ancb_benin,upstream,24
 appro-eu,appro-af,upstream,2
 ares,vlir-uos,upstream,1
 ausgov,unhcr,upstream,2
-avsi_uganda,cordaid,upstream,1
 bbcmediaaction,ims,upstream,1
 be-dgd,111111_publisher,upstream,2
 be-dgd,a-t,upstream,1
@@ -622,7 +621,7 @@ be-dgd,fairtrade_be,upstream,1
 be-dgd,fian-belgium,upstream,5
 be-dgd,foncaba,upstream,4
 be-dgd,fos,upstream,1
-be-dgd,fucid,upstream,6
+be-dgd,fucid,upstream,5
 be-dgd,g3w-m3m_admin,upstream,1
 be-dgd,geomoun,upstream,1
 be-dgd,hib,upstream,1
@@ -686,7 +685,9 @@ bothends,tni,upstream,1
 bracintl,hiuk,upstream,1
 britishcouncil,open_university,upstream,1
 britishcouncil,pwc,upstream,1
+britishcouncil,sddirect,upstream,1
 caeb_mali,cordaid,upstream,1
+caid,sddirect,upstream,1
 cal,acf,upstream,1
 cal,hpa,upstream,1
 carbontrustadvisory,e4i,upstream,1
@@ -713,7 +714,6 @@ clasp,energy_saving_trust,upstream,1
 cocnl_publisher,ilgaasia,upstream,1
 cocnl_publisher,pai155669,upstream,1
 coffey,oca,upstream,1
-coffey,sddirect,upstream,2
 concernuk,concern_worldwide,upstream,60
 concernuk,goal,upstream,1
 concernuk,irc_uk,upstream,1
@@ -902,6 +902,7 @@ fcdo,fyf,upstream,3
 fcdo,gain,upstream,2
 fcdo,galvmed,upstream,1
 fcdo,gb-chc-220949,upstream,9
+fcdo,gca,upstream,3
 fcdo,gdi,upstream,1
 fcdo,gdihub,upstream,3
 fcdo,gecfundmanagerpwc,upstream,3
@@ -999,7 +1000,7 @@ fcdo,saferworld,upstream,7
 fcdo,sciaf,upstream,1
 fcdo,sct,upstream,1
 fcdo,scuk,upstream,1
-fcdo,sddirect,upstream,2
+fcdo,sddirect,upstream,3
 fcdo,sendacow,upstream,4
 fcdo,sense_international,upstream,2
 fcdo,sfcg,upstream,1
@@ -1088,6 +1089,7 @@ gecfundmanagerpwc,wusc,upstream,1
 giro555,carenederland,upstream,2
 giro555,cordaid,upstream,2
 giro555,giro555,upstream,1
+giro555,hfhnl,upstream,1
 giro555,icco-cooperation,upstream,17
 giro555,nlrc,upstream,14
 giro555,pax,upstream,1
@@ -1118,6 +1120,7 @@ icco-cooperation,warchildholland,upstream,1
 icf,aauk,upstream,1
 icf,odi_sales_ltd,upstream,1
 icf,wwf-uk,upstream,1
+ida,vngi,upstream,1
 idrccrdi,ssn,upstream,1
 ids,childhopeuk,upstream,1
 ids,tdh_foundation,upstream,1
@@ -1127,7 +1130,6 @@ inasp,udom,upstream,1
 inasp,umu,upstream,1
 iom,concernuk,upstream,1
 iom,zoa,upstream,1
-ipeglobal,sddirect,upstream,1
 ippf,dmi_admin,upstream,1
 ippf,hiuk,upstream,1
 ippf,irc_inc,upstream,1
@@ -1277,7 +1279,7 @@ minbuza_nl,asf,upstream,1
 minbuza_nl,asi,upstream,1
 minbuza_nl,atmf,upstream,4
 minbuza_nl,auxfinbi,upstream,1
-minbuza_nl,avsi_uganda,upstream,2
+minbuza_nl,avsi_uganda,upstream,1
 minbuza_nl,berytech,upstream,1
 minbuza_nl,bopinc,upstream,1
 minbuza_nl,bothends,upstream,2
@@ -1378,7 +1380,7 @@ minbuza_nl,kit,upstream,1
 minbuza_nl,law,upstream,1
 minbuza_nl,ldsps,upstream,1
 minbuza_nl,leprazending-tlm-nl,upstream,1
-minbuza_nl,lpi,upstream,12
+minbuza_nl,lpi,upstream,9
 minbuza_nl,mag,upstream,2
 minbuza_nl,mamac,upstream,3
 minbuza_nl,manniondaniels,upstream,2
@@ -1410,7 +1412,7 @@ minbuza_nl,nuffic20171017,upstream,1
 minbuza_nl,nwo,upstream,1
 minbuza_nl,nwp,upstream,1
 minbuza_nl,odi,upstream,1
-minbuza_nl,onl,upstream,1343
+minbuza_nl,onl,upstream,1344
 minbuza_nl,oxfamintermon,upstream,1
 minbuza_nl,oyw,upstream,1
 minbuza_nl,p-t-f-,upstream,1
@@ -1422,7 +1424,7 @@ minbuza_nl,pcf,upstream,2
 minbuza_nl,pekka_21,upstream,1
 minbuza_nl,pidg,upstream,1
 minbuza_nl,plama,upstream,1
-minbuza_nl,plannlno,upstream,10
+minbuza_nl,plannlno,upstream,9
 minbuza_nl,ppag_123,upstream,1
 minbuza_nl,promsex,upstream,1
 minbuza_nl,protos,upstream,1
@@ -1464,6 +1466,7 @@ minbuza_nl,tbi,upstream,2
 minbuza_nl,tdh_foundation,upstream,1
 minbuza_nl,tdh_nl,upstream,16
 minbuza_nl,tear,upstream,1
+minbuza_nl,tha,upstream,1
 minbuza_nl,thp_org,upstream,1
 minbuza_nl,tni,upstream,1
 minbuza_nl,tns,upstream,1
@@ -1480,7 +1483,7 @@ minbuza_nl,unocha-sdc,upstream,2
 minbuza_nl,utz,upstream,1
 minbuza_nl,uvw,upstream,1
 minbuza_nl,vei_nl,upstream,2
-minbuza_nl,vngi,upstream,5
+minbuza_nl,vngi,upstream,4
 minbuza_nl,w-d,upstream,2
 minbuza_nl,wageningen_ur,upstream,8
 minbuza_nl,warchildholland,upstream,8
@@ -1508,7 +1511,6 @@ minbuza_nl,zoa,upstream,19
 mm1,sfcg,upstream,4
 mm1,spr,upstream,1
 mm1,tear,upstream,1
-mml,sddirect,upstream,1
 msi,icwrsa,upstream,1
 msi,ippf,upstream,1
 msi,irc_inc,upstream,1
@@ -1610,7 +1612,6 @@ pwc,kingscollegelondon,upstream,1
 pwc,mml,upstream,2
 pwc,open_university,upstream,1
 pwc,pasgr,upstream,1
-pwc,sddirect,upstream,1
 redeenkind,afsc,upstream,1
 restless,ycare,upstream,1
 rikolto_belgium,rikolto,upstream,12
@@ -1700,7 +1701,6 @@ sosnl,zoa,upstream,1
 ss-org,addinternational,upstream,3
 ss-org,hiuk,upstream,1
 ss-org,lcd_admin,upstream,1
-ss-org,sddirect,upstream,1
 st_vluchteling,irc_inc,upstream,2
 st_vluchteling,plannlno,upstream,1
 stichting-subsidiegelden-dra,cordaid,upstream,2
