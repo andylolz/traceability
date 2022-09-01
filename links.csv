@@ -119,6 +119,7 @@ gecfundmanagerpwc,edt_kenya,downstream,1
 gecfundmanagerpwc,fcdo,downstream,1
 gecfundmanagerpwc,gan,downstream,1
 gecfundmanagerpwc,gecfundmanagerpwc,downstream,1
+gecfundmanagerpwc,hiuk,downstream,1
 gecfundmanagerpwc,hpa,downstream,2
 gecfundmanagerpwc,irc_uk,downstream,2
 gecfundmanagerpwc,ke-ngc-3372,downstream,2
@@ -418,12 +419,13 @@ pwc,sddirect,downstream,3
 restless,accountablenow,downstream,1
 restless,intrac,downstream,1
 restless,wcuk,downstream,1
+rutgers,arcfge,downstream,1
 rutgers,ippf,downstream,1
 rutgers,nl-kvk-41207989,downstream,1
-rutgers,pmo-us,downstream,1
+rutgers,pmo-us,downstream,2
 rutgers,rnw_org,downstream,1
 rutgers,simavi,downstream,1
-rutgers,sjg,downstream,1
+rutgers,sjg,downstream,2
 saferworld,cr,downstream,1
 scnl,carenederland,downstream,3
 scnl,cordaid,downstream,3
@@ -1072,7 +1074,6 @@ gecfundmanagerpwc,childhopeuk,upstream,2
 gecfundmanagerpwc,dla,upstream,1
 gecfundmanagerpwc,edt_kenya,upstream,2
 gecfundmanagerpwc,gecfundmanagerpwc,upstream,1
-gecfundmanagerpwc,hiuk,upstream,1
 gecfundmanagerpwc,hpa,upstream,1
 gecfundmanagerpwc,irc_inc,upstream,2
 gecfundmanagerpwc,irc_uk,upstream,3
@@ -1436,7 +1437,7 @@ minbuza_nl,rcn,upstream,2
 minbuza_nl,redeenkind,upstream,1
 minbuza_nl,rlb,upstream,2
 minbuza_nl,rmf-lb,upstream,1
-minbuza_nl,rutgers,upstream,4
+minbuza_nl,rutgers,upstream,5
 minbuza_nl,rvo,upstream,14
 minbuza_nl,saferworld,upstream,10
 minbuza_nl,scnl,upstream,12
@@ -1451,7 +1452,7 @@ minbuza_nl,siwi,upstream,1
 minbuza_nl,sjac,upstream,1
 minbuza_nl,skf,upstream,1
 minbuza_nl,skn,upstream,1
-minbuza_nl,snv,upstream,18
+minbuza_nl,snv,upstream,19
 minbuza_nl,solidaridad,upstream,2
 minbuza_nl,solidaridad-europe,upstream,1
 minbuza_nl,solidaridad-ssea,upstream,2
@@ -1624,7 +1625,7 @@ rutgers,pmo-us,upstream,1
 rutgers,rnw_org,upstream,1
 rutgers,rutgers,upstream,1
 rutgers,simavi,upstream,2
-rutgers,sjg,upstream,1
+rutgers,sjg,upstream,2
 rutgers,stichting_hivos,upstream,1
 rvo,cabi,upstream,1
 rvo,cordaid,upstream,1
