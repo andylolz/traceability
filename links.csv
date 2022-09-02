@@ -123,7 +123,7 @@ gecfundmanagerpwc,hiuk,downstream,1
 gecfundmanagerpwc,hpa,downstream,2
 gecfundmanagerpwc,irc_uk,downstream,2
 gecfundmanagerpwc,ke-ngc-3372,downstream,2
-gecfundmanagerpwc,lcd_admin,downstream,2
+gecfundmanagerpwc,lcd_admin,downstream,3
 gecfundmanagerpwc,mce,downstream,2
 gecfundmanagerpwc,opportunity-international-uk,downstream,2
 gecfundmanagerpwc,peas,downstream,2
@@ -496,6 +496,7 @@ tripleline_crownagents,rspb_,downstream,1
 tripleline_crownagents,tbalert,downstream,1
 tripleline_crownagents,traidcraft,downstream,1
 tripleline_crownagents,waronwant,downstream,2
+troc,trocaire,downstream,1
 unf,fcdo,downstream,1
 unicefnl,solidaridad-europe,downstream,2
 unpf,bmu_iki,downstream,12
@@ -1023,7 +1024,7 @@ fcdo,tlmew,upstream,1
 fcdo,tns,upstream,2
 fcdo,traidcraft,upstream,5
 fcdo,tripleline_crownagents,upstream,2
-fcdo,troc,upstream,1
+fcdo,troc,upstream,2
 fcdo,ul,upstream,1
 fcdo,umn,upstream,1
 fcdo,undp,upstream,5
@@ -1234,7 +1235,7 @@ manniondaniels,the_fsi,upstream,1
 manniondaniels,timidria,upstream,1
 manniondaniels,tlmew,upstream,1
 manniondaniels,traidcraft,upstream,1
-manniondaniels,troc,upstream,1
+manniondaniels,troc,upstream,2
 manniondaniels,tropicalhealth,upstream,1
 manniondaniels,twin-iati,upstream,1
 manniondaniels,wateraid,upstream,1
@@ -1381,7 +1382,7 @@ minbuza_nl,kit,upstream,1
 minbuza_nl,law,upstream,1
 minbuza_nl,ldsps,upstream,1
 minbuza_nl,leprazending-tlm-nl,upstream,1
-minbuza_nl,lpi,upstream,9
+minbuza_nl,lpi,upstream,1
 minbuza_nl,mag,upstream,2
 minbuza_nl,mamac,upstream,3
 minbuza_nl,manniondaniels,upstream,2
@@ -1594,7 +1595,6 @@ plannlno,amrefmw,upstream,1
 plannlno,amrefnl,upstream,1
 plannlno,cfyas,upstream,1
 plannlno,dciecpatnl,upstream,8
-plannlno,fawe-rs,upstream,2
 plannlno,femnet,upstream,1
 plannlno,healthnet,upstream,3
 plannlno,kit,upstream,9
@@ -1743,10 +1743,8 @@ uoe,bpcrs,upstream,1
 uoe,icddrb,upstream,1
 uoe,ipcrg,upstream,1
 uom,iied,upstream,3
-usaid,iom,upstream,125
+usaid,iom,upstream,26
 usaid,itc,upstream,2
-usaid,odi,upstream,1
-usaid,saferworld,upstream,1
 viva,bucksfarm,upstream,1
 viva,crane,upstream,1
 vso,aasaman,upstream,1
