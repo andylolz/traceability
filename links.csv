@@ -75,7 +75,6 @@ dai,wvnld,downstream,1
 danida,di,downstream,1
 danmission,danida,downstream,1
 ddp,dhrc_nepal,downstream,2
-drc,hiuk,downstream,1
 drc,irc_inc,downstream,1
 drc,irc_uk,downstream,2
 edt_kenya,amurt_kenya,downstream,1
@@ -418,7 +417,6 @@ pwc,pasgr,downstream,1
 pwc,sddirect,downstream,3
 restless,accountablenow,downstream,1
 restless,intrac,downstream,1
-restless,wcuk,downstream,1
 rutgers,arcfge,downstream,1
 rutgers,ippf,downstream,1
 rutgers,nl-kvk-41207989,downstream,1
@@ -917,7 +915,7 @@ fcdo,guttmacher,upstream,1
 fcdo,handinhand,upstream,1
 fcdo,hha,upstream,1
 fcdo,hi,upstream,4
-fcdo,hiuk,upstream,7
+fcdo,hiuk,upstream,8
 fcdo,htspe,upstream,2
 fcdo,icf,upstream,4
 fcdo,idi,upstream,1
@@ -953,7 +951,7 @@ fcdo,lhcf,upstream,1
 fcdo,lse,upstream,1
 fcdo,lshtm,upstream,2
 fcdo,lstm,upstream,2
-fcdo,lts,upstream,2
+fcdo,lts,upstream,1
 fcdo,m2m_sa,upstream,1
 fcdo,malariaconsortium,upstream,4
 fcdo,manniondaniels,upstream,3
@@ -1438,7 +1436,7 @@ minbuza_nl,rcn,upstream,2
 minbuza_nl,redeenkind,upstream,1
 minbuza_nl,rlb,upstream,2
 minbuza_nl,rmf-lb,upstream,1
-minbuza_nl,rutgers,upstream,5
+minbuza_nl,rutgers,upstream,4
 minbuza_nl,rvo,upstream,14
 minbuza_nl,saferworld,upstream,10
 minbuza_nl,scnl,upstream,12
@@ -1627,6 +1625,7 @@ rutgers,rutgers,upstream,1
 rutgers,simavi,upstream,2
 rutgers,sjg,upstream,2
 rutgers,stichting_hivos,upstream,1
+rvo,akvo,upstream,1
 rvo,cabi,upstream,1
 rvo,cordaid,upstream,1
 saferworld,cr,upstream,1
