@@ -10,6 +10,7 @@ aauk,aar,downstream,1
 acf,acfspain,downstream,1
 ageintl,dec-uk,downstream,1
 ageintl,fca,downstream,1
+ageintl,helpage_international,downstream,3
 amrefnl,amrefeth,downstream,2
 amrefnl,amrefhq,downstream,1
 amrefnl,amrefkenya,downstream,2
@@ -82,6 +83,7 @@ edt_kenya,pgi_kenya,downstream,1
 emms,dgmh,downstream,1
 emms,mmh,downstream,1
 emms,pcst,downstream,1
+fca,helpage_international,downstream,1
 fcam,bothends,downstream,1
 fcam,mamac,downstream,1
 fcdo,ciuk,downstream,1
@@ -415,6 +417,7 @@ pwc,sddirect,downstream,3
 restless,accountablenow,downstream,1
 restless,intrac,downstream,1
 rutgers,arcfge,downstream,1
+rutgers,cfyas,downstream,1
 rutgers,ippf,downstream,1
 rutgers,nl-kvk-41207989,downstream,1
 rutgers,pmo-us,downstream,2
@@ -1058,6 +1061,7 @@ foenl,wecf,upstream,1
 free_press_unlimited,ejc,upstream,2
 fwf,cdi_vn_2021,upstream,1
 fwf,cividep,upstream,1
+fwf,mondiaalfnv,upstream,1
 gac-amc,idi,upstream,1
 gac-amc,idlo,upstream,1
 gac-amc,iisd,upstream,1
@@ -1117,7 +1121,6 @@ icco-cooperation,warchildholland,upstream,1
 icf,aauk,upstream,1
 icf,odi_sales_ltd,upstream,1
 icf,wwf-uk,upstream,1
-ida,vngi,upstream,1
 idrccrdi,ssn,upstream,1
 ids,childhopeuk,upstream,1
 ids,tdh_foundation,upstream,1
@@ -1411,7 +1414,7 @@ minbuza_nl,nwo,upstream,1
 minbuza_nl,nwp,upstream,1
 minbuza_nl,odi,upstream,1
 minbuza_nl,oneacrefund,upstream,1
-minbuza_nl,onl,upstream,1352
+minbuza_nl,onl,upstream,1355
 minbuza_nl,oxfamintermon,upstream,1
 minbuza_nl,oyw,upstream,1
 minbuza_nl,p-t-f-,upstream,1
@@ -1466,7 +1469,6 @@ minbuza_nl,tbi,upstream,2
 minbuza_nl,tdh_foundation,upstream,1
 minbuza_nl,tdh_nl,upstream,16
 minbuza_nl,tear,upstream,1
-minbuza_nl,tha,upstream,1
 minbuza_nl,thp_org,upstream,1
 minbuza_nl,tni,upstream,1
 minbuza_nl,tns,upstream,1
@@ -1483,7 +1485,7 @@ minbuza_nl,unocha-sdc,upstream,2
 minbuza_nl,utz,upstream,1
 minbuza_nl,uvw,upstream,1
 minbuza_nl,vei_nl,upstream,2
-minbuza_nl,vngi,upstream,4
+minbuza_nl,vngi,upstream,5
 minbuza_nl,w-d,upstream,1
 minbuza_nl,wageningen_ur,upstream,8
 minbuza_nl,warchildholland,upstream,8
@@ -1507,7 +1509,7 @@ minbuza_nl,ww-gvc,upstream,3
 minbuza_nl,wwf-kenya,upstream,1
 minbuza_nl,yai-hub,upstream,1
 minbuza_nl,yffhsd,upstream,3
-minbuza_nl,zoa,upstream,19
+minbuza_nl,zoa,upstream,18
 mm1,sfcg,upstream,4
 mm1,spr,upstream,1
 mm1,tear,upstream,1
@@ -1615,7 +1617,7 @@ pwc,pasgr,upstream,1
 redeenkind,afsc,upstream,1
 restless,ycare,upstream,1
 rikolto_belgium,rikolto,upstream,12
-rutgers,cfyas,upstream,2
+rutgers,cfyas,upstream,3
 rutgers,ippf,upstream,2
 rutgers,nl-kvk-41207989,upstream,1
 rutgers,pmo-us,upstream,1
@@ -1722,7 +1724,7 @@ tdh_nl,icco-cooperation,upstream,2
 tdh_nl,plannlno,upstream,1
 tfac,tfacmalawi,upstream,1
 theglobalfund,iom,upstream,1
-theglobalfund,undp,upstream,36
+theglobalfund,undp,upstream,31
 thp_org,max-foundation,upstream,1
 thp_org,scnl,upstream,1
 traidcraft,fci,upstream,1
