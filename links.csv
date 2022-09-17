@@ -571,7 +571,9 @@ acf,aahusa,upstream,1
 acf,acf-fr,upstream,1
 afdb,iom,upstream,1
 afghanaid,concernuk,upstream,1
-aics,unhcr,upstream,7
+aics,iom,upstream,1
+aics,unhcr,upstream,13
+aics,unocha,upstream,1
 akfuk73,akf_afghanistan,upstream,1
 akfuk73,crs,upstream,1
 amrefnl,amrefeth,upstream,1
@@ -778,7 +780,7 @@ dec-uk,ageintl,upstream,8
 dec-uk,ciuk,upstream,1
 dec-uk,concern_worldwide,upstream,1
 dec-uk,concernuk,upstream,6
-dec-uk,gb-chc-220949,upstream,3
+dec-uk,gb-chc-220949,upstream,2
 dec-uk,irw,upstream,2
 dec-uk,oxfamgb,upstream,29
 dec-uk,plan_uk,upstream,5
@@ -905,7 +907,7 @@ fcdo,ftm-291333,upstream,2
 fcdo,fyf,upstream,3
 fcdo,gain,upstream,2
 fcdo,galvmed,upstream,1
-fcdo,gb-chc-220949,upstream,9
+fcdo,gb-chc-220949,upstream,4
 fcdo,gca,upstream,3
 fcdo,gdi,upstream,1
 fcdo,gdihub,upstream,3
@@ -1747,7 +1749,7 @@ uoe,bpcrs,upstream,1
 uoe,icddrb,upstream,1
 uoe,ipcrg,upstream,1
 uom,iied,upstream,3
-usaid,iom,upstream,26
+usaid,iom,upstream,25
 usaid,itc,upstream,2
 viva,bucksfarm,upstream,1
 viva,crane,upstream,1
