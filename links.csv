@@ -679,7 +679,7 @@ beis,iied,upstream,1
 beis,pwc,upstream,2
 beis,rmi,upstream,2
 bmgf,cabi,upstream,4
-bmgf,unhcr,upstream,24
+bmgf,unhcr,upstream,26
 bmz,unhcr,upstream,4
 bothends,aanl,upstream,2
 bothends,ccc,upstream,1
@@ -1749,8 +1749,10 @@ uoe,bpcrs,upstream,1
 uoe,icddrb,upstream,1
 uoe,ipcrg,upstream,1
 uom,iied,upstream,3
-usaid,iom,upstream,25
+usaid,iom,upstream,132
 usaid,itc,upstream,2
+usaid,odi,upstream,1
+usaid,saferworld,upstream,1
 viva,bucksfarm,upstream,1
 viva,crane,upstream,1
 vso,aasaman,upstream,1
