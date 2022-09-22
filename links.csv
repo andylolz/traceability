@@ -530,6 +530,7 @@ womankindworld,fowode,downstream,1
 womankindworld,nuwodu,downstream,1
 womankindworld,swda,downstream,1
 womankindworld,wctc,downstream,1
+wv_de,wvi,downstream,121
 wvnld,cordaid,downstream,1
 wvnld,dai,downstream,1
 wvnld,onl,downstream,1
@@ -538,7 +539,9 @@ wvnld,scnl,downstream,1
 wvnld,st_vluchteling,downstream,1
 wvnld,warchildholland,downstream,1
 wvnld,wcuk,downstream,1
+wvnld,wvi,downstream,11
 wvnld,zoa,downstream,1
+wvuk,wvi,downstream,90
 zoa,carenederland,downstream,2
 zoa,cordaid,downstream,7
 zoa,dai,downstream,7
@@ -1105,6 +1108,7 @@ giro555,st_vluchteling,upstream,4
 giro555,tdh_nl,upstream,1
 giro555,tear,upstream,1
 giro555,unicefnl,upstream,4
+giro555,wvi,upstream,1
 giro555,wvnld,upstream,3
 gppac,wfm-igp,upstream,1
 guttmacher,arcfge,upstream,1
@@ -1317,7 +1321,6 @@ minbuza_nl,dcaf,upstream,2
 minbuza_nl,decp,upstream,3
 minbuza_nl,deltares,upstream,4
 minbuza_nl,dggf_financing_local_smes,upstream,1
-minbuza_nl,dkti,upstream,1
 minbuza_nl,drc,upstream,7
 minbuza_nl,dri,upstream,1
 minbuza_nl,ecdpm,upstream,1
@@ -1393,7 +1396,7 @@ minbuza_nl,mce,upstream,4
 minbuza_nl,mcn,upstream,1
 minbuza_nl,mdf,upstream,4
 minbuza_nl,mefbenin,upstream,2
-minbuza_nl,minbuza_nl,upstream,21
+minbuza_nl,minbuza_nl,upstream,22
 minbuza_nl,mm1,upstream,2
 minbuza_nl,msi,upstream,7
 minbuza_nl,mvo_nederland,upstream,2
@@ -1724,6 +1727,7 @@ stichting-subsidiegelden-dra,wvnld,upstream,1
 stichting-subsidiegelden-dra,zoa,upstream,1
 stichting_hivos,femnet,upstream,1
 stichting_hivos,restless,upstream,1
+stichting_hivos,yipl,upstream,2
 tccec,mce,upstream,1
 tdh_nl,freeagirl,upstream,2
 tdh_nl,icco-cooperation,upstream,2
