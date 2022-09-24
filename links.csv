@@ -974,7 +974,7 @@ fcdo,namati_inc,upstream,1
 fcdo,nathan,upstream,2
 fcdo,nrgi,upstream,1
 fcdo,nutritionintl,upstream,1
-fcdo,odi,upstream,28
+fcdo,odi,upstream,29
 fcdo,odi_sales_ltd,upstream,6
 fcdo,onetoonecf,upstream,1
 fcdo,onl,upstream,2
@@ -1080,6 +1080,7 @@ gdi,villageenterprise,upstream,1
 gecfundmanagerpwc,aaik,upstream,1
 gecfundmanagerpwc,ava_admin,upstream,1
 gecfundmanagerpwc,childhopeuk,upstream,2
+gecfundmanagerpwc,ciuk,upstream,1
 gecfundmanagerpwc,dla,upstream,1
 gecfundmanagerpwc,edt_kenya,upstream,2
 gecfundmanagerpwc,gecfundmanagerpwc,upstream,1
@@ -1418,7 +1419,7 @@ minbuza_nl,nwo,upstream,1
 minbuza_nl,nwp,upstream,1
 minbuza_nl,odi,upstream,1
 minbuza_nl,oneacrefund,upstream,1
-minbuza_nl,onl,upstream,1361
+minbuza_nl,onl,upstream,1360
 minbuza_nl,oxfamintermon,upstream,1
 minbuza_nl,oyw,upstream,1
 minbuza_nl,p-t-f-,upstream,1
@@ -1584,6 +1585,7 @@ palladium,hiuk,upstream,1
 palladium,manniondaniels,upstream,1
 pax,amnesty,upstream,1
 pax,arcfge,upstream,1
+pax,defenddefenders,upstream,1
 pcst,pcst,upstream,1
 pegasys-eu,globalcanopy,upstream,1
 pegasys-eu,rfuk,upstream,1
