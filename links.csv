@@ -171,6 +171,7 @@ loftf,di,downstream,1
 lts,snv,downstream,1
 mag,halo,downstream,1
 mag,npa,downstream,1
+mamac,creausa-org,downstream,1
 manniondaniels,_admin,downstream,1
 manniondaniels,aaik,downstream,1
 manniondaniels,aar,downstream,1
@@ -1390,6 +1391,7 @@ minbuza_nl,issafrica,upstream,2
 minbuza_nl,itc,upstream,3
 minbuza_nl,iucn,upstream,2
 minbuza_nl,iucn_nl,upstream,2
+minbuza_nl,jass,upstream,1
 minbuza_nl,josa,upstream,1
 minbuza_nl,kepsa,upstream,2
 minbuza_nl,kit,upstream,1
@@ -1397,14 +1399,14 @@ minbuza_nl,law,upstream,1
 minbuza_nl,ldsps,upstream,1
 minbuza_nl,lpi,upstream,1
 minbuza_nl,mag,upstream,2
-minbuza_nl,mamac,upstream,3
+minbuza_nl,mamac,upstream,2
 minbuza_nl,manniondaniels,upstream,2
 minbuza_nl,max-foundation,upstream,1
 minbuza_nl,mce,upstream,4
 minbuza_nl,mcn,upstream,1
 minbuza_nl,mdf,upstream,4
 minbuza_nl,mefbenin,upstream,2
-minbuza_nl,minbuza_nl,upstream,22
+minbuza_nl,minbuza_nl,upstream,23
 minbuza_nl,mm1,upstream,2
 minbuza_nl,msi,upstream,7
 minbuza_nl,mvo_nederland,upstream,2
@@ -1498,7 +1500,7 @@ minbuza_nl,unocha-sdc,upstream,2
 minbuza_nl,utz,upstream,1
 minbuza_nl,uvw,upstream,1
 minbuza_nl,vei_nl,upstream,2
-minbuza_nl,vngi,upstream,4
+minbuza_nl,vngi,upstream,6
 minbuza_nl,w-d,upstream,1
 minbuza_nl,wageningen_ur,upstream,8
 minbuza_nl,warchildholland,upstream,8
@@ -1741,6 +1743,7 @@ stichting-subsidiegelden-dra,warchildholland,upstream,1
 stichting-subsidiegelden-dra,wvnld,upstream,1
 stichting-subsidiegelden-dra,zoa,upstream,1
 stichting_hivos,femnet,upstream,1
+stichting_hivos,marsa_welead,upstream,1
 stichting_hivos,restless,upstream,1
 tccec,mce,upstream,1
 tdh_nl,freeagirl,upstream,2
