@@ -86,7 +86,6 @@ emms,pcst,downstream,1
 fca,ageintl,downstream,1
 fcam,bothends,downstream,1
 fcam,mamac,downstream,1
-fcdo,ciuk,downstream,1
 fcdo,fcdo,downstream,3
 fcdo,healthpartners-international,downstream,1
 fcdo,ippf,downstream,1
@@ -921,7 +920,7 @@ fcdo,ftm-291333,upstream,2
 fcdo,fyf,upstream,3
 fcdo,gain,upstream,2
 fcdo,galvmed,upstream,1
-fcdo,gb-chc-220949,upstream,4
+fcdo,gb-chc-220949,upstream,7
 fcdo,gca,upstream,3
 fcdo,gdi,upstream,1
 fcdo,gdihub,upstream,3
@@ -1437,7 +1436,7 @@ minbuza_nl,p-t-f-,upstream,1
 minbuza_nl,palladium_eur,upstream,1
 minbuza_nl,partos_nl,upstream,2
 minbuza_nl,pathfinder1,upstream,2
-minbuza_nl,pax,upstream,5
+minbuza_nl,pax,upstream,6
 minbuza_nl,pcf,upstream,2
 minbuza_nl,pekka_21,upstream,1
 minbuza_nl,pidg,upstream,1
