@@ -1345,9 +1345,9 @@ minbuza_nl,fca,upstream,2
 minbuza_nl,fcam,upstream,2
 minbuza_nl,fimi_iiwf_2019,upstream,2
 minbuza_nl,fipag,upstream,1
-minbuza_nl,fmo,upstream,5
+minbuza_nl,fmo,upstream,4
 minbuza_nl,fms,upstream,1
-minbuza_nl,foenl,upstream,2
+minbuza_nl,foenl,upstream,1
 minbuza_nl,free_press_unlimited,upstream,2
 minbuza_nl,fwf,upstream,2
 minbuza_nl,gain,upstream,3
@@ -1456,7 +1456,6 @@ minbuza_nl,rvo,upstream,14
 minbuza_nl,saferworld,upstream,10
 minbuza_nl,scnl,upstream,12
 minbuza_nl,scss,upstream,1
-minbuza_nl,sdi,upstream,1
 minbuza_nl,ser,upstream,1
 minbuza_nl,sfcg,upstream,1
 minbuza_nl,sfd-yemen,upstream,1
@@ -1481,7 +1480,7 @@ minbuza_nl,stichting-subsidiegelden-dra,upstream,3
 minbuza_nl,stichting_hivos,upstream,14
 minbuza_nl,syf,upstream,1
 minbuza_nl,tan,upstream,1
-minbuza_nl,tbi,upstream,2
+minbuza_nl,tbi,upstream,1
 minbuza_nl,tdh_foundation,upstream,1
 minbuza_nl,tdh_nl,upstream,16
 minbuza_nl,tear,upstream,1
@@ -1507,6 +1506,7 @@ minbuza_nl,wageningen_ur,upstream,8
 minbuza_nl,warchildholland,upstream,8
 minbuza_nl,waste,upstream,1
 minbuza_nl,wba,upstream,2
+minbuza_nl,wecf,upstream,1
 minbuza_nl,wemos,upstream,1
 minbuza_nl,wf-asia,upstream,1
 minbuza_nl,wfaf,upstream,1
@@ -1743,6 +1743,7 @@ stichting-subsidiegelden-dra,wvnld,upstream,1
 stichting-subsidiegelden-dra,zoa,upstream,1
 stichting_hivos,femnet,upstream,1
 stichting_hivos,marsa_welead,upstream,1
+stichting_hivos,pv,upstream,1
 stichting_hivos,restless,upstream,1
 tccec,mce,upstream,1
 tdh_nl,freeagirl,upstream,2
