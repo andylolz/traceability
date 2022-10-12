@@ -523,7 +523,6 @@ warchildholland,wvnld,downstream,1
 waste,amrefnl,downstream,2
 wei,rains,downstream,1
 wemos,amwa,downstream,1
-wemos,fawe-rs,downstream,1
 wemos,slf,downstream,1
 wemos,vso_nl,downstream,1
 womankindworld,ewdna2025,downstream,1
@@ -554,6 +553,7 @@ zoa,pa,downstream,1
 zoa,plan_uk,downstream,1
 zoa,plannlno,downstream,1
 zoa,scnl,downstream,4
+zoa,sosnl,downstream,1
 zoa,st_vluchteling,downstream,3
 zoa,syf,downstream,1
 zoa,tdh_nl,downstream,7
@@ -711,6 +711,7 @@ carenederland,dai,upstream,1
 carenederland,icco-cooperation,upstream,1
 carenederland,onl,upstream,14
 carenederland,plannlno,upstream,1
+carenederland,rnw_org,upstream,1
 carenederland,scnl,upstream,10
 carenederland,st_vluchteling,upstream,7
 carenederland,tear,upstream,2
@@ -1735,7 +1736,8 @@ stichting-subsidiegelden-dra,dai,upstream,1
 stichting-subsidiegelden-dra,onl,upstream,21
 stichting-subsidiegelden-dra,plannlno,upstream,1
 stichting-subsidiegelden-dra,redeenkind,upstream,1
-stichting-subsidiegelden-dra,scnl,upstream,6
+stichting-subsidiegelden-dra,scnl,upstream,5
+stichting-subsidiegelden-dra,sosnl,upstream,1
 stichting-subsidiegelden-dra,st_vluchteling,upstream,4
 stichting-subsidiegelden-dra,tdh_nl,upstream,1
 stichting-subsidiegelden-dra,warchildholland,upstream,1
