@@ -388,11 +388,6 @@ msi,pmc,downstream,1
 msi,promsex,downstream,1
 nimd-hq,awepa,downstream,1
 niras,lts,downstream,1
-nl-kvk-41207989,galz,downstream,2
-nl-kvk-41207989,isdao,downstream,1
-nl-kvk-41207989,sanpud,downstream,1
-nl-kvk-41207989,sisonke,downstream,1
-nl-kvk-41207989,uhai-eashri,downstream,1
 nl_wg,gfcf,downstream,1
 nl_wg,kcdf,downstream,1
 open_university,uom,downstream,1
@@ -421,7 +416,6 @@ restless,intrac,downstream,1
 rutgers,arcfge,downstream,1
 rutgers,cfyas,downstream,1
 rutgers,ippf,downstream,1
-rutgers,nl-kvk-41207989,downstream,1
 rutgers,pmo-us,downstream,2
 rutgers,rnw_org,downstream,1
 rutgers,simavi,downstream,1
@@ -921,7 +915,7 @@ fcdo,ftm-291333,upstream,2
 fcdo,fyf,upstream,3
 fcdo,gain,upstream,2
 fcdo,galvmed,upstream,1
-fcdo,gb-chc-220949,upstream,7
+fcdo,gb-chc-220949,upstream,8
 fcdo,gca,upstream,3
 fcdo,gdi,upstream,1
 fcdo,gdihub,upstream,3
@@ -968,7 +962,7 @@ fcdo,lhcf,upstream,1
 fcdo,lse,upstream,1
 fcdo,lshtm,upstream,2
 fcdo,lstm,upstream,2
-fcdo,lts,upstream,1
+fcdo,lts,upstream,2
 fcdo,m2m_sa,upstream,1
 fcdo,malariaconsortium,upstream,4
 fcdo,manniondaniels,upstream,3
@@ -1418,7 +1412,7 @@ minbuza_nl,nchrdk,upstream,1
 minbuza_nl,ndsicde,upstream,1
 minbuza_nl,nfp,upstream,4
 minbuza_nl,nimd-hq,upstream,4
-minbuza_nl,nl-kvk-41207989,upstream,7
+minbuza_nl,nl-kvk-41207989,upstream,1
 minbuza_nl,nl-kvk-54436222-27541,upstream,20
 minbuza_nl,nl_wg,upstream,1
 minbuza_nl,nlr,upstream,2
@@ -1426,11 +1420,12 @@ minbuza_nl,nlr_indonesia,upstream,1
 minbuza_nl,nlrc,upstream,216
 minbuza_nl,nrc,upstream,2
 minbuza_nl,nso,upstream,1
+minbuza_nl,nuffic20171017,upstream,2
 minbuza_nl,nwo,upstream,1
 minbuza_nl,nwp,upstream,1
 minbuza_nl,odi,upstream,1
 minbuza_nl,oneacrefund,upstream,1
-minbuza_nl,onl,upstream,1372
+minbuza_nl,onl,upstream,1373
 minbuza_nl,oxfamintermon,upstream,1
 minbuza_nl,oyw,upstream,1
 minbuza_nl,p-t-f-,upstream,1
@@ -1544,12 +1539,6 @@ nimd-hq,cemi,upstream,1
 nimd-hq,gen,upstream,1
 nimd-hq,gorin,upstream,1
 nimd-hq,saferworld,upstream,1
-nl-kvk-41207989,galz,upstream,3
-nl-kvk-41207989,gnpplus,upstream,1
-nl-kvk-41207989,isdao,upstream,1
-nl-kvk-41207989,sanpud,upstream,1
-nl-kvk-41207989,sisonke,upstream,1
-nl-kvk-41207989,uhai-eashri,upstream,1
 nl_wg,gfcf,upstream,1
 nl_wg,kcdf,upstream,1
 nl_wg,micfound,upstream,1
@@ -1641,7 +1630,6 @@ rikolto_belgium,rikolto,upstream,12
 rutgers,arcfge,upstream,1
 rutgers,cfyas,upstream,3
 rutgers,ippf,upstream,2
-rutgers,nl-kvk-41207989,upstream,1
 rutgers,pmo-us,upstream,1
 rutgers,rnw_org,upstream,1
 rutgers,rutgers,upstream,1
