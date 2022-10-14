@@ -1311,7 +1311,7 @@ minbuza_nl,cidr,upstream,1
 minbuza_nl,cilc,upstream,1
 minbuza_nl,cis,upstream,1
 minbuza_nl,civicus,upstream,1
-minbuza_nl,clingendael,upstream,6
+minbuza_nl,clingendael,upstream,7
 minbuza_nl,cocnl_publisher,upstream,1
 minbuza_nl,cordaid,upstream,29
 minbuza_nl,cpd,upstream,1
@@ -1588,6 +1588,7 @@ pacja,nj_1,upstream,1
 pacja,onl,upstream,13
 palladium,hiuk,upstream,1
 palladium,manniondaniels,upstream,1
+palladium_eur,lftw-int,upstream,1
 pax,amnesty,upstream,1
 pax,arcfge,upstream,1
 pax,defenddefenders,upstream,1
@@ -1666,7 +1667,7 @@ sida,dcaf,upstream,1
 sida,f-aids,upstream,1
 sida,idlo,upstream,2
 sida,ilo,upstream,51
-sida,onl,upstream,196
+sida,onl,upstream,197
 sida,pidg,upstream,1
 siharegional,ewla,upstream,1
 siharegional,fidauganda,upstream,1
@@ -1687,7 +1688,7 @@ simavi,practica,upstream,3
 simavi,rainfoundation,upstream,1
 simavi,ruaf,upstream,4
 simavi,savsign-org,upstream,1
-simavi,simavi,upstream,4
+simavi,simavi,upstream,5
 simavi,solidaridad-europe,upstream,1
 simavi,stichting_hivos,upstream,1
 simavi,vhai-org,upstream,1
