@@ -171,6 +171,7 @@ lts,snv,downstream,1
 mag,halo,downstream,1
 mag,npa,downstream,1
 mamac,creausa-org,downstream,1
+mamac,jass,downstream,1
 manniondaniels,_admin,downstream,1
 manniondaniels,aaik,downstream,1
 manniondaniels,aar,downstream,1
@@ -569,7 +570,6 @@ acf,aahusa,upstream,1
 acf,acf-fr,upstream,1
 afdb,iom,upstream,1
 afghanaid,concernuk,upstream,1
-aics,ilo,upstream,14
 aics,iom,upstream,1
 aics,unhcr,upstream,13
 aics,unocha,upstream,1
@@ -679,7 +679,6 @@ beis,pwc,upstream,2
 beis,rmi,upstream,2
 bmgf,cabi,upstream,4
 bmgf,unhcr,upstream,26
-bmz,ilo,upstream,20
 bmz,unhcr,upstream,4
 bothends,aanl,upstream,2
 bothends,ccc,upstream,1
@@ -769,12 +768,11 @@ danida,ecdpm,upstream,1
 danida,globaltfokus,upstream,3
 danida,ibis_denmark,upstream,1
 danida,idh,upstream,1
-danida,ilo,upstream,5
 danida,ims,upstream,2
 danida,loftf,upstream,2
 danida,missioneast,upstream,5
 danida,plb,upstream,2
-danida,redbarnet,upstream,1
+danida,redbarnet,upstream,3
 danida,unhcr,upstream,3
 danida,wwfdk,upstream,1
 ddp,dhrc_nepal,upstream,1
@@ -812,9 +810,7 @@ ec-fpi,iom,upstream,3
 ec-fpi,warchildholland,upstream,1
 ec-intpa,cabi,upstream,2
 ec-intpa,idlo,upstream,1
-ec-intpa,ilo,upstream,9
 ec-intpa,unhcr,upstream,1
-ec-near,ilo,upstream,2
 ec-near,iom,upstream,5
 ec-near,onl,upstream,3
 ec-near,warchildholland,upstream,2
@@ -829,7 +825,6 @@ emms,nmhiati,upstream,1
 emms,pacam,upstream,1
 emms,pcst,upstream,2
 energy_saving_trust,walaltd,upstream,1
-fao,ilo,upstream,1
 fca,ageintl,upstream,1
 fcam,bothends,upstream,2
 fcam,mamac,upstream,1
@@ -933,7 +928,7 @@ fcdo,idi,upstream,1
 fcdo,ids,upstream,6
 fcdo,ifpri,upstream,1
 fcdo,iied,upstream,4
-fcdo,ilo,upstream,41
+fcdo,ilo,upstream,2
 fcdo,imc_uk,upstream,1
 fcdo,imcw_admin,upstream,10
 fcdo,interburns,upstream,1
@@ -1076,7 +1071,6 @@ fwf,mondiaalfnv,upstream,1
 gac-amc,idi,upstream,1
 gac-amc,idlo,upstream,1
 gac-amc,iisd,upstream,1
-gac-amc,ilo,upstream,6
 gac-amc,iom,upstream,4
 gac-amc,unhcr,upstream,35
 gdi,villageenterprise,upstream,1
@@ -1141,7 +1135,6 @@ inasp,liwa-admin,upstream,1
 inasp,udom,upstream,1
 inasp,umu,upstream,1
 iom,concernuk,upstream,1
-iom,ilo,upstream,9
 iom,zoa,upstream,1
 ippf,dmi_admin,upstream,1
 ippf,hiuk,upstream,1
@@ -1181,7 +1174,6 @@ ksrelief291,unhcr,upstream,1
 ktk,awo2022,upstream,1
 ktk,crtda,upstream,1
 ktk,pwwsd_2022,upstream,1
-lcd_admin,ilo,upstream,5
 lcd_admin,open_university,upstream,1
 loftf,di,upstream,1
 mag,crs,upstream,1
@@ -1265,7 +1257,6 @@ mefbenin,anaepmr_benin,upstream,1
 mefbenin,ine_benin,upstream,1
 mefbenin,soneb-benin,upstream,1
 mefbenin,ze,upstream,3
-mfat,ilo,upstream,2
 mfat,iom,upstream,1
 mfat,unhcr,upstream,1
 minbuza_nl,aanl,upstream,1
@@ -1370,7 +1361,7 @@ minbuza_nl,ieu,upstream,1
 minbuza_nl,ifdc-us,upstream,6
 minbuza_nl,ihedelft,upstream,3
 minbuza_nl,iisd,upstream,1
-minbuza_nl,ilo,upstream,57
+minbuza_nl,ilo,upstream,14
 minbuza_nl,imc_uk,upstream,1
 minbuza_nl,inbar,upstream,1
 minbuza_nl,interpeace,upstream,1
@@ -1387,7 +1378,6 @@ minbuza_nl,issafrica,upstream,2
 minbuza_nl,itc,upstream,3
 minbuza_nl,iucn,upstream,2
 minbuza_nl,iucn_nl,upstream,2
-minbuza_nl,jass,upstream,1
 minbuza_nl,josa,upstream,1
 minbuza_nl,kepsa,upstream,2
 minbuza_nl,kit,upstream,1
@@ -1395,7 +1385,7 @@ minbuza_nl,law,upstream,1
 minbuza_nl,ldsps,upstream,1
 minbuza_nl,lpi,upstream,1
 minbuza_nl,mag,upstream,2
-minbuza_nl,mamac,upstream,2
+minbuza_nl,mamac,upstream,3
 minbuza_nl,manniondaniels,upstream,2
 minbuza_nl,max-foundation,upstream,1
 minbuza_nl,mce,upstream,4
@@ -1546,7 +1536,6 @@ nlrc,carenederland,upstream,1
 nlrc,cordaid,upstream,1
 nlrc,crb-ai_admin,upstream,1
 nlrc,wi,upstream,2
-norad,ilo,upstream,43
 norad,unhcr,upstream,1
 norad,w-d,upstream,1
 nrc,acf,upstream,1
@@ -1666,7 +1655,6 @@ sida,asi,upstream,1
 sida,dcaf,upstream,1
 sida,f-aids,upstream,1
 sida,idlo,upstream,2
-sida,ilo,upstream,51
 sida,onl,upstream,197
 sida,pidg,upstream,1
 siharegional,ewla,upstream,1
@@ -1749,14 +1737,11 @@ traidcraft,fci,upstream,1
 undp,idlo,upstream,1
 undp,warchildholland,upstream,1
 unf,iif,upstream,1
-unido,ilo,upstream,3
 unitedstates,idlo,upstream,12
-unitedstates,ilo,upstream,7
 unitedstates,unhcr,upstream,294
 unocha-cbpf,cordaid,upstream,2
 unocha-cbpf,unhcr,upstream,49
 unocha-cbpf,warchildholland,upstream,1
-unpf,ilo,upstream,153
 unpf,iom,upstream,3
 unpf,undp,upstream,60
 unpf,unhcr,upstream,2
@@ -1764,7 +1749,6 @@ uoe,bpcrs,upstream,1
 uoe,icddrb,upstream,1
 uoe,ipcrg,upstream,1
 uom,iied,upstream,3
-usaid,ilo,upstream,8
 usaid,iom,upstream,134
 usaid,itc,upstream,2
 usaid,odi,upstream,1
