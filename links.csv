@@ -362,6 +362,8 @@ mefbenin,ine_benin,downstream,1
 mefbenin,ze,downstream,1
 minbuza_nl,carenederland,downstream,2
 minbuza_nl,cidr,downstream,1
+minbuza_nl,cordaid,downstream,1
+minbuza_nl,dai,downstream,1
 minbuza_nl,fowode,downstream,1
 minbuza_nl,icwrsa,downstream,1
 minbuza_nl,irc_inc,downstream,1
@@ -1304,13 +1306,13 @@ minbuza_nl,cis,upstream,1
 minbuza_nl,civicus,upstream,1
 minbuza_nl,clingendael,upstream,7
 minbuza_nl,cocnl_publisher,upstream,1
-minbuza_nl,cordaid,upstream,29
+minbuza_nl,cordaid,upstream,28
 minbuza_nl,cpd,upstream,1
 minbuza_nl,creausa-org,upstream,3
 minbuza_nl,crehpa,upstream,1
 minbuza_nl,crisisgroup,upstream,1
 minbuza_nl,d4d,upstream,1
-minbuza_nl,dai,upstream,6
+minbuza_nl,dai,upstream,5
 minbuza_nl,dai-e,upstream,1
 minbuza_nl,dca,upstream,1
 minbuza_nl,dcaf,upstream,2
@@ -1415,7 +1417,7 @@ minbuza_nl,nwo,upstream,1
 minbuza_nl,nwp,upstream,1
 minbuza_nl,odi,upstream,1
 minbuza_nl,oneacrefund,upstream,1
-minbuza_nl,onl,upstream,1373
+minbuza_nl,onl,upstream,1374
 minbuza_nl,oxfamintermon,upstream,1
 minbuza_nl,oyw,upstream,1
 minbuza_nl,p-t-f-,upstream,1
