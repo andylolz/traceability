@@ -54,6 +54,7 @@ cordaid,scnl,downstream,4
 cordaid,sosnl,downstream,6
 cordaid,st_vluchteling,downstream,10
 cordaid,tear,downstream,4
+cordaid,tlo,downstream,1
 cordaid,warchildholland,downstream,4
 cordaid,wipc,downstream,1
 cordaid,wvnld,downstream,7
@@ -377,6 +378,7 @@ minbuza_nl,sjg,downstream,1
 minbuza_nl,st_vluchteling,downstream,2
 minbuza_nl,tear,downstream,1
 minbuza_nl,vngi,downstream,1
+minbuza_nl,wipc,downstream,1
 minbuza_nl,wvnld,downstream,1
 minbuza_nl,zoa,downstream,2
 msi,ciuk,downstream,1
@@ -687,6 +689,7 @@ bothends,ccc,upstream,1
 bothends,foei,upstream,2
 bothends,foenl,upstream,2
 bothends,itforchange,upstream,1
+bothends,samdhana_institute,upstream,1
 bothends,somo,upstream,2
 bothends,tni,upstream,1
 bracintl,hiuk,upstream,1
@@ -735,6 +738,7 @@ cordaid,scnl,upstream,2
 cordaid,sfcg,upstream,1
 cordaid,st_vluchteling,upstream,13
 cordaid,tdh_nl,upstream,1
+cordaid,tlo,upstream,1
 cordaid,wanep,upstream,1
 cordaid,warchildholland,upstream,4
 cordaid,wcuk,upstream,3
@@ -1351,7 +1355,7 @@ minbuza_nl,hif,upstream,2
 minbuza_nl,hiil_mfa,upstream,6
 minbuza_nl,hsi,upstream,2
 minbuza_nl,ibfd,upstream,14
-minbuza_nl,icco-cooperation,upstream,17
+minbuza_nl,icco-cooperation,upstream,19
 minbuza_nl,icnl_org,upstream,5
 minbuza_nl,ictj,upstream,23
 minbuza_nl,icwrsa,upstream,1
@@ -1417,7 +1421,7 @@ minbuza_nl,nwo,upstream,1
 minbuza_nl,nwp,upstream,1
 minbuza_nl,odi,upstream,1
 minbuza_nl,oneacrefund,upstream,1
-minbuza_nl,onl,upstream,1374
+minbuza_nl,onl,upstream,1379
 minbuza_nl,oxfamintermon,upstream,1
 minbuza_nl,oyw,upstream,1
 minbuza_nl,p-t-f-,upstream,1
@@ -1502,7 +1506,6 @@ minbuza_nl,wff,upstream,1
 minbuza_nl,wfp,upstream,2
 minbuza_nl,wgnrr_iati,upstream,1
 minbuza_nl,win,upstream,2
-minbuza_nl,wipc,upstream,1
 minbuza_nl,wlrc_aau,upstream,1
 minbuza_nl,wo-men,upstream,1
 minbuza_nl,womankindworld,upstream,1
