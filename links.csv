@@ -1375,7 +1375,7 @@ minbuza_nl,intersos_main,upstream,2
 minbuza_nl,intrahealth,upstream,1
 minbuza_nl,iom,upstream,1
 minbuza_nl,ipas,upstream,1
-minbuza_nl,ippf,upstream,3
+minbuza_nl,ippf,upstream,4
 minbuza_nl,irc,upstream,7
 minbuza_nl,irc_inc,upstream,1
 minbuza_nl,irc_uk,upstream,1
@@ -1725,6 +1725,7 @@ stichting-subsidiegelden-dra,tdh_nl,upstream,1
 stichting-subsidiegelden-dra,warchildholland,upstream,1
 stichting-subsidiegelden-dra,wvnld,upstream,1
 stichting-subsidiegelden-dra,zoa,upstream,1
+stichting_hivos,fcam,upstream,1
 stichting_hivos,femnet,upstream,1
 stichting_hivos,marsa_welead,upstream,1
 stichting_hivos,pv,upstream,1
