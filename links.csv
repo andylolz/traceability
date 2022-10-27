@@ -525,7 +525,6 @@ waste,amrefnl,downstream,2
 wei,rains,downstream,1
 wemos,amwa,downstream,1
 wemos,slf,downstream,1
-wemos,vso_nl,downstream,1
 womankindworld,ewdna2025,downstream,1
 womankindworld,fowode,downstream,1
 womankindworld,nuwodu,downstream,1
@@ -1311,7 +1310,6 @@ minbuza_nl,bsr_admin,upstream,1
 minbuza_nl,bu,upstream,1
 minbuza_nl,bwh,upstream,1
 minbuza_nl,cabi,upstream,3
-minbuza_nl,cal_2000-pu,upstream,1
 minbuza_nl,carenederland,upstream,6
 minbuza_nl,ccc,upstream,1
 minbuza_nl,cdc_ohg,upstream,1
@@ -1356,7 +1354,6 @@ minbuza_nl,foenl,upstream,1
 minbuza_nl,free_press_unlimited,upstream,2
 minbuza_nl,fwf,upstream,2
 minbuza_nl,gain,upstream,3
-minbuza_nl,genderatwork,upstream,1
 minbuza_nl,gichd,upstream,12
 minbuza_nl,giin,upstream,1
 minbuza_nl,giro555,upstream,1
@@ -1397,6 +1394,7 @@ minbuza_nl,issafrica,upstream,2
 minbuza_nl,itc,upstream,3
 minbuza_nl,iucn,upstream,2
 minbuza_nl,iucn_nl,upstream,2
+minbuza_nl,jass,upstream,1
 minbuza_nl,josa,upstream,1
 minbuza_nl,kepsa,upstream,2
 minbuza_nl,kit,upstream,1
@@ -1443,7 +1441,6 @@ minbuza_nl,partos_nl,upstream,2
 minbuza_nl,pathfinder1,upstream,2
 minbuza_nl,pax,upstream,6
 minbuza_nl,pcf,upstream,2
-minbuza_nl,pekka_21,upstream,1
 minbuza_nl,pidg,upstream,1
 minbuza_nl,plama,upstream,1
 minbuza_nl,plannlno,upstream,9
@@ -1801,7 +1798,6 @@ waste,amrefnl,upstream,2
 wemos,amwa,upstream,1
 wemos,fawe-rs,upstream,1
 wemos,slf,upstream,1
-wemos,vso_nl,upstream,1
 wnf,amwa,upstream,1
 wnf,fundacionavina,upstream,1
 wnf,ssn,upstream,1
