@@ -378,11 +378,10 @@ minbuza_nl,protos,downstream,1
 minbuza_nl,scnl,downstream,2
 minbuza_nl,sjg,downstream,1
 minbuza_nl,st_vluchteling,downstream,2
-minbuza_nl,tear,downstream,1
 minbuza_nl,vngi,downstream,1
 minbuza_nl,wipc,downstream,1
 minbuza_nl,wvnld,downstream,1
-minbuza_nl,zoa,downstream,2
+minbuza_nl,zoa,downstream,1
 msi,ciuk,downstream,1
 msi,fhi360,downstream,1
 msi,icwrsa,downstream,1
@@ -432,7 +431,7 @@ scnl,carenederland,downstream,3
 scnl,cordaid,downstream,3
 scnl,dai,downstream,3
 scnl,icco-cooperation,downstream,5
-scnl,minbuza_nl,downstream,1
+scnl,minbuza_nl,downstream,2
 scnl,plannlno,downstream,4
 scnl,redeenkind,downstream,1
 scnl,sosvdb_italia,downstream,1
@@ -444,6 +443,7 @@ scnl,zoa,downstream,4
 siharegional,ewla,downstream,1
 siharegional,fidauganda,downstream,1
 siharegional,musawah,downstream,1
+siharegional,nagaad,downstream,1
 simavi,amrefnl,downstream,1
 skn,icdi,downstream,1
 skn,uva_org,downstream,1
@@ -525,6 +525,7 @@ waste,amrefnl,downstream,2
 wei,rains,downstream,1
 wemos,amwa,downstream,1
 wemos,slf,downstream,1
+wemos,vso_nl,downstream,1
 womankindworld,ewdna2025,downstream,1
 womankindworld,fowode,downstream,1
 womankindworld,nuwodu,downstream,1
@@ -1138,7 +1139,7 @@ hpa,lcdi_admin,upstream,1
 hpa,tamtf,upstream,1
 icco-cooperation,healthnet,upstream,3
 icco-cooperation,rpm,upstream,1
-icco-cooperation,scnl,upstream,2
+icco-cooperation,scnl,upstream,1
 icco-cooperation,warchildholland,upstream,1
 icf,aauk,upstream,1
 icf,odi_sales_ltd,upstream,1
@@ -1419,7 +1420,7 @@ minbuza_nl,nchrdk,upstream,1
 minbuza_nl,ndsicde,upstream,1
 minbuza_nl,nfp,upstream,4
 minbuza_nl,nimd-hq,upstream,4
-minbuza_nl,nl-kvk-41207989,upstream,1
+minbuza_nl,nl-kvk-41207989,upstream,2
 minbuza_nl,nl-kvk-54436222-27541,upstream,20
 minbuza_nl,nl_wg,upstream,1
 minbuza_nl,nlr,upstream,2
@@ -1527,7 +1528,7 @@ minbuza_nl,ww-gvc,upstream,3
 minbuza_nl,wwf-kenya,upstream,1
 minbuza_nl,yai-hub,upstream,2
 minbuza_nl,yffhsd,upstream,3
-minbuza_nl,zoa,upstream,18
+minbuza_nl,zoa,upstream,17
 mm1,carenederland,upstream,1
 mm1,spr,upstream,1
 mm1,tear,upstream,1
@@ -1544,6 +1545,12 @@ nimd-hq,cemi,upstream,1
 nimd-hq,gen,upstream,1
 nimd-hq,gorin,upstream,1
 nimd-hq,saferworld,upstream,1
+nl-kvk-41207989,galz,upstream,3
+nl-kvk-41207989,gnpplus,upstream,1
+nl-kvk-41207989,isdao,upstream,1
+nl-kvk-41207989,sanpud,upstream,1
+nl-kvk-41207989,sisonke,upstream,1
+nl-kvk-41207989,uhai-eashri,upstream,1
 nl_wg,gfcf,upstream,1
 nl_wg,kcdf,upstream,1
 nl_wg,micfound,upstream,1
@@ -1798,6 +1805,7 @@ waste,amrefnl,upstream,2
 wemos,amwa,upstream,1
 wemos,fawe-rs,upstream,1
 wemos,slf,upstream,1
+wemos,vso_nl,upstream,1
 wnf,amwa,upstream,1
 wnf,fundacionavina,upstream,1
 wnf,ssn,upstream,1
