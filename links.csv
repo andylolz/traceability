@@ -59,7 +59,7 @@ cordaid,tear,downstream,4
 cordaid,tlo,downstream,1
 cordaid,warchildholland,downstream,4
 cordaid,wipc,downstream,1
-cordaid,wvnld,downstream,7
+cordaid,wvnld,downstream,8
 cordaid,zoa,downstream,6
 cr,cr,downstream,1
 crane,bucksfarm,downstream,1
@@ -376,7 +376,6 @@ minbuza_nl,onl,downstream,1
 minbuza_nl,promsex,downstream,1
 minbuza_nl,protos,downstream,1
 minbuza_nl,scnl,downstream,2
-minbuza_nl,sjg,downstream,1
 minbuza_nl,st_vluchteling,downstream,2
 minbuza_nl,vngi,downstream,1
 minbuza_nl,wipc,downstream,1
@@ -475,7 +474,8 @@ stichting-subsidiegelden-dra,warchildholland,downstream,2
 stichting-subsidiegelden-dra,wvnld,downstream,1
 stichting-subsidiegelden-dra,zoa,downstream,1
 taf,dipr,downstream,1
-tear,tdh_nl,downstream,1
+tear,carenederland,downstream,2
+tear,tdh_nl,downstream,2
 tearfund,acatba,downstream,1
 tffus,aain,downstream,1
 the_power_of_nutrition,worldbank,downstream,2
@@ -524,8 +524,11 @@ warchildholland,wvnld,downstream,1
 waste,amrefnl,downstream,2
 wei,rains,downstream,1
 wemos,amwa,downstream,1
+wemos,fawe-rs,downstream,1
 wemos,slf,downstream,1
 wemos,vso_nl,downstream,1
+wnf,wwf-py,downstream,1
+wnf,wwfzambia,downstream,1
 womankindworld,ewdna2025,downstream,1
 womankindworld,fowode,downstream,1
 womankindworld,nuwodu,downstream,1
@@ -722,7 +725,7 @@ carenederland,wvnld,upstream,3
 carenederland,zoa,upstream,8
 cdi_vn_2021,cdi_vn_2021,upstream,1
 cdi_vn_2021,fwf,upstream,1
-cerf,iom,upstream,161
+cerf,iom,upstream,163
 cerf,unhcr,upstream,122
 cfyas,ippf,upstream,1
 ciuk,cnepal,upstream,2
@@ -811,7 +814,7 @@ drc,irc_uk,upstream,1
 drc,irw,upstream,1
 drc,mapaction,upstream,1
 drc,nrc,upstream,1
-ec-echo,iom,upstream,67
+ec-echo,iom,upstream,68
 ec-echo,nlrc,upstream,2
 ec-echo,onl,upstream,40
 ec-echo,tdh_nl,upstream,4
@@ -946,7 +949,7 @@ fcdo,ilo,upstream,41
 fcdo,imc_uk,upstream,1
 fcdo,imcw_admin,upstream,9
 fcdo,interburns,upstream,1
-fcdo,iom,upstream,13
+fcdo,iom,upstream,15
 fcdo,ipas,upstream,1
 fcdo,ipeglobal,upstream,8
 fcdo,ippf,upstream,4
@@ -1109,7 +1112,7 @@ gecfundmanagerpwc,street_child,upstream,1
 gecfundmanagerpwc,vso,upstream,4
 gecfundmanagerpwc,wei,upstream,1
 gecfundmanagerpwc,wusc,upstream,1
-giro555,carenederland,upstream,2
+giro555,carenederland,upstream,3
 giro555,cordaid,upstream,2
 giro555,giro555,upstream,1
 giro555,hfhnl,upstream,1
@@ -1120,7 +1123,7 @@ giro555,plannlno,upstream,5
 giro555,scnl,upstream,5
 giro555,st_vluchteling,upstream,4
 giro555,tdh_nl,upstream,1
-giro555,tear,upstream,1
+giro555,tear,upstream,2
 giro555,unicefnl,upstream,4
 giro555,wvi,upstream,1
 giro555,wvnld,upstream,3
@@ -1311,7 +1314,7 @@ minbuza_nl,bsr_admin,upstream,1
 minbuza_nl,bu,upstream,1
 minbuza_nl,bwh,upstream,1
 minbuza_nl,cabi,upstream,3
-minbuza_nl,carenederland,upstream,6
+minbuza_nl,carenederland,upstream,10
 minbuza_nl,ccc,upstream,1
 minbuza_nl,cdc_ohg,upstream,1
 minbuza_nl,cesc,upstream,1
@@ -1322,7 +1325,7 @@ minbuza_nl,cis,upstream,1
 minbuza_nl,civicus,upstream,1
 minbuza_nl,clingendael,upstream,7
 minbuza_nl,cocnl_publisher,upstream,1
-minbuza_nl,cordaid,upstream,28
+minbuza_nl,cordaid,upstream,30
 minbuza_nl,cpd,upstream,1
 minbuza_nl,creausa-org,upstream,3
 minbuza_nl,crehpa,upstream,1
@@ -1395,7 +1398,7 @@ minbuza_nl,issafrica,upstream,2
 minbuza_nl,itc,upstream,3
 minbuza_nl,iucn,upstream,2
 minbuza_nl,iucn_nl,upstream,2
-minbuza_nl,jass,upstream,1
+minbuza_nl,jass,upstream,2
 minbuza_nl,josa,upstream,1
 minbuza_nl,kepsa,upstream,2
 minbuza_nl,kit,upstream,1
@@ -1403,7 +1406,7 @@ minbuza_nl,law,upstream,1
 minbuza_nl,ldsps,upstream,1
 minbuza_nl,lpi,upstream,1
 minbuza_nl,mag,upstream,2
-minbuza_nl,mamac,upstream,3
+minbuza_nl,mamac,upstream,2
 minbuza_nl,manniondaniels,upstream,2
 minbuza_nl,max-foundation,upstream,1
 minbuza_nl,mce,upstream,4
@@ -1656,7 +1659,7 @@ rvo,cordaid,upstream,1
 rvo,idlo,upstream,1
 saferworld,cr,upstream,1
 sci,concernuk,upstream,1
-scnl,carenederland,upstream,2
+scnl,carenederland,upstream,3
 scnl,cordaid,upstream,5
 scnl,dai,upstream,3
 scnl,icco-cooperation,upstream,12
@@ -1667,7 +1670,7 @@ scnl,redeenkind,upstream,1
 scnl,simavi,upstream,1
 scnl,st_vluchteling,upstream,4
 scnl,tdh_nl,upstream,2
-scnl,tear,upstream,23
+scnl,tear,upstream,24
 scnl,warchildholland,upstream,5
 scnl,wcc,upstream,1
 scnl,wvnld,upstream,2
@@ -1754,6 +1757,7 @@ tccec,mce,upstream,1
 tdh_nl,freeagirl,upstream,2
 tdh_nl,icco-cooperation,upstream,2
 tdh_nl,plannlno,upstream,1
+tear,carenederland,upstream,1
 tfac,tfacmalawi,upstream,1
 theglobalfund,iom,upstream,1
 theglobalfund,undp,upstream,36
@@ -1785,6 +1789,7 @@ usaid,odi,upstream,1
 usaid,saferworld,upstream,1
 viva,bucksfarm,upstream,1
 viva,crane,upstream,1
+vngi,carenederland,upstream,1
 vso,aasaman,upstream,1
 vso,alfalit,upstream,1
 vso,anda,upstream,1
@@ -1854,7 +1859,7 @@ zoa,scnl,upstream,4
 zoa,st_vluchteling,upstream,2
 zoa,syf,upstream,1
 zoa,tdh_nl,upstream,3
-zoa,tear,upstream,1
+zoa,tear,upstream,2
 zoa,tha,upstream,1
 zoa,vngi,upstream,6
 zoa,warchildholland,upstream,5
