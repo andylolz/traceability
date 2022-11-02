@@ -26,7 +26,7 @@ appro-eu,appro-af,downstream,1
 asil,timidria,downstream,1
 bond,sinda,downstream,1
 bothends,aanl,downstream,2
-bothends,ccc,downstream,1
+bothends,ccc,downstream,2
 bothends,foenl,downstream,2
 bothends,itforchange,downstream,1
 bothends,samdhana_institute,downstream,1
@@ -546,6 +546,7 @@ wvnld,wcuk,downstream,1
 wvnld,wvi,downstream,12
 wvnld,zoa,downstream,1
 wvuk,wvi,downstream,96
+zoa,agriterra,downstream,1
 zoa,carenederland,downstream,2
 zoa,cordaid,downstream,7
 zoa,dai,downstream,7
@@ -563,7 +564,7 @@ zoa,syf,downstream,1
 zoa,tdh_nl,downstream,7
 zoa,tear,downstream,1
 zoa,tha,downstream,1
-zoa,vngi,downstream,2
+zoa,vngi,downstream,1
 zoa,warchildholland,downstream,6
 zoa,wvnld,downstream,3
 _path_,gain,upstream,1
@@ -796,8 +797,9 @@ dec-uk,ageintl,upstream,8
 dec-uk,ciuk,upstream,1
 dec-uk,concern_worldwide,upstream,1
 dec-uk,concernuk,upstream,6
-dec-uk,gb-chc-220949,upstream,2
-dec-uk,irw,upstream,2
+dec-uk,gb-chc-220949,upstream,4
+dec-uk,irc_uk,upstream,1
+dec-uk,irw,upstream,3
 dec-uk,oxfamgb,upstream,29
 dec-uk,plan_uk,upstream,5
 dec-uk,tearfund,upstream,4
@@ -1288,7 +1290,7 @@ minbuza_nl,acfshr,upstream,2
 minbuza_nl,acted,upstream,1
 minbuza_nl,adsb,upstream,1
 minbuza_nl,agencia_do_zambeze,upstream,1
-minbuza_nl,agriterra,upstream,2
+minbuza_nl,agriterra,upstream,1
 minbuza_nl,ahead,upstream,1
 minbuza_nl,aias,upstream,1
 minbuza_nl,ajar,upstream,1
@@ -1308,7 +1310,7 @@ minbuza_nl,auxfinbi,upstream,1
 minbuza_nl,avsi_uganda,upstream,1
 minbuza_nl,berytech,upstream,1
 minbuza_nl,bopinc,upstream,1
-minbuza_nl,bothends,upstream,1
+minbuza_nl,bothends,upstream,2
 minbuza_nl,brac_admin2,upstream,2
 minbuza_nl,bsr_admin,upstream,1
 minbuza_nl,bu,upstream,1
@@ -1848,6 +1850,7 @@ wvuk,wv_cd,upstream,5
 wvuk,wv_cf,upstream,1
 wvuk,wv_et_activities,upstream,3
 wygi,lts,upstream,1
+zoa,agriterra,upstream,1
 zoa,carenederland,upstream,2
 zoa,cordaid,upstream,7
 zoa,dai,upstream,4
