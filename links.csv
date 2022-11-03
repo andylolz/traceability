@@ -363,6 +363,7 @@ marysmeals,fcdo,downstream,1
 mefbenin,anaepmr_benin,downstream,2
 mefbenin,ine_benin,downstream,1
 mefbenin,ze,downstream,1
+minbuza_nl,agriterra,downstream,1
 minbuza_nl,carenederland,downstream,2
 minbuza_nl,cidr,downstream,1
 minbuza_nl,cordaid,downstream,1
@@ -377,7 +378,6 @@ minbuza_nl,promsex,downstream,1
 minbuza_nl,protos,downstream,1
 minbuza_nl,scnl,downstream,2
 minbuza_nl,st_vluchteling,downstream,2
-minbuza_nl,vngi,downstream,1
 minbuza_nl,wipc,downstream,1
 minbuza_nl,wvnld,downstream,1
 minbuza_nl,zoa,downstream,1
@@ -564,7 +564,7 @@ zoa,syf,downstream,1
 zoa,tdh_nl,downstream,7
 zoa,tear,downstream,1
 zoa,tha,downstream,1
-zoa,vngi,downstream,1
+zoa,vngi,downstream,2
 zoa,warchildholland,downstream,6
 zoa,wvnld,downstream,3
 _path_,gain,upstream,1
@@ -1859,6 +1859,7 @@ zoa,ida,upstream,1
 zoa,leprazending-tlm-nl,upstream,1
 zoa,onl,upstream,8
 zoa,scnl,upstream,4
+zoa,sosnl,upstream,1
 zoa,st_vluchteling,upstream,2
 zoa,syf,upstream,1
 zoa,tdh_nl,upstream,3
