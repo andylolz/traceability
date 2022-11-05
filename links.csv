@@ -30,7 +30,7 @@ bothends,ccc,downstream,2
 bothends,foenl,downstream,2
 bothends,itforchange,downstream,1
 bothends,samdhana_institute,downstream,1
-bothends,somo,downstream,1
+bothends,somo,downstream,2
 bothends,tni,downstream,2
 bpcrs,uoe,downstream,1
 britishcouncil,pwc,downstream,1
@@ -966,7 +966,6 @@ fcdo,jpal,upstream,2
 fcdo,kipkelion,upstream,1
 fcdo,kpmgea,upstream,3
 fcdo,kpmgllp,upstream,1
-fcdo,lbg,upstream,1
 fcdo,lboro,upstream,1
 fcdo,lbs,upstream,1
 fcdo,lcd_admin,upstream,4
@@ -1602,7 +1601,7 @@ oxfamgb,concern_worldwide,upstream,1
 oxfamgb,onl,upstream,38
 pacja,femnet,upstream,2
 pacja,nj_1,upstream,1
-pacja,onl,upstream,13
+pacja,onl,upstream,14
 palladium,hiuk,upstream,1
 palladium,manniondaniels,upstream,1
 palladium_eur,lftw-int,upstream,1
@@ -1624,6 +1623,7 @@ plannlno,amrefmw,upstream,1
 plannlno,amrefnl,upstream,1
 plannlno,cfyas,upstream,1
 plannlno,dciecpatnl,upstream,1
+plannlno,fawe-rs,upstream,1
 plannlno,femnet,upstream,1
 plannlno,healthnet,upstream,3
 plannlno,kit,upstream,9
