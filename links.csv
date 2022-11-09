@@ -201,6 +201,7 @@ manniondaniels,apt,downstream,1
 manniondaniels,arfh,downstream,1
 manniondaniels,ark,downstream,1
 manniondaniels,asil,downstream,1
+manniondaniels,b_a_t,downstream,1
 manniondaniels,baag,downstream,1
 manniondaniels,basicneeds,downstream,1
 manniondaniels,bauk,downstream,1
@@ -527,8 +528,6 @@ wemos,amwa,downstream,1
 wemos,fawe-rs,downstream,1
 wemos,slf,downstream,1
 wemos,vso_nl,downstream,1
-wnf,wwf-py,downstream,1
-wnf,wwfzambia,downstream,1
 womankindworld,ewdna2025,downstream,1
 womankindworld,fowode,downstream,1
 womankindworld,nuwodu,downstream,1
@@ -699,7 +698,7 @@ bothends,foenl,upstream,2
 bothends,itforchange,upstream,1
 bothends,samdhana_institute,upstream,1
 bothends,somo,upstream,2
-bothends,tni,upstream,1
+bothends,tni,upstream,2
 bracintl,hiuk,upstream,1
 bracuk,brac_admin2,upstream,1
 britishcouncil,open_university,upstream,1
@@ -838,6 +837,7 @@ edt_kenya,concernuk,upstream,1
 edt_kenya,kesho_kenya,upstream,1
 elrha,irc_uk,upstream,1
 emms,dgmh,upstream,1
+emms,infnepal,upstream,1
 emms,mmh,upstream,1
 emms,nmhiati,upstream,1
 emms,pacam,upstream,1
@@ -1402,6 +1402,7 @@ minbuza_nl,iucn,upstream,2
 minbuza_nl,iucn_nl,upstream,2
 minbuza_nl,jass,upstream,2
 minbuza_nl,josa,upstream,1
+minbuza_nl,jowomenomics,upstream,3
 minbuza_nl,kepsa,upstream,2
 minbuza_nl,kit,upstream,1
 minbuza_nl,law,upstream,1
