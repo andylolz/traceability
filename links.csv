@@ -25,6 +25,7 @@ amrefnl,wemos,downstream,1
 appro-eu,appro-af,downstream,1
 asil,timidria,downstream,1
 bond,sinda,downstream,1
+bos_plus_tropen,be-dgd,downstream,1
 bothends,aanl,downstream,2
 bothends,ccc,downstream,2
 bothends,foenl,downstream,2
@@ -77,6 +78,7 @@ dai,wvnld,downstream,1
 danida,di,downstream,1
 danmission,danida,downstream,1
 ddp,dhrc_nepal,downstream,2
+drc,hiuk,downstream,1
 drc,irc_inc,downstream,1
 drc,irc_uk,downstream,2
 edt_kenya,amurt_kenya,downstream,1
@@ -395,6 +397,7 @@ nimd-hq,awepa,downstream,1
 niras,lts,downstream,1
 nl_wg,gfcf,downstream,1
 nl_wg,kcdf,downstream,1
+norad,aain,downstream,1
 open_university,uom,downstream,1
 openmindedly,oxfamgb,downstream,2
 orbis_international,nnjs_nepal,downstream,1
@@ -512,6 +515,7 @@ uoe,upm,downstream,1
 utd,malariaconsortium,downstream,1
 viva,crane,downstream,1
 vlir-uos,ares,downstream,1
+vngi,carenederland,downstream,1
 vso,britishcouncil,downstream,1
 vso,gan,downstream,1
 vso,hiuk,downstream,1
@@ -611,9 +615,9 @@ be-dgd,ares,upstream,1
 be-dgd,asf,upstream,1
 be-dgd,bac,upstream,1
 be-dgd,bd,upstream,1
-be-dgd,be-dgd,upstream,12
+be-dgd,be-dgd,upstream,11
 be-dgd,bismsi,upstream,1
-be-dgd,bos_plus_tropen,upstream,2
+be-dgd,bos_plus_tropen,upstream,1
 be-dgd,brulocalis,upstream,4
 be-dgd,cadtm,upstream,1
 be-dgd,cdeb-kvhb_admin,upstream,1
@@ -940,7 +944,7 @@ fcdo,gsma_foundation,upstream,230
 fcdo,handinhand,upstream,1
 fcdo,hha,upstream,1
 fcdo,hi,upstream,4
-fcdo,hiuk,upstream,8
+fcdo,hiuk,upstream,7
 fcdo,htspe,upstream,2
 fcdo,icf,upstream,4
 fcdo,idi,upstream,1
@@ -1026,7 +1030,7 @@ fcdo,saferworld,upstream,6
 fcdo,sciaf,upstream,1
 fcdo,sct,upstream,1
 fcdo,scuk,upstream,1
-fcdo,sddirect,upstream,3
+fcdo,sddirect,upstream,2
 fcdo,sendacow,upstream,4
 fcdo,sense_international,upstream,2
 fcdo,sfcg,upstream,1
@@ -1358,7 +1362,7 @@ minbuza_nl,fipag,upstream,1
 minbuza_nl,fmo,upstream,4
 minbuza_nl,fms,upstream,1
 minbuza_nl,foenl,upstream,1
-minbuza_nl,free_press_unlimited,upstream,2
+minbuza_nl,free_press_unlimited,upstream,3
 minbuza_nl,fwf,upstream,2
 minbuza_nl,gain,upstream,3
 minbuza_nl,gichd,upstream,12
@@ -1559,6 +1563,10 @@ nlrc,carenederland,upstream,1
 nlrc,cordaid,upstream,1
 nlrc,crb-ai_admin,upstream,1
 nlrc,wi,upstream,2
+norad,ilo,upstream,50
+norad,tffus,upstream,1
+norad,unhcr,upstream,2
+norad,w-d,upstream,1
 nrc,acf,upstream,1
 nrc,concernuk,upstream,2
 nrc,irc_uk,upstream,1
@@ -1786,6 +1794,7 @@ usaid,saferworld,upstream,1
 viva,bucksfarm,upstream,1
 viva,crane,upstream,1
 vngi,carenederland,upstream,1
+vngi,free_press_unlimited,upstream,1
 vso,aasaman,upstream,1
 vso,alfalit,upstream,1
 vso,anda,upstream,1
