@@ -239,7 +239,7 @@ manniondaniels,ddp,downstream,1
 manniondaniels,dhrc_nepal,downstream,2
 manniondaniels,diltuk,downstream,1
 manniondaniels,dki1151219,downstream,1
-manniondaniels,eap,downstream,1
+manniondaniels,eap,downstream,2
 manniondaniels,eel,downstream,1
 manniondaniels,eiuk,downstream,1
 manniondaniels,emms,downstream,1
@@ -253,6 +253,7 @@ manniondaniels,fhfuk,downstream,1
 manniondaniels,foe-ghana,downstream,1
 manniondaniels,ftm-291333,downstream,1
 manniondaniels,fyf,downstream,1
+manniondaniels,gadp,downstream,1
 manniondaniels,gb-chc-220949,downstream,1
 manniondaniels,goal,downstream,1
 manniondaniels,growmovement_admin,downstream,1
@@ -302,7 +303,7 @@ manniondaniels,orbis_international,downstream,1
 manniondaniels,orbis_uk,downstream,2
 manniondaniels,pa,downstream,1
 manniondaniels,peacedirect,downstream,1
-manniondaniels,phase_worldwide,downstream,1
+manniondaniels,phase_worldwide,downstream,2
 manniondaniels,phe,downstream,1
 manniondaniels,pragya,downstream,1
 manniondaniels,prefa_1,downstream,1
@@ -361,6 +362,7 @@ manniondaniels,ycare,downstream,2
 manniondaniels,yoneco1997,downstream,1
 manniondaniels,zet,downstream,1
 manniondaniels,zoa_uk,downstream,1
+manniondaniels,zsl,downstream,1
 marysmeals,fcdo,downstream,1
 mefbenin,anaepmr_benin,downstream,2
 mefbenin,ine_benin,downstream,1
@@ -503,7 +505,6 @@ tripleline_crownagents,rspb_,downstream,1
 tripleline_crownagents,tbalert,downstream,1
 tripleline_crownagents,traidcraft,downstream,1
 tripleline_crownagents,waronwant,downstream,2
-troc,trocaire,downstream,1
 unf,fcdo,downstream,1
 unicefnl,solidaridad-europe,downstream,2
 unpf,bmu_iki,downstream,12
@@ -1050,7 +1051,7 @@ fcdo,tlmew,upstream,1
 fcdo,tns,upstream,2
 fcdo,traidcraft,upstream,5
 fcdo,tripleline_crownagents,upstream,2
-fcdo,troc,upstream,2
+fcdo,troc,upstream,1
 fcdo,ul,upstream,1
 fcdo,umn,upstream,1
 fcdo,undp,upstream,5
@@ -1265,7 +1266,7 @@ manniondaniels,the_fsi,upstream,1
 manniondaniels,timidria,upstream,1
 manniondaniels,tlmew,upstream,1
 manniondaniels,traidcraft,upstream,1
-manniondaniels,troc,upstream,2
+manniondaniels,troc,upstream,1
 manniondaniels,tropicalhealth,upstream,1
 manniondaniels,twin-iati,upstream,1
 manniondaniels,wateraid,upstream,1
@@ -1755,6 +1756,7 @@ stichting_hivos,femnet,upstream,1
 stichting_hivos,marsa_welead,upstream,1
 stichting_hivos,pv,upstream,2
 stichting_hivos,restless,upstream,1
+stichting_hivos,yipl,upstream,2
 tccec,mce,upstream,1
 tdh_nl,freeagirl,upstream,2
 tdh_nl,icco-cooperation,upstream,2
