@@ -28,6 +28,7 @@ bond,sinda,downstream,1
 bos_plus_tropen,be-dgd,downstream,1
 bothends,aanl,downstream,2
 bothends,ccc,downstream,2
+bothends,foei,downstream,1
 bothends,foenl,downstream,2
 bothends,itforchange,downstream,1
 bothends,samdhana_institute,downstream,1
@@ -701,7 +702,7 @@ bmz,ilo,upstream,20
 bmz,unhcr,upstream,4
 bothends,aanl,upstream,2
 bothends,ccc,upstream,1
-bothends,foei,upstream,2
+bothends,foei,upstream,1
 bothends,foenl,upstream,2
 bothends,itforchange,upstream,1
 bothends,samdhana_institute,upstream,1
@@ -711,7 +712,6 @@ bracintl,hiuk,upstream,1
 bracuk,brac_admin2,upstream,1
 britishcouncil,open_university,upstream,1
 britishcouncil,pwc,upstream,1
-britishcouncil,sddirect,upstream,1
 caeb_mali,cordaid,upstream,1
 caid,sddirect,upstream,1
 cal,acf,upstream,1
@@ -777,7 +777,7 @@ dance4life,ippf,upstream,1
 danida,12921047,upstream,2
 danida,aadk,upstream,3
 danida,adra-dk,upstream,1
-danida,caritas_denmark,upstream,2
+danida,caritas_denmark,upstream,3
 danida,cisu,upstream,2
 danida,cku,upstream,2
 danida,danida,upstream,10
@@ -887,7 +887,7 @@ fcdo,bbcmediaaction,upstream,1
 fcdo,beesfordevelopment,upstream,1
 fcdo,blueventures,upstream,1
 fcdo,bond,upstream,3
-fcdo,britishcouncil,upstream,5
+fcdo,britishcouncil,upstream,4
 fcdo,bvs-nepal,upstream,1
 fcdo,cabi,upstream,4
 fcdo,cafod,upstream,38
@@ -1448,7 +1448,7 @@ minbuza_nl,nwo,upstream,4
 minbuza_nl,nwp,upstream,1
 minbuza_nl,odi,upstream,1
 minbuza_nl,oneacrefund,upstream,1
-minbuza_nl,onl,upstream,1394
+minbuza_nl,onl,upstream,1395
 minbuza_nl,oxfamintermon,upstream,1
 minbuza_nl,oyw,upstream,1
 minbuza_nl,p-t-f-,upstream,1
@@ -1555,9 +1555,9 @@ msi,lcd_admin,upstream,1
 msi,options,upstream,2
 nimd-hq,amwa,upstream,1
 nimd-hq,awepa,upstream,1
-nimd-hq,bltp,upstream,1
+nimd-hq,bltp,upstream,2
 nimd-hq,cemi,upstream,1
-nimd-hq,gen,upstream,1
+nimd-hq,gen,upstream,2
 nimd-hq,gorin,upstream,1
 nimd-hq,saferworld,upstream,1
 nl_wg,gfcf,upstream,1
@@ -1860,9 +1860,9 @@ wvnld,tear,upstream,2
 wvnld,warchildholland,upstream,2
 wvnld,zoa,upstream,1
 wvuk,open_university,upstream,1
-wvuk,wv_cd,upstream,5
+wvuk,wv_cd,upstream,13
 wvuk,wv_cf,upstream,1
-wvuk,wv_et_activities,upstream,3
+wvuk,wv_et_activities,upstream,4
 wygi,lts,upstream,1
 zoa,agriterra,upstream,1
 zoa,carenederland,upstream,2
