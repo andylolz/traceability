@@ -28,7 +28,6 @@ bond,sinda,downstream,1
 bos_plus_tropen,be-dgd,downstream,1
 bothends,aanl,downstream,2
 bothends,ccc,downstream,2
-bothends,foei,downstream,1
 bothends,foenl,downstream,2
 bothends,itforchange,downstream,1
 bothends,samdhana_institute,downstream,1
@@ -542,6 +541,12 @@ womankindworld,fowode,downstream,1
 womankindworld,nuwodu,downstream,1
 womankindworld,swda,downstream,1
 womankindworld,wctc,downstream,1
+world_ywca,f2a,downstream,1
+world_ywca,imc-2021,downstream,1
+world_ywca,kit,downstream,1
+world_ywca,ywca,downstream,1
+world_ywca,ywcakenya,downstream,1
+world_ywca,ywcass,downstream,1
 wv_de,wvi,downstream,121
 wvnld,cordaid,downstream,1
 wvnld,dai,downstream,1
@@ -702,7 +707,7 @@ bmz,ilo,upstream,20
 bmz,unhcr,upstream,4
 bothends,aanl,upstream,2
 bothends,ccc,upstream,1
-bothends,foei,upstream,1
+bothends,foei,upstream,2
 bothends,foenl,upstream,2
 bothends,itforchange,upstream,1
 bothends,samdhana_institute,upstream,1
@@ -1535,6 +1540,7 @@ minbuza_nl,win,upstream,2
 minbuza_nl,wlrc_aau,upstream,1
 minbuza_nl,wo-men,upstream,1
 minbuza_nl,womankindworld,upstream,1
+minbuza_nl,world_ywca,upstream,1
 minbuza_nl,worldveg,upstream,1
 minbuza_nl,worldwaternet,upstream,1
 minbuza_nl,wpp,upstream,1
@@ -1842,10 +1848,6 @@ womankindworld,fowode,upstream,1
 womankindworld,nuwodu,upstream,1
 womankindworld,swda,upstream,1
 womankindworld,wctc,upstream,1
-world_ywca,e_n,upstream,1
-world_ywca,f2a,upstream,1
-world_ywca,imc-2021,upstream,1
-world_ywca,ywca,upstream,1
 wri,odi,upstream,1
 wri,sdsna,upstream,2
 wvnld,carenederland,upstream,3
