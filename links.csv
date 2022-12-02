@@ -449,6 +449,7 @@ scnl,warchildholland,downstream,5
 scnl,wvnld,downstream,1
 scnl,zoa,downstream,4
 siharegional,ewla,downstream,1
+siharegional,fidauganda,downstream,1
 siharegional,musawah,downstream,1
 siharegional,nagaad,downstream,1
 siharegional,siha-southsudan,downstream,1
@@ -545,7 +546,6 @@ womankindworld,wctc,downstream,1
 world_ywca,f2a,downstream,1
 world_ywca,imc-2021,downstream,1
 world_ywca,kit,downstream,1
-world_ywca,ywca,downstream,1
 world_ywca,ywcakenya,downstream,1
 world_ywca,ywcass,downstream,1
 wv_de,wvi,downstream,121
@@ -980,7 +980,6 @@ fcdo,jpal,upstream,2
 fcdo,kipkelion,upstream,1
 fcdo,kpmgea,upstream,3
 fcdo,kpmgllp,upstream,1
-fcdo,lbg,upstream,1
 fcdo,lboro,upstream,1
 fcdo,lbs,upstream,1
 fcdo,lcd_admin,upstream,4
@@ -1388,7 +1387,6 @@ minbuza_nl,ibfd,upstream,14
 minbuza_nl,icco-cooperation,upstream,19
 minbuza_nl,icnl_org,upstream,5
 minbuza_nl,ictj,upstream,23
-minbuza_nl,icwrsa,upstream,1
 minbuza_nl,ida,upstream,1
 minbuza_nl,idh,upstream,13
 minbuza_nl,idh_im,upstream,1
@@ -1614,7 +1612,7 @@ oxfamgb,bond,upstream,1
 oxfamgb,concern_worldwide,upstream,1
 oxfamgb,onl,upstream,38
 pacja,femnet,upstream,2
-pacja,nj_1,upstream,1
+pacja,nj_1,upstream,6
 pacja,onl,upstream,14
 palladium,hiuk,upstream,1
 palladium,manniondaniels,upstream,1
@@ -1706,6 +1704,7 @@ sida,ilo,upstream,51
 sida,onl,upstream,201
 sida,pidg,upstream,1
 siharegional,ewla,upstream,1
+siharegional,fidauganda,upstream,1
 siharegional,musawah,upstream,1
 simavi,ads-nyanza,upstream,1
 simavi,amrefnl,upstream,3
@@ -1851,6 +1850,7 @@ womankindworld,nuwodu,upstream,1
 womankindworld,swda,upstream,1
 womankindworld,wctc,upstream,1
 world_ywca,kit,upstream,1
+world_ywca,ywca,upstream,1
 wri,odi,upstream,1
 wri,sdsna,upstream,2
 wvnld,carenederland,upstream,3
