@@ -1431,13 +1431,14 @@ minbuza_nl,mefbenin,upstream,2
 minbuza_nl,minbuza_nl,upstream,23
 minbuza_nl,mm1,upstream,2
 minbuza_nl,mml,upstream,1
+minbuza_nl,mondiaalfnv,upstream,1
 minbuza_nl,msi,upstream,7
 minbuza_nl,mvo_nederland,upstream,2
 minbuza_nl,mwatana,upstream,1
 minbuza_nl,ncea,upstream,5
 minbuza_nl,nchrdk,upstream,1
 minbuza_nl,ndsicde,upstream,1
-minbuza_nl,nfp,upstream,4
+minbuza_nl,nfp,upstream,2
 minbuza_nl,nimd-hq,upstream,4
 minbuza_nl,nl-kvk-41207989,upstream,2
 minbuza_nl,nl-kvk-54436222-27541,upstream,20
@@ -1476,7 +1477,7 @@ minbuza_nl,rlb,upstream,2
 minbuza_nl,rmf-lb,upstream,1
 minbuza_nl,rutgers,upstream,4
 minbuza_nl,rvo,upstream,14
-minbuza_nl,saferworld,upstream,10
+minbuza_nl,saferworld,upstream,11
 minbuza_nl,scnl,upstream,12
 minbuza_nl,scss,upstream,1
 minbuza_nl,ser,upstream,1
@@ -1581,6 +1582,7 @@ nrc,acf,upstream,1
 nrc,concernuk,upstream,2
 nrc,irc_uk,upstream,1
 nso,icco-cooperation,upstream,3
+nwp,nfp,upstream,1
 odi_sales_ltd,irc_uk,upstream,1
 onl,carenederland,upstream,1
 onl,cordaid,upstream,3
@@ -1803,10 +1805,8 @@ uoe,icddrb,upstream,1
 uoe,ipcrg,upstream,1
 uom,iied,upstream,3
 usaid,ilo,upstream,8
-usaid,iom,upstream,134
+usaid,iom,upstream,31
 usaid,itc,upstream,2
-usaid,odi,upstream,1
-usaid,saferworld,upstream,1
 viva,bucksfarm,upstream,1
 viva,crane,upstream,1
 vngi,carenederland,upstream,1
