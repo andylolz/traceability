@@ -524,6 +524,7 @@ utd,malariaconsortium,downstream,1
 viva,crane,downstream,1
 vlir-uos,ares,downstream,1
 vngi,carenederland,downstream,1
+vngi,cordaid,downstream,1
 vso,britishcouncil,downstream,1
 vso,gan,downstream,1
 vso,hiuk,downstream,1
@@ -1355,7 +1356,7 @@ minbuza_nl,dcaf,upstream,2
 minbuza_nl,decp,upstream,3
 minbuza_nl,deltares,upstream,4
 minbuza_nl,dggf_financing_local_smes,upstream,1
-minbuza_nl,drc,upstream,7
+minbuza_nl,drc,upstream,8
 minbuza_nl,dri,upstream,1
 minbuza_nl,ecdpm,upstream,1
 minbuza_nl,ecorysnl,upstream,1
@@ -1455,7 +1456,7 @@ minbuza_nl,nwo,upstream,4
 minbuza_nl,nwp,upstream,1
 minbuza_nl,odi,upstream,1
 minbuza_nl,oneacrefund,upstream,1
-minbuza_nl,onl,upstream,1400
+minbuza_nl,onl,upstream,1403
 minbuza_nl,oxfamintermon,upstream,1
 minbuza_nl,oyw,upstream,1
 minbuza_nl,p-t-f-,upstream,1
@@ -1526,7 +1527,7 @@ minbuza_nl,unocha-sdc,upstream,2
 minbuza_nl,utz,upstream,1
 minbuza_nl,uvw,upstream,1
 minbuza_nl,vei_nl,upstream,2
-minbuza_nl,vngi,upstream,6
+minbuza_nl,vngi,upstream,7
 minbuza_nl,w-d,upstream,2
 minbuza_nl,wageningen_ur,upstream,10
 minbuza_nl,warchildholland,upstream,8
@@ -1539,6 +1540,7 @@ minbuza_nl,wfaf,upstream,1
 minbuza_nl,wff,upstream,1
 minbuza_nl,wfp,upstream,2
 minbuza_nl,wgnrr_iati,upstream,1
+minbuza_nl,wilpf_22,upstream,1
 minbuza_nl,win,upstream,2
 minbuza_nl,wlrc_aau,upstream,1
 minbuza_nl,wo-men,upstream,1
@@ -1615,7 +1617,7 @@ orbis_uk,orbis_international,upstream,3
 oxfamgb,bond,upstream,1
 oxfamgb,concern_worldwide,upstream,1
 oxfamgb,onl,upstream,38
-pacja,femnet,upstream,2
+pacja,femnet,upstream,1
 pacja,onl,upstream,14
 palladium,hiuk,upstream,1
 palladium,manniondaniels,upstream,1
