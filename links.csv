@@ -720,6 +720,7 @@ bracintl,hiuk,upstream,1
 bracuk,brac_admin2,upstream,1
 britishcouncil,open_university,upstream,1
 britishcouncil,pwc,upstream,1
+britishcouncil,sddirect,upstream,1
 caeb_mali,cordaid,upstream,1
 caid,sddirect,upstream,1
 cal,acf,upstream,1
@@ -895,7 +896,7 @@ fcdo,bbcmediaaction,upstream,1
 fcdo,beesfordevelopment,upstream,1
 fcdo,blueventures,upstream,1
 fcdo,bond,upstream,3
-fcdo,britishcouncil,upstream,4
+fcdo,britishcouncil,upstream,5
 fcdo,bvs-nepal,upstream,1
 fcdo,cabi,upstream,4
 fcdo,cafod,upstream,38
