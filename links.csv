@@ -538,10 +538,6 @@ warchildholland,wcuk,downstream,7
 warchildholland,wvnld,downstream,1
 waste,amrefnl,downstream,2
 wei,rains,downstream,1
-wemos,amwa,downstream,1
-wemos,fawe-rs,downstream,1
-wemos,slf,downstream,1
-wemos,vso_nl,downstream,1
 womankindworld,ewdna2025,downstream,1
 womankindworld,fowode,downstream,1
 womankindworld,nuwodu,downstream,1
@@ -1052,7 +1048,7 @@ fcdo,sfcg,upstream,1
 fcdo,snv,upstream,1
 fcdo,soas,upstream,2
 fcdo,spuk,upstream,3
-fcdo,ss-org,upstream,131
+fcdo,ss-org,upstream,130
 fcdo,stichting_hivos,upstream,1
 fcdo,stichtingfern,upstream,1
 fcdo,street_child,upstream,4
@@ -1309,7 +1305,7 @@ minbuza_nl,acfshr,upstream,2
 minbuza_nl,acted,upstream,1
 minbuza_nl,adsb,upstream,1
 minbuza_nl,agencia_do_zambeze,upstream,1
-minbuza_nl,agriterra,upstream,1
+minbuza_nl,agriterra,upstream,2
 minbuza_nl,ahead,upstream,1
 minbuza_nl,aias,upstream,1
 minbuza_nl,ajar,upstream,1
@@ -1537,7 +1533,6 @@ minbuza_nl,warchildholland,upstream,8
 minbuza_nl,waste,upstream,1
 minbuza_nl,wba,upstream,2
 minbuza_nl,wecf,upstream,1
-minbuza_nl,wemos,upstream,1
 minbuza_nl,wf-asia,upstream,1
 minbuza_nl,wfaf,upstream,1
 minbuza_nl,wff,upstream,1
@@ -1836,10 +1831,6 @@ warchildholland,wcc,upstream,1
 warchildholland,wclac,upstream,1
 warchildholland,wcuk,upstream,4
 waste,amrefnl,upstream,2
-wemos,amwa,upstream,1
-wemos,fawe-rs,upstream,1
-wemos,slf,upstream,1
-wemos,vso_nl,upstream,1
 wnf,amwa,upstream,1
 wnf,fundacionavina,upstream,1
 wnf,ssn,upstream,1
