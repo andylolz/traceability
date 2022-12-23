@@ -91,6 +91,7 @@ f2a,world_ywca,downstream,1
 fca,ageintl,downstream,1
 fcam,bothends,downstream,1
 fcam,mamac,downstream,1
+fcdo,ciuk,downstream,1
 fcdo,fcdo,downstream,3
 fcdo,healthpartners-international,downstream,1
 fcdo,ipas,downstream,1
@@ -380,7 +381,7 @@ minbuza_nl,dai,downstream,1
 minbuza_nl,fowode,downstream,1
 minbuza_nl,icwrsa,downstream,1
 minbuza_nl,irc_inc,downstream,1
-minbuza_nl,minbuza_nl,downstream,1
+minbuza_nl,minbuza_nl,downstream,2
 minbuza_nl,nuwodu,downstream,1
 minbuza_nl,onl,downstream,1
 minbuza_nl,promsex,downstream,1
@@ -398,6 +399,7 @@ msi,ipas,downstream,1
 msi,ippf,downstream,1
 msi,irc_inc,downstream,1
 msi,lcd_admin,downstream,1
+msi,minbuza_nl,downstream,1
 msi,options,downstream,3
 msi,pmc,downstream,1
 msi,promsex,downstream,1
@@ -938,7 +940,7 @@ fcdo,energy_saving_trust,upstream,1
 fcdo,evc,upstream,2
 fcdo,excellent,upstream,1
 fcdo,f-aids,upstream,1
-fcdo,fcdo,upstream,22
+fcdo,fcdo,upstream,23
 fcdo,fh,upstream,2
 fcdo,foe_ewni,upstream,1
 fcdo,ftm-291333,upstream,2
@@ -1005,7 +1007,7 @@ fcdo,namati_inc,upstream,1
 fcdo,nathan,upstream,2
 fcdo,nrgi,upstream,1
 fcdo,nutritionintl,upstream,1
-fcdo,odi,upstream,30
+fcdo,odi,upstream,31
 fcdo,odi_sales_ltd,upstream,6
 fcdo,onetoonecf,upstream,1
 fcdo,onl,upstream,2
@@ -1495,7 +1497,6 @@ minbuza_nl,skn,upstream,1
 minbuza_nl,snv,upstream,19
 minbuza_nl,solidaridad,upstream,2
 minbuza_nl,solidaridad-europe,upstream,1
-minbuza_nl,solidaridad-ssea,upstream,2
 minbuza_nl,solidaridad-waf,upstream,2
 minbuza_nl,solidarsuisse,upstream,1
 minbuza_nl,somo,upstream,1
@@ -1741,7 +1742,6 @@ solidaridad,bwi,upstream,2
 solidaridad,fairfood,upstream,5
 solidaridad,trustafrica,upstream,16
 solidaridad-europe,solidaridad,upstream,86
-solidaridad-europe,solidaridad-ssea,upstream,24
 solidaridad-europe,solidaridad-waf,upstream,10
 sosnl,cordaid,upstream,4
 sosnl,icco-cooperation,upstream,1
