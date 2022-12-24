@@ -793,7 +793,6 @@ danida,cku,upstream,2
 danida,danida,upstream,10
 danida,danishrc,upstream,4
 danida,danmission,upstream,14
-danida,dca,upstream,4
 danida,di,upstream,1
 danida,drc,upstream,30
 danida,ecdpm,upstream,1
@@ -954,7 +953,7 @@ fcdo,gdihub,upstream,3
 fcdo,gecfundmanagerpwc,upstream,3
 fcdo,gi-toc,upstream,1
 fcdo,globalcanopy,upstream,1
-fcdo,gsma_foundation,upstream,230
+fcdo,gsma_foundation,upstream,367
 fcdo,handinhand,upstream,1
 fcdo,hha,upstream,1
 fcdo,hi,upstream,4
@@ -1497,6 +1496,7 @@ minbuza_nl,skn,upstream,1
 minbuza_nl,snv,upstream,19
 minbuza_nl,solidaridad,upstream,2
 minbuza_nl,solidaridad-europe,upstream,1
+minbuza_nl,solidaridad-ssea,upstream,2
 minbuza_nl,solidaridad-waf,upstream,2
 minbuza_nl,solidarsuisse,upstream,1
 minbuza_nl,somo,upstream,1
@@ -1742,6 +1742,7 @@ solidaridad,bwi,upstream,2
 solidaridad,fairfood,upstream,5
 solidaridad,trustafrica,upstream,16
 solidaridad-europe,solidaridad,upstream,86
+solidaridad-europe,solidaridad-ssea,upstream,24
 solidaridad-europe,solidaridad-waf,upstream,10
 sosnl,cordaid,upstream,4
 sosnl,icco-cooperation,upstream,1
