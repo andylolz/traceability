@@ -692,7 +692,7 @@ be-dgd,tfb_admin1,upstream,1
 be-dgd,ub,upstream,1
 be-dgd,ucos,upstream,1
 be-dgd,ulbcoop,upstream,1
-be-dgd,unhcr,upstream,2
+be-dgd,unhcr,upstream,14
 be-dgd,uvcw,upstream,5
 be-dgd,vlir-uos,upstream,1
 be-dgd,vvob,upstream,1
@@ -1108,7 +1108,7 @@ gac-amc,idlo,upstream,1
 gac-amc,iisd,upstream,1
 gac-amc,ilo,upstream,6
 gac-amc,iom,upstream,4
-gac-amc,unhcr,upstream,35
+gac-amc,unhcr,upstream,36
 gdi,villageenterprise,upstream,1
 gecfundmanagerpwc,aaik,upstream,1
 gecfundmanagerpwc,ava_admin,upstream,1
