@@ -833,12 +833,11 @@ drc,irc_uk,upstream,1
 drc,irw,upstream,1
 drc,mapaction,upstream,1
 drc,nrc,upstream,1
-ec-echo,iom,upstream,69
+ec-echo,iom,upstream,13
 ec-echo,nlrc,upstream,2
-ec-echo,onl,upstream,40
-ec-echo,tdh_nl,upstream,4
-ec-echo,unhcr,upstream,274
-ec-echo,warchildholland,upstream,4
+ec-echo,onl,upstream,35
+ec-echo,unhcr,upstream,130
+ec-echo,warchildholland,upstream,2
 ec-fpi,iom,upstream,3
 ec-fpi,warchildholland,upstream,1
 ec-intpa,cabi,upstream,2
