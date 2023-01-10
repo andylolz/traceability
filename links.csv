@@ -154,7 +154,6 @@ irc_inc,concern_worldwide,downstream,3
 irc_inc,concernuk,downstream,2
 irc_inc,cuamm,downstream,1
 irc_inc,goal,downstream,1
-irc_inc,irc_inc,downstream,1
 irc_inc,irc_uk,downstream,3
 irc_inc,mcn,downstream,1
 irc_inc,msi,downstream,1
@@ -162,8 +161,8 @@ irc_inc,nrc,downstream,2
 irc_inc,plan_uk,downstream,1
 irc_inc,restless,downstream,2
 irc_inc,zoa,downstream,1
+irc_uk,bbcmediaaction,downstream,1
 irc_uk,concern_worldwide,downstream,1
-irc_uk,concernuk,downstream,1
 irc_uk,cuamm,downstream,1
 irc_uk,fcdo,downstream,1
 irc_uk,goal,downstream,1
@@ -1125,7 +1124,7 @@ gecfundmanagerpwc,dla,upstream,1
 gecfundmanagerpwc,edt_kenya,upstream,2
 gecfundmanagerpwc,gecfundmanagerpwc,upstream,1
 gecfundmanagerpwc,hpa,upstream,1
-gecfundmanagerpwc,irc_inc,upstream,2
+gecfundmanagerpwc,irc_inc,upstream,1
 gecfundmanagerpwc,irc_uk,upstream,3
 gecfundmanagerpwc,lcd_admin,upstream,2
 gecfundmanagerpwc,lcdi_admin,upstream,1
@@ -1193,12 +1192,12 @@ irc_inc,cuamm,upstream,1
 irc_inc,drc,upstream,2
 irc_inc,goal,upstream,1
 irc_inc,hiuk,upstream,1
+irc_inc,irc_inc,upstream,1
 irc_inc,irc_uk,upstream,2
 irc_inc,mcn,upstream,1
 irc_inc,msi,upstream,1
 irc_inc,restless,upstream,2
 irc_inc,zoa,upstream,1
-irc_uk,concern_worldwide,upstream,1
 irc_uk,goal,upstream,1
 irc_uk,hiuk,upstream,1
 irc_uk,irc_inc,upstream,76
@@ -1438,7 +1437,7 @@ minbuza_nl,mce,upstream,4
 minbuza_nl,mcn,upstream,1
 minbuza_nl,mdf,upstream,4
 minbuza_nl,mefbenin,upstream,2
-minbuza_nl,minbuza_nl,upstream,23
+minbuza_nl,minbuza_nl,upstream,24
 minbuza_nl,mm1,upstream,2
 minbuza_nl,mml,upstream,1
 minbuza_nl,mondiaalfnv,upstream,1
