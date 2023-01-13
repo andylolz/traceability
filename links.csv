@@ -552,6 +552,7 @@ womankindworld,fowode,downstream,1
 womankindworld,nuwodu,downstream,1
 womankindworld,swda,downstream,1
 womankindworld,wctc,downstream,1
+world_ywca,e_n,downstream,1
 world_ywca,f2a,downstream,1
 world_ywca,imc-2021,downstream,1
 world_ywca,kit,downstream,1
@@ -1314,7 +1315,7 @@ minbuza_nl,acfshr,upstream,2
 minbuza_nl,acted,upstream,1
 minbuza_nl,adsb,upstream,1
 minbuza_nl,agencia_do_zambeze,upstream,1
-minbuza_nl,agriterra,upstream,4
+minbuza_nl,agriterra,upstream,3
 minbuza_nl,ahead,upstream,1
 minbuza_nl,aias,upstream,1
 minbuza_nl,ajar,upstream,1
@@ -1862,6 +1863,7 @@ womankindworld,fowode,upstream,1
 womankindworld,nuwodu,upstream,1
 womankindworld,swda,upstream,1
 womankindworld,wctc,upstream,1
+world_ywca,e_n,upstream,1
 world_ywca,f2a,upstream,1
 world_ywca,kit,upstream,1
 world_ywca,world_ywca,upstream,1
