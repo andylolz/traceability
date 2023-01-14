@@ -382,7 +382,6 @@ minbuza_nl,fowode,downstream,1
 minbuza_nl,icwrsa,downstream,1
 minbuza_nl,irc_inc,downstream,1
 minbuza_nl,minbuza_nl,downstream,2
-minbuza_nl,nuwodu,downstream,1
 minbuza_nl,onl,downstream,1
 minbuza_nl,promsex,downstream,1
 minbuza_nl,protos,downstream,1
@@ -1322,9 +1321,10 @@ minbuza_nl,ajar,upstream,1
 minbuza_nl,al_majmoua,upstream,1
 minbuza_nl,alab,upstream,2
 minbuza_nl,alcrer-1,upstream,1
-minbuza_nl,amrefnl,upstream,2
+minbuza_nl,amrefnl,upstream,3
 minbuza_nl,amrefug,upstream,1
 minbuza_nl,ancb_benin,upstream,3
+minbuza_nl,aqua4all,upstream,1
 minbuza_nl,arcfge,upstream,8
 minbuza_nl,arij,upstream,1
 minbuza_nl,art19,upstream,1
@@ -1381,7 +1381,7 @@ minbuza_nl,fipag,upstream,1
 minbuza_nl,fmo,upstream,4
 minbuza_nl,fms,upstream,1
 minbuza_nl,foenl,upstream,1
-minbuza_nl,free_press_unlimited,upstream,3
+minbuza_nl,free_press_unlimited,upstream,4
 minbuza_nl,fwf,upstream,2
 minbuza_nl,gain,upstream,4
 minbuza_nl,gichd,upstream,12
