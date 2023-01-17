@@ -801,7 +801,6 @@ danida,cku,upstream,2
 danida,danida,upstream,10
 danida,danishrc,upstream,4
 danida,danmission,upstream,14
-danida,dca,upstream,8
 danida,di,upstream,1
 danida,drc,upstream,30
 danida,ecdpm,upstream,1
@@ -908,7 +907,7 @@ fcdo,bond,upstream,3
 fcdo,britishcouncil,upstream,5
 fcdo,bvs-nepal,upstream,1
 fcdo,cabi,upstream,4
-fcdo,cafod,upstream,38
+fcdo,cafod,upstream,33
 fcdo,cal,upstream,5
 fcdo,carbontrustadvisory,upstream,1
 fcdo,cardnoem,upstream,5
@@ -1560,7 +1559,7 @@ minbuza_nl,worldveg,upstream,1
 minbuza_nl,worldwaternet,upstream,1
 minbuza_nl,wpp,upstream,1
 minbuza_nl,wvnld,upstream,5
-minbuza_nl,ww-gvc,upstream,4
+minbuza_nl,ww-gvc,upstream,5
 minbuza_nl,wwf-kenya,upstream,1
 minbuza_nl,yai-hub,upstream,2
 minbuza_nl,yffhsd,upstream,3
@@ -1903,6 +1902,6 @@ zoa,syf,upstream,1
 zoa,tdh_nl,upstream,3
 zoa,tear,upstream,2
 zoa,tha,upstream,1
-zoa,vngi,upstream,6
+zoa,vngi,upstream,7
 zoa,warchildholland,upstream,5
 zoa,wvnld,upstream,3
