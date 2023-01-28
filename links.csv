@@ -841,11 +841,11 @@ drc,irc_uk,upstream,1
 drc,irw,upstream,1
 drc,mapaction,upstream,1
 drc,nrc,upstream,1
-ec-echo,iom,upstream,59
+ec-echo,iom,upstream,69
 ec-echo,nlrc,upstream,2
 ec-echo,onl,upstream,40
 ec-echo,tdh_nl,upstream,4
-ec-echo,unhcr,upstream,248
+ec-echo,unhcr,upstream,280
 ec-echo,warchildholland,upstream,4
 ec-fpi,iom,upstream,3
 ec-fpi,warchildholland,upstream,1
@@ -1805,9 +1805,6 @@ undp,idlo,upstream,1
 undp,warchildholland,upstream,1
 unf,iif,upstream,1
 unido,ilo,upstream,3
-unitedstates,idlo,upstream,12
-unitedstates,ilo,upstream,7
-unitedstates,unhcr,upstream,294
 unocha-cbpf,cordaid,upstream,2
 unocha-cbpf,unhcr,upstream,53
 unocha-cbpf,warchildholland,upstream,1
