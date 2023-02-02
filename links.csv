@@ -1385,7 +1385,7 @@ minbuza_nl,fms,upstream,1
 minbuza_nl,foenl,upstream,1
 minbuza_nl,free_press_unlimited,upstream,4
 minbuza_nl,fwf,upstream,2
-minbuza_nl,gain,upstream,4
+minbuza_nl,gain,upstream,5
 minbuza_nl,gichd,upstream,12
 minbuza_nl,giin,upstream,1
 minbuza_nl,giro555,upstream,1
@@ -1598,7 +1598,6 @@ nlrc,wi,upstream,2
 norad,ilo,upstream,50
 norad,tffus,upstream,1
 norad,unhcr,upstream,4
-norad,w-d,upstream,1
 nrc,acf,upstream,1
 nrc,concernuk,upstream,2
 nrc,irc_uk,upstream,1
@@ -1707,7 +1706,7 @@ scnl,simavi,upstream,1
 scnl,st_vluchteling,upstream,4
 scnl,tdh_nl,upstream,2
 scnl,tear,upstream,36
-scnl,warchildholland,upstream,5
+scnl,warchildholland,upstream,6
 scnl,wcc,upstream,1
 scnl,wvnld,upstream,2
 scnl,zoa,upstream,8
