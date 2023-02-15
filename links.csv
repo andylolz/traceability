@@ -374,6 +374,7 @@ minbuza_nl,agriterra,downstream,1
 minbuza_nl,cidr,downstream,1
 minbuza_nl,icwrsa,downstream,1
 minbuza_nl,minbuza_nl,downstream,1
+minbuza_nl,nuwodu,downstream,1
 minbuza_nl,onl,downstream,2
 minbuza_nl,promsex,downstream,1
 minbuza_nl,protos,downstream,1
@@ -381,7 +382,6 @@ minbuza_nl,scnl,downstream,2
 minbuza_nl,sjg,downstream,1
 minbuza_nl,sosnl,downstream,1
 minbuza_nl,st_vluchteling,downstream,3
-minbuza_nl,swda,downstream,1
 minbuza_nl,tdh_nl,downstream,1
 minbuza_nl,vngi,downstream,2
 minbuza_nl,wipc,downstream,1
@@ -1033,7 +1033,7 @@ fcdo,pri,upstream,1
 fcdo,pumpaid,upstream,1
 fcdo,pwc,upstream,9
 fcdo,pwcplindia,upstream,10
-fcdo,ran,upstream,1
+fcdo,ran,upstream,2
 fcdo,rc,upstream,1
 fcdo,rcel,upstream,1
 fcdo,restless,upstream,10
@@ -1596,7 +1596,7 @@ nso,icco-cooperation,upstream,3
 nwp,nfp,upstream,1
 odakorea,unhcr,upstream,1
 odi_sales_ltd,irc_uk,upstream,1
-onl,carenederland,upstream,1
+onl,carenederland,upstream,2
 onl,cordaid,upstream,3
 onl,dai,upstream,1
 onl,hc2022,upstream,1
@@ -1606,10 +1606,10 @@ onl,oxfamgb,upstream,70
 onl,plannlno,upstream,3
 onl,redeenkind,upstream,1
 onl,rnw_org,upstream,1
-onl,scnl,upstream,1
+onl,scnl,upstream,2
 onl,somo,upstream,2
 onl,st_vluchteling,upstream,1
-onl,tear,upstream,3
+onl,tear,upstream,5
 onl,twnafrica,upstream,1
 onl,wvnld,upstream,3
 onl,zoa,upstream,2
@@ -1635,6 +1635,7 @@ pax,arcfge,upstream,1
 pax,defenddefenders,upstream,1
 pcst,pcst,upstream,1
 pegasys-eu,globalcanopy,upstream,1
+pegasys-eu,ran,upstream,1
 pegasys-eu,rfuk,upstream,1
 pegasys-eu,wwf-uk,upstream,1
 pin,concernuk,upstream,1
@@ -1771,7 +1772,7 @@ st_vluchteling,plannlno,upstream,1
 stichting-subsidiegelden-dra,carenederland,upstream,1
 stichting-subsidiegelden-dra,cordaid,upstream,2
 stichting-subsidiegelden-dra,dai,upstream,2
-stichting-subsidiegelden-dra,onl,upstream,33
+stichting-subsidiegelden-dra,onl,upstream,39
 stichting-subsidiegelden-dra,plannlno,upstream,1
 stichting-subsidiegelden-dra,redeenkind,upstream,1
 stichting-subsidiegelden-dra,scnl,upstream,6
@@ -1814,7 +1815,7 @@ uoe,icddrb,upstream,1
 uoe,ipcrg,upstream,1
 uom,iied,upstream,3
 usaid,ilo,upstream,8
-usaid,iom,upstream,146
+usaid,iom,upstream,147
 usaid,itc,upstream,2
 usaid,odi,upstream,1
 usaid,saferworld,upstream,1
