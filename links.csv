@@ -727,6 +727,7 @@ caeb_mali,cordaid,upstream,1
 caid,sddirect,upstream,1
 cal,acf,upstream,1
 cal,hpa,upstream,1
+cal,irc_inc,upstream,3
 carbontrustadvisory,e4i,upstream,1
 carbontrustadvisory,shortlistogti,upstream,1
 carbontrustadvisory,uct,upstream,1
@@ -904,7 +905,7 @@ fcdo,bond,upstream,3
 fcdo,britishcouncil,upstream,5
 fcdo,bvs-nepal,upstream,1
 fcdo,cabi,upstream,4
-fcdo,cal,upstream,5
+fcdo,cal,upstream,6
 fcdo,carbontrustadvisory,upstream,1
 fcdo,cardnoem,upstream,5
 fcdo,cepr,upstream,2
@@ -1516,7 +1517,6 @@ minbuza_nl,tear,upstream,1
 minbuza_nl,thp_org,upstream,1
 minbuza_nl,tni,upstream,1
 minbuza_nl,tns,upstream,1
-minbuza_nl,traide_foundation,upstream,1
 minbuza_nl,trig,upstream,1
 minbuza_nl,twynstragudde,upstream,1
 minbuza_nl,udpk,upstream,1
