@@ -486,7 +486,6 @@ stichting-subsidiegelden-dra,warchildholland,downstream,2
 stichting-subsidiegelden-dra,wvnld,downstream,1
 stichting-subsidiegelden-dra,zoa,downstream,3
 taf,dipr,downstream,1
-tdh_nl,icco-cooperation,downstream,1
 tear,carenederland,downstream,3
 tear,tdh_nl,downstream,3
 tearfund,acatba,downstream,1
@@ -793,7 +792,7 @@ danida,adra-dk,upstream,1
 danida,caritas_denmark,upstream,3
 danida,cisu,upstream,2
 danida,cku,upstream,2
-danida,danida,upstream,10
+danida,danida,upstream,11
 danida,danishrc,upstream,4
 danida,danmission,upstream,14
 danida,dca,upstream,4
@@ -1512,7 +1511,7 @@ minbuza_nl,stichting_hivos,upstream,14
 minbuza_nl,tan,upstream,1
 minbuza_nl,tbi,upstream,1
 minbuza_nl,tdh_foundation,upstream,1
-minbuza_nl,tdh_nl,upstream,15
+minbuza_nl,tdh_nl,upstream,16
 minbuza_nl,tear,upstream,1
 minbuza_nl,thp_org,upstream,1
 minbuza_nl,tni,upstream,1
