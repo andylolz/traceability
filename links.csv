@@ -216,7 +216,6 @@ manniondaniels,bracuk,downstream,1
 manniondaniels,buildafrica,downstream,1
 manniondaniels,bvf,downstream,1
 manniondaniels,bvs-nepal,downstream,1
-manniondaniels,caid,downstream,1
 manniondaniels,camfed,downstream,1
 manniondaniels,cbm,downstream,2
 manniondaniels,cecily,downstream,1
@@ -723,7 +722,6 @@ britishcouncil,open_university,upstream,1
 britishcouncil,pwc,upstream,1
 britishcouncil,sddirect,upstream,1
 caeb_mali,cordaid,upstream,1
-caid,sddirect,upstream,1
 cal,acf,upstream,1
 cal,hpa,upstream,1
 cal,irc_inc,upstream,3
@@ -1391,6 +1389,7 @@ minbuza_nl,ibfd,upstream,14
 minbuza_nl,icco-cooperation,upstream,20
 minbuza_nl,icnl_org,upstream,5
 minbuza_nl,ictj,upstream,23
+minbuza_nl,ida,upstream,1
 minbuza_nl,idh,upstream,13
 minbuza_nl,idh_im,upstream,1
 minbuza_nl,idlo,upstream,15
@@ -1417,13 +1416,13 @@ minbuza_nl,itc,upstream,2
 minbuza_nl,iucn,upstream,2
 minbuza_nl,iucn_nl,upstream,2
 minbuza_nl,jass,upstream,1
+minbuza_nl,jfa-pfe,upstream,1
 minbuza_nl,josa,upstream,1
 minbuza_nl,jowomenomics,upstream,3
 minbuza_nl,kepsa,upstream,2
 minbuza_nl,kit,upstream,1
 minbuza_nl,law,upstream,1
 minbuza_nl,ldsps,upstream,1
-minbuza_nl,leprazending-tlm-nl,upstream,1
 minbuza_nl,lpi,upstream,1
 minbuza_nl,mag,upstream,2
 minbuza_nl,mamac,upstream,3
@@ -1459,7 +1458,7 @@ minbuza_nl,nwo,upstream,4
 minbuza_nl,nwp,upstream,1
 minbuza_nl,odi,upstream,1
 minbuza_nl,oneacrefund,upstream,1
-minbuza_nl,onl,upstream,1428
+minbuza_nl,onl,upstream,1430
 minbuza_nl,oxfamintermon,upstream,1
 minbuza_nl,oyw,upstream,1
 minbuza_nl,p-t-f-,upstream,1
@@ -1508,6 +1507,7 @@ minbuza_nl,st_vluchteling,upstream,2
 minbuza_nl,stc-international,upstream,1
 minbuza_nl,stichting-subsidiegelden-dra,upstream,4
 minbuza_nl,stichting_hivos,upstream,14
+minbuza_nl,syf,upstream,1
 minbuza_nl,tan,upstream,1
 minbuza_nl,tbi,upstream,1
 minbuza_nl,tdh_foundation,upstream,1
@@ -1893,7 +1893,7 @@ zoa,dai,upstream,4
 zoa,icco-cooperation,upstream,3
 zoa,ida,upstream,1
 zoa,leprazending-tlm-nl,upstream,1
-zoa,onl,upstream,8
+zoa,onl,upstream,9
 zoa,scnl,upstream,4
 zoa,sosnl,upstream,1
 zoa,st_vluchteling,upstream,2
