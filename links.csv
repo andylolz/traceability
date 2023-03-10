@@ -1374,6 +1374,7 @@ minbuza_nl,f-aids,upstream,3
 minbuza_nl,fca,upstream,2
 minbuza_nl,fcam,upstream,2
 minbuza_nl,fimi_iiwf_2019,upstream,2
+minbuza_nl,finddiagnostics,upstream,1
 minbuza_nl,fmo,upstream,4
 minbuza_nl,fms,upstream,1
 minbuza_nl,foenl,upstream,1
@@ -1411,7 +1412,7 @@ minbuza_nl,intersos_main,upstream,2
 minbuza_nl,intrahealth,upstream,1
 minbuza_nl,iom,upstream,1
 minbuza_nl,ipas,upstream,1
-minbuza_nl,ippf,upstream,4
+minbuza_nl,ippf,upstream,5
 minbuza_nl,irc,upstream,7
 minbuza_nl,irc_inc,upstream,1
 minbuza_nl,irc_uk,upstream,1
@@ -1514,6 +1515,7 @@ minbuza_nl,stc-international,upstream,1
 minbuza_nl,stichting-subsidiegelden-dra,upstream,4
 minbuza_nl,stichting_hivos,upstream,14
 minbuza_nl,syf,upstream,1
+minbuza_nl,t2p,upstream,1
 minbuza_nl,tan,upstream,1
 minbuza_nl,tbi,upstream,1
 minbuza_nl,tdh_foundation,upstream,1
@@ -1529,7 +1531,7 @@ minbuza_nl,undp,upstream,2
 minbuza_nl,unhcr,upstream,87
 minbuza_nl,unicefnl,upstream,2
 minbuza_nl,united_work,upstream,4
-minbuza_nl,universiteit_leiden,upstream,2
+minbuza_nl,universiteit_leiden,upstream,3
 minbuza_nl,unocha-sdc,upstream,2
 minbuza_nl,utz,upstream,1
 minbuza_nl,uvw,upstream,1
