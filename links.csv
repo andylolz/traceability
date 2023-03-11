@@ -1480,7 +1480,7 @@ minbuza_nl,plama,upstream,1
 minbuza_nl,plannlno,upstream,9
 minbuza_nl,ppag_123,upstream,2
 minbuza_nl,protos,upstream,1
-minbuza_nl,psi,upstream,1
+minbuza_nl,psi,upstream,2
 minbuza_nl,pstc_1102,upstream,1
 minbuza_nl,pumnl,upstream,1
 minbuza_nl,rcn,upstream,2
@@ -1879,7 +1879,6 @@ world_ywca,f2a,upstream,1
 world_ywca,imc-2021,upstream,1
 world_ywca,kit,upstream,1
 world_ywca,world_ywca,upstream,1
-world_ywca,ywca,upstream,1
 world_ywca,ywcass,upstream,1
 wri,odi,upstream,1
 wri,sdsna,upstream,2
