@@ -161,6 +161,7 @@ irc_inc,restless,downstream,2
 irc_inc,zoa,downstream,1
 irc_uk,bbcmediaaction,downstream,1
 irc_uk,concern_worldwide,downstream,1
+irc_uk,concernuk,downstream,1
 irc_uk,cuamm,downstream,1
 irc_uk,fcdo,downstream,1
 irc_uk,goal,downstream,1
@@ -1125,6 +1126,7 @@ gecfundmanagerpwc,dla,upstream,1
 gecfundmanagerpwc,edt_kenya,upstream,2
 gecfundmanagerpwc,gecfundmanagerpwc,upstream,1
 gecfundmanagerpwc,hpa,upstream,1
+gecfundmanagerpwc,irc_inc,upstream,1
 gecfundmanagerpwc,irc_uk,upstream,3
 gecfundmanagerpwc,lcd_admin,upstream,2
 gecfundmanagerpwc,lcdi_admin,upstream,1
@@ -1193,8 +1195,7 @@ irc_inc,cuamm,upstream,1
 irc_inc,drc,upstream,2
 irc_inc,goal,upstream,1
 irc_inc,hiuk,upstream,1
-irc_inc,irc_inc,upstream,1
-irc_inc,irc_uk,upstream,2
+irc_inc,irc_uk,upstream,3
 irc_inc,mcn,upstream,1
 irc_inc,msi,upstream,1
 irc_inc,restless,upstream,2
@@ -1204,6 +1205,7 @@ irc_uk,hiuk,upstream,1
 irc_uk,irc_inc,upstream,79
 irc_uk,irc_uk,upstream,1
 irc_uk,msi,upstream,1
+irc_uk,restless,upstream,1
 irishaid,ecdpm,upstream,1
 irishaid,idi,upstream,1
 irishaid,iied,upstream,1
