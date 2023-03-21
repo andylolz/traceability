@@ -1389,7 +1389,7 @@ minbuza_nl,gain,upstream,4
 minbuza_nl,gichd,upstream,12
 minbuza_nl,giin,upstream,1
 minbuza_nl,giro555,upstream,1
-minbuza_nl,gnbcc,upstream,3
+minbuza_nl,gnbcc,upstream,10
 minbuza_nl,guttmacher,upstream,1
 minbuza_nl,halo,upstream,9
 minbuza_nl,hdcentre,upstream,1
@@ -1816,6 +1816,7 @@ theglobalfund,iom,upstream,1
 theglobalfund,undp,upstream,36
 thp_org,max-foundation,upstream,1
 thp_org,scnl,upstream,1
+thp_org,wvnld,upstream,1
 traidcraft,fci,upstream,1
 undp,idlo,upstream,1
 undp,warchildholland,upstream,1
