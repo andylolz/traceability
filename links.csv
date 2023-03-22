@@ -68,7 +68,6 @@ crane,bucksfarm,downstream,1
 crane,mukisa_foundation,downstream,1
 crb-ai_admin,rkiv,downstream,1
 creausa-org,ad,downstream,1
-creausa-org,iwrawasiapacific,downstream,1
 dai,carenederland,downstream,1
 dai,cordaid,downstream,4
 dai,minbuza_nl,downstream,1
@@ -781,7 +780,6 @@ cr,riia,upstream,1
 crane,bucksfarm,upstream,1
 crane,mukisa_foundation,upstream,1
 creausa-org,apc,upstream,1
-creausa-org,iwrawasiapacific,upstream,1
 creausa-org,uhai-eashri,upstream,1
 creausa-org,wo-men,upstream,1
 dai,cordaid,upstream,3
@@ -1323,7 +1321,6 @@ minbuza_nl,aias,upstream,1
 minbuza_nl,ajar,upstream,1
 minbuza_nl,al_majmoua,upstream,1
 minbuza_nl,alab,upstream,2
-minbuza_nl,alcrer-1,upstream,1
 minbuza_nl,amrefnl,upstream,3
 minbuza_nl,amrefug,upstream,1
 minbuza_nl,ancb_benin,upstream,3
@@ -1457,7 +1454,7 @@ minbuza_nl,nchrdk,upstream,1
 minbuza_nl,ndsicde,upstream,1
 minbuza_nl,nfp,upstream,2
 minbuza_nl,nimd-hq,upstream,4
-minbuza_nl,nl-kvk-41207989,upstream,2
+minbuza_nl,nl-kvk-41207989,upstream,3
 minbuza_nl,nl-kvk-54436222-27541,upstream,20
 minbuza_nl,nl_wg,upstream,1
 minbuza_nl,nlr,upstream,2
