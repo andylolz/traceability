@@ -250,6 +250,7 @@ manniondaniels,eti,downstream,1
 manniondaniels,excellent,downstream,1
 manniondaniels,fa,downstream,2
 manniondaniels,fact,downstream,1
+manniondaniels,fci,downstream,1
 manniondaniels,femnet,downstream,1
 manniondaniels,fh,downstream,1
 manniondaniels,fhfuk,downstream,1
@@ -577,7 +578,7 @@ zoa,onl,downstream,8
 zoa,pa,downstream,2
 zoa,plan_uk,downstream,1
 zoa,plannlno,downstream,1
-zoa,scnl,downstream,4
+zoa,scnl,downstream,3
 zoa,sosnl,downstream,1
 zoa,st_vluchteling,downstream,3
 zoa,syf,downstream,1
@@ -841,12 +842,12 @@ drc,irc_uk,upstream,1
 drc,irw,upstream,1
 drc,mapaction,upstream,1
 drc,nrc,upstream,1
-ec-echo,iom,upstream,73
+ec-echo,iom,upstream,71
 ec-echo,nlrc,upstream,2
-ec-echo,onl,upstream,40
+ec-echo,onl,upstream,34
 ec-echo,tdh_nl,upstream,4
-ec-echo,unhcr,upstream,280
-ec-echo,warchildholland,upstream,4
+ec-echo,unhcr,upstream,254
+ec-echo,warchildholland,upstream,3
 ec-fpi,iom,upstream,3
 ec-fpi,warchildholland,upstream,1
 ec-intpa,cabi,upstream,2
@@ -974,7 +975,7 @@ fcdo,ids,upstream,6
 fcdo,ifpri,upstream,1
 fcdo,iied,upstream,4
 fcdo,ilo,upstream,44
-fcdo,imcw_admin,upstream,8
+fcdo,imcw_admin,upstream,7
 fcdo,interburns,upstream,1
 fcdo,iom,upstream,16
 fcdo,ipeglobal,upstream,8
@@ -1070,7 +1071,7 @@ fcdo,tearfund,upstream,5
 fcdo,thefaradayinstitution,upstream,1
 fcdo,tlmew,upstream,1
 fcdo,tns,upstream,2
-fcdo,traidcraft,upstream,5
+fcdo,traidcraft,upstream,6
 fcdo,tripleline_crownagents,upstream,2
 fcdo,troc,upstream,1
 fcdo,ul,upstream,1
@@ -1113,6 +1114,12 @@ fwf,cdi_vn_2021,upstream,1
 fwf,cividep,upstream,1
 fwf,eti,upstream,1
 fwf,mondiaalfnv,upstream,1
+gac-amc,idi,upstream,1
+gac-amc,idlo,upstream,1
+gac-amc,iisd,upstream,1
+gac-amc,ilo,upstream,6
+gac-amc,iom,upstream,4
+gac-amc,unhcr,upstream,38
 gdi,villageenterprise,upstream,1
 gecfundmanagerpwc,aaik,upstream,1
 gecfundmanagerpwc,ava_admin,upstream,1
@@ -1291,6 +1298,7 @@ manniondaniels,wcia,upstream,1
 manniondaniels,wcuk,upstream,1
 manniondaniels,welbodipartnership,upstream,1
 manniondaniels,wellfound,upstream,3
+manniondaniels,wfwiuk,upstream,1
 manniondaniels,whpca,upstream,1
 manniondaniels,ycare,upstream,1
 mce,concern_worldwide,upstream,1
@@ -1786,10 +1794,9 @@ stichting-subsidiegelden-dra,dai,upstream,2
 stichting-subsidiegelden-dra,onl,upstream,39
 stichting-subsidiegelden-dra,plannlno,upstream,1
 stichting-subsidiegelden-dra,redeenkind,upstream,1
-stichting-subsidiegelden-dra,scnl,upstream,6
-stichting-subsidiegelden-dra,sosnl,upstream,1
+stichting-subsidiegelden-dra,scnl,upstream,7
 stichting-subsidiegelden-dra,st_vluchteling,upstream,4
-stichting-subsidiegelden-dra,tdh_nl,upstream,2
+stichting-subsidiegelden-dra,tdh_nl,upstream,1
 stichting-subsidiegelden-dra,warchildholland,upstream,2
 stichting-subsidiegelden-dra,wvnld,upstream,1
 stichting-subsidiegelden-dra,zoa,upstream,2
