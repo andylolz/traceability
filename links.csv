@@ -258,7 +258,6 @@ manniondaniels,foe-ghana,downstream,1
 manniondaniels,ftm-291333,downstream,1
 manniondaniels,fyf,downstream,1
 manniondaniels,gadp,downstream,1
-manniondaniels,gb-chc-220949,downstream,1
 manniondaniels,goal,downstream,1
 manniondaniels,growmovement_admin,downstream,1
 manniondaniels,hagar_uk,downstream,1
@@ -798,7 +797,7 @@ danida,caritas_denmark,upstream,3
 danida,cisu,upstream,2
 danida,cku,upstream,2
 danida,danida,upstream,11
-danida,danishrc,upstream,4
+danida,danishrc,upstream,6
 danida,danmission,upstream,13
 danida,dca,upstream,4
 danida,dfpa,upstream,1
@@ -823,7 +822,6 @@ dec-uk,ageintl,upstream,8
 dec-uk,ciuk,upstream,1
 dec-uk,concern_worldwide,upstream,1
 dec-uk,concernuk,upstream,6
-dec-uk,gb-chc-220949,upstream,4
 dec-uk,irc_uk,upstream,4
 dec-uk,irw,upstream,4
 dec-uk,oxfamgb,upstream,29
@@ -842,12 +840,12 @@ drc,irc_uk,upstream,1
 drc,irw,upstream,1
 drc,mapaction,upstream,1
 drc,nrc,upstream,1
-ec-echo,iom,upstream,71
+ec-echo,iom,upstream,73
 ec-echo,nlrc,upstream,2
-ec-echo,onl,upstream,34
+ec-echo,onl,upstream,40
 ec-echo,tdh_nl,upstream,4
-ec-echo,unhcr,upstream,254
-ec-echo,warchildholland,upstream,3
+ec-echo,unhcr,upstream,280
+ec-echo,warchildholland,upstream,4
 ec-fpi,iom,upstream,3
 ec-fpi,warchildholland,upstream,1
 ec-intpa,cabi,upstream,2
@@ -956,7 +954,6 @@ fcdo,ftm-291333,upstream,2
 fcdo,fyf,upstream,3
 fcdo,gain,upstream,2
 fcdo,galvmed,upstream,1
-fcdo,gb-chc-220949,upstream,8
 fcdo,gca,upstream,3
 fcdo,gdi,upstream,1
 fcdo,gdihub,upstream,3
@@ -1428,6 +1425,7 @@ minbuza_nl,issafrica,upstream,3
 minbuza_nl,itc,upstream,2
 minbuza_nl,iucn,upstream,2
 minbuza_nl,iucn_nl,upstream,2
+minbuza_nl,ja_ppmn,upstream,1
 minbuza_nl,jass,upstream,1
 minbuza_nl,jfa-pfe,upstream,1
 minbuza_nl,josa,upstream,1
@@ -1528,6 +1526,7 @@ minbuza_nl,tdh_foundation,upstream,1
 minbuza_nl,tdh_nl,upstream,15
 minbuza_nl,tear,upstream,1
 minbuza_nl,thp_org,upstream,1
+minbuza_nl,tifa_foundation,upstream,1
 minbuza_nl,tni,upstream,1
 minbuza_nl,tns,upstream,1
 minbuza_nl,trig,upstream,1
@@ -1791,7 +1790,7 @@ st_vluchteling,plannlno,upstream,1
 stichting-subsidiegelden-dra,carenederland,upstream,1
 stichting-subsidiegelden-dra,cordaid,upstream,2
 stichting-subsidiegelden-dra,dai,upstream,2
-stichting-subsidiegelden-dra,onl,upstream,39
+stichting-subsidiegelden-dra,onl,upstream,40
 stichting-subsidiegelden-dra,plannlno,upstream,1
 stichting-subsidiegelden-dra,redeenkind,upstream,1
 stichting-subsidiegelden-dra,scnl,upstream,7
