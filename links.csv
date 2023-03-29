@@ -375,7 +375,7 @@ minbuza_nl,agriterra,downstream,1
 minbuza_nl,carenederland,downstream,1
 minbuza_nl,cidr,downstream,1
 minbuza_nl,icwrsa,downstream,1
-minbuza_nl,minbuza_nl,downstream,2
+minbuza_nl,minbuza_nl,downstream,1
 minbuza_nl,nuwodu,downstream,1
 minbuza_nl,onl,downstream,2
 minbuza_nl,promsex,downstream,1
@@ -494,9 +494,9 @@ tear,tdh_nl,downstream,3
 tearfund,acatba,downstream,1
 tffus,aain,downstream,1
 the_power_of_nutrition,worldbank,downstream,2
-thp_org,max-foundation,downstream,1
-thp_org,scnl,downstream,1
-thp_org,wvnld,downstream,1
+thp_org,max-foundation,downstream,2
+thp_org,scnl,downstream,2
+thp_org,wvnld,downstream,2
 traidcraft,fci,downstream,1
 tripleline_crownagents,acord,downstream,1
 tripleline_crownagents,adrauk,downstream,1
@@ -847,7 +847,6 @@ ec-echo,tdh_nl,upstream,4
 ec-echo,unhcr,upstream,280
 ec-echo,warchildholland,upstream,4
 ec-fpi,iom,upstream,3
-ec-fpi,warchildholland,upstream,1
 ec-intpa,cabi,upstream,2
 ec-intpa,idlo,upstream,1
 ec-intpa,ilo,upstream,9
