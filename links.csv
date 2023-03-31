@@ -464,10 +464,15 @@ snv,hsi,downstream,1
 snv,onl,downstream,1
 snv,protos,downstream,2
 snv,vngi,downstream,1
-sosnl,cordaid,downstream,1
-sosnl,st_vluchteling,downstream,1
+sosnl,carenederland,downstream,1
+sosnl,cordaid,downstream,3
+sosnl,icco-cooperation,downstream,1
+sosnl,onl,downstream,1
+sosnl,scnl,downstream,1
+sosnl,st_vluchteling,downstream,2
 sosnl,tdh_nl,downstream,1
-sosnl,tear,downstream,1
+sosnl,tear,downstream,3
+sosnl,zoa,downstream,1
 st_vluchteling,carenederland,downstream,1
 st_vluchteling,cordaid,downstream,1
 st_vluchteling,intersos_main,downstream,1
@@ -642,7 +647,6 @@ be-dgd,brulocalis,upstream,4
 be-dgd,cadtm,upstream,1
 be-dgd,cdeb-kvhb_admin,upstream,1
 be-dgd,cec,upstream,1
-be-dgd,cibe,upstream,1
 be-dgd,cjp,upstream,1
 be-dgd,cncd,upstream,2
 be-dgd,crb-ai_admin,upstream,1
@@ -685,7 +689,6 @@ be-dgd,protos,upstream,1
 be-dgd,quinoa,upstream,1
 be-dgd,rcn,upstream,6
 be-dgd,rikolto_belgium,upstream,1
-be-dgd,rkiv,upstream,1
 be-dgd,scibelgium,upstream,1
 be-dgd,sg,upstream,1
 be-dgd,shc,upstream,1
@@ -740,6 +743,7 @@ carenederland,onl,upstream,16
 carenederland,plannlno,upstream,1
 carenederland,rnw_org,upstream,1
 carenederland,scnl,upstream,10
+carenederland,sosnl,upstream,1
 carenederland,st_vluchteling,upstream,8
 carenederland,tear,upstream,3
 carenederland,warchildholland,upstream,4
@@ -766,6 +770,7 @@ cordaid,onl,upstream,16
 cordaid,plannlno,upstream,3
 cordaid,scnl,upstream,2
 cordaid,sfcg,upstream,1
+cordaid,sosnl,upstream,4
 cordaid,st_vluchteling,upstream,13
 cordaid,tdh_nl,upstream,1
 cordaid,tlo,upstream,1
@@ -786,6 +791,7 @@ creausa-org,uhai-eashri,upstream,1
 creausa-org,wo-men,upstream,1
 dai,cordaid,upstream,3
 dai,scnl,upstream,2
+dai,sosnl,upstream,1
 dai,st_vluchteling,upstream,1
 dai,zoa,upstream,1
 dai-e,nathan,upstream,2
@@ -905,7 +911,7 @@ fcdo,blueventures,upstream,1
 fcdo,bond,upstream,3
 fcdo,britishcouncil,upstream,5
 fcdo,bvs-nepal,upstream,1
-fcdo,cabi,upstream,4
+fcdo,cabi,upstream,5
 fcdo,cal,upstream,6
 fcdo,carbontrustadvisory,upstream,1
 fcdo,cardnoem,upstream,5
@@ -1009,6 +1015,7 @@ fcdo,mrc-sierra-leone,upstream,1
 fcdo,msi,upstream,13
 fcdo,namati_inc,upstream,1
 fcdo,nathan,upstream,2
+fcdo,nrc,upstream,1
 fcdo,nrgi,upstream,1
 fcdo,nutritionintl,upstream,1
 fcdo,odi,upstream,33
@@ -1514,6 +1521,7 @@ minbuza_nl,solidaridad-ssea,upstream,2
 minbuza_nl,solidaridad-waf,upstream,2
 minbuza_nl,solidarsuisse,upstream,1
 minbuza_nl,somo,upstream,1
+minbuza_nl,sosnl,upstream,1
 minbuza_nl,spark,upstream,6
 minbuza_nl,st_vluchteling,upstream,2
 minbuza_nl,stc-international,upstream,1
@@ -1624,6 +1632,7 @@ onl,redeenkind,upstream,1
 onl,rnw_org,upstream,1
 onl,scnl,upstream,2
 onl,somo,upstream,2
+onl,sosnl,upstream,3
 onl,st_vluchteling,upstream,1
 onl,tear,upstream,5
 onl,twnafrica,upstream,1
@@ -1695,7 +1704,7 @@ rutgers,ippf,upstream,2
 rutgers,my-ssm,upstream,1
 rutgers,pmo-us,upstream,1
 rutgers,rnw_org,upstream,1
-rutgers,rutgers,upstream,1
+rutgers,rutgers,upstream,2
 rutgers,simavi,upstream,2
 rutgers,sjg,upstream,2
 rutgers,stichting_hivos,upstream,1
@@ -1795,7 +1804,8 @@ stichting-subsidiegelden-dra,dai,upstream,2
 stichting-subsidiegelden-dra,onl,upstream,40
 stichting-subsidiegelden-dra,plannlno,upstream,1
 stichting-subsidiegelden-dra,redeenkind,upstream,1
-stichting-subsidiegelden-dra,scnl,upstream,7
+stichting-subsidiegelden-dra,scnl,upstream,8
+stichting-subsidiegelden-dra,sosnl,upstream,3
 stichting-subsidiegelden-dra,st_vluchteling,upstream,4
 stichting-subsidiegelden-dra,tdh_nl,upstream,1
 stichting-subsidiegelden-dra,warchildholland,upstream,2
@@ -1913,7 +1923,7 @@ zoa,ida,upstream,1
 zoa,leprazending-tlm-nl,upstream,1
 zoa,onl,upstream,9
 zoa,scnl,upstream,4
-zoa,sosnl,upstream,1
+zoa,sosnl,upstream,2
 zoa,st_vluchteling,upstream,2
 zoa,syf,upstream,1
 zoa,tdh_nl,upstream,3
