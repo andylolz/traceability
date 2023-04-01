@@ -141,6 +141,7 @@ gecfundmanagerpwc,viva,downstream,1
 gecfundmanagerpwc,vso,downstream,5
 gecfundmanagerpwc,wusc,downstream,2
 goal,irc_inc,downstream,1
+hai,twz1,downstream,2
 hiil_mfa,minbuza_nl,downstream,1
 hiuk,hi_fed,downstream,5
 hpa,manniondaniels,downstream,1
@@ -559,6 +560,7 @@ world_ywca,imc-2021,downstream,1
 world_ywca,kit,downstream,1
 world_ywca,ywcakenya,downstream,1
 world_ywca,ywcass,downstream,1
+worldwaternet,aw,downstream,1
 wv_de,wvi,downstream,148
 wvnld,cordaid,downstream,2
 wvnld,dai,downstream,1
@@ -574,7 +576,7 @@ wvuk,wvi,downstream,106
 zoa,agriterra,downstream,1
 zoa,carenederland,downstream,2
 zoa,cordaid,downstream,7
-zoa,dai,downstream,7
+zoa,dai,downstream,8
 zoa,icco-cooperation,downstream,2
 zoa,ida,downstream,1
 zoa,leprazending-tlm-nl,downstream,1
@@ -1168,6 +1170,7 @@ guttmacher,ipas,upstream,1
 guttmacher,iyafp,upstream,1
 guttmacher,knust,upstream,1
 guttmacher,orientame,upstream,1
+hai,twz1,upstream,1
 hewlett-foundation,manniondaniels,upstream,1
 hiuk,hi_fed,upstream,7
 hpa,lcdi_admin,upstream,1
@@ -1396,6 +1399,7 @@ minbuza_nl,giin,upstream,1
 minbuza_nl,giro555,upstream,1
 minbuza_nl,gnbcc,upstream,10
 minbuza_nl,guttmacher,upstream,1
+minbuza_nl,hai,upstream,2
 minbuza_nl,halo,upstream,9
 minbuza_nl,hdcentre,upstream,1
 minbuza_nl,hi_fed,upstream,3
@@ -1403,7 +1407,7 @@ minbuza_nl,hif,upstream,2
 minbuza_nl,hiil_mfa,upstream,6
 minbuza_nl,hsi,upstream,2
 minbuza_nl,ibfd,upstream,14
-minbuza_nl,icco-cooperation,upstream,20
+minbuza_nl,icco-cooperation,upstream,21
 minbuza_nl,icnl_org,upstream,5
 minbuza_nl,ictj,upstream,23
 minbuza_nl,ida,upstream,1
@@ -1418,7 +1422,7 @@ minbuza_nl,iisd,upstream,1
 minbuza_nl,ilo,upstream,57
 minbuza_nl,imc_uk,upstream,1
 minbuza_nl,inbar,upstream,1
-minbuza_nl,interpeace,upstream,1
+minbuza_nl,interpeace,upstream,2
 minbuza_nl,intersos_main,upstream,2
 minbuza_nl,intrahealth,upstream,1
 minbuza_nl,iom,upstream,1
