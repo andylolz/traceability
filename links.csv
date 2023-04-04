@@ -82,6 +82,7 @@ ddp,dhrc_nepal,downstream,2
 drc,hiuk,downstream,1
 drc,irc_inc,downstream,1
 drc,irc_uk,downstream,2
+drc,scuk,downstream,1
 edt_kenya,amurt_kenya,downstream,1
 edt_kenya,kesho_kenya,downstream,1
 edt_kenya,pgi_kenya,downstream,1
@@ -758,6 +759,7 @@ cfyas,ippf,upstream,1
 ciuk,cnepal,upstream,2
 ciuk,csom1,upstream,3
 clasp,energy_saving_trust,upstream,1
+clingendael,idlo,upstream,1
 cocnl_publisher,ilgaasia,upstream,1
 cocnl_publisher,pai155669,upstream,1
 coffey,oca,upstream,1
@@ -1016,7 +1018,7 @@ fcdo,mrc-sierra-leone,upstream,1
 fcdo,msi,upstream,13
 fcdo,namati_inc,upstream,1
 fcdo,nathan,upstream,2
-fcdo,nrc,upstream,1
+fcdo,nrc,upstream,2
 fcdo,nrgi,upstream,1
 fcdo,nutritionintl,upstream,1
 fcdo,odi,upstream,33
@@ -1705,9 +1707,10 @@ rutgers,arcfge,upstream,1
 rutgers,cfyas,upstream,3
 rutgers,ippf,upstream,2
 rutgers,my-ssm,upstream,1
+rutgers,norsaac,upstream,1
 rutgers,pmo-us,upstream,1
 rutgers,rnw_org,upstream,1
-rutgers,rutgers,upstream,2
+rutgers,rutgers,upstream,1
 rutgers,simavi,upstream,2
 rutgers,sjg,upstream,2
 rutgers,stichting_hivos,upstream,1
