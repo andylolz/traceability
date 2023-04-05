@@ -89,6 +89,7 @@ edt_kenya,pgi_kenya,downstream,1
 emms,dgmh,downstream,1
 emms,mmh,downstream,1
 emms,pcst,downstream,1
+et-adf-0317,zoa,downstream,1
 f2a,world_ywca,downstream,1
 fca,ageintl,downstream,1
 fcam,bothends,downstream,1
@@ -260,6 +261,7 @@ manniondaniels,foe-ghana,downstream,1
 manniondaniels,ftm-291333,downstream,1
 manniondaniels,fyf,downstream,1
 manniondaniels,gadp,downstream,1
+manniondaniels,gb-chc-220949,downstream,1
 manniondaniels,goal,downstream,1
 manniondaniels,growmovement_admin,downstream,1
 manniondaniels,hagar_uk,downstream,1
@@ -500,6 +502,7 @@ tear,carenederland,downstream,3
 tear,tdh_nl,downstream,3
 tearfund,acatba,downstream,1
 tffus,aain,downstream,1
+the_power_of_nutrition,worldbank,downstream,2
 thp_org,max-foundation,downstream,2
 thp_org,scnl,downstream,2
 thp_org,wvnld,downstream,2
@@ -831,6 +834,7 @@ dec-uk,ageintl,upstream,8
 dec-uk,ciuk,upstream,1
 dec-uk,concern_worldwide,upstream,1
 dec-uk,concernuk,upstream,6
+dec-uk,gb-chc-220949,upstream,6
 dec-uk,irc_uk,upstream,4
 dec-uk,irw,upstream,4
 dec-uk,oxfamgb,upstream,29
@@ -962,6 +966,7 @@ fcdo,ftm-291333,upstream,2
 fcdo,fyf,upstream,3
 fcdo,gain,upstream,2
 fcdo,galvmed,upstream,1
+fcdo,gb-chc-220949,upstream,19
 fcdo,gca,upstream,3
 fcdo,gdi,upstream,1
 fcdo,gdihub,upstream,3
@@ -1262,6 +1267,7 @@ manniondaniels,ehorg,upstream,1
 manniondaniels,fact,upstream,1
 manniondaniels,fci,upstream,1
 manniondaniels,femnet,upstream,1
+manniondaniels,gb-chc-220949,upstream,1
 manniondaniels,hhc,upstream,1
 manniondaniels,hiuk,upstream,1
 manniondaniels,hpa,upstream,2
@@ -1924,12 +1930,14 @@ zoa,agriterra,upstream,1
 zoa,carenederland,upstream,2
 zoa,cordaid,upstream,7
 zoa,dai,upstream,4
+zoa,et-adf-0317,upstream,3
 zoa,icco-cooperation,upstream,3
 zoa,ida,upstream,1
 zoa,leprazending-tlm-nl,upstream,1
 zoa,onl,upstream,9
 zoa,scnl,upstream,4
 zoa,sosnl,upstream,2
+zoa,sosss_admin,upstream,1
 zoa,st_vluchteling,upstream,2
 zoa,syf,upstream,1
 zoa,tdh_nl,upstream,3
