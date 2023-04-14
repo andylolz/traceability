@@ -58,9 +58,9 @@ cordaid,scnl,downstream,4
 cordaid,sosnl,downstream,6
 cordaid,st_vluchteling,downstream,10
 cordaid,tear,downstream,4
-cordaid,tlo,downstream,1
+cordaid,tlo,downstream,2
 cordaid,warchildholland,downstream,4
-cordaid,wipc,downstream,1
+cordaid,wipc,downstream,2
 cordaid,wvnld,downstream,8
 cordaid,zoa,downstream,7
 cr,cr,downstream,1
@@ -384,12 +384,13 @@ minbuza_nl,nuwodu,downstream,1
 minbuza_nl,onl,downstream,2
 minbuza_nl,promsex,downstream,1
 minbuza_nl,protos,downstream,1
+minbuza_nl,rnw_org,downstream,1
 minbuza_nl,scnl,downstream,2
 minbuza_nl,sjg,downstream,1
 minbuza_nl,st_vluchteling,downstream,2
 minbuza_nl,tdh_nl,downstream,1
 minbuza_nl,vngi,downstream,2
-minbuza_nl,wipc,downstream,1
+minbuza_nl,wipc,downstream,2
 minbuza_nl,wvnld,downstream,1
 minbuza_nl,zoa,downstream,1
 msi,ciuk,downstream,1
@@ -1326,6 +1327,7 @@ mfat,ilo,upstream,2
 mfat,iom,upstream,1
 mfat,unhcr,upstream,1
 minbuza_nl,aanl,upstream,1
+minbuza_nl,abpf,upstream,1
 minbuza_nl,ac1999,upstream,1
 minbuza_nl,acet,upstream,1
 minbuza_nl,acfshr,upstream,2
@@ -1686,7 +1688,6 @@ plannlno,amrefmw,upstream,1
 plannlno,amrefnl,upstream,1
 plannlno,cfyas,upstream,1
 plannlno,dciecpatnl,upstream,1
-plannlno,femnet,upstream,1
 plannlno,healthnet,upstream,3
 plannlno,kit,upstream,9
 plannlno,onl,upstream,2
