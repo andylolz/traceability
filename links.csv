@@ -378,6 +378,7 @@ mefbenin,ine_benin,downstream,1
 mefbenin,ze,downstream,1
 minbuza_nl,agriterra,downstream,1
 minbuza_nl,carenederland,downstream,1
+minbuza_nl,cfyas,downstream,1
 minbuza_nl,cidr,downstream,1
 minbuza_nl,icwrsa,downstream,1
 minbuza_nl,minbuza_nl,downstream,1
@@ -1162,7 +1163,7 @@ giro555,nlrc,upstream,19
 giro555,pax,upstream,1
 giro555,plannlno,upstream,5
 giro555,scnl,upstream,5
-giro555,st_vluchteling,upstream,4
+giro555,st_vluchteling,upstream,6
 giro555,tdh_nl,upstream,1
 giro555,tear,upstream,3
 giro555,unicefnl,upstream,4
@@ -1590,7 +1591,7 @@ minbuza_nl,ww-gvc,upstream,5
 minbuza_nl,wwf-kenya,upstream,1
 minbuza_nl,yai-hub,upstream,2
 minbuza_nl,yffhsd,upstream,3
-minbuza_nl,zoa,upstream,17
+minbuza_nl,zoa,upstream,18
 mm1,carenederland,upstream,1
 mm1,spr,upstream,1
 mm1,tear,upstream,1
@@ -1811,7 +1812,7 @@ ss-org,lftw-int,upstream,2
 ss-org,sddirect,upstream,1
 st_vluchteling,irc_inc,upstream,2
 st_vluchteling,plannlno,upstream,1
-stichting-subsidiegelden-dra,carenederland,upstream,1
+stichting-subsidiegelden-dra,carenederland,upstream,2
 stichting-subsidiegelden-dra,cordaid,upstream,2
 stichting-subsidiegelden-dra,dai,upstream,2
 stichting-subsidiegelden-dra,onl,upstream,41
