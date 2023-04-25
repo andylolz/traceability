@@ -377,8 +377,8 @@ mefbenin,anaepmr_benin,downstream,2
 mefbenin,ine_benin,downstream,1
 mefbenin,ze,downstream,1
 minbuza_nl,agriterra,downstream,1
+minbuza_nl,arcfge,downstream,1
 minbuza_nl,carenederland,downstream,1
-minbuza_nl,cfyas,downstream,1
 minbuza_nl,cidr,downstream,1
 minbuza_nl,icwrsa,downstream,1
 minbuza_nl,minbuza_nl,downstream,1
@@ -386,7 +386,6 @@ minbuza_nl,nuwodu,downstream,1
 minbuza_nl,onl,downstream,2
 minbuza_nl,promsex,downstream,1
 minbuza_nl,protos,downstream,1
-minbuza_nl,rnw_org,downstream,1
 minbuza_nl,scnl,downstream,2
 minbuza_nl,sjg,downstream,1
 minbuza_nl,st_vluchteling,downstream,2
@@ -924,7 +923,7 @@ fcdo,cal,upstream,6
 fcdo,carbontrustadvisory,upstream,1
 fcdo,cardnoem,upstream,5
 fcdo,cepr,upstream,2
-fcdo,cgiar,upstream,6
+fcdo,cgiar,upstream,5
 fcdo,chemonics,upstream,3
 fcdo,childhopeuk,upstream,2
 fcdo,cic,upstream,2
@@ -1525,6 +1524,7 @@ minbuza_nl,simavi,upstream,3
 minbuza_nl,siren,upstream,1
 minbuza_nl,siwi,upstream,1
 minbuza_nl,sjac,upstream,1
+minbuza_nl,sjg,upstream,1
 minbuza_nl,skf,upstream,1
 minbuza_nl,skn,upstream,1
 minbuza_nl,snv,upstream,18
@@ -1716,7 +1716,7 @@ rutgers,cfyas,upstream,3
 rutgers,ippf,upstream,2
 rutgers,my-ssm,upstream,1
 rutgers,norsaac,upstream,1
-rutgers,pmo-us,upstream,1
+rutgers,pmo-us,upstream,2
 rutgers,rnw_org,upstream,1
 rutgers,rutgers,upstream,1
 rutgers,simavi,upstream,2
