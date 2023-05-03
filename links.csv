@@ -180,7 +180,6 @@ jass,genderatwork,downstream,1
 jass,pekka_21,downstream,1
 lcd_admin,plan_uk,downstream,1
 loftf,di,downstream,1
-lts,snv,downstream,1
 mag,halo,downstream,1
 mag,npa,downstream,1
 mamac,creausa-org,downstream,1
@@ -991,7 +990,7 @@ fcdo,imcw_admin,upstream,7
 fcdo,interburns,upstream,1
 fcdo,iom,upstream,16
 fcdo,ipas,upstream,1
-fcdo,ipeglobal,upstream,8
+fcdo,ipeglobal,upstream,7
 fcdo,ippf,upstream,4
 fcdo,irc_inc,upstream,5
 fcdo,irc_uk,upstream,14
@@ -1070,7 +1069,7 @@ fcdo,sddirect,upstream,2
 fcdo,sendacow,upstream,4
 fcdo,sense_international,upstream,2
 fcdo,sfcg,upstream,1
-fcdo,snv,upstream,1
+fcdo,snv,upstream,2
 fcdo,soas,upstream,2
 fcdo,spuk,upstream,3
 fcdo,ss-org,upstream,133
@@ -1830,7 +1829,7 @@ stichting-subsidiegelden-dra,wvnld,upstream,1
 stichting-subsidiegelden-dra,zoa,upstream,2
 stichting_hivos,fcam,upstream,1
 stichting_hivos,femnet,upstream,1
-stichting_hivos,marsa_welead,upstream,1
+stichting_hivos,marsa_welead,upstream,2
 stichting_hivos,pv,upstream,2
 stichting_hivos,restless,upstream,1
 tccec,mce,upstream,1
