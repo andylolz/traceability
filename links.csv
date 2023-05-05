@@ -1361,7 +1361,6 @@ minbuza_nl,bsr_admin,upstream,1
 minbuza_nl,bu,upstream,1
 minbuza_nl,bwh,upstream,1
 minbuza_nl,cabi,upstream,3
-minbuza_nl,carebenintogo,upstream,1
 minbuza_nl,carenederland,upstream,11
 minbuza_nl,ccc,upstream,1
 minbuza_nl,cdc_ohg,upstream,1
@@ -1467,7 +1466,7 @@ minbuza_nl,mcn,upstream,1
 minbuza_nl,mdf,upstream,4
 minbuza_nl,mefbenin,upstream,2
 minbuza_nl,mfwa,upstream,1
-minbuza_nl,minbuza_nl,upstream,24
+minbuza_nl,minbuza_nl,upstream,25
 minbuza_nl,mm1,upstream,2
 minbuza_nl,mml,upstream,1
 minbuza_nl,mondiaalfnv,upstream,1
@@ -1487,7 +1486,7 @@ minbuza_nl,nlr_indonesia,upstream,1
 minbuza_nl,nlrc,upstream,223
 minbuza_nl,nrc,upstream,2
 minbuza_nl,nso,upstream,1
-minbuza_nl,nuffic20171017,upstream,2
+minbuza_nl,nuffic20171017,upstream,3
 minbuza_nl,nwo,upstream,4
 minbuza_nl,nwp,upstream,1
 minbuza_nl,odi,upstream,1
@@ -1582,7 +1581,7 @@ minbuza_nl,wgnrr_iati,upstream,1
 minbuza_nl,wilpf_22,upstream,1
 minbuza_nl,win,upstream,2
 minbuza_nl,wlrc_aau,upstream,1
-minbuza_nl,wo-men,upstream,1
+minbuza_nl,wo-men,upstream,2
 minbuza_nl,womankindworld,upstream,1
 minbuza_nl,world_ywca,upstream,1
 minbuza_nl,worldveg,upstream,1
