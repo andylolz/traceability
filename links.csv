@@ -180,8 +180,6 @@ jass,genderatwork,downstream,1
 jass,pekka_21,downstream,1
 lcd_admin,plan_uk,downstream,1
 loftf,di,downstream,1
-mag,halo,downstream,1
-mag,npa,downstream,1
 mamac,creausa-org,downstream,1
 mamac,jass,downstream,1
 manniondaniels,_admin,downstream,1
@@ -809,7 +807,7 @@ danida,adra-dk,upstream,1
 danida,caritas_denmark,upstream,3
 danida,cisu,upstream,2
 danida,cku,upstream,2
-danida,danida,upstream,11
+danida,danida,upstream,29
 danida,danishrc,upstream,6
 danida,danmission,upstream,14
 danida,dca,upstream,4
@@ -824,7 +822,7 @@ danida,ilo,upstream,5
 danida,ims,upstream,2
 danida,loftf,upstream,2
 danida,missioneast,upstream,5
-danida,plb,upstream,2
+danida,plb,upstream,1
 danida,redbarnet,upstream,3
 danida,unhcr,upstream,3
 danida,wwfdk,upstream,1
@@ -1015,6 +1013,7 @@ fcdo,lshtm,upstream,2
 fcdo,lstm,upstream,2
 fcdo,lts,upstream,2
 fcdo,m2m_sa,upstream,1
+fcdo,mag,upstream,1
 fcdo,malariaconsortium,upstream,4
 fcdo,manniondaniels,upstream,3
 fcdo,marysmeals,upstream,2
@@ -1402,7 +1401,7 @@ minbuza_nl,fms,upstream,1
 minbuza_nl,foenl,upstream,1
 minbuza_nl,free_press_unlimited,upstream,4
 minbuza_nl,fwf,upstream,2
-minbuza_nl,gain,upstream,3
+minbuza_nl,gain,upstream,4
 minbuza_nl,gichd,upstream,12
 minbuza_nl,giin,upstream,1
 minbuza_nl,giro555,upstream,1
@@ -1528,7 +1527,7 @@ minbuza_nl,siwi,upstream,1
 minbuza_nl,sjac,upstream,1
 minbuza_nl,skf,upstream,1
 minbuza_nl,skn,upstream,1
-minbuza_nl,snv,upstream,18
+minbuza_nl,snv,upstream,19
 minbuza_nl,solidaridad,upstream,2
 minbuza_nl,solidaridad-europe,upstream,1
 minbuza_nl,solidaridad-ssea,upstream,2
