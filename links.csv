@@ -815,7 +815,6 @@ danida,dfpa,upstream,1
 danida,di,upstream,1
 danida,drc,upstream,30
 danida,ecdpm,upstream,1
-danida,globaltfokus,upstream,2
 danida,ibis_denmark,upstream,1
 danida,idh,upstream,1
 danida,ilo,upstream,5
@@ -1421,7 +1420,7 @@ minbuza_nl,icnl_org,upstream,5
 minbuza_nl,ictj,upstream,23
 minbuza_nl,idh,upstream,13
 minbuza_nl,idh_im,upstream,1
-minbuza_nl,idlo,upstream,15
+minbuza_nl,idlo,upstream,16
 minbuza_nl,idrccrdi,upstream,8
 minbuza_nl,ieu,upstream,1
 minbuza_nl,ifdc-us,upstream,6
@@ -1813,6 +1812,7 @@ ss-org,lftw-int,upstream,2
 ss-org,sddirect,upstream,1
 st_vluchteling,irc_inc,upstream,2
 st_vluchteling,plannlno,upstream,1
+state,iom,upstream,14
 stichting-subsidiegelden-dra,carenederland,upstream,2
 stichting-subsidiegelden-dra,cordaid,upstream,2
 stichting-subsidiegelden-dra,dai,upstream,2
