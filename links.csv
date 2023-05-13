@@ -106,7 +106,6 @@ fcdo,pa,downstream,1
 fcdo,plan_uk,downstream,1
 fcdo,pmc,downstream,1
 fcdo,pwc,downstream,1
-fcdo,sddirect,downstream,1
 fcdo,sinda,downstream,1
 foenl,foei,downstream,2
 foenl,gaia,downstream,1
@@ -170,7 +169,7 @@ irc_uk,concernuk,downstream,1
 irc_uk,cuamm,downstream,1
 irc_uk,fcdo,downstream,1
 irc_uk,goal,downstream,1
-irc_uk,irc_inc,downstream,72
+irc_uk,irc_inc,downstream,71
 irc_uk,irc_uk,downstream,2
 irc_uk,plan_uk,downstream,1
 irc_uk,restless,downstream,2
@@ -417,6 +416,8 @@ orbis_uk,orbis_ethiopia,downstream,1
 orbis_uk,orbis_international,downstream,3
 pacja,minbuza_nl,downstream,1
 pax,amnesty,downstream,1
+pax,arcfge,downstream,1
+pax,defenddefenders,downstream,1
 plan_uk,irc_inc,downstream,1
 plannlno,amrefeth,downstream,1
 plannlno,amrefkenya,downstream,1
@@ -941,7 +942,7 @@ fcdo,crs,upstream,4
 fcdo,ctc,upstream,1
 fcdo,cww,upstream,1
 fcdo,cyan,upstream,2
-fcdo,dai-e,upstream,28
+fcdo,dai-e,upstream,29
 fcdo,dc,upstream,1
 fcdo,ddp,upstream,4
 fcdo,dec-uk,upstream,5
@@ -1141,7 +1142,7 @@ gecfundmanagerpwc,dla,upstream,1
 gecfundmanagerpwc,edt_kenya,upstream,2
 gecfundmanagerpwc,gecfundmanagerpwc,upstream,1
 gecfundmanagerpwc,hpa,upstream,1
-gecfundmanagerpwc,irc_inc,upstream,1
+gecfundmanagerpwc,irc_inc,upstream,2
 gecfundmanagerpwc,irc_uk,upstream,3
 gecfundmanagerpwc,lcd_admin,upstream,2
 gecfundmanagerpwc,lcdi_admin,upstream,1
@@ -1217,7 +1218,7 @@ irc_inc,restless,upstream,2
 irc_inc,zoa,upstream,1
 irc_uk,goal,upstream,1
 irc_uk,hiuk,upstream,1
-irc_uk,irc_inc,upstream,79
+irc_uk,irc_inc,upstream,81
 irc_uk,irc_uk,upstream,1
 irc_uk,msi,upstream,1
 irc_uk,restless,upstream,1
@@ -1527,7 +1528,7 @@ minbuza_nl,siwi,upstream,1
 minbuza_nl,sjac,upstream,1
 minbuza_nl,skf,upstream,1
 minbuza_nl,skn,upstream,1
-minbuza_nl,snv,upstream,19
+minbuza_nl,snv,upstream,18
 minbuza_nl,solidaridad,upstream,2
 minbuza_nl,solidaridad-europe,upstream,1
 minbuza_nl,solidaridad-ssea,upstream,2
