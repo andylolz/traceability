@@ -169,7 +169,7 @@ irc_uk,concernuk,downstream,1
 irc_uk,cuamm,downstream,1
 irc_uk,fcdo,downstream,1
 irc_uk,goal,downstream,1
-irc_uk,irc_inc,downstream,71
+irc_uk,irc_inc,downstream,80
 irc_uk,irc_uk,downstream,2
 irc_uk,plan_uk,downstream,1
 irc_uk,restless,downstream,2
@@ -1218,7 +1218,7 @@ irc_inc,restless,upstream,2
 irc_inc,zoa,upstream,1
 irc_uk,goal,upstream,1
 irc_uk,hiuk,upstream,1
-irc_uk,irc_inc,upstream,81
+irc_uk,irc_inc,upstream,84
 irc_uk,irc_uk,upstream,1
 irc_uk,msi,upstream,1
 irc_uk,restless,upstream,1
@@ -1514,7 +1514,7 @@ minbuza_nl,redeenkind,upstream,1
 minbuza_nl,rlb,upstream,2
 minbuza_nl,rmf-lb,upstream,1
 minbuza_nl,rutgers,upstream,4
-minbuza_nl,rvo,upstream,14
+minbuza_nl,rvo,upstream,1
 minbuza_nl,saferworld,upstream,11
 minbuza_nl,scnl,upstream,12
 minbuza_nl,scss,upstream,1
@@ -1723,10 +1723,6 @@ rutgers,rutgers,upstream,1
 rutgers,simavi,upstream,2
 rutgers,sjg,upstream,2
 rutgers,stichting_hivos,upstream,1
-rvo,akvo,upstream,1
-rvo,cabi,upstream,1
-rvo,cordaid,upstream,1
-rvo,idlo,upstream,1
 saferworld,cr,upstream,1
 sci,concernuk,upstream,1
 scnl,carenederland,upstream,2
@@ -1813,7 +1809,7 @@ ss-org,lftw-int,upstream,2
 ss-org,sddirect,upstream,1
 st_vluchteling,irc_inc,upstream,2
 st_vluchteling,plannlno,upstream,1
-state,iom,upstream,14
+state,iom,upstream,15
 stichting-subsidiegelden-dra,carenederland,upstream,2
 stichting-subsidiegelden-dra,cordaid,upstream,2
 stichting-subsidiegelden-dra,dai,upstream,2
