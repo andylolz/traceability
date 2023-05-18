@@ -376,7 +376,7 @@ minbuza_nl,agriterra,downstream,1
 minbuza_nl,carenederland,downstream,1
 minbuza_nl,cidr,downstream,1
 minbuza_nl,icwrsa,downstream,1
-minbuza_nl,minbuza_nl,downstream,1
+minbuza_nl,minbuza_nl,downstream,2
 minbuza_nl,nuwodu,downstream,1
 minbuza_nl,onl,downstream,2
 minbuza_nl,plannlno,downstream,1
@@ -575,7 +575,7 @@ wvnld,warchildholland,downstream,1
 wvnld,wcuk,downstream,1
 wvnld,wvi,downstream,12
 wvnld,zoa,downstream,1
-wvuk,wvi,downstream,106
+wvuk,wvi,downstream,102
 zoa,agriterra,downstream,1
 zoa,carenederland,downstream,2
 zoa,cordaid,downstream,7
@@ -1352,6 +1352,7 @@ minbuza_nl,asf,upstream,1
 minbuza_nl,asi,upstream,1
 minbuza_nl,atmf,upstream,5
 minbuza_nl,auxfinbi,upstream,1
+minbuza_nl,avsi-ssd,upstream,1
 minbuza_nl,avsi_uganda,upstream,2
 minbuza_nl,berytech,upstream,1
 minbuza_nl,bopinc,upstream,1
