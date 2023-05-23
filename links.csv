@@ -30,6 +30,7 @@ bond,sinda,downstream,1
 bos_plus_tropen,be-dgd,downstream,1
 bothends,aanl,downstream,2
 bothends,ccc,downstream,2
+bothends,foei,downstream,1
 bothends,foenl,downstream,2
 bothends,itforchange,downstream,1
 bothends,samdhana_institute,downstream,1
@@ -725,7 +726,7 @@ bmz,ilo,upstream,27
 bmz,unhcr,upstream,4
 bothends,aanl,upstream,2
 bothends,ccc,upstream,1
-bothends,foei,upstream,2
+bothends,foei,upstream,1
 bothends,foenl,upstream,2
 bothends,itforchange,upstream,1
 bothends,samdhana_institute,upstream,1
