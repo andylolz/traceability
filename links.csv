@@ -59,9 +59,9 @@ cordaid,scnl,downstream,4
 cordaid,sosnl,downstream,6
 cordaid,st_vluchteling,downstream,10
 cordaid,tear,downstream,4
-cordaid,tlo,downstream,2
+cordaid,tlo,downstream,1
 cordaid,warchildholland,downstream,4
-cordaid,wipc,downstream,2
+cordaid,wipc,downstream,1
 cordaid,wvnld,downstream,8
 cordaid,zoa,downstream,7
 cr,cr,downstream,1
@@ -84,7 +84,6 @@ ddp,dhrc_nepal,downstream,2
 drc,hiuk,downstream,1
 drc,irc_inc,downstream,1
 drc,irc_uk,downstream,2
-drc,scuk,downstream,1
 edt_kenya,amurt_kenya,downstream,1
 edt_kenya,kesho_kenya,downstream,1
 edt_kenya,pgi_kenya,downstream,1
@@ -390,7 +389,7 @@ minbuza_nl,sjg,downstream,1
 minbuza_nl,st_vluchteling,downstream,2
 minbuza_nl,tdh_nl,downstream,1
 minbuza_nl,vngi,downstream,2
-minbuza_nl,wipc,downstream,2
+minbuza_nl,wipc,downstream,1
 minbuza_nl,wvnld,downstream,1
 minbuza_nl,zoa,downstream,1
 msi,ciuk,downstream,1
@@ -1378,7 +1377,7 @@ minbuza_nl,cis,upstream,1
 minbuza_nl,civicus,upstream,1
 minbuza_nl,clingendael,upstream,7
 minbuza_nl,cocnl_publisher,upstream,1
-minbuza_nl,cordaid,upstream,31
+minbuza_nl,cordaid,upstream,27
 minbuza_nl,cpd,upstream,1
 minbuza_nl,creausa-org,upstream,3
 minbuza_nl,crehpa,upstream,1
@@ -1761,7 +1760,7 @@ sdi-int,sdi-k,upstream,1
 sida,asi,upstream,1
 sida,dcaf,upstream,1
 sida,f-aids,upstream,1
-sida,idlo,upstream,2
+sida,idlo,upstream,3
 sida,ilo,upstream,58
 sida,onl,upstream,204
 sida,pidg,upstream,1
