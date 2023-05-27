@@ -378,7 +378,7 @@ minbuza_nl,agriterra,downstream,1
 minbuza_nl,carenederland,downstream,1
 minbuza_nl,cidr,downstream,1
 minbuza_nl,icwrsa,downstream,1
-minbuza_nl,minbuza_nl,downstream,2
+minbuza_nl,minbuza_nl,downstream,3
 minbuza_nl,nuwodu,downstream,1
 minbuza_nl,onl,downstream,2
 minbuza_nl,plannlno,downstream,1
@@ -431,6 +431,7 @@ pwc,inasp,downstream,1
 pwc,kingscollegelondon,downstream,1
 pwc,open_university,downstream,1
 pwc,pasgr,downstream,1
+rcn,minbuza_nl,downstream,1
 restless,accountablenow,downstream,1
 restless,intrac,downstream,1
 rutgers,arcfge,downstream,1
@@ -1426,7 +1427,7 @@ minbuza_nl,icnl_org,upstream,5
 minbuza_nl,ictj,upstream,23
 minbuza_nl,idh,upstream,13
 minbuza_nl,idh_im,upstream,1
-minbuza_nl,idlo,upstream,17
+minbuza_nl,idlo,upstream,19
 minbuza_nl,idrccrdi,upstream,16
 minbuza_nl,ieu,upstream,1
 minbuza_nl,ifdc-us,upstream,6
@@ -1825,7 +1826,7 @@ stichting-subsidiegelden-dra,dai,upstream,2
 stichting-subsidiegelden-dra,onl,upstream,41
 stichting-subsidiegelden-dra,plannlno,upstream,1
 stichting-subsidiegelden-dra,redeenkind,upstream,1
-stichting-subsidiegelden-dra,scnl,upstream,7
+stichting-subsidiegelden-dra,scnl,upstream,8
 stichting-subsidiegelden-dra,sosnl,upstream,3
 stichting-subsidiegelden-dra,st_vluchteling,upstream,4
 stichting-subsidiegelden-dra,tdh_nl,upstream,2
@@ -1834,7 +1835,7 @@ stichting-subsidiegelden-dra,wvnld,upstream,1
 stichting-subsidiegelden-dra,zoa,upstream,2
 stichting_hivos,fcam,upstream,1
 stichting_hivos,femnet,upstream,1
-stichting_hivos,marsa_welead,upstream,2
+stichting_hivos,marsa_welead,upstream,1
 stichting_hivos,pv,upstream,2
 stichting_hivos,restless,upstream,1
 tccec,mce,upstream,1
@@ -1942,7 +1943,7 @@ zoa,icco-cooperation,upstream,3
 zoa,ida,upstream,1
 zoa,leprazending-tlm-nl,upstream,1
 zoa,onl,upstream,9
-zoa,scnl,upstream,3
+zoa,scnl,upstream,4
 zoa,sosnl,upstream,2
 zoa,sosss_admin,upstream,1
 zoa,st_vluchteling,upstream,2
