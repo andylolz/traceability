@@ -1427,7 +1427,7 @@ minbuza_nl,icnl_org,upstream,5
 minbuza_nl,ictj,upstream,23
 minbuza_nl,idh,upstream,13
 minbuza_nl,idh_im,upstream,1
-minbuza_nl,idlo,upstream,19
+minbuza_nl,idlo,upstream,21
 minbuza_nl,idrccrdi,upstream,16
 minbuza_nl,ieu,upstream,1
 minbuza_nl,ifdc-us,upstream,6
@@ -1866,6 +1866,7 @@ uoe,bpcrs,upstream,1
 uoe,icddrb,upstream,1
 uoe,ipcrg,upstream,1
 uom,iied,upstream,3
+usaid,idlo,upstream,1
 usaid,ilo,upstream,8
 usaid,iom,upstream,152
 usaid,itc,upstream,2
