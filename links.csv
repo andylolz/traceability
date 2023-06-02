@@ -387,7 +387,6 @@ minbuza_nl,promsex,downstream,1
 minbuza_nl,protos,downstream,1
 minbuza_nl,rnw_org,downstream,1
 minbuza_nl,scnl,downstream,2
-minbuza_nl,sjg,downstream,1
 minbuza_nl,st_vluchteling,downstream,2
 minbuza_nl,tdh_nl,downstream,1
 minbuza_nl,vngi,downstream,2
@@ -465,7 +464,6 @@ siharegional,ewla,downstream,1
 siharegional,fidauganda,downstream,1
 siharegional,musawah,downstream,1
 siharegional,nagaad,downstream,1
-siharegional,siha-southsudan,downstream,1
 simavi,amrefnl,downstream,1
 skn,icdi,downstream,1
 skn,uva_org,downstream,1
@@ -1286,7 +1284,7 @@ manniondaniels,jocc_uk,upstream,1
 manniondaniels,kmss,upstream,1
 manniondaniels,learningforlife,upstream,1
 manniondaniels,mag,upstream,1
-manniondaniels,manniondaniels,upstream,1
+manniondaniels,manniondaniels,upstream,2
 manniondaniels,mifumi_uk,upstream,1
 manniondaniels,mmh,upstream,1
 manniondaniels,motivation,upstream,3
@@ -1359,6 +1357,7 @@ minbuza_nl,asf,upstream,1
 minbuza_nl,asi,upstream,1
 minbuza_nl,atmf,upstream,5
 minbuza_nl,auxfinbi,upstream,1
+minbuza_nl,auxfinintl,upstream,1
 minbuza_nl,avsi-ssd,upstream,1
 minbuza_nl,avsi_uganda,upstream,2
 minbuza_nl,berytech,upstream,1
@@ -1465,7 +1464,7 @@ minbuza_nl,ldsps,upstream,1
 minbuza_nl,leprazending-tlm-nl,upstream,1
 minbuza_nl,lpa,upstream,1
 minbuza_nl,lpi,upstream,1
-minbuza_nl,mag,upstream,2
+minbuza_nl,mag,upstream,3
 minbuza_nl,mamac,upstream,3
 minbuza_nl,manniondaniels,upstream,2
 minbuza_nl,max-foundation,upstream,1
@@ -1512,6 +1511,7 @@ minbuza_nl,pcf,upstream,2
 minbuza_nl,pidg,upstream,1
 minbuza_nl,plama,upstream,1
 minbuza_nl,plannlno,upstream,8
+minbuza_nl,pmo-us,upstream,1
 minbuza_nl,ppag_123,upstream,2
 minbuza_nl,protos,upstream,1
 minbuza_nl,psi,upstream,3
@@ -1549,6 +1549,7 @@ minbuza_nl,st_vluchteling,upstream,2
 minbuza_nl,stc-international,upstream,1
 minbuza_nl,stichting-subsidiegelden-dra,upstream,4
 minbuza_nl,stichting_hivos,upstream,14
+minbuza_nl,stichtingfern,upstream,1
 minbuza_nl,syf,upstream,1
 minbuza_nl,t2p,upstream,1
 minbuza_nl,tan,upstream,1
@@ -1726,7 +1727,7 @@ rutgers,cfyas,upstream,3
 rutgers,ippf,upstream,2
 rutgers,my-ssm,upstream,1
 rutgers,norsaac,upstream,1
-rutgers,pmo-us,upstream,2
+rutgers,pmo-us,upstream,1
 rutgers,rnw_org,upstream,1
 rutgers,rutgers,upstream,1
 rutgers,simavi,upstream,2
