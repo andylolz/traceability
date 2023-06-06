@@ -347,6 +347,7 @@ manniondaniels,troc,downstream,2
 manniondaniels,tropicalhealth,downstream,1
 manniondaniels,twin-iati,downstream,1
 manniondaniels,umn,downstream,1
+manniondaniels,uws,downstream,1
 manniondaniels,vao,downstream,1
 manniondaniels,wasteaid,downstream,1
 manniondaniels,water-witness-international,downstream,1
@@ -864,7 +865,7 @@ ec-echo,unhcr,upstream,280
 ec-echo,warchildholland,upstream,4
 ec-fpi,iom,upstream,3
 ec-intpa,cabi,upstream,2
-ec-intpa,idlo,upstream,1
+ec-intpa,idlo,upstream,2
 ec-intpa,ilo,upstream,9
 ec-intpa,unhcr,upstream,1
 ec-near,ilo,upstream,2
@@ -1384,6 +1385,7 @@ minbuza_nl,cpd,upstream,1
 minbuza_nl,creausa-org,upstream,3
 minbuza_nl,crehpa,upstream,1
 minbuza_nl,crisisgroup,upstream,1
+minbuza_nl,crtda,upstream,1
 minbuza_nl,d4d,upstream,1
 minbuza_nl,dai,upstream,5
 minbuza_nl,dai-e,upstream,1
@@ -1409,7 +1411,7 @@ minbuza_nl,fms,upstream,1
 minbuza_nl,foenl,upstream,1
 minbuza_nl,free_press_unlimited,upstream,4
 minbuza_nl,fwf,upstream,2
-minbuza_nl,gain,upstream,3
+minbuza_nl,gain,upstream,4
 minbuza_nl,gichd,upstream,12
 minbuza_nl,giin,upstream,1
 minbuza_nl,giro555,upstream,1
