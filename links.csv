@@ -805,6 +805,7 @@ dai,scnl,upstream,2
 dai,sosnl,upstream,1
 dai,st_vluchteling,upstream,1
 dai,zoa,upstream,1
+dai-e,idlo,upstream,1
 dai-e,nathan,upstream,2
 dance4life,ippf,upstream,1
 danida,12921047,upstream,3
@@ -865,7 +866,7 @@ ec-echo,unhcr,upstream,280
 ec-echo,warchildholland,upstream,4
 ec-fpi,iom,upstream,3
 ec-intpa,cabi,upstream,2
-ec-intpa,idlo,upstream,2
+ec-intpa,idlo,upstream,3
 ec-intpa,ilo,upstream,9
 ec-intpa,unhcr,upstream,1
 ec-near,ilo,upstream,2
@@ -1103,7 +1104,7 @@ fcdo,uom,upstream,2
 fcdo,uq,upstream,6
 fcdo,vao,upstream,1
 fcdo,vfan,upstream,1
-fcdo,vso,upstream,30
+fcdo,vso,upstream,31
 fcdo,wacc-uk,upstream,1
 fcdo,wateraid,upstream,5
 fcdo,waterworks,upstream,1
@@ -1377,6 +1378,7 @@ minbuza_nl,chs_alliance,upstream,1
 minbuza_nl,cidr,upstream,1
 minbuza_nl,cilc,upstream,1
 minbuza_nl,cis,upstream,1
+minbuza_nl,civic_admin,upstream,1
 minbuza_nl,civicus,upstream,1
 minbuza_nl,clingendael,upstream,7
 minbuza_nl,cocnl_publisher,upstream,1
@@ -1424,7 +1426,7 @@ minbuza_nl,hi_fed,upstream,3
 minbuza_nl,hif,upstream,2
 minbuza_nl,hiil_mfa,upstream,6
 minbuza_nl,hsi,upstream,2
-minbuza_nl,ibfd,upstream,14
+minbuza_nl,ibfd,upstream,17
 minbuza_nl,icco-cooperation,upstream,20
 minbuza_nl,icnl_org,upstream,5
 minbuza_nl,ictj,upstream,23
@@ -1623,6 +1625,7 @@ nimd-hq,bltp,upstream,2
 nimd-hq,cemi,upstream,2
 nimd-hq,gen,upstream,2
 nimd-hq,gorin,upstream,2
+nimd-hq,igd_benin,upstream,2
 nimd-hq,saferworld,upstream,2
 nl-kvk-41207989,galz,upstream,3
 nl-kvk-41207989,gnpplus,upstream,1
