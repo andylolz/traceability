@@ -83,8 +83,8 @@ danmission,danida,downstream,1
 ddp,dhrc_nepal,downstream,2
 drc,irc_inc,downstream,1
 drc,irc_uk,downstream,2
-edt_kenya,amurt_kenya,downstream,1
-edt_kenya,kesho_kenya,downstream,1
+edt_kenya,amurt_kenya,downstream,2
+edt_kenya,kesho_kenya,downstream,2
 edt_kenya,pgi_kenya,downstream,1
 emms,dgmh,downstream,1
 emms,mmh,downstream,1
@@ -1136,7 +1136,7 @@ gecfundmanagerpwc,ava_admin,upstream,1
 gecfundmanagerpwc,childhopeuk,upstream,2
 gecfundmanagerpwc,ciuk,upstream,1
 gecfundmanagerpwc,dla,upstream,1
-gecfundmanagerpwc,edt_kenya,upstream,2
+gecfundmanagerpwc,edt_kenya,upstream,4
 gecfundmanagerpwc,gecfundmanagerpwc,upstream,1
 gecfundmanagerpwc,hpa,upstream,1
 gecfundmanagerpwc,irc_inc,upstream,2
@@ -1417,7 +1417,7 @@ minbuza_nl,hi_fed,upstream,3
 minbuza_nl,hif,upstream,2
 minbuza_nl,hiil_mfa,upstream,6
 minbuza_nl,hsi,upstream,2
-minbuza_nl,ibfd,upstream,27
+minbuza_nl,ibfd,upstream,35
 minbuza_nl,icco-cooperation,upstream,20
 minbuza_nl,icnl_org,upstream,5
 minbuza_nl,ictj,upstream,23
