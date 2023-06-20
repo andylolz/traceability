@@ -378,6 +378,7 @@ minbuza_nl,carenederland,downstream,1
 minbuza_nl,cfyas,downstream,1
 minbuza_nl,cidr,downstream,1
 minbuza_nl,icwrsa,downstream,1
+minbuza_nl,jass,downstream,1
 minbuza_nl,minbuza_nl,downstream,2
 minbuza_nl,nuwodu,downstream,1
 minbuza_nl,onl,downstream,2
@@ -849,12 +850,6 @@ drc,irc_uk,upstream,1
 drc,irw,upstream,1
 drc,mapaction,upstream,1
 drc,nrc,upstream,1
-ec-echo,iom,upstream,74
-ec-echo,nlrc,upstream,2
-ec-echo,onl,upstream,40
-ec-echo,tdh_nl,upstream,4
-ec-echo,unhcr,upstream,280
-ec-echo,warchildholland,upstream,4
 ec-fpi,iom,upstream,3
 ec-intpa,cabi,upstream,2
 ec-intpa,idlo,upstream,3
@@ -1235,7 +1230,7 @@ ktk,crtda,upstream,1
 ktk,pwwsd_2022,upstream,1
 lcd_admin,ilo,upstream,5
 lcd_admin,open_university,upstream,1
-loftf,di,upstream,1
+loftf,di,upstream,2
 mag,crs,upstream,1
 mag,halo,upstream,1
 mamac,creausa-org,upstream,1
@@ -1564,7 +1559,7 @@ minbuza_nl,unocha-sdc,upstream,2
 minbuza_nl,utz,upstream,1
 minbuza_nl,uvw,upstream,1
 minbuza_nl,vei_nl,upstream,2
-minbuza_nl,vngi,upstream,8
+minbuza_nl,vngi,upstream,9
 minbuza_nl,w-d,upstream,2
 minbuza_nl,wageningen_ur,upstream,10
 minbuza_nl,warchildholland,upstream,8
@@ -1703,6 +1698,7 @@ plannlno,stad,upstream,1
 plannlno,tdh_nl,upstream,2
 plannlno,zoa,upstream,1
 practica,practica,upstream,1
+protos,snv,upstream,1
 psi,msi,upstream,1
 pwc,acu,upstream,4
 pwc,britishcouncil,upstream,1
