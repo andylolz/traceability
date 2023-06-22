@@ -811,7 +811,6 @@ danida,danida,upstream,10
 danida,danishrc,upstream,6
 danida,danmission,upstream,14
 danida,dca,upstream,4
-danida,dfpa,upstream,1
 danida,di,upstream,1
 danida,drc,upstream,30
 danida,ecdpm,upstream,1
@@ -1422,7 +1421,7 @@ minbuza_nl,ictj,upstream,23
 minbuza_nl,idh,upstream,13
 minbuza_nl,idh_im,upstream,1
 minbuza_nl,idlo,upstream,21
-minbuza_nl,idrccrdi,upstream,16
+minbuza_nl,idrccrdi,upstream,17
 minbuza_nl,ieu,upstream,1
 minbuza_nl,ifdc-us,upstream,6
 minbuza_nl,ihedelft,upstream,3
@@ -1751,6 +1750,7 @@ scuk,concernuk,upstream,1
 scuk,irc_inc,upstream,2
 scuk,irc_uk,upstream,6
 scuk,sci,upstream,395
+sdc_ch,cabi,upstream,1
 sdi-int,pphpz,upstream,1
 sdi-int,sdi-k,upstream,1
 sida,asi,upstream,1
@@ -1758,7 +1758,7 @@ sida,dcaf,upstream,1
 sida,f-aids,upstream,1
 sida,idlo,upstream,3
 sida,ilo,upstream,58
-sida,onl,upstream,204
+sida,onl,upstream,205
 sida,pidg,upstream,1
 siharegional,ewla,upstream,1
 siharegional,fidauganda,upstream,1
