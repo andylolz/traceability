@@ -1001,6 +1001,7 @@ fcdo,lboro,upstream,1
 fcdo,lbs,upstream,1
 fcdo,lcd_admin,upstream,5
 fcdo,lcds,upstream,1
+fcdo,leedsuni,upstream,1
 fcdo,lepra,upstream,2
 fcdo,lhcf,upstream,1
 fcdo,lse,upstream,1
@@ -1157,7 +1158,7 @@ giro555,nlrc,upstream,19
 giro555,pax,upstream,1
 giro555,plannlno,upstream,5
 giro555,scnl,upstream,5
-giro555,st_vluchteling,upstream,6
+giro555,st_vluchteling,upstream,7
 giro555,tdh_nl,upstream,1
 giro555,tear,upstream,3
 giro555,unicefnl,upstream,4
@@ -1847,7 +1848,7 @@ unf,iif,upstream,1
 unido,ilo,upstream,3
 unocha-cbpf,cordaid,upstream,2
 unocha-cbpf,iom,upstream,1
-unocha-cbpf,unhcr,upstream,55
+unocha-cbpf,unhcr,upstream,57
 unocha-cbpf,warchildholland,upstream,1
 unpf,ilo,upstream,158
 unpf,iom,upstream,3
