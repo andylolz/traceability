@@ -406,8 +406,8 @@ msi,pmc,downstream,1
 msi,promsex,downstream,1
 nimd-hq,awepa,downstream,1
 niras,lts,downstream,1
-nl_wg,gfcf,downstream,1
-nl_wg,kcdf,downstream,1
+nl_wg,gfcf,downstream,2
+nl_wg,kcdf,downstream,2
 open_university,uom,downstream,1
 openmindedly,oxfamgb,downstream,2
 options,sddirect,downstream,1
@@ -1158,7 +1158,7 @@ giro555,nlrc,upstream,19
 giro555,pax,upstream,1
 giro555,plannlno,upstream,5
 giro555,scnl,upstream,5
-giro555,st_vluchteling,upstream,7
+giro555,st_vluchteling,upstream,9
 giro555,tdh_nl,upstream,1
 giro555,tear,upstream,3
 giro555,unicefnl,upstream,4
@@ -1425,7 +1425,6 @@ minbuza_nl,idlo,upstream,21
 minbuza_nl,idrccrdi,upstream,17
 minbuza_nl,ieu,upstream,1
 minbuza_nl,ifdc-us,upstream,6
-minbuza_nl,ihedelft,upstream,3
 minbuza_nl,iisd,upstream,1
 minbuza_nl,ilo,upstream,57
 minbuza_nl,imc_uk,upstream,1
@@ -1480,7 +1479,7 @@ minbuza_nl,nfp,upstream,2
 minbuza_nl,nimd-hq,upstream,6
 minbuza_nl,nl-kvk-41207989,upstream,3
 minbuza_nl,nl-kvk-54436222-27541,upstream,20
-minbuza_nl,nl_wg,upstream,1
+minbuza_nl,nl_wg,upstream,2
 minbuza_nl,nlr,upstream,2
 minbuza_nl,nlr_indonesia,upstream,1
 minbuza_nl,nlrc,upstream,223
