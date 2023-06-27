@@ -406,8 +406,8 @@ msi,pmc,downstream,1
 msi,promsex,downstream,1
 nimd-hq,awepa,downstream,1
 niras,lts,downstream,1
-nl_wg,gfcf,downstream,2
-nl_wg,kcdf,downstream,2
+nl_wg,gfcf,downstream,1
+nl_wg,kcdf,downstream,1
 open_university,uom,downstream,1
 openmindedly,oxfamgb,downstream,2
 options,sddirect,downstream,1
@@ -534,7 +534,6 @@ uoe,upm,downstream,1
 utd,malariaconsortium,downstream,1
 viva,crane,downstream,1
 vlir-uos,ares,downstream,1
-vngi,carenederland,downstream,1
 vngi,cordaid,downstream,1
 vso,britishcouncil,downstream,1
 vso,gan,downstream,1
@@ -1014,7 +1013,7 @@ fcdo,malariaconsortium,upstream,4
 fcdo,manniondaniels,upstream,3
 fcdo,marysmeals,upstream,2
 fcdo,mce,upstream,8
-fcdo,mml,upstream,23
+fcdo,mml,upstream,24
 fcdo,motivation,upstream,3
 fcdo,mrc-sierra-leone,upstream,1
 fcdo,msi,upstream,13
@@ -1351,6 +1350,7 @@ minbuza_nl,auxfinintl,upstream,1
 minbuza_nl,avsi-ssd,upstream,1
 minbuza_nl,avsi_uganda,upstream,2
 minbuza_nl,berytech,upstream,1
+minbuza_nl,bmz,upstream,5
 minbuza_nl,bopinc,upstream,1
 minbuza_nl,bothends,upstream,3
 minbuza_nl,brac_admin2,upstream,2
@@ -1400,7 +1400,7 @@ minbuza_nl,finddiagnostics,upstream,1
 minbuza_nl,fmo,upstream,4
 minbuza_nl,fms,upstream,1
 minbuza_nl,foenl,upstream,2
-minbuza_nl,free_press_unlimited,upstream,4
+minbuza_nl,free_press_unlimited,upstream,3
 minbuza_nl,fwf,upstream,2
 minbuza_nl,gain,upstream,4
 minbuza_nl,gichd,upstream,12
@@ -1479,7 +1479,7 @@ minbuza_nl,nfp,upstream,2
 minbuza_nl,nimd-hq,upstream,6
 minbuza_nl,nl-kvk-41207989,upstream,3
 minbuza_nl,nl-kvk-54436222-27541,upstream,20
-minbuza_nl,nl_wg,upstream,2
+minbuza_nl,nl_wg,upstream,1
 minbuza_nl,nlr,upstream,2
 minbuza_nl,nlr_indonesia,upstream,1
 minbuza_nl,nlrc,upstream,223
@@ -1561,7 +1561,7 @@ minbuza_nl,unocha-sdc,upstream,2
 minbuza_nl,utz,upstream,1
 minbuza_nl,uvw,upstream,1
 minbuza_nl,vei_nl,upstream,2
-minbuza_nl,vngi,upstream,9
+minbuza_nl,vngi,upstream,8
 minbuza_nl,w-d,upstream,2
 minbuza_nl,wageningen_ur,upstream,10
 minbuza_nl,warchildholland,upstream,8
@@ -1865,8 +1865,6 @@ usaid,odi,upstream,1
 usaid,saferworld,upstream,1
 viva,bucksfarm,upstream,1
 viva,crane,upstream,1
-vngi,carenederland,upstream,1
-vngi,free_press_unlimited,upstream,1
 vso,aasaman,upstream,1
 vso,alfalit,upstream,1
 vso,anda,upstream,1
