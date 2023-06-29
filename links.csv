@@ -1423,6 +1423,7 @@ minbuza_nl,idlo,upstream,21
 minbuza_nl,idrccrdi,upstream,17
 minbuza_nl,ieu,upstream,1
 minbuza_nl,ifdc-us,upstream,6
+minbuza_nl,ihedelft,upstream,1
 minbuza_nl,iisd,upstream,1
 minbuza_nl,ilo,upstream,57
 minbuza_nl,imc_uk,upstream,1
@@ -1488,7 +1489,7 @@ minbuza_nl,nwo,upstream,4
 minbuza_nl,nwp,upstream,1
 minbuza_nl,odi,upstream,1
 minbuza_nl,oneacrefund,upstream,1
-minbuza_nl,onl,upstream,1465
+minbuza_nl,onl,upstream,1466
 minbuza_nl,oxfamintermon,upstream,1
 minbuza_nl,oyw,upstream,1
 minbuza_nl,p-t-f-,upstream,1
@@ -1820,7 +1821,7 @@ stichting-subsidiegelden-dra,redeenkind,upstream,1
 stichting-subsidiegelden-dra,scnl,upstream,8
 stichting-subsidiegelden-dra,sosnl,upstream,3
 stichting-subsidiegelden-dra,st_vluchteling,upstream,4
-stichting-subsidiegelden-dra,tdh_nl,upstream,1
+stichting-subsidiegelden-dra,tdh_nl,upstream,2
 stichting-subsidiegelden-dra,warchildholland,upstream,2
 stichting-subsidiegelden-dra,wvnld,upstream,1
 stichting-subsidiegelden-dra,zoa,upstream,1
@@ -1896,6 +1897,7 @@ wnf,wwfbr,upstream,1
 wnf,wwfna,upstream,1
 wnf,wwfzambia,upstream,1
 womankindworld,ewdna2025,upstream,1
+womankindworld,fida,upstream,1
 womankindworld,fowode,upstream,1
 womankindworld,nuwodu,upstream,1
 womankindworld,swda,upstream,1
