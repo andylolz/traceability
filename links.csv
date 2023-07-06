@@ -254,6 +254,7 @@ manniondaniels,lhcf,downstream,1
 manniondaniels,livelyminds,downstream,1
 manniondaniels,livingearth12,downstream,1
 manniondaniels,m2m_sa,downstream,1
+manniondaniels,mag,downstream,1
 manniondaniels,marysmeals,downstream,1
 manniondaniels,mic-uk,downstream,1
 manniondaniels,mie-1134415,downstream,1
@@ -365,6 +366,7 @@ nimd-hq,awepa,downstream,1
 niras,lts,downstream,1
 nl_wg,gfcf,downstream,1
 nl_wg,kcdf,downstream,1
+nrc,acf,downstream,1
 open_university,uom,downstream,1
 openmindedly,oxfamgb,downstream,2
 options,sddirect,downstream,1
@@ -876,6 +878,7 @@ fcdo,hiuk,upstream,6
 fcdo,htspe,upstream,2
 fcdo,icf,upstream,4
 fcdo,idi,upstream,1
+fcdo,ids,upstream,7
 fcdo,ifpri,upstream,1
 fcdo,iied,upstream,4
 fcdo,ilo,upstream,36
@@ -906,6 +909,7 @@ fcdo,lshtm,upstream,3
 fcdo,lstm,upstream,2
 fcdo,lts,upstream,2
 fcdo,m2m_sa,upstream,1
+fcdo,mag,upstream,2
 fcdo,malariaconsortium,upstream,4
 fcdo,manniondaniels,upstream,3
 fcdo,marysmeals,upstream,2
@@ -916,7 +920,7 @@ fcdo,mrc-sierra-leone,upstream,1
 fcdo,msi,upstream,12
 fcdo,namati_inc,upstream,1
 fcdo,nathan,upstream,2
-fcdo,nrc,upstream,2
+fcdo,nrc,upstream,3
 fcdo,nrgi,upstream,1
 fcdo,nutritionintl,upstream,1
 fcdo,odi,upstream,33
@@ -1084,6 +1088,8 @@ ktk,pwwsd_2022,upstream,1
 lcd_admin,ilo,upstream,5
 lcd_admin,open_university,upstream,1
 loftf,di,upstream,2
+mag,crs,upstream,1
+mag,halo,upstream,1
 mamac,creausa-org,upstream,1
 mamac,jass,upstream,1
 mamac,ruf,upstream,1
@@ -1121,7 +1127,8 @@ manniondaniels,irise_int,upstream,1
 manniondaniels,jocc_uk,upstream,1
 manniondaniels,kmss,upstream,1
 manniondaniels,learningforlife,upstream,1
-manniondaniels,manniondaniels,upstream,1
+manniondaniels,mag,upstream,1
+manniondaniels,manniondaniels,upstream,2
 manniondaniels,mifumi_uk,upstream,1
 manniondaniels,mmh,upstream,1
 manniondaniels,motivation,upstream,3
@@ -1291,6 +1298,7 @@ minbuza_nl,law,upstream,1
 minbuza_nl,ldsps,upstream,1
 minbuza_nl,lpa,upstream,1
 minbuza_nl,lpi,upstream,1
+minbuza_nl,mag,upstream,3
 minbuza_nl,mamac,upstream,3
 minbuza_nl,manniondaniels,upstream,2
 minbuza_nl,max-foundation,upstream,1
@@ -1324,7 +1332,7 @@ minbuza_nl,nwo,upstream,4
 minbuza_nl,nwp,upstream,1
 minbuza_nl,odi,upstream,1
 minbuza_nl,oneacrefund,upstream,1
-minbuza_nl,onl,upstream,1462
+minbuza_nl,onl,upstream,1470
 minbuza_nl,oxfamintermon,upstream,1
 minbuza_nl,oyw,upstream,1
 minbuza_nl,p-t-f-,upstream,1
