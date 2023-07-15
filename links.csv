@@ -1184,7 +1184,7 @@ guttmacher,knust,upstream,1
 guttmacher,orientame,upstream,1
 hai,twz1,upstream,1
 hewlett-foundation,manniondaniels,upstream,1
-hiuk,hi_fed,upstream,7
+hiuk,hi_fed,upstream,8
 hpa,lcdi_admin,upstream,1
 hpa,tamtf,upstream,1
 icco-cooperation,healthnet,upstream,3
@@ -1800,6 +1800,7 @@ simavi,waste,upstream,1
 simavi,wi,upstream,2
 snv,cidr,upstream,1
 snv,hsi,upstream,1
+snv,idh,upstream,1
 snv,protos,upstream,1
 snv,vngi,upstream,1
 solidaridad,bwi,upstream,2
