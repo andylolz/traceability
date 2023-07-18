@@ -381,7 +381,6 @@ minbuza_nl,fowode,downstream,1
 minbuza_nl,icwrsa,downstream,1
 minbuza_nl,jass,downstream,1
 minbuza_nl,minbuza_nl,downstream,1
-minbuza_nl,nuwodu,downstream,1
 minbuza_nl,onl,downstream,2
 minbuza_nl,plannlno,downstream,1
 minbuza_nl,promsex,downstream,1
@@ -948,7 +947,7 @@ fcdo,cyan,upstream,2
 fcdo,dai-e,upstream,29
 fcdo,dc,upstream,1
 fcdo,ddp,upstream,4
-fcdo,dec-uk,upstream,4
+fcdo,dec-uk,upstream,5
 fcdo,dkt_drc,upstream,1
 fcdo,drc,upstream,5
 fcdo,ecuk,upstream,3
@@ -981,14 +980,14 @@ fcdo,gsma_foundation,upstream,504
 fcdo,handinhand,upstream,1
 fcdo,hha,upstream,1
 fcdo,hi,upstream,4
-fcdo,hiuk,upstream,7
+fcdo,hiuk,upstream,8
 fcdo,htspe,upstream,2
 fcdo,icf,upstream,4
 fcdo,idi,upstream,1
 fcdo,ids,upstream,7
 fcdo,ifpri,upstream,1
 fcdo,iied,upstream,4
-fcdo,ilo,upstream,36
+fcdo,ilo,upstream,44
 fcdo,imcw_admin,upstream,7
 fcdo,interburns,upstream,1
 fcdo,iom,upstream,16
@@ -1096,7 +1095,7 @@ fcdo,ul,upstream,1
 fcdo,umn,upstream,1
 fcdo,undp,upstream,5
 fcdo,unf,upstream,2
-fcdo,unhcr,upstream,89
+fcdo,unhcr,upstream,99
 fcdo,unocha,upstream,5
 fcdo,uom,upstream,2
 fcdo,uq,upstream,6
@@ -1552,6 +1551,7 @@ minbuza_nl,st_vluchteling,upstream,2
 minbuza_nl,stc-international,upstream,1
 minbuza_nl,stichting-subsidiegelden-dra,upstream,4
 minbuza_nl,stichting_hivos,upstream,14
+minbuza_nl,swda,upstream,1
 minbuza_nl,syf,upstream,1
 minbuza_nl,t2p,upstream,1
 minbuza_nl,tan,upstream,1
