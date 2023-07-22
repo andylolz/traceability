@@ -793,7 +793,6 @@ cr,riia,upstream,1
 crane,bucksfarm,upstream,1
 crane,mukisa_foundation,upstream,1
 creausa-org,ad,upstream,5
-creausa-org,apc,upstream,1
 creausa-org,iwrawasiapacific,upstream,9
 creausa-org,uhai-eashri,upstream,1
 creausa-org,wo-men,upstream,1
@@ -948,7 +947,6 @@ fcdo,dai-e,upstream,29
 fcdo,dc,upstream,1
 fcdo,ddp,upstream,4
 fcdo,dec-uk,upstream,5
-fcdo,dkt_drc,upstream,1
 fcdo,drc,upstream,5
 fcdo,ecuk,upstream,3
 fcdo,eddevtrust,upstream,3
@@ -991,9 +989,8 @@ fcdo,ilo,upstream,44
 fcdo,imcw_admin,upstream,7
 fcdo,interburns,upstream,1
 fcdo,iom,upstream,16
-fcdo,ipas,upstream,1
 fcdo,ipeglobal,upstream,7
-fcdo,ippf,upstream,5
+fcdo,ippf,upstream,4
 fcdo,irc_inc,upstream,4
 fcdo,irc_uk,upstream,14
 fcdo,irw,upstream,4
@@ -1008,7 +1005,7 @@ fcdo,kpmgllp,upstream,1
 fcdo,lbg,upstream,1
 fcdo,lboro,upstream,1
 fcdo,lbs,upstream,1
-fcdo,lcd_admin,upstream,5
+fcdo,lcd_admin,upstream,4
 fcdo,lcds,upstream,1
 fcdo,leedsuni,upstream,1
 fcdo,lepra,upstream,2
@@ -1037,7 +1034,7 @@ fcdo,odi_sales_ltd,upstream,6
 fcdo,onetoonecf,upstream,1
 fcdo,onl,upstream,2
 fcdo,opml,upstream,2
-fcdo,options,upstream,14
+fcdo,options,upstream,13
 fcdo,orbis_africa,upstream,1
 fcdo,orbis_uk,upstream,1
 fcdo,oxfamgb,upstream,20
@@ -1389,7 +1386,7 @@ minbuza_nl,crtda,upstream,1
 minbuza_nl,d4d,upstream,1
 minbuza_nl,dai,upstream,5
 minbuza_nl,dai-e,upstream,1
-minbuza_nl,dcaf,upstream,3
+minbuza_nl,dcaf,upstream,4
 minbuza_nl,decp,upstream,3
 minbuza_nl,deltares,upstream,4
 minbuza_nl,drc,upstream,8
