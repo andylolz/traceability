@@ -720,8 +720,8 @@ beis,icf,upstream,1
 beis,iied,upstream,1
 beis,pwc,upstream,2
 beis,rmi,upstream,2
-bmgf,cabi,upstream,4
-bmgf,unhcr,upstream,28
+bmgf,cabi,upstream,3
+bmgf,unhcr,upstream,10
 bmz,ilo,upstream,27
 bmz,unhcr,upstream,4
 bothends,aanl,upstream,2
@@ -745,6 +745,7 @@ carbontrustadvisory,shortlistogti,upstream,1
 carbontrustadvisory,uct,upstream,1
 carenederland,cordaid,upstream,2
 carenederland,dai,upstream,1
+carenederland,gain,upstream,1
 carenederland,icco-cooperation,upstream,1
 carenederland,onl,upstream,16
 carenederland,plannlno,upstream,1
@@ -1168,7 +1169,7 @@ giro555,scnl,upstream,5
 giro555,st_vluchteling,upstream,10
 giro555,tdh_nl,upstream,1
 giro555,tear,upstream,3
-giro555,unicefnl,upstream,4
+giro555,unicefnl,upstream,3
 giro555,wvi,upstream,1
 giro555,wvnld,upstream,3
 gppac,wfm-igp,upstream,1
