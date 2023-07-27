@@ -163,10 +163,7 @@ irc_inc,nrc,downstream,2
 irc_inc,plan_uk,downstream,1
 irc_inc,restless,downstream,2
 irc_inc,zoa,downstream,1
-irc_uk,bbcmediaaction,downstream,1
-irc_uk,concern_worldwide,downstream,1
-irc_uk,concernuk,downstream,1
-irc_uk,cuamm,downstream,1
+irc_uk,concern_worldwide,downstream,2
 irc_uk,fcdo,downstream,1
 irc_uk,goal,downstream,1
 irc_uk,irc_inc,downstream,80
@@ -1220,11 +1217,11 @@ irc_inc,mcn,upstream,1
 irc_inc,msi,upstream,1
 irc_inc,restless,upstream,2
 irc_inc,zoa,upstream,1
+irc_uk,concern_worldwide,upstream,2
 irc_uk,goal,upstream,1
 irc_uk,hiuk,upstream,1
 irc_uk,irc_inc,upstream,84
 irc_uk,irc_uk,upstream,1
-irc_uk,msi,upstream,1
 irc_uk,restless,upstream,1
 irishaid,idi,upstream,1
 irishaid,iied,upstream,1
