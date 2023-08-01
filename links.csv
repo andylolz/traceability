@@ -362,7 +362,6 @@ minbuza_nl,agriterra,downstream,1
 minbuza_nl,carenederland,downstream,1
 minbuza_nl,cfyas,downstream,1
 minbuza_nl,cidr,downstream,1
-minbuza_nl,fowode,downstream,1
 minbuza_nl,icwrsa,downstream,1
 minbuza_nl,jass,downstream,1
 minbuza_nl,minbuza_nl,downstream,1
@@ -375,6 +374,7 @@ minbuza_nl,scnl,downstream,2
 minbuza_nl,st_vluchteling,downstream,2
 minbuza_nl,tdh_nl,downstream,1
 minbuza_nl,vngi,downstream,2
+minbuza_nl,wctc,downstream,1
 minbuza_nl,wipc,downstream,1
 minbuza_nl,wvnld,downstream,1
 minbuza_nl,zoa,downstream,1
@@ -471,6 +471,7 @@ st_vluchteling,cordaid,downstream,2
 st_vluchteling,intersos_main,downstream,1
 st_vluchteling,irc_inc,downstream,1
 st_vluchteling,mcn,downstream,1
+st_vluchteling,stichting-subsidiegelden-dra,downstream,1
 st_vluchteling,wvnld,downstream,1
 stichting-subsidiegelden-dra,carenederland,downstream,3
 stichting-subsidiegelden-dra,cordaid,downstream,2
@@ -737,7 +738,7 @@ carenederland,plannlno,upstream,1
 carenederland,rnw_org,upstream,1
 carenederland,scnl,upstream,10
 carenederland,sosnl,upstream,1
-carenederland,st_vluchteling,upstream,8
+carenederland,st_vluchteling,upstream,9
 carenederland,tear,upstream,5
 carenederland,warchildholland,upstream,4
 carenederland,wvnld,upstream,3
@@ -1524,7 +1525,6 @@ minbuza_nl,st_vluchteling,upstream,2
 minbuza_nl,stc-international,upstream,1
 minbuza_nl,stichting-subsidiegelden-dra,upstream,4
 minbuza_nl,stichting_hivos,upstream,14
-minbuza_nl,swda,upstream,1
 minbuza_nl,syf,upstream,1
 minbuza_nl,t2p,upstream,1
 minbuza_nl,tan,upstream,1
@@ -1554,6 +1554,7 @@ minbuza_nl,warchildholland,upstream,8
 minbuza_nl,waste,upstream,1
 minbuza_nl,wayamo,upstream,1
 minbuza_nl,wba,upstream,2
+minbuza_nl,wctc,upstream,1
 minbuza_nl,wecf,upstream,1
 minbuza_nl,wemos,upstream,1
 minbuza_nl,wf-asia,upstream,1
