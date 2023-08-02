@@ -100,8 +100,9 @@ fcdo,fhi360,downstream,1
 fcdo,healthpartners-international,downstream,1
 fcdo,ipas,downstream,1
 fcdo,ippf,downstream,1
-fcdo,irc_inc,downstream,5
+fcdo,irc_inc,downstream,6
 fcdo,lcd_admin,downstream,1
+fcdo,msi,downstream,1
 fcdo,options,downstream,3
 fcdo,pa,downstream,1
 fcdo,plan_uk,downstream,1
@@ -138,6 +139,7 @@ hpa,manniondaniels,downstream,1
 inasp,afelt,downstream,1
 inasp,udom,downstream,1
 inasp,umu,downstream,1
+ippf,msi,downstream,1
 irc,minbuza_nl,downstream,7
 irc_inc,bbcmediaaction,downstream,1
 irc_inc,concern_worldwide,downstream,3
@@ -979,7 +981,7 @@ fcdo,interburns,upstream,1
 fcdo,iom,upstream,16
 fcdo,ipeglobal,upstream,7
 fcdo,ippf,upstream,4
-fcdo,irc_inc,upstream,4
+fcdo,irc_inc,upstream,3
 fcdo,irc_uk,upstream,14
 fcdo,irw,upstream,4
 fcdo,itad,upstream,1
