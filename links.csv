@@ -1122,8 +1122,9 @@ fwf,mondiaalfnv,upstream,1
 gac-amc,idi,upstream,1
 gac-amc,idlo,upstream,1
 gac-amc,iisd,upstream,1
-gac-amc,ilo,upstream,4
-gac-amc,unhcr,upstream,15
+gac-amc,ilo,upstream,7
+gac-amc,iom,upstream,4
+gac-amc,unhcr,upstream,39
 gdi,villageenterprise,upstream,1
 gecfundmanagerpwc,childhopeuk,upstream,1
 gecfundmanagerpwc,edt_kenya,upstream,2
@@ -1229,6 +1230,7 @@ manniondaniels,aar,upstream,1
 manniondaniels,aauk,upstream,1
 manniondaniels,acf,upstream,1
 manniondaniels,aet,upstream,1
+manniondaniels,afghanaid,upstream,1
 manniondaniels,afrikids,upstream,2
 manniondaniels,amrefha,upstream,1
 manniondaniels,apt,upstream,1
