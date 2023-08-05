@@ -160,7 +160,7 @@ irc_uk,goal,downstream,1
 irc_uk,irc_inc,downstream,81
 irc_uk,irc_uk,downstream,2
 irc_uk,plan_uk,downstream,1
-irc_uk,restless,downstream,2
+irc_uk,restless,downstream,1
 itad,fcdo,downstream,1
 jass,cal_2000-pu,downstream,1
 jass,genderatwork,downstream,1
@@ -1093,7 +1093,7 @@ fcdo,vso,upstream,31
 fcdo,wacc-uk,upstream,1
 fcdo,wateraid,upstream,5
 fcdo,waterworks,upstream,1
-fcdo,wccuk,upstream,3
+fcdo,wccuk,upstream,4
 fcdo,wcf,upstream,2
 fcdo,wfwiuk,upstream,2
 fcdo,worldveg,upstream,1
@@ -1197,8 +1197,7 @@ irc_inc,mcn,upstream,1
 irc_inc,msi,upstream,1
 irc_inc,restless,upstream,2
 irc_inc,zoa,upstream,1
-irc_uk,concern_worldwide,upstream,2
-irc_uk,goal,upstream,1
+irc_uk,concern_worldwide,upstream,1
 irc_uk,hiuk,upstream,1
 irc_uk,irc_inc,upstream,85
 irc_uk,irc_uk,upstream,1
