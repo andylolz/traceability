@@ -478,7 +478,7 @@ st_vluchteling,stichting-subsidiegelden-dra,downstream,1
 st_vluchteling,wvnld,downstream,1
 stichting-subsidiegelden-dra,carenederland,downstream,3
 stichting-subsidiegelden-dra,cordaid,downstream,2
-stichting-subsidiegelden-dra,dai,downstream,3
+stichting-subsidiegelden-dra,dai,downstream,4
 stichting-subsidiegelden-dra,onl,downstream,2
 stichting-subsidiegelden-dra,plannlno,downstream,1
 stichting-subsidiegelden-dra,redeenkind,downstream,1
@@ -1401,7 +1401,7 @@ minbuza_nl,hi_fed,upstream,3
 minbuza_nl,hif,upstream,2
 minbuza_nl,hiil_mfa,upstream,6
 minbuza_nl,hsi,upstream,2
-minbuza_nl,ibfd,upstream,35
+minbuza_nl,ibfd,upstream,36
 minbuza_nl,icco-cooperation,upstream,20
 minbuza_nl,icnl_org,upstream,5
 minbuza_nl,ictj,upstream,23
@@ -1522,7 +1522,6 @@ minbuza_nl,solidaridad-waf,upstream,2
 minbuza_nl,solidarsuisse,upstream,1
 minbuza_nl,somo,upstream,1
 minbuza_nl,sosnl,upstream,1
-minbuza_nl,sosss_admin,upstream,1
 minbuza_nl,spark,upstream,6
 minbuza_nl,st_vluchteling,upstream,2
 minbuza_nl,stc-international,upstream,1
@@ -1813,11 +1812,11 @@ stichting-subsidiegelden-dra,redeenkind,upstream,1
 stichting-subsidiegelden-dra,scnl,upstream,7
 stichting-subsidiegelden-dra,sosnl,upstream,3
 stichting-subsidiegelden-dra,st_vluchteling,upstream,4
-stichting-subsidiegelden-dra,tdh_nl,upstream,1
+stichting-subsidiegelden-dra,tdh_nl,upstream,2
 stichting-subsidiegelden-dra,tear,upstream,1
 stichting-subsidiegelden-dra,warchildholland,upstream,3
 stichting-subsidiegelden-dra,wvnld,upstream,1
-stichting-subsidiegelden-dra,zoa,upstream,1
+stichting-subsidiegelden-dra,zoa,upstream,2
 stichting_hivos,fcam,upstream,1
 stichting_hivos,femnet,upstream,1
 stichting_hivos,marsa_welead,upstream,1
