@@ -143,6 +143,7 @@ inasp,umu,downstream,1
 ippf,msi,downstream,1
 irc,minbuza_nl,downstream,7
 irc_inc,bbcmediaaction,downstream,1
+irc_inc,ciuk,downstream,1
 irc_inc,concern_worldwide,downstream,3
 irc_inc,concernuk,downstream,2
 irc_inc,cuamm,downstream,1
@@ -733,9 +734,6 @@ caeb_mali,cordaid,upstream,1
 cal,acf,upstream,1
 cal,hpa,upstream,1
 cal,irc_inc,upstream,3
-carbontrustadvisory,e4i,upstream,1
-carbontrustadvisory,shortlistogti,upstream,1
-carbontrustadvisory,uct,upstream,1
 carenederland,cordaid,upstream,2
 carenederland,dai,upstream,1
 carenederland,gain,upstream,1
@@ -917,7 +915,6 @@ fcdo,bvs-nepal,upstream,1
 fcdo,cabi,upstream,5
 fcdo,cafod,upstream,10
 fcdo,cal,upstream,6
-fcdo,carbontrustadvisory,upstream,1
 fcdo,cardnoem,upstream,5
 fcdo,cepr,upstream,2
 fcdo,cgiar,upstream,5
@@ -1203,7 +1200,7 @@ irc_inc,restless,upstream,2
 irc_inc,zoa,upstream,1
 irc_uk,bbcmediaaction,upstream,1
 irc_uk,hiuk,upstream,1
-irc_uk,irc_inc,upstream,84
+irc_uk,irc_inc,upstream,86
 irc_uk,irc_uk,upstream,1
 irc_uk,msi,upstream,1
 irishaid,idi,upstream,1
@@ -1477,7 +1474,7 @@ minbuza_nl,nlr_indonesia,upstream,1
 minbuza_nl,nlrc,upstream,223
 minbuza_nl,nrc,upstream,2
 minbuza_nl,nso,upstream,1
-minbuza_nl,nuffic20171017,upstream,3
+minbuza_nl,nuffic20171017,upstream,2
 minbuza_nl,nwo,upstream,4
 minbuza_nl,nwp,upstream,1
 minbuza_nl,odi,upstream,1
