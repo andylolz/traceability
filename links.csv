@@ -483,7 +483,7 @@ st_vluchteling,stichting-subsidiegelden-dra,downstream,1
 st_vluchteling,wvnld,downstream,1
 stichting-subsidiegelden-dra,carenederland,downstream,3
 stichting-subsidiegelden-dra,cordaid,downstream,2
-stichting-subsidiegelden-dra,dai,downstream,4
+stichting-subsidiegelden-dra,dai,downstream,5
 stichting-subsidiegelden-dra,onl,downstream,2
 stichting-subsidiegelden-dra,plannlno,downstream,1
 stichting-subsidiegelden-dra,redeenkind,downstream,1
@@ -915,6 +915,7 @@ fcdo,bvs-nepal,upstream,1
 fcdo,cabi,upstream,5
 fcdo,cafod,upstream,10
 fcdo,cal,upstream,6
+fcdo,carbontrustadvisory,upstream,1
 fcdo,cardnoem,upstream,5
 fcdo,cepr,upstream,2
 fcdo,cgiar,upstream,5
@@ -1193,6 +1194,7 @@ irc_inc,cuamm,upstream,1
 irc_inc,drc,upstream,2
 irc_inc,goal,upstream,1
 irc_inc,hiuk,upstream,1
+irc_inc,irc_inc,upstream,1
 irc_inc,irc_uk,upstream,3
 irc_inc,mcn,upstream,1
 irc_inc,msi,upstream,1
