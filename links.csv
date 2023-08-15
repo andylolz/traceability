@@ -380,9 +380,9 @@ minbuza_nl,protos,downstream,1
 minbuza_nl,rnw_org,downstream,1
 minbuza_nl,scnl,downstream,2
 minbuza_nl,st_vluchteling,downstream,2
+minbuza_nl,swda,downstream,1
 minbuza_nl,tdh_nl,downstream,1
 minbuza_nl,vngi,downstream,2
-minbuza_nl,wctc,downstream,1
 minbuza_nl,wipc,downstream,1
 minbuza_nl,wvnld,downstream,1
 minbuza_nl,zoa,downstream,1
@@ -873,6 +873,7 @@ emms,nmhiati,upstream,1
 emms,pacam,upstream,1
 emms,pcst,upstream,2
 energy_saving_trust,bboxx,upstream,1
+energy_saving_trust,neopenda,upstream,1
 energy_saving_trust,svrg,upstream,1
 energy_saving_trust,walaltd,upstream,1
 fao,ilo,upstream,1
@@ -1466,7 +1467,7 @@ minbuza_nl,mwatana,upstream,1
 minbuza_nl,ncea,upstream,5
 minbuza_nl,nchrdk,upstream,1
 minbuza_nl,ndsicde,upstream,1
-minbuza_nl,nfp,upstream,2
+minbuza_nl,nfp,upstream,4
 minbuza_nl,nimd-hq,upstream,6
 minbuza_nl,nl-kvk-41207989,upstream,3
 minbuza_nl,nl-kvk-54436222-27541,upstream,40
@@ -1560,7 +1561,6 @@ minbuza_nl,warchildholland,upstream,8
 minbuza_nl,waste,upstream,1
 minbuza_nl,wayamo,upstream,1
 minbuza_nl,wba,upstream,2
-minbuza_nl,wctc,upstream,1
 minbuza_nl,wecf,upstream,1
 minbuza_nl,wemos,upstream,1
 minbuza_nl,wf-asia,upstream,1
@@ -1572,6 +1572,7 @@ minbuza_nl,wilpf_22,upstream,1
 minbuza_nl,win,upstream,2
 minbuza_nl,wlrc_aau,upstream,1
 minbuza_nl,wo-men,upstream,2
+minbuza_nl,womankindworld,upstream,1
 minbuza_nl,world_ywca,upstream,1
 minbuza_nl,worldrelief,upstream,1
 minbuza_nl,worldveg,upstream,1
@@ -1624,7 +1625,7 @@ nrc,concern_worldwide,upstream,1
 nrc,concernuk,upstream,2
 nrc,irc_uk,upstream,1
 nso,icco-cooperation,upstream,3
-nwp,nfp,upstream,1
+nwp,nfp,upstream,2
 odakorea,unhcr,upstream,2
 odi_sales_ltd,irc_uk,upstream,1
 onl,carenederland,upstream,2
@@ -1836,7 +1837,7 @@ tear,scnl,upstream,1
 tfac,tfacmalawi,upstream,1
 tffus,aain,upstream,1
 theglobalfund,iom,upstream,1
-theglobalfund,undp,upstream,35
+theglobalfund,undp,upstream,36
 traidcraft,fci,upstream,1
 undp,idlo,upstream,1
 undp,warchildholland,upstream,1
