@@ -212,6 +212,7 @@ manniondaniels,bracuk,downstream,1
 manniondaniels,buildafrica,downstream,1
 manniondaniels,bvf,downstream,1
 manniondaniels,bvs-nepal,downstream,1
+manniondaniels,cafod,downstream,1
 manniondaniels,camfed,downstream,1
 manniondaniels,cbm,downstream,2
 manniondaniels,cecily,downstream,1
@@ -914,7 +915,7 @@ fcdo,bond,upstream,3
 fcdo,britishcouncil,upstream,5
 fcdo,bvs-nepal,upstream,1
 fcdo,cabi,upstream,5
-fcdo,cafod,upstream,10
+fcdo,cafod,upstream,2213
 fcdo,cal,upstream,6
 fcdo,carbontrustadvisory,upstream,1
 fcdo,cardnoem,upstream,5
@@ -1203,7 +1204,7 @@ irc_inc,restless,upstream,2
 irc_inc,zoa,upstream,1
 irc_uk,bbcmediaaction,upstream,1
 irc_uk,hiuk,upstream,1
-irc_uk,irc_inc,upstream,86
+irc_uk,irc_inc,upstream,87
 irc_uk,irc_uk,upstream,1
 irc_uk,msi,upstream,1
 irishaid,idi,upstream,1
@@ -1241,6 +1242,7 @@ manniondaniels,asil,upstream,2
 manniondaniels,b_a_t,upstream,1
 manniondaniels,bracuk,upstream,3
 manniondaniels,buildafrica,upstream,1
+manniondaniels,cafod,upstream,18
 manniondaniels,cbm,upstream,2
 manniondaniels,comp_uk,upstream,1
 manniondaniels,concernuk,upstream,3
@@ -1811,7 +1813,7 @@ state,iom,upstream,15
 stichting-subsidiegelden-dra,carenederland,upstream,3
 stichting-subsidiegelden-dra,cordaid,upstream,2
 stichting-subsidiegelden-dra,dai,upstream,2
-stichting-subsidiegelden-dra,onl,upstream,41
+stichting-subsidiegelden-dra,onl,upstream,42
 stichting-subsidiegelden-dra,plannlno,upstream,1
 stichting-subsidiegelden-dra,redeenkind,upstream,1
 stichting-subsidiegelden-dra,scnl,upstream,7
