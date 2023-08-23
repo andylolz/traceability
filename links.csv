@@ -83,9 +83,6 @@ ddp,dhrc_nepal,downstream,2
 drc,hiuk,downstream,1
 drc,irc_inc,downstream,1
 drc,irc_uk,downstream,2
-edt_kenya,amurt_kenya,downstream,2
-edt_kenya,kesho_kenya,downstream,2
-edt_kenya,pgi_kenya,downstream,1
 emms,dgmh,downstream,1
 emms,mmh,downstream,1
 emms,pcst,downstream,1
@@ -863,9 +860,6 @@ ec-near,onl,upstream,3
 ec-near,unhcr,upstream,2
 ec-near,warchildholland,upstream,2
 ecuk,sddirect,upstream,1
-edt_kenya,amurt_kenya,upstream,1
-edt_kenya,concernuk,upstream,1
-edt_kenya,kesho_kenya,upstream,1
 elrha,irc_uk,upstream,1
 emms,dgmh,upstream,1
 emms,infnepal,upstream,1
@@ -946,7 +940,7 @@ fcdo,ddp,upstream,4
 fcdo,dec-uk,upstream,5
 fcdo,drc,upstream,6
 fcdo,ecuk,upstream,3
-fcdo,eddevtrust,upstream,3
+fcdo,eddevtrust,upstream,1
 fcdo,educomm,upstream,1
 fcdo,eel,upstream,1
 fcdo,eiuk,upstream,1
@@ -1132,9 +1126,9 @@ gac-amc,iom,upstream,4
 gac-amc,unhcr,upstream,39
 gdi,villageenterprise,upstream,1
 gecfundmanagerpwc,childhopeuk,upstream,1
-gecfundmanagerpwc,edt_kenya,upstream,2
 gecfundmanagerpwc,gecfundmanagerpwc,upstream,1
 gecfundmanagerpwc,irc_uk,upstream,1
+gecfundmanagerpwc,kesho_kenya,upstream,1
 gecfundmanagerpwc,lcdi_admin,upstream,1
 gecfundmanagerpwc,mce,upstream,2
 gecfundmanagerpwc,mgcubed,upstream,1
@@ -1454,7 +1448,7 @@ minbuza_nl,lpi,upstream,1
 minbuza_nl,mag,upstream,3
 minbuza_nl,mamac,upstream,3
 minbuza_nl,manniondaniels,upstream,2
-minbuza_nl,max-foundation,upstream,1
+minbuza_nl,max-foundation,upstream,2
 minbuza_nl,mce,upstream,4
 minbuza_nl,mcn,upstream,1
 minbuza_nl,mdf,upstream,4
