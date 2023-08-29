@@ -849,6 +849,7 @@ ec-echo,tdh_nl,upstream,4
 ec-echo,unhcr,upstream,323
 ec-echo,warchildholland,upstream,4
 ec-fpi,iom,upstream,3
+ec-fpi,warchildholland,upstream,1
 ec-intpa,cabi,upstream,2
 ec-intpa,idlo,upstream,3
 ec-intpa,ilo,upstream,9
@@ -1403,7 +1404,7 @@ minbuza_nl,hif,upstream,2
 minbuza_nl,hiil_mfa,upstream,6
 minbuza_nl,hsi,upstream,2
 minbuza_nl,ibfd,upstream,40
-minbuza_nl,icco-cooperation,upstream,20
+minbuza_nl,icco-cooperation,upstream,18
 minbuza_nl,icnl_org,upstream,5
 minbuza_nl,ictj,upstream,23
 minbuza_nl,idh,upstream,13
@@ -1463,7 +1464,7 @@ minbuza_nl,mwatana,upstream,1
 minbuza_nl,ncea,upstream,5
 minbuza_nl,nchrdk,upstream,1
 minbuza_nl,ndsicde,upstream,1
-minbuza_nl,nfp,upstream,4
+minbuza_nl,nfp,upstream,2
 minbuza_nl,nimd-hq,upstream,6
 minbuza_nl,nl-kvk-41207989,upstream,3
 minbuza_nl,nl-kvk-54436222-27541,upstream,40
@@ -1621,7 +1622,7 @@ nrc,concern_worldwide,upstream,1
 nrc,concernuk,upstream,2
 nrc,irc_uk,upstream,1
 nso,icco-cooperation,upstream,3
-nwp,nfp,upstream,2
+nwp,nfp,upstream,1
 odakorea,unhcr,upstream,2
 odi_sales_ltd,irc_uk,upstream,1
 onl,carenederland,upstream,2
