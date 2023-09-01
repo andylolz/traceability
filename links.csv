@@ -842,7 +842,7 @@ drc,irc_uk,upstream,1
 drc,irw,upstream,1
 drc,mapaction,upstream,1
 drc,nrc,upstream,1
-ec-echo,iom,upstream,81
+ec-echo,iom,upstream,84
 ec-echo,nlrc,upstream,2
 ec-echo,onl,upstream,40
 ec-echo,tdh_nl,upstream,4
@@ -1421,7 +1421,7 @@ minbuza_nl,inbar,upstream,1
 minbuza_nl,interpeace,upstream,11
 minbuza_nl,intersos_main,upstream,2
 minbuza_nl,intrahealth,upstream,1
-minbuza_nl,iom,upstream,1
+minbuza_nl,iom,upstream,8
 minbuza_nl,ipas,upstream,1
 minbuza_nl,ippf,upstream,6
 minbuza_nl,irc,upstream,7
@@ -1844,6 +1844,7 @@ unocha-cbpf,cordaid,upstream,2
 unocha-cbpf,iom,upstream,4
 unocha-cbpf,unhcr,upstream,57
 unocha-cbpf,warchildholland,upstream,1
+unops,iom,upstream,1
 unpf,ilo,upstream,158
 unpf,iom,upstream,3
 unpf,undp,upstream,60
@@ -1854,7 +1855,7 @@ uoe,ipcrg,upstream,1
 uom,iied,upstream,3
 usaid,idlo,upstream,1
 usaid,ilo,upstream,8
-usaid,iom,upstream,171
+usaid,iom,upstream,172
 usaid,itc,upstream,2
 usaid,odi,upstream,1
 usaid,saferworld,upstream,1
