@@ -591,6 +591,7 @@ zoa,tha,downstream,1
 zoa,vngi,downstream,1
 zoa,wageningen_ur,downstream,1
 zoa,warchildholland,downstream,6
+zoa,worldrelief,downstream,1
 zoa,wvnld,downstream,3
 _path_,gain,upstream,1
 aahusa,concernuk,upstream,1
@@ -1205,7 +1206,7 @@ irc_uk,msi,upstream,1
 irishaid,idi,upstream,1
 irishaid,iied,upstream,1
 irishaid,odi,upstream,1
-irishaid,unhcr,upstream,7
+irishaid,unhcr,upstream,9
 jass,cal_2000-pu,upstream,1
 jass,genderatwork,upstream,1
 jass,pekka_21,upstream,1
@@ -1525,12 +1526,12 @@ minbuza_nl,solidaridad-waf,upstream,2
 minbuza_nl,solidarsuisse,upstream,1
 minbuza_nl,somo,upstream,1
 minbuza_nl,sosnl,upstream,1
+minbuza_nl,sosss_admin,upstream,1
 minbuza_nl,spark,upstream,6
 minbuza_nl,st_vluchteling,upstream,2
 minbuza_nl,stc-international,upstream,1
 minbuza_nl,stichting-subsidiegelden-dra,upstream,4
 minbuza_nl,stichting_hivos,upstream,14
-minbuza_nl,syf,upstream,1
 minbuza_nl,t2p,upstream,1
 minbuza_nl,tan,upstream,1
 minbuza_nl,tbi,upstream,2
