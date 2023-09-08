@@ -1025,7 +1025,7 @@ fcdo,odi_sales_ltd,upstream,6
 fcdo,onetoonecf,upstream,1
 fcdo,onl,upstream,2
 fcdo,opml,upstream,2
-fcdo,options,upstream,13
+fcdo,options,upstream,12
 fcdo,orbis_africa,upstream,1
 fcdo,orbis_uk,upstream,1
 fcdo,oxfamgb,upstream,20
@@ -1505,7 +1505,7 @@ minbuza_nl,rcn,upstream,2
 minbuza_nl,redeenkind,upstream,1
 minbuza_nl,rmf-lb,upstream,1
 minbuza_nl,rutgers,upstream,4
-minbuza_nl,rvo,upstream,15
+minbuza_nl,rvo,upstream,1
 minbuza_nl,saferworld,upstream,11
 minbuza_nl,scnl,upstream,12
 minbuza_nl,scss,upstream,1
@@ -1718,10 +1718,6 @@ rutgers,rutgers,upstream,1
 rutgers,simavi,upstream,2
 rutgers,sjg,upstream,2
 rutgers,stichting_hivos,upstream,1
-rvo,akvo,upstream,1
-rvo,cabi,upstream,1
-rvo,cordaid,upstream,1
-rvo,idlo,upstream,1
 saferworld,cr,upstream,1
 sci,concernuk,upstream,1
 scnl,carenederland,upstream,2
