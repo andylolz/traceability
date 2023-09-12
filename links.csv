@@ -139,7 +139,7 @@ inasp,afelt,downstream,1
 inasp,udom,downstream,1
 inasp,umu,downstream,1
 ippf,msi,downstream,1
-irc,minbuza_nl,downstream,7
+irc,minbuza_nl,downstream,1
 irc_inc,bbcmediaaction,downstream,1
 irc_inc,ciuk,downstream,1
 irc_inc,concern_worldwide,downstream,3
@@ -980,7 +980,7 @@ fcdo,iied,upstream,4
 fcdo,ilo,upstream,44
 fcdo,imcw_admin,upstream,7
 fcdo,interburns,upstream,1
-fcdo,iom,upstream,16
+fcdo,iom,upstream,17
 fcdo,ipeglobal,upstream,7
 fcdo,ippf,upstream,4
 fcdo,irc_inc,upstream,3
@@ -1092,7 +1092,7 @@ fcdo,vao,upstream,1
 fcdo,vfan,upstream,1
 fcdo,vso,upstream,31
 fcdo,wacc-uk,upstream,1
-fcdo,wateraid,upstream,5
+fcdo,wateraid,upstream,4
 fcdo,waterworks,upstream,1
 fcdo,wccuk,upstream,4
 fcdo,wcf,upstream,2
@@ -1429,7 +1429,7 @@ minbuza_nl,intrahealth,upstream,1
 minbuza_nl,iom,upstream,8
 minbuza_nl,ipas,upstream,1
 minbuza_nl,ippf,upstream,6
-minbuza_nl,irc,upstream,7
+minbuza_nl,irc,upstream,1
 minbuza_nl,irc_inc,upstream,1
 minbuza_nl,irc_uk,upstream,1
 minbuza_nl,isdglobal,upstream,1
@@ -1466,7 +1466,6 @@ minbuza_nl,mondiaalfnv,upstream,1
 minbuza_nl,msi,upstream,7
 minbuza_nl,mvo_nederland,upstream,2
 minbuza_nl,mwatana,upstream,1
-minbuza_nl,ncea,upstream,5
 minbuza_nl,nchrdk,upstream,1
 minbuza_nl,ndsicde,upstream,1
 minbuza_nl,nfp,upstream,2
