@@ -1149,8 +1149,8 @@ giro555,st_vluchteling,upstream,11
 giro555,tdh_nl,upstream,1
 giro555,tear,upstream,4
 giro555,unicefnl,upstream,3
-giro555,wvi,upstream,1
-giro555,wvnld,upstream,3
+giro555,wvi,upstream,2
+giro555,wvnld,upstream,4
 gppac,wfm-igp,upstream,1
 guttmacher,arcfge,upstream,1
 guttmacher,bapsa,upstream,1
@@ -1484,7 +1484,7 @@ minbuza_nl,nwo,upstream,4
 minbuza_nl,nwp,upstream,1
 minbuza_nl,odi,upstream,1
 minbuza_nl,oneacrefund,upstream,1
-minbuza_nl,onl,upstream,1494
+minbuza_nl,onl,upstream,1495
 minbuza_nl,oxfamintermon,upstream,1
 minbuza_nl,oyw,upstream,1
 minbuza_nl,p-t-f-,upstream,1
