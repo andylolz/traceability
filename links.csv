@@ -49,7 +49,7 @@ concern_worldwide,cbm,downstream,1
 concern_worldwide,cu,downstream,1
 concern_worldwide,goal,downstream,2
 concern_worldwide,irc_uk,downstream,1
-concernuk,concern_worldwide,downstream,72
+concernuk,concern_worldwide,downstream,80
 concernuk,irc_uk,downstream,1
 cordaid,carenederland,downstream,2
 cordaid,dai,downstream,1
@@ -758,7 +758,8 @@ cocnl_publisher,ilgaasia,upstream,1
 cocnl_publisher,pai155669,upstream,1
 coffey,oca,upstream,1
 coffey,sddirect,upstream,1
-concernuk,concern_worldwide,upstream,72
+concernuk,concern_worldwide,upstream,80
+concernuk,goal,upstream,1
 concernuk,irc_uk,upstream,1
 cordaid,carenederland,upstream,1
 cordaid,icco-cooperation,upstream,10
@@ -1371,7 +1372,7 @@ minbuza_nl,crtda,upstream,1
 minbuza_nl,d4d,upstream,1
 minbuza_nl,dai,upstream,5
 minbuza_nl,dai-e,upstream,1
-minbuza_nl,dcaf,upstream,4
+minbuza_nl,dcaf,upstream,3
 minbuza_nl,decp,upstream,3
 minbuza_nl,deltares,upstream,4
 minbuza_nl,drc,upstream,8
@@ -1508,7 +1509,7 @@ minbuza_nl,rcn,upstream,2
 minbuza_nl,redeenkind,upstream,1
 minbuza_nl,rmf-lb,upstream,1
 minbuza_nl,rutgers,upstream,4
-minbuza_nl,rvo,upstream,1
+minbuza_nl,rvo,upstream,15
 minbuza_nl,saferworld,upstream,11
 minbuza_nl,scnl,upstream,12
 minbuza_nl,scss,upstream,1
@@ -1721,6 +1722,10 @@ rutgers,rutgers,upstream,1
 rutgers,simavi,upstream,2
 rutgers,sjg,upstream,2
 rutgers,stichting_hivos,upstream,1
+rvo,akvo,upstream,1
+rvo,cabi,upstream,1
+rvo,cordaid,upstream,1
+rvo,idlo,upstream,1
 saferworld,cr,upstream,1
 sci,concernuk,upstream,1
 scnl,carenederland,upstream,2
