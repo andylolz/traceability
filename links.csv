@@ -629,9 +629,7 @@ ausgov,unhcr,upstream,2
 avsi_uganda,cordaid,upstream,1
 bbcmediaaction,ims,upstream,1
 be-dgd,ares,upstream,1
-be-dgd,cncd,upstream,1
-be-dgd,lhac,upstream,1
-be-dgd,unhcr,upstream,23
+be-dgd,unhcr,upstream,13
 be-dgd,vlir-uos,upstream,1
 beis,col-greenfinance,upstream,1
 beis,ctbeijing,upstream,1
@@ -1565,7 +1563,6 @@ odi_sales_ltd,irc_uk,upstream,1
 onl,carenederland,upstream,2
 onl,cordaid,upstream,3
 onl,dai,upstream,1
-onl,female,upstream,1
 onl,hc2022,upstream,1
 onl,icco-cooperation,upstream,5
 onl,oqc,upstream,1
@@ -1686,7 +1683,7 @@ sida,dcaf,upstream,1
 sida,f-aids,upstream,1
 sida,idlo,upstream,3
 sida,ilo,upstream,58
-sida,onl,upstream,208
+sida,onl,upstream,209
 sida,pidg,upstream,1
 siharegional,ewla,upstream,1
 siharegional,fidauganda,upstream,1
