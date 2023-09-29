@@ -631,6 +631,7 @@ bbcmediaaction,ims,upstream,1
 be-dgd,ares,upstream,1
 be-dgd,unhcr,upstream,13
 be-dgd,vlir-uos,upstream,1
+be-dgd,vvob,upstream,1
 beis,col-greenfinance,upstream,1
 beis,ctbeijing,upstream,1
 beis,icf,upstream,1
@@ -952,7 +953,7 @@ fcdo,odi_sales_ltd,upstream,6
 fcdo,onetoonecf,upstream,1
 fcdo,onl,upstream,2
 fcdo,opml,upstream,2
-fcdo,options,upstream,12
+fcdo,options,upstream,13
 fcdo,orbis_africa,upstream,1
 fcdo,orbis_uk,upstream,1
 fcdo,oxfamgb,upstream,20
@@ -965,7 +966,6 @@ fcdo,peopleinaid,upstream,1
 fcdo,phase_worldwide,upstream,1
 fcdo,phe,upstream,1
 fcdo,pidg,upstream,1
-fcdo,pmc,upstream,1
 fcdo,pont,upstream,1
 fcdo,populationcouncil,upstream,2
 fcdo,pri,upstream,1
