@@ -945,7 +945,7 @@ fcdo,mrc-sierra-leone,upstream,1
 fcdo,msi,upstream,13
 fcdo,namati_inc,upstream,1
 fcdo,nathan,upstream,2
-fcdo,nrc,upstream,3
+fcdo,nrc,upstream,4
 fcdo,nrgi,upstream,1
 fcdo,nutritionintl,upstream,1
 fcdo,odi,upstream,34
@@ -1047,12 +1047,6 @@ fwf,cdi_vn_2021,upstream,1
 fwf,cividep,upstream,1
 fwf,eti,upstream,1
 fwf,mondiaalfnv,upstream,1
-gac-amc,idi,upstream,1
-gac-amc,idlo,upstream,1
-gac-amc,iisd,upstream,1
-gac-amc,ilo,upstream,7
-gac-amc,iom,upstream,4
-gac-amc,unhcr,upstream,39
 gdi,villageenterprise,upstream,1
 gecfundmanagerpwc,childhopeuk,upstream,1
 gecfundmanagerpwc,gecfundmanagerpwc,upstream,1
