@@ -370,7 +370,7 @@ minbuza_nl,cfyas,downstream,1
 minbuza_nl,cidr,downstream,1
 minbuza_nl,icwrsa,downstream,1
 minbuza_nl,jass,downstream,1
-minbuza_nl,minbuza_nl,downstream,1
+minbuza_nl,minbuza_nl,downstream,2
 minbuza_nl,onl,downstream,2
 minbuza_nl,plannlno,downstream,1
 minbuza_nl,promsex,downstream,1
@@ -391,6 +391,7 @@ msi,ipas,downstream,1
 msi,ippf,downstream,1
 msi,irc_inc,downstream,1
 msi,lcd_admin,downstream,1
+msi,minbuza_nl,downstream,1
 msi,options,downstream,3
 msi,pmc,downstream,1
 msi,promsex,downstream,1
@@ -439,7 +440,7 @@ rutgers,sjg,downstream,2
 saferworld,cr,downstream,1
 scnl,carenederland,downstream,4
 scnl,cordaid,downstream,3
-scnl,dai,downstream,4
+scnl,dai,downstream,3
 scnl,icco-cooperation,downstream,6
 scnl,minbuza_nl,downstream,2
 scnl,onl,downstream,2
@@ -1047,6 +1048,12 @@ fwf,cdi_vn_2021,upstream,1
 fwf,cividep,upstream,1
 fwf,eti,upstream,1
 fwf,mondiaalfnv,upstream,1
+gac-amc,idi,upstream,1
+gac-amc,idlo,upstream,1
+gac-amc,iisd,upstream,1
+gac-amc,ilo,upstream,7
+gac-amc,iom,upstream,4
+gac-amc,unhcr,upstream,39
 gdi,villageenterprise,upstream,1
 gecfundmanagerpwc,childhopeuk,upstream,1
 gecfundmanagerpwc,gecfundmanagerpwc,upstream,1
@@ -1383,7 +1390,7 @@ minbuza_nl,mcn,upstream,1
 minbuza_nl,mdf,upstream,4
 minbuza_nl,mefbenin,upstream,2
 minbuza_nl,mfwa,upstream,1
-minbuza_nl,minbuza_nl,upstream,28
+minbuza_nl,minbuza_nl,upstream,27
 minbuza_nl,mm1,upstream,2
 minbuza_nl,mml,upstream,1
 minbuza_nl,mondiaalfnv,upstream,1
@@ -1408,7 +1415,7 @@ minbuza_nl,nwo,upstream,4
 minbuza_nl,nwp,upstream,1
 minbuza_nl,odi,upstream,1
 minbuza_nl,oneacrefund,upstream,1
-minbuza_nl,onl,upstream,1490
+minbuza_nl,onl,upstream,1500
 minbuza_nl,oxfamintermon,upstream,1
 minbuza_nl,oyw,upstream,1
 minbuza_nl,p-t-f-,upstream,1
