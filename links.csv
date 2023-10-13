@@ -626,8 +626,13 @@ ausgov,unhcr,upstream,2
 avsi_uganda,cordaid,upstream,1
 bbcmediaaction,ims,upstream,1
 be-dgd,ares,upstream,1
+be-dgd,asf,upstream,1
+be-dgd,cjp,upstream,1
 be-dgd,ct-admin,upstream,1
+be-dgd,fos,upstream,1
 be-dgd,geomoun,upstream,1
+be-dgd,iiwe,upstream,1
+be-dgd,omdm,upstream,1
 be-dgd,unhcr,upstream,13
 be-dgd,via-db,upstream,1
 be-dgd,vlir-uos,upstream,1
@@ -900,7 +905,7 @@ fcdo,hha,upstream,1
 fcdo,hi,upstream,4
 fcdo,hiuk,upstream,7
 fcdo,htspe,upstream,2
-fcdo,icf,upstream,4
+fcdo,icf,upstream,3
 fcdo,idi,upstream,1
 fcdo,ids,upstream,7
 fcdo,ifpri,upstream,1
@@ -1201,6 +1206,7 @@ manniondaniels,orbis_international,upstream,2
 manniondaniels,orbis_uk,upstream,3
 manniondaniels,pcst,upstream,1
 manniondaniels,peacedirect,upstream,1
+manniondaniels,read-foundation,upstream,1
 manniondaniels,rnli_international,upstream,1
 manniondaniels,saferworld,upstream,1
 manniondaniels,sct,upstream,1
