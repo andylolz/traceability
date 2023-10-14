@@ -633,6 +633,7 @@ be-dgd,fos,upstream,1
 be-dgd,geomoun,upstream,1
 be-dgd,iiwe,upstream,1
 be-dgd,omdm,upstream,1
+be-dgd,scibelgium,upstream,1
 be-dgd,unhcr,upstream,13
 be-dgd,via-db,upstream,1
 be-dgd,vlir-uos,upstream,1
@@ -844,7 +845,7 @@ fcdo,blueventures,upstream,1
 fcdo,bond,upstream,3
 fcdo,britishcouncil,upstream,5
 fcdo,bvs-nepal,upstream,1
-fcdo,cabi,upstream,5
+fcdo,cabi,upstream,6
 fcdo,cafod,upstream,2218
 fcdo,cal,upstream,6
 fcdo,carbontrustadvisory,upstream,1
