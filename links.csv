@@ -369,6 +369,7 @@ minbuza_nl,cidr,downstream,1
 minbuza_nl,icwrsa,downstream,1
 minbuza_nl,jass,downstream,1
 minbuza_nl,minbuza_nl,downstream,2
+minbuza_nl,nuwodu,downstream,1
 minbuza_nl,onl,downstream,2
 minbuza_nl,plannlno,downstream,1
 minbuza_nl,promsex,downstream,1
@@ -376,7 +377,6 @@ minbuza_nl,protos,downstream,1
 minbuza_nl,rnw_org,downstream,1
 minbuza_nl,scnl,downstream,2
 minbuza_nl,st_vluchteling,downstream,2
-minbuza_nl,swda,downstream,1
 minbuza_nl,tdh_nl,downstream,1
 minbuza_nl,vngi,downstream,2
 minbuza_nl,wipc,downstream,1
@@ -626,7 +626,7 @@ ares,vlir-uos,upstream,1
 ausgov,unhcr,upstream,2
 avsi_uganda,cordaid,upstream,1
 bbcmediaaction,ims,upstream,1
-be-dgd,111111_publisher,upstream,2
+be-dgd,111111_publisher,upstream,3
 be-dgd,a-t,upstream,1
 be-dgd,acodev,upstream,1
 be-dgd,actec,upstream,1
@@ -694,7 +694,7 @@ be-dgd,sg,upstream,1
 be-dgd,shc,upstream,1
 be-dgd,solidagro_admin,upstream,1
 be-dgd,solsoc,upstream,12
-be-dgd,sosfaim,upstream,1
+be-dgd,sosfaim,upstream,2
 be-dgd,svdbskb_admin,upstream,1
 be-dgd,tfb_admin1,upstream,1
 be-dgd,ub,upstream,1
@@ -1473,7 +1473,7 @@ minbuza_nl,mondiaalfnv,upstream,1
 minbuza_nl,msi,upstream,7
 minbuza_nl,mvo_nederland,upstream,2
 minbuza_nl,mwatana,upstream,1
-minbuza_nl,ncea,upstream,5
+minbuza_nl,ncea,upstream,6
 minbuza_nl,nchrdk,upstream,1
 minbuza_nl,ndsicde,upstream,1
 minbuza_nl,nfp,upstream,2
