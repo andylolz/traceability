@@ -640,7 +640,7 @@ be-dgd,bd,upstream,1
 be-dgd,be-dgd,upstream,11
 be-dgd,bismsi,upstream,2
 be-dgd,bos_plus_tropen,upstream,1
-be-dgd,brulocalis,upstream,4
+be-dgd,brulocalis,upstream,5
 be-dgd,cadtm,upstream,1
 be-dgd,cdeb-kvhb_admin,upstream,1
 be-dgd,cec,upstream,1
@@ -684,7 +684,7 @@ be-dgd,omdm,upstream,1
 be-dgd,oww,upstream,1
 be-dgd,oxsol,upstream,1
 be-dgd,pib,upstream,1
-be-dgd,protos,upstream,1
+be-dgd,protos,upstream,2
 be-dgd,quinoa,upstream,1
 be-dgd,rcn,upstream,6
 be-dgd,rikolto_belgium,upstream,1
@@ -1857,7 +1857,7 @@ unocha-cbpf,iom,upstream,6
 unocha-cbpf,unhcr,upstream,57
 unocha-cbpf,warchildholland,upstream,1
 unops,iom,upstream,1
-unpf,ilo,upstream,158
+unpf,ilo,upstream,174
 unpf,iom,upstream,3
 unpf,undp,upstream,60
 unpf,unhcr,upstream,2
