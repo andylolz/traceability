@@ -647,6 +647,7 @@ be-dgd,cec,upstream,1
 be-dgd,cibe,upstream,1
 be-dgd,cjp,upstream,2
 be-dgd,cncd,upstream,2
+be-dgd,congodorpen,upstream,1
 be-dgd,crb-ai_admin,upstream,1
 be-dgd,csa,upstream,1
 be-dgd,ct-admin,upstream,2
@@ -657,7 +658,7 @@ be-dgd,ec,upstream,1
 be-dgd,eclosio,upstream,11
 be-dgd,ef_,upstream,1
 be-dgd,etmkdw,upstream,1
-be-dgd,fairtrade_be,upstream,1
+be-dgd,fairtrade_be,upstream,2
 be-dgd,fian-belgium,upstream,5
 be-dgd,foncaba,upstream,4
 be-dgd,fos,upstream,2
@@ -665,7 +666,7 @@ be-dgd,fucid,upstream,5
 be-dgd,g3w-m3m_admin,upstream,1
 be-dgd,geomoun,upstream,2
 be-dgd,hib,upstream,1
-be-dgd,idp,upstream,1
+be-dgd,idp,upstream,2
 be-dgd,ifsi_isvi,upstream,15
 be-dgd,iiwe,upstream,2
 be-dgd,iteco,upstream,1
@@ -690,6 +691,7 @@ be-dgd,rcn,upstream,6
 be-dgd,rikolto_belgium,upstream,1
 be-dgd,rkiv,upstream,1
 be-dgd,scibelgium,upstream,2
+be-dgd,sfcg,upstream,1
 be-dgd,sg,upstream,1
 be-dgd,shc,upstream,2
 be-dgd,solidagro_admin,upstream,1
@@ -1396,7 +1398,7 @@ minbuza_nl,fcdf,upstream,1
 minbuza_nl,fimi_iiwf_2019,upstream,2
 minbuza_nl,finddiagnostics,upstream,1
 minbuza_nl,fipag,upstream,1
-minbuza_nl,fmo,upstream,4
+minbuza_nl,fmo,upstream,8
 minbuza_nl,fms,upstream,1
 minbuza_nl,foenl,upstream,2
 minbuza_nl,free_press_unlimited,upstream,4
