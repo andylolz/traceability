@@ -570,7 +570,7 @@ zoa,carenederland,downstream,2
 zoa,cordaid,downstream,7
 zoa,dai,downstream,8
 zoa,et-adf-0317,downstream,1
-zoa,icco-cooperation,downstream,2
+zoa,icco-cooperation,downstream,1
 zoa,leprazending-tlm-nl,downstream,1
 zoa,onl,downstream,9
 zoa,plan_uk,downstream,1
@@ -639,7 +639,7 @@ be-dgd,bac,upstream,1
 be-dgd,bd,upstream,1
 be-dgd,be-dgd,upstream,11
 be-dgd,bismsi,upstream,2
-be-dgd,bos_plus_tropen,upstream,1
+be-dgd,bos_plus_tropen,upstream,2
 be-dgd,brulocalis,upstream,5
 be-dgd,cadtm,upstream,1
 be-dgd,cdeb-kvhb_admin,upstream,1
@@ -677,7 +677,7 @@ be-dgd,lc,upstream,1
 be-dgd,lftw-be,upstream,1
 be-dgd,lhac,upstream,1
 be-dgd,medecins,upstream,2
-be-dgd,memisa,upstream,3
+be-dgd,memisa,upstream,4
 be-dgd,mmha,upstream,2
 be-dgd,mondefemmes,upstream,1
 be-dgd,msv,upstream,1
@@ -700,7 +700,7 @@ be-dgd,solsoc,upstream,12
 be-dgd,sosfaim,upstream,2
 be-dgd,svdbskb_admin,upstream,1
 be-dgd,tfb_admin1,upstream,1
-be-dgd,ub,upstream,1
+be-dgd,ub,upstream,2
 be-dgd,ucos,upstream,1
 be-dgd,ulbcoop,upstream,2
 be-dgd,unhcr,upstream,17
@@ -1089,7 +1089,7 @@ fcdo,tripleline_crownagents,upstream,2
 fcdo,troc,upstream,1
 fcdo,ul,upstream,1
 fcdo,umn,upstream,1
-fcdo,undp,upstream,5
+fcdo,undp,upstream,3
 fcdo,unf,upstream,2
 fcdo,unhcr,upstream,99
 fcdo,unocha,upstream,5
@@ -1147,7 +1147,7 @@ giro555,carenederland,upstream,1
 giro555,cordaid,upstream,2
 giro555,giro555,upstream,1
 giro555,hfhnl,upstream,1
-giro555,icco-cooperation,upstream,17
+giro555,icco-cooperation,upstream,16
 giro555,nlrc,upstream,19
 giro555,pax,upstream,1
 giro555,plannlno,upstream,5
@@ -1493,7 +1493,7 @@ minbuza_nl,nwo,upstream,4
 minbuza_nl,nwp,upstream,1
 minbuza_nl,odi,upstream,1
 minbuza_nl,oneacrefund,upstream,1
-minbuza_nl,onl,upstream,1503
+minbuza_nl,onl,upstream,1505
 minbuza_nl,oxfamintermon,upstream,1
 minbuza_nl,oyw,upstream,1
 minbuza_nl,p-t-f-,upstream,1
@@ -1644,7 +1644,7 @@ onl,carenederland,upstream,2
 onl,cordaid,upstream,3
 onl,dai,upstream,1
 onl,hc2022,upstream,1
-onl,icco-cooperation,upstream,5
+onl,icco-cooperation,upstream,3
 onl,oqc,upstream,1
 onl,oxfamgb,upstream,70
 onl,plannlno,upstream,3
@@ -1738,7 +1738,7 @@ sci,concernuk,upstream,1
 scnl,carenederland,upstream,2
 scnl,cordaid,upstream,5
 scnl,dai,upstream,3
-scnl,icco-cooperation,upstream,12
+scnl,icco-cooperation,upstream,11
 scnl,onl,upstream,20
 scnl,plannlno,upstream,8
 scnl,populationcouncil,upstream,1
@@ -1848,7 +1848,7 @@ tear,scnl,upstream,1
 tfac,tfacmalawi,upstream,1
 tffus,aain,upstream,1
 theglobalfund,iom,upstream,1
-theglobalfund,undp,upstream,36
+theglobalfund,undp,upstream,12
 traidcraft,fci,upstream,1
 undp,idlo,upstream,1
 undp,warchildholland,upstream,1
@@ -1861,7 +1861,7 @@ unocha-cbpf,warchildholland,upstream,1
 unops,iom,upstream,1
 unpf,ilo,upstream,174
 unpf,iom,upstream,3
-unpf,undp,upstream,60
+unpf,undp,upstream,18
 unpf,unhcr,upstream,2
 uoe,bpcrs,upstream,1
 uoe,icddrb,upstream,1
@@ -1939,7 +1939,7 @@ zoa,carenederland,upstream,2
 zoa,cordaid,upstream,7
 zoa,dai,upstream,6
 zoa,et-adf-0317,upstream,5
-zoa,icco-cooperation,upstream,3
+zoa,icco-cooperation,upstream,2
 zoa,ida,upstream,1
 zoa,leprazending-tlm-nl,upstream,1
 zoa,onl,upstream,10
