@@ -642,13 +642,13 @@ be-dgd,bismsi,upstream,2
 be-dgd,bos_plus_tropen,upstream,2
 be-dgd,brulocalis,upstream,5
 be-dgd,cadtm,upstream,1
-be-dgd,cdeb-kvhb_admin,upstream,1
+be-dgd,cdeb-kvhb_admin,upstream,2
 be-dgd,cec,upstream,2
 be-dgd,cibe,upstream,2
 be-dgd,cjp,upstream,2
 be-dgd,cncd,upstream,2
 be-dgd,congodorpen,upstream,1
-be-dgd,crb-ai_admin,upstream,1
+be-dgd,crb-ai_admin,upstream,2
 be-dgd,csa,upstream,1
 be-dgd,ct-admin,upstream,2
 be-dgd,damien-foundation,upstream,1
@@ -664,7 +664,7 @@ be-dgd,fian-belgium,upstream,5
 be-dgd,foncaba,upstream,4
 be-dgd,fos,upstream,2
 be-dgd,fucid,upstream,6
-be-dgd,g3w-m3m_admin,upstream,1
+be-dgd,g3w-m3m_admin,upstream,2
 be-dgd,geomoun,upstream,2
 be-dgd,hib,upstream,2
 be-dgd,idp,upstream,2
@@ -679,7 +679,7 @@ be-dgd,lftw-be,upstream,1
 be-dgd,lhac,upstream,1
 be-dgd,medecins,upstream,2
 be-dgd,memisa,upstream,4
-be-dgd,mmha,upstream,2
+be-dgd,mmha,upstream,3
 be-dgd,mondefemmes,upstream,2
 be-dgd,msv,upstream,1
 be-dgd,ngo-federatie,upstream,1
@@ -688,7 +688,7 @@ be-dgd,oww,upstream,1
 be-dgd,oxsol,upstream,1
 be-dgd,pib,upstream,1
 be-dgd,protos,upstream,2
-be-dgd,quinoa,upstream,1
+be-dgd,quinoa,upstream,2
 be-dgd,rcn,upstream,6
 be-dgd,rikolto_belgium,upstream,1
 be-dgd,rkiv,upstream,1
@@ -696,10 +696,10 @@ be-dgd,scibelgium,upstream,2
 be-dgd,sfcg,upstream,1
 be-dgd,sg,upstream,1
 be-dgd,shc,upstream,2
-be-dgd,solidagro_admin,upstream,1
+be-dgd,solidagro_admin,upstream,2
 be-dgd,solsoc,upstream,12
 be-dgd,sosfaim,upstream,2
-be-dgd,svdbskb_admin,upstream,1
+be-dgd,svdbskb_admin,upstream,2
 be-dgd,tfb_admin1,upstream,1
 be-dgd,ub,upstream,2
 be-dgd,ucos,upstream,1
