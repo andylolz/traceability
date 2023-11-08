@@ -1079,7 +1079,7 @@ fcdo,saferworld,upstream,7
 fcdo,sciaf,upstream,1
 fcdo,sct,upstream,1
 fcdo,scuk,upstream,1
-fcdo,sddirect,upstream,3
+fcdo,sddirect,upstream,2
 fcdo,sendacow,upstream,4
 fcdo,sense_international,upstream,2
 fcdo,sfcg,upstream,1
@@ -1237,7 +1237,7 @@ irc_inc,restless,upstream,2
 irc_inc,zoa,upstream,1
 irc_uk,bbcmediaaction,upstream,1
 irc_uk,hiuk,upstream,1
-irc_uk,irc_inc,upstream,87
+irc_uk,irc_inc,upstream,89
 irc_uk,irc_uk,upstream,1
 irishaid,idi,upstream,1
 irishaid,iied,upstream,1
@@ -1560,7 +1560,7 @@ minbuza_nl,siren,upstream,1
 minbuza_nl,siwi,upstream,1
 minbuza_nl,sjac,upstream,1
 minbuza_nl,skf,upstream,1
-minbuza_nl,snv,upstream,17
+minbuza_nl,snv,upstream,18
 minbuza_nl,solidaridad,upstream,2
 minbuza_nl,solidaridad-europe,upstream,1
 minbuza_nl,solidaridad-ssea,upstream,2
