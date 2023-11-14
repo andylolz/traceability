@@ -871,17 +871,6 @@ ec-echo,onl,upstream,40
 ec-echo,tdh_nl,upstream,4
 ec-echo,unhcr,upstream,327
 ec-echo,warchildholland,upstream,4
-ec-fpi,iom,upstream,3
-ec-fpi,warchildholland,upstream,1
-ec-intpa,cabi,upstream,2
-ec-intpa,idlo,upstream,3
-ec-intpa,ilo,upstream,9
-ec-intpa,unhcr,upstream,2
-ec-near,ilo,upstream,2
-ec-near,iom,upstream,5
-ec-near,onl,upstream,3
-ec-near,unhcr,upstream,2
-ec-near,warchildholland,upstream,2
 ecuk,sddirect,upstream,1
 elrha,irc_uk,upstream,1
 emms,dgmh,upstream,1
@@ -1116,7 +1105,7 @@ fcdo,vso,upstream,31
 fcdo,wacc-uk,upstream,1
 fcdo,wateraid,upstream,5
 fcdo,waterworks,upstream,1
-fcdo,wccuk,upstream,4
+fcdo,wccuk,upstream,5
 fcdo,wcf,upstream,2
 fcdo,wfwiuk,upstream,2
 fcdo,worldveg,upstream,1
@@ -1495,7 +1484,7 @@ minbuza_nl,mag,upstream,3
 minbuza_nl,mamac,upstream,4
 minbuza_nl,manniondaniels,upstream,2
 minbuza_nl,max-foundation,upstream,3
-minbuza_nl,mce,upstream,4
+minbuza_nl,mce,upstream,5
 minbuza_nl,mcn,upstream,1
 minbuza_nl,mdf,upstream,4
 minbuza_nl,mefbenin,upstream,2
