@@ -697,7 +697,7 @@ be-dgd,ngo-federatie,upstream,1
 be-dgd,omdm,upstream,1
 be-dgd,oww,upstream,1
 be-dgd,oxsol,upstream,1
-be-dgd,pib,upstream,2
+be-dgd,pib,upstream,1
 be-dgd,protos,upstream,2
 be-dgd,quinoa,upstream,2
 be-dgd,rcn,upstream,7
@@ -971,7 +971,7 @@ fcdo,fyf,upstream,3
 fcdo,gain,upstream,2
 fcdo,galvmed,upstream,1
 fcdo,gb-chc-220949,upstream,21
-fcdo,gca,upstream,3
+fcdo,gca,upstream,2
 fcdo,gdi,upstream,1
 fcdo,gdihub,upstream,3
 fcdo,gecfundmanagerpwc,upstream,2
@@ -1514,7 +1514,7 @@ minbuza_nl,nwo,upstream,4
 minbuza_nl,nwp,upstream,1
 minbuza_nl,odi,upstream,1
 minbuza_nl,oneacrefund,upstream,1
-minbuza_nl,onl,upstream,1506
+minbuza_nl,onl,upstream,1507
 minbuza_nl,oxfamintermon,upstream,1
 minbuza_nl,oyw,upstream,1
 minbuza_nl,p-t-f-,upstream,1
