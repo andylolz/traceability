@@ -574,7 +574,7 @@ wvnld,warchildholland,downstream,1
 wvnld,wcuk,downstream,1
 wvnld,wvi,downstream,12
 wvnld,zoa,downstream,1
-wvuk,wvi,downstream,112
+wvuk,wvi,downstream,122
 zoa,agriterra,downstream,1
 zoa,carenederland,downstream,2
 zoa,cordaid,downstream,7
@@ -697,7 +697,7 @@ be-dgd,ngo-federatie,upstream,1
 be-dgd,omdm,upstream,1
 be-dgd,oww,upstream,1
 be-dgd,oxsol,upstream,1
-be-dgd,pib,upstream,1
+be-dgd,pib,upstream,2
 be-dgd,protos,upstream,2
 be-dgd,quinoa,upstream,2
 be-dgd,rcn,upstream,7
@@ -1287,7 +1287,7 @@ manniondaniels,irise_int,upstream,1
 manniondaniels,jocc_uk,upstream,1
 manniondaniels,kmss,upstream,1
 manniondaniels,learningforlife,upstream,1
-manniondaniels,mag,upstream,1
+manniondaniels,mag,upstream,2
 manniondaniels,manniondaniels,upstream,2
 manniondaniels,mifumi_uk,upstream,1
 manniondaniels,mmh,upstream,1
@@ -1881,7 +1881,7 @@ unocha-cbpf,iom,upstream,8
 unocha-cbpf,unhcr,upstream,60
 unocha-cbpf,warchildholland,upstream,1
 unops,iom,upstream,1
-unpf,ilo,upstream,174
+unpf,ilo,upstream,175
 unpf,iom,upstream,3
 unpf,undp,upstream,10
 unpf,unhcr,upstream,2
