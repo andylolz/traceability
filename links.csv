@@ -585,7 +585,7 @@ zoa,leprazending-tlm-nl,downstream,1
 zoa,onl,downstream,9
 zoa,plan_uk,downstream,1
 zoa,plannlno,downstream,1
-zoa,scnl,downstream,4
+zoa,scnl,downstream,5
 zoa,sosnl,downstream,1
 zoa,sosss_admin,downstream,1
 zoa,st_vluchteling,downstream,3
@@ -822,7 +822,8 @@ danida,aadk,upstream,3
 danida,adra-dk,upstream,1
 danida,caritas_denmark,upstream,3
 danida,cisu,upstream,2
-danida,danida,upstream,5
+danida,cku,upstream,2
+danida,danida,upstream,9
 danida,danishrc,upstream,6
 danida,danmission,upstream,2
 danida,dca,upstream,4
@@ -1522,7 +1523,7 @@ minbuza_nl,pacja,upstream,1
 minbuza_nl,palladium_eur,upstream,1
 minbuza_nl,partos_nl,upstream,2
 minbuza_nl,pathfinder1,upstream,2
-minbuza_nl,pax,upstream,7
+minbuza_nl,pax,upstream,8
 minbuza_nl,pcf,upstream,2
 minbuza_nl,pidg,upstream,1
 minbuza_nl,plama,upstream,1
@@ -1572,7 +1573,6 @@ minbuza_nl,tan,upstream,1
 minbuza_nl,tbi,upstream,2
 minbuza_nl,tdh_foundation,upstream,1
 minbuza_nl,tdh_nl,upstream,6
-minbuza_nl,tha,upstream,1
 minbuza_nl,ti-uk,upstream,1
 minbuza_nl,tifa_foundation,upstream,1
 minbuza_nl,tni,upstream,1
@@ -1847,8 +1847,8 @@ stichting-subsidiegelden-dra,dai,upstream,2
 stichting-subsidiegelden-dra,onl,upstream,43
 stichting-subsidiegelden-dra,plannlno,upstream,1
 stichting-subsidiegelden-dra,redeenkind,upstream,1
-stichting-subsidiegelden-dra,scnl,upstream,8
-stichting-subsidiegelden-dra,sosnl,upstream,3
+stichting-subsidiegelden-dra,scnl,upstream,7
+stichting-subsidiegelden-dra,sosnl,upstream,4
 stichting-subsidiegelden-dra,st_vluchteling,upstream,5
 stichting-subsidiegelden-dra,tdh_nl,upstream,2
 stichting-subsidiegelden-dra,tear,upstream,2
