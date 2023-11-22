@@ -593,7 +593,7 @@ zoa,syf,downstream,1
 zoa,tdh_nl,downstream,8
 zoa,tear,downstream,1
 zoa,tha,downstream,1
-zoa,vngi,downstream,1
+zoa,vngi,downstream,2
 zoa,wageningen_ur,downstream,1
 zoa,warchildholland,downstream,6
 zoa,worldrelief,downstream,1
@@ -697,7 +697,7 @@ be-dgd,ngo-federatie,upstream,1
 be-dgd,omdm,upstream,1
 be-dgd,oww,upstream,1
 be-dgd,oxsol,upstream,1
-be-dgd,pib,upstream,2
+be-dgd,pib,upstream,1
 be-dgd,protos,upstream,2
 be-dgd,quinoa,upstream,2
 be-dgd,rcn,upstream,7
@@ -829,7 +829,7 @@ danida,danmission,upstream,2
 danida,dca,upstream,4
 danida,dfpa,upstream,1
 danida,di,upstream,1
-danida,drc,upstream,30
+danida,drc,upstream,31
 danida,ibis_denmark,upstream,1
 danida,idh,upstream,1
 danida,ilo,upstream,5
