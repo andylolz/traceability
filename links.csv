@@ -777,7 +777,7 @@ clingendael,idlo,upstream,1
 cocnl_publisher,ilgaasia,upstream,1
 cocnl_publisher,pai155669,upstream,1
 coffey,oca,upstream,1
-coffey,sddirect,upstream,1
+coffey,sddirect,upstream,2
 concernuk,concern_worldwide,upstream,80
 concernuk,goal,upstream,1
 concernuk,irc_uk,upstream,1
@@ -1069,7 +1069,7 @@ fcdo,saferworld,upstream,7
 fcdo,sciaf,upstream,1
 fcdo,sct,upstream,1
 fcdo,scuk,upstream,1
-fcdo,sddirect,upstream,2
+fcdo,sddirect,upstream,3
 fcdo,sendacow,upstream,4
 fcdo,sense_international,upstream,2
 fcdo,sfcg,upstream,1
@@ -1138,6 +1138,7 @@ gac-amc,iisd,upstream,1
 gac-amc,ilo,upstream,7
 gac-amc,iom,upstream,4
 gac-amc,unhcr,upstream,39
+gain,yipl,upstream,1
 gdi,villageenterprise,upstream,1
 gecfundmanagerpwc,aaik,upstream,1
 gecfundmanagerpwc,amurt_kenya,upstream,1
@@ -1420,7 +1421,7 @@ minbuza_nl,fcdf,upstream,1
 minbuza_nl,fimi_iiwf_2019,upstream,2
 minbuza_nl,finddiagnostics,upstream,1
 minbuza_nl,fipag,upstream,1
-minbuza_nl,fmo,upstream,8
+minbuza_nl,fmo,upstream,4
 minbuza_nl,fms,upstream,1
 minbuza_nl,foenl,upstream,2
 minbuza_nl,free_press_unlimited,upstream,4
@@ -1737,6 +1738,7 @@ pwc,kingscollegelondon,upstream,1
 pwc,mml,upstream,2
 pwc,open_university,upstream,1
 pwc,pasgr,upstream,1
+pwc,sddirect,upstream,1
 redeenkind,afsc,upstream,1
 restless,ycare,upstream,1
 rikolto_belgium,rikolto,upstream,12
