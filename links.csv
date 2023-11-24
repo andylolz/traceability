@@ -697,7 +697,7 @@ be-dgd,ngo-federatie,upstream,1
 be-dgd,omdm,upstream,1
 be-dgd,oww,upstream,1
 be-dgd,oxsol,upstream,1
-be-dgd,pib,upstream,1
+be-dgd,pib,upstream,2
 be-dgd,protos,upstream,2
 be-dgd,quinoa,upstream,2
 be-dgd,rcn,upstream,7
@@ -1447,7 +1447,7 @@ minbuza_nl,ictj,upstream,23
 minbuza_nl,idh,upstream,13
 minbuza_nl,idh_im,upstream,1
 minbuza_nl,idlo,upstream,21
-minbuza_nl,idrccrdi,upstream,17
+minbuza_nl,idrccrdi,upstream,23
 minbuza_nl,ieu,upstream,1
 minbuza_nl,ifdc-us,upstream,6
 minbuza_nl,ihedelft,upstream,3
