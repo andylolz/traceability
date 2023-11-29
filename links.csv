@@ -697,7 +697,7 @@ be-dgd,ngo-federatie,upstream,1
 be-dgd,omdm,upstream,1
 be-dgd,oww,upstream,1
 be-dgd,oxsol,upstream,1
-be-dgd,pib,upstream,1
+be-dgd,pib,upstream,2
 be-dgd,protos,upstream,2
 be-dgd,quinoa,upstream,2
 be-dgd,rcn,upstream,7
@@ -1568,7 +1568,6 @@ minbuza_nl,stc-international,upstream,1
 minbuza_nl,stichting-subsidiegelden-dra,upstream,4
 minbuza_nl,stichting_hivos,upstream,14
 minbuza_nl,syf,upstream,1
-minbuza_nl,t2p,upstream,1
 minbuza_nl,tan,upstream,1
 minbuza_nl,tbi,upstream,2
 minbuza_nl,tdh_foundation,upstream,1
