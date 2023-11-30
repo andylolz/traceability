@@ -131,7 +131,7 @@ gecfundmanagerpwc,lcd_admin,downstream,3
 gecfundmanagerpwc,mce,downstream,2
 gecfundmanagerpwc,opportunity-international-uk,downstream,2
 gecfundmanagerpwc,peas,downstream,2
-gecfundmanagerpwc,plan_uk,downstream,3
+gecfundmanagerpwc,plan_uk,downstream,2
 gecfundmanagerpwc,rains,downstream,1
 gecfundmanagerpwc,scuk,downstream,1
 gecfundmanagerpwc,street_child,downstream,1
@@ -157,7 +157,6 @@ irc_inc,irc_uk,downstream,5
 irc_inc,mcn,downstream,1
 irc_inc,msi,downstream,1
 irc_inc,nrc,downstream,2
-irc_inc,plan_uk,downstream,1
 irc_inc,restless,downstream,2
 irc_inc,zoa,downstream,1
 irc_uk,bbcmediaaction,downstream,1
@@ -168,7 +167,6 @@ irc_uk,goal,downstream,1
 irc_uk,irc_inc,downstream,81
 irc_uk,irc_uk,downstream,2
 irc_uk,msi,downstream,1
-irc_uk,plan_uk,downstream,1
 irc_uk,restless,downstream,2
 itad,fcdo,downstream,1
 jass,cal_2000-pu,downstream,1
@@ -697,7 +695,7 @@ be-dgd,ngo-federatie,upstream,1
 be-dgd,omdm,upstream,1
 be-dgd,oww,upstream,1
 be-dgd,oxsol,upstream,1
-be-dgd,pib,upstream,2
+be-dgd,pib,upstream,1
 be-dgd,protos,upstream,2
 be-dgd,quinoa,upstream,2
 be-dgd,rcn,upstream,7
@@ -963,7 +961,7 @@ fcdo,energy_saving_trust,upstream,1
 fcdo,evc,upstream,2
 fcdo,excellent,upstream,1
 fcdo,f-aids,upstream,1
-fcdo,fcdo,upstream,25
+fcdo,fcdo,upstream,24
 fcdo,fh,upstream,2
 fcdo,fhi360,upstream,1
 fcdo,foe_ewni,upstream,1
@@ -974,7 +972,6 @@ fcdo,galvmed,upstream,1
 fcdo,gb-chc-220949,upstream,21
 fcdo,gca,upstream,2
 fcdo,gdi,upstream,1
-fcdo,gdihub,upstream,3
 fcdo,gecfundmanagerpwc,upstream,2
 fcdo,gi-toc,upstream,1
 fcdo,globalcanopy,upstream,1
@@ -1077,7 +1074,7 @@ fcdo,sfd-yemen,upstream,1
 fcdo,snv,upstream,1
 fcdo,soas,upstream,2
 fcdo,spuk,upstream,3
-fcdo,ss-org,upstream,136
+fcdo,ss-org,upstream,137
 fcdo,stichting_hivos,upstream,1
 fcdo,stichtingfern,upstream,1
 fcdo,street_child,upstream,4
@@ -1515,7 +1512,7 @@ minbuza_nl,nwo,upstream,4
 minbuza_nl,nwp,upstream,1
 minbuza_nl,odi,upstream,1
 minbuza_nl,oneacrefund,upstream,1
-minbuza_nl,onl,upstream,1507
+minbuza_nl,onl,upstream,1509
 minbuza_nl,oxfamintermon,upstream,1
 minbuza_nl,oyw,upstream,1
 minbuza_nl,p-t-f-,upstream,1
@@ -1710,7 +1707,7 @@ pin,concernuk,upstream,1
 plan_uk,aauk,upstream,1
 plan_uk,hiuk,upstream,1
 plan_uk,irc_uk,upstream,1
-plan_uk,open_university,upstream,3
+plan_uk,open_university,upstream,2
 plannlno,ama-south-sudan,upstream,1
 plannlno,amrefeth,upstream,1
 plannlno,amrefmw,upstream,1
