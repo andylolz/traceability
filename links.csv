@@ -187,7 +187,7 @@ manniondaniels,acaa,downstream,1
 manniondaniels,acf,downstream,1
 manniondaniels,acord,downstream,1
 manniondaniels,act4africa,downstream,1
-manniondaniels,addinternational,downstream,1
+manniondaniels,addinternational,downstream,2
 manniondaniels,adpp,downstream,1
 manniondaniels,adrauk,downstream,1
 manniondaniels,aet,downstream,1
@@ -310,9 +310,12 @@ manniondaniels,prefa_1,downstream,1
 manniondaniels,pumpaid,downstream,1
 manniondaniels,raleigh_int,downstream,1
 manniondaniels,rc,downstream,2
+manniondaniels,read-foundation,downstream,1
+manniondaniels,restless,downstream,1
 manniondaniels,rfpap,downstream,1
 manniondaniels,rnli_international,downstream,1
 manniondaniels,rojiroti,downstream,1
+manniondaniels,rtp_uk,downstream,1
 manniondaniels,saferworld,downstream,1
 manniondaniels,sciaf,downstream,2
 manniondaniels,sct,downstream,1
@@ -359,6 +362,7 @@ manniondaniels,whw2019,downstream,1
 manniondaniels,wjr_001,downstream,1
 manniondaniels,womankindworld,downstream,1
 manniondaniels,wowni,downstream,1
+manniondaniels,wwf-uk,downstream,1
 manniondaniels,wwfpakistan,downstream,1
 manniondaniels,ycare,downstream,2
 manniondaniels,yoneco1997,downstream,1
@@ -695,7 +699,7 @@ be-dgd,ngo-federatie,upstream,1
 be-dgd,omdm,upstream,1
 be-dgd,oww,upstream,1
 be-dgd,oxsol,upstream,1
-be-dgd,pib,upstream,1
+be-dgd,pib,upstream,2
 be-dgd,protos,upstream,2
 be-dgd,quinoa,upstream,2
 be-dgd,rcn,upstream,7
@@ -1135,7 +1139,6 @@ gac-amc,iisd,upstream,1
 gac-amc,ilo,upstream,7
 gac-amc,iom,upstream,4
 gac-amc,unhcr,upstream,39
-gain,yipl,upstream,2
 gdi,villageenterprise,upstream,1
 gecfundmanagerpwc,aaik,upstream,1
 gecfundmanagerpwc,amurt_kenya,upstream,1
@@ -1455,7 +1458,7 @@ minbuza_nl,international-alert,upstream,1
 minbuza_nl,interpeace,upstream,11
 minbuza_nl,intersos_main,upstream,2
 minbuza_nl,intrahealth,upstream,1
-minbuza_nl,iom,upstream,17
+minbuza_nl,iom,upstream,29
 minbuza_nl,ipas,upstream,1
 minbuza_nl,ippf,upstream,6
 minbuza_nl,irc,upstream,7
@@ -1565,6 +1568,7 @@ minbuza_nl,stc-international,upstream,1
 minbuza_nl,stichting-subsidiegelden-dra,upstream,4
 minbuza_nl,stichting_hivos,upstream,14
 minbuza_nl,syf,upstream,1
+minbuza_nl,t2p,upstream,1
 minbuza_nl,tan,upstream,1
 minbuza_nl,tbi,upstream,2
 minbuza_nl,tdh_foundation,upstream,1
@@ -1888,7 +1892,7 @@ uoe,ipcrg,upstream,1
 uom,iied,upstream,3
 usaid,idlo,upstream,1
 usaid,ilo,upstream,8
-usaid,iom,upstream,182
+usaid,iom,upstream,184
 usaid,itc,upstream,2
 usaid,odi,upstream,1
 usaid,saferworld,upstream,1
