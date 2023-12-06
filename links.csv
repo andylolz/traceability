@@ -31,7 +31,6 @@ bond,sinda,downstream,1
 bos_plus_tropen,be-dgd,downstream,1
 bothends,aanl,downstream,2
 bothends,ccc,downstream,2
-bothends,foei,downstream,1
 bothends,foenl,downstream,2
 bothends,itforchange,downstream,1
 bothends,samdhana_institute,downstream,1
@@ -739,7 +738,7 @@ bmz,ilo,upstream,27
 bmz,unhcr,upstream,4
 bothends,aanl,upstream,2
 bothends,ccc,upstream,1
-bothends,foei,upstream,1
+bothends,foei,upstream,2
 bothends,foenl,upstream,2
 bothends,itforchange,upstream,1
 bothends,samdhana_institute,upstream,1
@@ -976,6 +975,7 @@ fcdo,galvmed,upstream,1
 fcdo,gb-chc-220949,upstream,21
 fcdo,gca,upstream,2
 fcdo,gdi,upstream,1
+fcdo,gdihub,upstream,4
 fcdo,gecfundmanagerpwc,upstream,2
 fcdo,gi-toc,upstream,1
 fcdo,globalcanopy,upstream,1
@@ -1523,7 +1523,7 @@ minbuza_nl,pacja,upstream,1
 minbuza_nl,palladium_eur,upstream,1
 minbuza_nl,partos_nl,upstream,2
 minbuza_nl,pathfinder1,upstream,2
-minbuza_nl,pax,upstream,8
+minbuza_nl,pax,upstream,6
 minbuza_nl,pcf,upstream,2
 minbuza_nl,pidg,upstream,1
 minbuza_nl,plama,upstream,1
@@ -1707,7 +1707,6 @@ pegasys-eu,globalcanopy,upstream,1
 pegasys-eu,ran,upstream,1
 pegasys-eu,rfuk,upstream,1
 pegasys-eu,wwf-uk,upstream,1
-pin,concernuk,upstream,1
 plan_uk,aauk,upstream,1
 plan_uk,hiuk,upstream,1
 plan_uk,irc_uk,upstream,1
