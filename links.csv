@@ -924,7 +924,7 @@ fcdo,bond,upstream,3
 fcdo,britishcouncil,upstream,5
 fcdo,bvs-nepal,upstream,1
 fcdo,cabi,upstream,6
-fcdo,cafod,upstream,2218
+fcdo,cafod,upstream,2216
 fcdo,cal,upstream,6
 fcdo,carbontrustadvisory,upstream,1
 fcdo,cardnoem,upstream,5
@@ -1267,7 +1267,7 @@ manniondaniels,asil,upstream,2
 manniondaniels,b_a_t,upstream,1
 manniondaniels,bracuk,upstream,3
 manniondaniels,buildafrica,upstream,1
-manniondaniels,cafod,upstream,23
+manniondaniels,cafod,upstream,6
 manniondaniels,cbm,upstream,2
 manniondaniels,comp_uk,upstream,1
 manniondaniels,concernuk,upstream,3
@@ -1515,7 +1515,7 @@ minbuza_nl,nwo,upstream,4
 minbuza_nl,nwp,upstream,1
 minbuza_nl,odi,upstream,1
 minbuza_nl,oneacrefund,upstream,1
-minbuza_nl,onl,upstream,1509
+minbuza_nl,onl,upstream,1516
 minbuza_nl,oxfamintermon,upstream,1
 minbuza_nl,oyw,upstream,1
 minbuza_nl,p-t-f-,upstream,1
@@ -1952,9 +1952,9 @@ wvnld,tear,upstream,11
 wvnld,warchildholland,upstream,2
 wvnld,zoa,upstream,1
 wvuk,open_university,upstream,1
-wvuk,wv_cd,upstream,14
+wvuk,wv_cd,upstream,16
 wvuk,wv_cf,upstream,1
-wvuk,wv_et_activities,upstream,5
+wvuk,wv_et_activities,upstream,6
 wygi,lts,upstream,1
 zoa,agriterra,upstream,1
 zoa,carenederland,upstream,2
