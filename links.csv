@@ -698,7 +698,7 @@ be-dgd,ngo-federatie,upstream,1
 be-dgd,omdm,upstream,1
 be-dgd,oww,upstream,1
 be-dgd,oxsol,upstream,1
-be-dgd,pib,upstream,2
+be-dgd,pib,upstream,1
 be-dgd,protos,upstream,2
 be-dgd,quinoa,upstream,2
 be-dgd,rcn,upstream,7
@@ -1001,7 +1001,7 @@ fcdo,irc_uk,upstream,14
 fcdo,irw,upstream,4
 fcdo,itad,upstream,1
 fcdo,iyafp,upstream,1
-fcdo,iza,upstream,1
+fcdo,iza,upstream,3
 fcdo,jeevika_trust,upstream,1
 fcdo,jpal,upstream,2
 fcdo,kipkelion,upstream,1
@@ -1415,7 +1415,7 @@ minbuza_nl,esfd,upstream,1
 minbuza_nl,et-adf-0317,upstream,1
 minbuza_nl,f-aids,upstream,3
 minbuza_nl,fca,upstream,2
-minbuza_nl,fcam,upstream,2
+minbuza_nl,fcam,upstream,1
 minbuza_nl,fcdf,upstream,1
 minbuza_nl,fimi_iiwf_2019,upstream,2
 minbuza_nl,finddiagnostics,upstream,1
@@ -1482,7 +1482,7 @@ minbuza_nl,ldsps,upstream,1
 minbuza_nl,lpa,upstream,1
 minbuza_nl,lpi,upstream,1
 minbuza_nl,mag,upstream,3
-minbuza_nl,mamac,upstream,3
+minbuza_nl,mamac,upstream,4
 minbuza_nl,manniondaniels,upstream,2
 minbuza_nl,max-foundation,upstream,3
 minbuza_nl,mce,upstream,5
@@ -1515,7 +1515,7 @@ minbuza_nl,nwo,upstream,4
 minbuza_nl,nwp,upstream,1
 minbuza_nl,odi,upstream,1
 minbuza_nl,oneacrefund,upstream,1
-minbuza_nl,onl,upstream,1517
+minbuza_nl,onl,upstream,1520
 minbuza_nl,oxfamintermon,upstream,1
 minbuza_nl,oyw,upstream,1
 minbuza_nl,p-t-f-,upstream,1
@@ -1780,13 +1780,6 @@ scuk,sci,upstream,402
 sdc_ch,cabi,upstream,1
 sdi-int,pphpz,upstream,1
 sdi-int,sdi-k,upstream,1
-sida,asi,upstream,1
-sida,dcaf,upstream,1
-sida,f-aids,upstream,1
-sida,idlo,upstream,3
-sida,ilo,upstream,58
-sida,onl,upstream,209
-sida,pidg,upstream,1
 siharegional,ewla,upstream,1
 siharegional,fidauganda,upstream,1
 siharegional,musawah,upstream,1
