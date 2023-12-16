@@ -62,7 +62,7 @@ cordaid,tear,downstream,3
 cordaid,tlo,downstream,1
 cordaid,warchildholland,downstream,4
 cordaid,wipc,downstream,1
-cordaid,wvnld,downstream,7
+cordaid,wvnld,downstream,8
 cordaid,zoa,downstream,5
 cr,cr,downstream,1
 crane,bucksfarm,downstream,1
@@ -488,7 +488,7 @@ st_vluchteling,mcn,downstream,1
 st_vluchteling,stichting-subsidiegelden-dra,downstream,1
 st_vluchteling,wvnld,downstream,1
 stichting-subsidiegelden-dra,carenederland,downstream,3
-stichting-subsidiegelden-dra,cordaid,downstream,2
+stichting-subsidiegelden-dra,cordaid,downstream,3
 stichting-subsidiegelden-dra,dai,downstream,4
 stichting-subsidiegelden-dra,onl,downstream,2
 stichting-subsidiegelden-dra,plannlno,downstream,1
@@ -1514,7 +1514,7 @@ minbuza_nl,nwo,upstream,4
 minbuza_nl,nwp,upstream,1
 minbuza_nl,odi,upstream,1
 minbuza_nl,oneacrefund,upstream,1
-minbuza_nl,onl,upstream,1520
+minbuza_nl,onl,upstream,1521
 minbuza_nl,oxfamintermon,upstream,1
 minbuza_nl,oyw,upstream,1
 minbuza_nl,p-t-f-,upstream,1
@@ -1537,7 +1537,7 @@ minbuza_nl,redeenkind,upstream,1
 minbuza_nl,rlb,upstream,2
 minbuza_nl,rmf-lb,upstream,1
 minbuza_nl,rutgers,upstream,4
-minbuza_nl,rvo,upstream,1
+minbuza_nl,rvo,upstream,15
 minbuza_nl,saferworld,upstream,11
 minbuza_nl,sca_afghanistan,upstream,1
 minbuza_nl,scnl,upstream,12
@@ -1750,6 +1750,10 @@ rutgers,rutgers,upstream,1
 rutgers,simavi,upstream,2
 rutgers,sjg,upstream,2
 rutgers,stichting_hivos,upstream,1
+rvo,akvo,upstream,1
+rvo,cabi,upstream,1
+rvo,cordaid,upstream,1
+rvo,idlo,upstream,1
 saferworld,cr,upstream,1
 sci,concernuk,upstream,1
 scnl,carenederland,upstream,2
@@ -1829,9 +1833,10 @@ ss-org,sddirect,upstream,1
 st_vluchteling,carenederland,upstream,1
 st_vluchteling,irc_inc,upstream,2
 st_vluchteling,plannlno,upstream,1
+st_vluchteling,wvnld,upstream,1
 state,iom,upstream,70
 stichting-subsidiegelden-dra,carenederland,upstream,4
-stichting-subsidiegelden-dra,cordaid,upstream,1
+stichting-subsidiegelden-dra,cordaid,upstream,2
 stichting-subsidiegelden-dra,dai,upstream,2
 stichting-subsidiegelden-dra,onl,upstream,47
 stichting-subsidiegelden-dra,plannlno,upstream,1
