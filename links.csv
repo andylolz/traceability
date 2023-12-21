@@ -717,7 +717,7 @@ be-dgd,trias,upstream,1
 be-dgd,ub,upstream,2
 be-dgd,ucos,upstream,2
 be-dgd,ulbcoop,upstream,2
-be-dgd,unhcr,upstream,17
+be-dgd,unhcr,upstream,6
 be-dgd,uvcw,upstream,6
 be-dgd,via-db,upstream,1
 be-dgd,vlir-uos,upstream,1
@@ -1490,7 +1490,7 @@ minbuza_nl,mcn,upstream,1
 minbuza_nl,mdf,upstream,4
 minbuza_nl,mefbenin,upstream,2
 minbuza_nl,mfwa,upstream,1
-minbuza_nl,minbuza_nl,upstream,32
+minbuza_nl,minbuza_nl,upstream,33
 minbuza_nl,mm1,upstream,2
 minbuza_nl,mml,upstream,1
 minbuza_nl,mondiaalfnv,upstream,1
@@ -1515,7 +1515,7 @@ minbuza_nl,nwo,upstream,4
 minbuza_nl,nwp,upstream,1
 minbuza_nl,odi,upstream,1
 minbuza_nl,oneacrefund,upstream,1
-minbuza_nl,onl,upstream,1521
+minbuza_nl,onl,upstream,1525
 minbuza_nl,oxfamintermon,upstream,1
 minbuza_nl,oyw,upstream,1
 minbuza_nl,p-t-f-,upstream,1
