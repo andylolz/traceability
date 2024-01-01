@@ -90,7 +90,7 @@ fca,ageintl,downstream,1
 fcam,bothends,downstream,1
 fcam,mamac,downstream,1
 fcdo,ciuk,downstream,1
-fcdo,fcdo,downstream,3
+fcdo,fcdo,downstream,4
 fcdo,fhi360,downstream,1
 fcdo,healthpartners-international,downstream,1
 fcdo,ipas,downstream,1
@@ -545,6 +545,7 @@ warchildholland,wcc,downstream,1
 warchildholland,wcuk,downstream,7
 warchildholland,wvnld,downstream,1
 waste,amrefnl,downstream,2
+wccuk,fcdo,downstream,1
 wei,rains,downstream,1
 wemos,amwa,downstream,1
 wemos,fawe-rs,downstream,1
@@ -961,7 +962,7 @@ fcdo,energy_saving_trust,upstream,1
 fcdo,evc,upstream,2
 fcdo,excellent,upstream,1
 fcdo,f-aids,upstream,1
-fcdo,fcdo,upstream,24
+fcdo,fcdo,upstream,23
 fcdo,fh,upstream,2
 fcdo,foe_ewni,upstream,1
 fcdo,ftm-291333,upstream,2
