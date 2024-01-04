@@ -39,6 +39,7 @@ bothends,tni,downstream,2
 bpcrs,uoe,downstream,1
 britishcouncil,fcdo,downstream,1
 britishcouncil,pwc,downstream,1
+britishcouncil,sddirect,downstream,1
 cbm,fhfuk,downstream,1
 childhopeuk,fcdo,downstream,2
 childhopeuk,gecfundmanagerpwc,downstream,1
@@ -99,6 +100,7 @@ fcdo,irc_inc,downstream,5
 fcdo,irc_uk,downstream,1
 fcdo,lcd_admin,downstream,1
 fcdo,options,downstream,3
+fcdo,pa,downstream,1
 fcdo,plan_uk,downstream,1
 fcdo,pmc,downstream,1
 fcdo,pwc,downstream,1
@@ -299,6 +301,7 @@ manniondaniels,onetoonecf,downstream,1
 manniondaniels,opportunity-international-uk,downstream,1
 manniondaniels,orbis_international,downstream,2
 manniondaniels,orbis_uk,downstream,2
+manniondaniels,pa,downstream,1
 manniondaniels,peacedirect,downstream,1
 manniondaniels,phase_worldwide,downstream,2
 manniondaniels,phe,downstream,1
@@ -583,6 +586,7 @@ zoa,et-adf-0317,downstream,1
 zoa,icco-cooperation,downstream,1
 zoa,leprazending-tlm-nl,downstream,1
 zoa,onl,downstream,9
+zoa,pa,downstream,2
 zoa,plan_uk,downstream,1
 zoa,plannlno,downstream,1
 zoa,scnl,downstream,5
@@ -1041,6 +1045,7 @@ fcdo,orbis_africa,upstream,1
 fcdo,orbis_uk,upstream,1
 fcdo,oxfamgb,upstream,20
 fcdo,oxford,upstream,2
+fcdo,pa,upstream,2
 fcdo,palladium,upstream,16
 fcdo,pcst,upstream,1
 fcdo,pegasys-eu,upstream,1
@@ -1048,7 +1053,6 @@ fcdo,peopleinaid,upstream,1
 fcdo,phase_worldwide,upstream,1
 fcdo,phe,upstream,1
 fcdo,pidg,upstream,1
-fcdo,plan_uk,upstream,1
 fcdo,pmc,upstream,1
 fcdo,pont,upstream,1
 fcdo,populationcouncil,upstream,2
