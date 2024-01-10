@@ -162,7 +162,7 @@ irc_uk,concern_worldwide,downstream,2
 irc_uk,cuamm,downstream,1
 irc_uk,fcdo,downstream,1
 irc_uk,goal,downstream,1
-irc_uk,irc_inc,downstream,81
+irc_uk,irc_inc,downstream,82
 irc_uk,irc_uk,downstream,2
 irc_uk,msi,downstream,1
 irc_uk,restless,downstream,2
@@ -829,7 +829,7 @@ danida,unhcr,upstream,8
 danida,wwfdk,upstream,1
 ddp,dhrc_nepal,upstream,1
 dec-uk,aauk,upstream,5
-dec-uk,acf,upstream,3
+dec-uk,acf,upstream,4
 dec-uk,ageintl,upstream,8
 dec-uk,ciuk,upstream,2
 dec-uk,concern_worldwide,upstream,1
@@ -953,13 +953,12 @@ fcdo,energy_saving_trust,upstream,1
 fcdo,evc,upstream,2
 fcdo,excellent,upstream,1
 fcdo,f-aids,upstream,1
-fcdo,fcdo,upstream,23
+fcdo,fcdo,upstream,22
 fcdo,fh,upstream,2
 fcdo,foe_ewni,upstream,1
 fcdo,ftm-291333,upstream,2
 fcdo,fyf,upstream,3
 fcdo,gain,upstream,2
-fcdo,galvmed,upstream,1
 fcdo,gb-chc-220949,upstream,21
 fcdo,gca,upstream,2
 fcdo,gdi,upstream,1
@@ -1218,7 +1217,7 @@ irc_inc,zoa,upstream,1
 irc_uk,ciuk,upstream,1
 irc_uk,concern_worldwide,upstream,1
 irc_uk,hiuk,upstream,1
-irc_uk,irc_inc,upstream,89
+irc_uk,irc_inc,upstream,90
 irc_uk,irc_uk,upstream,1
 irc_uk,restless,upstream,1
 irishaid,idi,upstream,1
