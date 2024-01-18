@@ -1079,6 +1079,7 @@ fcdo,tns,upstream,2
 fcdo,traidcraft,upstream,6
 fcdo,tripleline_crownagents,upstream,2
 fcdo,troc,upstream,1
+fcdo,trocaire,upstream,1
 fcdo,ul,upstream,1
 fcdo,umn,upstream,1
 fcdo,undp,upstream,3
@@ -1433,7 +1434,7 @@ minbuza_nl,idh_im,upstream,1
 minbuza_nl,idlo,upstream,21
 minbuza_nl,idrccrdi,upstream,23
 minbuza_nl,ieu,upstream,1
-minbuza_nl,ifdc-us,upstream,6
+minbuza_nl,ifdc-us,upstream,7
 minbuza_nl,ihedelft,upstream,3
 minbuza_nl,iisd,upstream,1
 minbuza_nl,ilo,upstream,57
@@ -1853,7 +1854,7 @@ thp_org,max-foundation,upstream,1
 thp_org,scnl,upstream,1
 thp_org,wvnld,upstream,1
 traidcraft,fci,upstream,1
-undp,idlo,upstream,1
+undp,idlo,upstream,2
 undp,warchildholland,upstream,1
 unf,iif,upstream,1
 unido,ilo,upstream,3
