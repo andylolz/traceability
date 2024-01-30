@@ -1106,7 +1106,7 @@ fcdo,zoa,upstream,2
 fo_germany,unhcr,upstream,44
 foenl,foei,upstream,2
 foenl,gaia,upstream,1
-foenl,iucn_nl,upstream,1
+foenl,iucn_nl,upstream,2
 foenl,ntfp-ep,upstream,1
 foenl,sdi,upstream,1
 foenl,tbi,upstream,1
@@ -1418,6 +1418,7 @@ minbuza_nl,guttmacher,upstream,1
 minbuza_nl,hai,upstream,1
 minbuza_nl,halo,upstream,9
 minbuza_nl,hdcentre,upstream,1
+minbuza_nl,hefoundation,upstream,1
 minbuza_nl,hi_fed,upstream,3
 minbuza_nl,hif,upstream,2
 minbuza_nl,hiil_mfa,upstream,6
