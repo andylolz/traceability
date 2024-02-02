@@ -144,7 +144,7 @@ hpa,manniondaniels,downstream,1
 inasp,afelt,downstream,1
 inasp,udom,downstream,1
 inasp,umu,downstream,1
-irc,minbuza_nl,downstream,7
+irc,minbuza_nl,downstream,6
 irc_inc,bbcmediaaction,downstream,1
 irc_inc,concern_worldwide,downstream,2
 irc_inc,concernuk,downstream,2
@@ -1052,7 +1052,7 @@ fcdo,saferworld,upstream,7
 fcdo,sciaf,upstream,1
 fcdo,sct,upstream,1
 fcdo,scuk,upstream,1
-fcdo,sddirect,upstream,3
+fcdo,sddirect,upstream,4
 fcdo,sendacow,upstream,4
 fcdo,sense_international,upstream,2
 fcdo,sfcg,upstream,1
@@ -1171,7 +1171,6 @@ guttmacher,iyafp,upstream,1
 guttmacher,knust,upstream,1
 guttmacher,orientame,upstream,1
 hai,twz1,upstream,1
-hewlett-foundation,manniondaniels,upstream,1
 hiuk,hi_fed,upstream,8
 hpa,lcdi_admin,upstream,1
 hpa,tamtf,upstream,1
@@ -1475,7 +1474,7 @@ minbuza_nl,mcn,upstream,1
 minbuza_nl,mdf,upstream,4
 minbuza_nl,mefbenin,upstream,2
 minbuza_nl,mfwa,upstream,1
-minbuza_nl,minbuza_nl,upstream,34
+minbuza_nl,minbuza_nl,upstream,35
 minbuza_nl,mm1,upstream,2
 minbuza_nl,mml,upstream,1
 minbuza_nl,mondiaalfnv,upstream,1
