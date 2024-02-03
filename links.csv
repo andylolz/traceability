@@ -130,7 +130,6 @@ gecfundmanagerpwc,opportunity-international-uk,downstream,2
 gecfundmanagerpwc,peas,downstream,2
 gecfundmanagerpwc,plan_uk,downstream,2
 gecfundmanagerpwc,rains,downstream,1
-gecfundmanagerpwc,scuk,downstream,1
 gecfundmanagerpwc,street_child,downstream,1
 gecfundmanagerpwc,varkeyfoundation,downstream,1
 gecfundmanagerpwc,viva,downstream,1
@@ -317,7 +316,6 @@ manniondaniels,rtp_uk,downstream,1
 manniondaniels,saferworld,downstream,1
 manniondaniels,sciaf,downstream,2
 manniondaniels,sct,downstream,1
-manniondaniels,scuk,downstream,2
 manniondaniels,self-help-africa,downstream,1
 manniondaniels,sendacow,downstream,2
 manniondaniels,sense_international,downstream,2
@@ -613,8 +611,6 @@ aauk,aar,upstream,1
 acf,aahusa,upstream,1
 acf,acf-fr,upstream,1
 aecom,sddirect,upstream,1
-afdb,iom,upstream,1
-afdb,unhcr,upstream,2
 afghanaid,concernuk,upstream,1
 aics,ilo,upstream,15
 aics,iom,upstream,1
@@ -1051,7 +1047,6 @@ fcdo,rspb_,upstream,1
 fcdo,saferworld,upstream,7
 fcdo,sciaf,upstream,1
 fcdo,sct,upstream,1
-fcdo,scuk,upstream,1
 fcdo,sddirect,upstream,4
 fcdo,sendacow,upstream,4
 fcdo,sense_international,upstream,2
@@ -1536,7 +1531,7 @@ minbuza_nl,siren,upstream,1
 minbuza_nl,siwi,upstream,1
 minbuza_nl,sjac,upstream,1
 minbuza_nl,skf,upstream,1
-minbuza_nl,snv,upstream,18
+minbuza_nl,snv,upstream,19
 minbuza_nl,solidaridad,upstream,2
 minbuza_nl,solidaridad-europe,upstream,1
 minbuza_nl,solidaridad-ssea,upstream,2
@@ -1726,7 +1721,6 @@ rvo,cabi,upstream,1
 rvo,cordaid,upstream,1
 rvo,idlo,upstream,1
 saferworld,cr,upstream,1
-sci,concernuk,upstream,1
 scnl,carenederland,upstream,2
 scnl,cordaid,upstream,5
 scnl,dai,upstream,3
@@ -1742,10 +1736,6 @@ scnl,warchildholland,upstream,6
 scnl,wcc,upstream,1
 scnl,wvnld,upstream,2
 scnl,zoa,upstream,8
-scuk,concernuk,upstream,1
-scuk,irc_inc,upstream,2
-scuk,irc_uk,upstream,6
-scuk,sci,upstream,402
 sdi-int,pphpz,upstream,1
 sdi-int,sdi-k,upstream,1
 siharegional,ewla,upstream,1
