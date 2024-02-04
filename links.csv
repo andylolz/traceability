@@ -130,6 +130,7 @@ gecfundmanagerpwc,opportunity-international-uk,downstream,2
 gecfundmanagerpwc,peas,downstream,2
 gecfundmanagerpwc,plan_uk,downstream,2
 gecfundmanagerpwc,rains,downstream,1
+gecfundmanagerpwc,scuk,downstream,1
 gecfundmanagerpwc,street_child,downstream,1
 gecfundmanagerpwc,varkeyfoundation,downstream,1
 gecfundmanagerpwc,viva,downstream,1
@@ -316,6 +317,7 @@ manniondaniels,rtp_uk,downstream,1
 manniondaniels,saferworld,downstream,1
 manniondaniels,sciaf,downstream,2
 manniondaniels,sct,downstream,1
+manniondaniels,scuk,downstream,2
 manniondaniels,self-help-africa,downstream,1
 manniondaniels,sendacow,downstream,2
 manniondaniels,sense_international,downstream,2
@@ -850,7 +852,7 @@ ec-echo,iom,upstream,92
 ec-echo,nlrc,upstream,2
 ec-echo,onl,upstream,40
 ec-echo,tdh_nl,upstream,4
-ec-echo,unhcr,upstream,327
+ec-echo,unhcr,upstream,328
 ec-echo,warchildholland,upstream,4
 ecuk,sddirect,upstream,1
 elrha,irc_uk,upstream,1
@@ -1047,6 +1049,7 @@ fcdo,rspb_,upstream,1
 fcdo,saferworld,upstream,7
 fcdo,sciaf,upstream,1
 fcdo,sct,upstream,1
+fcdo,scuk,upstream,1
 fcdo,sddirect,upstream,4
 fcdo,sendacow,upstream,4
 fcdo,sense_international,upstream,2
@@ -1166,6 +1169,7 @@ guttmacher,iyafp,upstream,1
 guttmacher,knust,upstream,1
 guttmacher,orientame,upstream,1
 hai,twz1,upstream,1
+hewlett-foundation,manniondaniels,upstream,1
 hiuk,hi_fed,upstream,8
 hpa,lcdi_admin,upstream,1
 hpa,tamtf,upstream,1
@@ -1721,6 +1725,7 @@ rvo,cabi,upstream,1
 rvo,cordaid,upstream,1
 rvo,idlo,upstream,1
 saferworld,cr,upstream,1
+sci,concernuk,upstream,1
 scnl,carenederland,upstream,2
 scnl,cordaid,upstream,5
 scnl,dai,upstream,3
@@ -1736,6 +1741,10 @@ scnl,warchildholland,upstream,6
 scnl,wcc,upstream,1
 scnl,wvnld,upstream,2
 scnl,zoa,upstream,8
+scuk,concernuk,upstream,1
+scuk,irc_inc,upstream,2
+scuk,irc_uk,upstream,6
+scuk,sci,upstream,402
 sdi-int,pphpz,upstream,1
 sdi-int,sdi-k,upstream,1
 siharegional,ewla,upstream,1
