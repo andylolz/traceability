@@ -613,6 +613,8 @@ aauk,aar,upstream,1
 acf,aahusa,upstream,1
 acf,acf-fr,upstream,1
 aecom,sddirect,upstream,1
+afdb,iom,upstream,1
+afdb,unhcr,upstream,2
 afghanaid,concernuk,upstream,1
 aics,ilo,upstream,15
 aics,iom,upstream,1
@@ -834,7 +836,6 @@ dec-uk,plan_uk,upstream,5
 dec-uk,tearfund,upstream,4
 defra_transparency,cgiar,upstream,2
 dhsc,mml,upstream,2
-dhsc,uct,upstream,1
 dhsc,uwe,upstream,1
 drc,bbcmediaaction,upstream,1
 drc,cdacnetwork,upstream,2
@@ -1001,7 +1002,7 @@ fcdo,lstm,upstream,2
 fcdo,lts,upstream,2
 fcdo,m2m_sa,upstream,1
 fcdo,mag,upstream,2
-fcdo,malariaconsortium,upstream,4
+fcdo,malariaconsortium,upstream,3
 fcdo,manniondaniels,upstream,3
 fcdo,marysmeals,upstream,1
 fcdo,mce,upstream,8
