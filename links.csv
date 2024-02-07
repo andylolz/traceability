@@ -158,13 +158,11 @@ irc_inc,restless,downstream,2
 irc_inc,zoa,downstream,1
 irc_uk,bbcmediaaction,downstream,1
 irc_uk,concern_worldwide,downstream,2
-irc_uk,cuamm,downstream,1
 irc_uk,fcdo,downstream,1
-irc_uk,goal,downstream,1
 irc_uk,irc_inc,downstream,82
 irc_uk,irc_uk,downstream,2
 irc_uk,msi,downstream,1
-irc_uk,restless,downstream,2
+irc_uk,restless,downstream,1
 itad,fcdo,downstream,1
 jass,cal_2000-pu,downstream,1
 jass,genderatwork,downstream,1
@@ -1002,7 +1000,7 @@ fcdo,lstm,upstream,2
 fcdo,lts,upstream,2
 fcdo,m2m_sa,upstream,1
 fcdo,mag,upstream,2
-fcdo,malariaconsortium,upstream,3
+fcdo,malariaconsortium,upstream,4
 fcdo,manniondaniels,upstream,3
 fcdo,marysmeals,upstream,1
 fcdo,mce,upstream,8
@@ -1207,11 +1205,11 @@ irc_inc,msi,upstream,1
 irc_inc,restless,upstream,2
 irc_inc,zoa,upstream,1
 irc_uk,ciuk,upstream,1
-irc_uk,concern_worldwide,upstream,1
+irc_uk,goal,upstream,1
 irc_uk,hiuk,upstream,1
 irc_uk,irc_inc,upstream,90
 irc_uk,irc_uk,upstream,1
-irc_uk,restless,upstream,1
+irc_uk,restless,upstream,2
 irishaid,idi,upstream,1
 irishaid,iied,upstream,1
 irishaid,odi,upstream,1
@@ -1435,7 +1433,7 @@ minbuza_nl,ieu,upstream,1
 minbuza_nl,ifdc-us,upstream,7
 minbuza_nl,ihedelft,upstream,3
 minbuza_nl,iisd,upstream,1
-minbuza_nl,ilo,upstream,69
+minbuza_nl,ilo,upstream,67
 minbuza_nl,imc_uk,upstream,1
 minbuza_nl,inbar,upstream,1
 minbuza_nl,international-alert,upstream,1
@@ -1537,7 +1535,7 @@ minbuza_nl,siwi,upstream,1
 minbuza_nl,sjac,upstream,1
 minbuza_nl,skf,upstream,1
 minbuza_nl,snv,upstream,19
-minbuza_nl,solidaridad,upstream,2
+minbuza_nl,solidaridad,upstream,3
 minbuza_nl,solidaridad-europe,upstream,1
 minbuza_nl,solidaridad-ssea,upstream,2
 minbuza_nl,solidaridad-waf,upstream,2
@@ -1628,7 +1626,7 @@ nlrc,carenederland,upstream,1
 nlrc,cordaid,upstream,1
 nlrc,crb-ai_admin,upstream,1
 nlrc,wi,upstream,2
-norad,ilo,upstream,87
+norad,ilo,upstream,89
 norad,tffus,upstream,1
 norad,unhcr,upstream,4
 norad,w-d,upstream,1
