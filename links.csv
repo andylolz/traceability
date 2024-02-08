@@ -564,7 +564,6 @@ world_ywca,kit,downstream,1
 world_ywca,ywcakenya,downstream,1
 world_ywca,ywcass,downstream,1
 worldwaternet,aw,downstream,1
-wv_de,wvi,downstream,148
 wvnld,cordaid,downstream,2
 wvnld,dai,downstream,1
 wvnld,onl,downstream,1
@@ -573,9 +572,7 @@ wvnld,scnl,downstream,1
 wvnld,st_vluchteling,downstream,1
 wvnld,warchildholland,downstream,1
 wvnld,wcuk,downstream,1
-wvnld,wvi,downstream,12
 wvnld,zoa,downstream,1
-wvuk,wvi,downstream,122
 zoa,agriterra,downstream,1
 zoa,carenederland,downstream,2
 zoa,cordaid,downstream,7
@@ -976,7 +973,7 @@ fcdo,interburns,upstream,1
 fcdo,iom,upstream,17
 fcdo,ipeglobal,upstream,7
 fcdo,ippf,upstream,4
-fcdo,irc_inc,upstream,5
+fcdo,irc_inc,upstream,4
 fcdo,irc_uk,upstream,14
 fcdo,irw,upstream,4
 fcdo,itad,upstream,1
@@ -1156,7 +1153,6 @@ giro555,st_vluchteling,upstream,12
 giro555,tdh_nl,upstream,1
 giro555,tear,upstream,6
 giro555,unicefnl,upstream,3
-giro555,wvi,upstream,2
 giro555,wvnld,upstream,4
 gppac,wfm-igp,upstream,1
 guttmacher,arcfge,upstream,1
@@ -1852,8 +1848,12 @@ uoe,bpcrs,upstream,1
 uoe,icddrb,upstream,1
 uoe,ipcrg,upstream,1
 uom,iied,upstream,3
-usaid,iom,upstream,88
+usaid,idlo,upstream,1
+usaid,ilo,upstream,8
+usaid,iom,upstream,190
 usaid,itc,upstream,2
+usaid,odi,upstream,1
+usaid,saferworld,upstream,1
 viva,bucksfarm,upstream,1
 viva,crane,upstream,1
 vso,aasaman,upstream,1
