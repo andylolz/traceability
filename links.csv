@@ -146,6 +146,7 @@ inasp,udom,downstream,1
 inasp,umu,downstream,1
 irc,minbuza_nl,downstream,6
 irc_inc,bbcmediaaction,downstream,1
+irc_inc,ciuk,downstream,1
 irc_inc,concern_worldwide,downstream,2
 irc_inc,concernuk,downstream,2
 irc_inc,cuamm,downstream,1
@@ -1200,7 +1201,6 @@ irc_inc,mcn,upstream,1
 irc_inc,msi,upstream,1
 irc_inc,restless,upstream,2
 irc_inc,zoa,upstream,1
-irc_uk,ciuk,upstream,1
 irc_uk,goal,upstream,1
 irc_uk,hiuk,upstream,1
 irc_uk,irc_inc,upstream,90
