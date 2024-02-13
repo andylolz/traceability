@@ -160,7 +160,7 @@ irc_inc,zoa,downstream,1
 irc_uk,bbcmediaaction,downstream,1
 irc_uk,concern_worldwide,downstream,2
 irc_uk,fcdo,downstream,1
-irc_uk,irc_inc,downstream,82
+irc_uk,irc_inc,downstream,84
 irc_uk,irc_uk,downstream,2
 irc_uk,msi,downstream,1
 irc_uk,restless,downstream,1
@@ -1127,7 +1127,7 @@ gecfundmanagerpwc,dla,upstream,1
 gecfundmanagerpwc,eddevtrust,upstream,1
 gecfundmanagerpwc,gecfundmanagerpwc,upstream,1
 gecfundmanagerpwc,hpa,upstream,1
-gecfundmanagerpwc,irc_inc,upstream,2
+gecfundmanagerpwc,irc_inc,upstream,1
 gecfundmanagerpwc,irc_uk,upstream,3
 gecfundmanagerpwc,kesho_kenya,upstream,1
 gecfundmanagerpwc,lcd_admin,upstream,2
