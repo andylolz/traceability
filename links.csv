@@ -97,11 +97,12 @@ fcdo,ipas,downstream,1
 fcdo,ippf,downstream,1
 fcdo,irc_inc,downstream,5
 fcdo,lcd_admin,downstream,1
-fcdo,options,downstream,3
+fcdo,options,downstream,2
 fcdo,pa,downstream,1
 fcdo,plan_uk,downstream,1
 fcdo,pmc,downstream,1
 fcdo,pwc,downstream,1
+fcdo,sddirect,downstream,1
 fcdo,sinda,downstream,1
 foenl,foei,downstream,2
 foenl,gaia,downstream,1
@@ -397,7 +398,7 @@ msi,ippf,downstream,1
 msi,irc_inc,downstream,1
 msi,lcd_admin,downstream,1
 msi,minbuza_nl,downstream,1
-msi,options,downstream,3
+msi,options,downstream,2
 msi,pmc,downstream,1
 msi,promsex,downstream,1
 nimd-hq,awepa,downstream,1
@@ -988,6 +989,7 @@ fcdo,jpal,upstream,2
 fcdo,kipkelion,upstream,1
 fcdo,kpmgea,upstream,3
 fcdo,kpmgllp,upstream,1
+fcdo,lbg,upstream,1
 fcdo,lboro,upstream,1
 fcdo,lbs,upstream,1
 fcdo,lcd_admin,upstream,4
@@ -1018,7 +1020,7 @@ fcdo,odi_sales_ltd,upstream,6
 fcdo,onetoonecf,upstream,1
 fcdo,onl,upstream,2
 fcdo,opml,upstream,2
-fcdo,options,upstream,13
+fcdo,options,upstream,12
 fcdo,orbis_africa,upstream,1
 fcdo,orbis_uk,upstream,1
 fcdo,oxfamgb,upstream,20
@@ -1050,7 +1052,7 @@ fcdo,saferworld,upstream,7
 fcdo,sciaf,upstream,1
 fcdo,sct,upstream,1
 fcdo,scuk,upstream,1
-fcdo,sddirect,upstream,4
+fcdo,sddirect,upstream,5
 fcdo,sendacow,upstream,4
 fcdo,sense_international,upstream,2
 fcdo,sfcg,upstream,1
@@ -1153,7 +1155,7 @@ giro555,nlrc,upstream,19
 giro555,pax,upstream,1
 giro555,plannlno,upstream,5
 giro555,scnl,upstream,6
-giro555,st_vluchteling,upstream,16
+giro555,st_vluchteling,upstream,20
 giro555,tdh_nl,upstream,1
 giro555,tear,upstream,6
 giro555,unicefnl,upstream,3
@@ -1390,7 +1392,6 @@ minbuza_nl,ejc,upstream,1
 minbuza_nl,elrha,upstream,1
 minbuza_nl,engenderhealth_eth,upstream,1
 minbuza_nl,esfd,upstream,1
-minbuza_nl,et-adf-0317,upstream,1
 minbuza_nl,ewdna2025,upstream,1
 minbuza_nl,f-aids,upstream,3
 minbuza_nl,fca,upstream,2
@@ -1459,6 +1460,7 @@ minbuza_nl,kit,upstream,1
 minbuza_nl,ktk,upstream,1
 minbuza_nl,law,upstream,1
 minbuza_nl,ldsps,upstream,1
+minbuza_nl,leprazending-tlm-nl,upstream,1
 minbuza_nl,lifed_admin,upstream,1
 minbuza_nl,lpa,upstream,1
 minbuza_nl,lpi,upstream,1
@@ -1468,7 +1470,7 @@ minbuza_nl,manniondaniels,upstream,2
 minbuza_nl,max-foundation,upstream,3
 minbuza_nl,mce,upstream,5
 minbuza_nl,mcn,upstream,1
-minbuza_nl,mdf,upstream,4
+minbuza_nl,mdf,upstream,5
 minbuza_nl,mefbenin,upstream,2
 minbuza_nl,mfwa,upstream,1
 minbuza_nl,minbuza_nl,upstream,35
@@ -1553,6 +1555,7 @@ minbuza_nl,tan,upstream,1
 minbuza_nl,tbi,upstream,1
 minbuza_nl,tdh_foundation,upstream,1
 minbuza_nl,tdh_nl,upstream,6
+minbuza_nl,tha,upstream,1
 minbuza_nl,thp_org,upstream,1
 minbuza_nl,ti-uk,upstream,1
 minbuza_nl,tifa_foundation,upstream,1
@@ -1569,7 +1572,7 @@ minbuza_nl,unocha-sdc,upstream,2
 minbuza_nl,utz,upstream,1
 minbuza_nl,uvw,upstream,1
 minbuza_nl,vei_nl,upstream,3
-minbuza_nl,vngi,upstream,10
+minbuza_nl,vngi,upstream,11
 minbuza_nl,w-d,upstream,2
 minbuza_nl,wageningen_ur,upstream,10
 minbuza_nl,warchildholland,upstream,8
