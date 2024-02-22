@@ -78,7 +78,6 @@ dai,tear,downstream,1
 dai,wvnld,downstream,1
 danida,di,downstream,1
 ddp,dhrc_nepal,downstream,2
-drc,hiuk,downstream,1
 drc,irc_inc,downstream,1
 drc,irc_uk,downstream,2
 emms,dgmh,downstream,1
@@ -419,6 +418,7 @@ orbis_uk,orbis_africa,downstream,1
 orbis_uk,orbis_ethiopia,downstream,1
 orbis_uk,orbis_international,downstream,3
 pacja,minbuza_nl,downstream,1
+pax,amnesty,downstream,1
 pax,arcfge,downstream,1
 pax,defenddefenders,downstream,1
 plan_uk,irc_inc,downstream,1
@@ -935,7 +935,7 @@ fcdo,dc,upstream,1
 fcdo,ddp,upstream,4
 fcdo,dec-uk,upstream,5
 fcdo,dmi_admin,upstream,1
-fcdo,drc,upstream,6
+fcdo,drc,upstream,5
 fcdo,ecuk,upstream,3
 fcdo,eddevtrust,upstream,1
 fcdo,educomm,upstream,1
@@ -965,7 +965,7 @@ fcdo,gsma_foundation,upstream,504
 fcdo,handinhand,upstream,1
 fcdo,hha,upstream,1
 fcdo,hi,upstream,4
-fcdo,hiuk,upstream,7
+fcdo,hiuk,upstream,8
 fcdo,htspe,upstream,2
 fcdo,icf,upstream,4
 fcdo,idi,upstream,1
@@ -1672,6 +1672,7 @@ palladium,hiuk,upstream,1
 palladium,manniondaniels,upstream,1
 palladium,sddirect,upstream,1
 palladium_eur,lftw-int,upstream,1
+pax,amnesty,upstream,1
 pax,arcfge,upstream,1
 pax,defenddefenders,upstream,1
 pcst,pcst,upstream,1
