@@ -567,6 +567,7 @@ world_ywca,kit,downstream,1
 world_ywca,ywcakenya,downstream,1
 world_ywca,ywcass,downstream,1
 worldwaternet,aw,downstream,1
+wv_de,wvi,downstream,148
 wvnld,cordaid,downstream,2
 wvnld,dai,downstream,1
 wvnld,onl,downstream,1
@@ -575,7 +576,9 @@ wvnld,scnl,downstream,1
 wvnld,st_vluchteling,downstream,1
 wvnld,warchildholland,downstream,1
 wvnld,wcuk,downstream,1
+wvnld,wvi,downstream,12
 wvnld,zoa,downstream,1
+wvuk,wvi,downstream,127
 zoa,agriterra,downstream,1
 zoa,carenederland,downstream,2
 zoa,cordaid,downstream,7
@@ -1159,6 +1162,7 @@ giro555,st_vluchteling,upstream,20
 giro555,tdh_nl,upstream,1
 giro555,tear,upstream,6
 giro555,unicefnl,upstream,3
+giro555,wvi,upstream,2
 giro555,wvnld,upstream,4
 gppac,wfm-igp,upstream,1
 guttmacher,arcfge,upstream,1
@@ -1436,7 +1440,7 @@ minbuza_nl,ilo,upstream,68
 minbuza_nl,imc_uk,upstream,1
 minbuza_nl,inbar,upstream,1
 minbuza_nl,international-alert,upstream,1
-minbuza_nl,interpeace,upstream,11
+minbuza_nl,interpeace,upstream,1
 minbuza_nl,intersos_main,upstream,2
 minbuza_nl,intrahealth,upstream,1
 minbuza_nl,iom,upstream,30
@@ -1534,7 +1538,7 @@ minbuza_nl,siren,upstream,1
 minbuza_nl,siwi,upstream,1
 minbuza_nl,sjac,upstream,1
 minbuza_nl,skf,upstream,1
-minbuza_nl,snv,upstream,19
+minbuza_nl,snv,upstream,20
 minbuza_nl,solidaridad,upstream,3
 minbuza_nl,solidaridad-europe,upstream,1
 minbuza_nl,solidaridad-ssea,upstream,2
