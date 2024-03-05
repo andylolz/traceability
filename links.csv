@@ -1488,7 +1488,7 @@ minbuza_nl,ncea,upstream,7
 minbuza_nl,nchrdk,upstream,1
 minbuza_nl,ndsicde,upstream,1
 minbuza_nl,nfp,upstream,2
-minbuza_nl,nimd-hq,upstream,2
+minbuza_nl,nimd-hq,upstream,6
 minbuza_nl,nl-kvk-41207989,upstream,3
 minbuza_nl,nl-kvk-54436222-27541,upstream,40
 minbuza_nl,nl_wg,upstream,1
@@ -1616,7 +1616,13 @@ msi,ippf,upstream,1
 msi,irc_inc,upstream,1
 msi,lcd_admin,upstream,1
 msi,options,upstream,2
+nimd-hq,amwa,upstream,3
 nimd-hq,awepa,upstream,1
+nimd-hq,bltp,upstream,3
+nimd-hq,cemi,upstream,3
+nimd-hq,gen,upstream,3
+nimd-hq,gorin,upstream,3
+nimd-hq,saferworld,upstream,3
 nl-kvk-41207989,galz,upstream,3
 nl-kvk-41207989,gnpplus,upstream,2
 nl-kvk-41207989,isdao,upstream,1
