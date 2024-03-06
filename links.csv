@@ -92,11 +92,9 @@ fcdo,ciuk,downstream,1
 fcdo,fcdo,downstream,3
 fcdo,fhi360,downstream,1
 fcdo,healthpartners-international,downstream,1
-fcdo,ipas,downstream,1
 fcdo,ippf,downstream,1
 fcdo,irc_inc,downstream,5
-fcdo,lcd_admin,downstream,1
-fcdo,options,downstream,2
+fcdo,options,downstream,1
 fcdo,pa,downstream,1
 fcdo,plan_uk,downstream,1
 fcdo,pmc,downstream,1
@@ -171,7 +169,6 @@ jass,genderatwork,downstream,1
 jass,pekka_21,downstream,1
 lcd_admin,plan_uk,downstream,1
 loftf,di,downstream,1
-lts,snv,downstream,1
 mamac,creausa-org,downstream,1
 mamac,jass,downstream,1
 manniondaniels,_admin,downstream,1
@@ -372,21 +369,19 @@ mefbenin,ine_benin,downstream,1
 mefbenin,ze,downstream,1
 minbuza_nl,agriterra,downstream,1
 minbuza_nl,carenederland,downstream,1
-minbuza_nl,cidr,downstream,1
 minbuza_nl,fowode,downstream,1
 minbuza_nl,icwrsa,downstream,1
 minbuza_nl,jass,downstream,1
-minbuza_nl,minbuza_nl,downstream,1
+minbuza_nl,minbuza_nl,downstream,2
 minbuza_nl,nuwodu,downstream,1
 minbuza_nl,onl,downstream,2
 minbuza_nl,plannlno,downstream,1
 minbuza_nl,promsex,downstream,1
-minbuza_nl,protos,downstream,1
 minbuza_nl,scnl,downstream,2
 minbuza_nl,st_vluchteling,downstream,1
 minbuza_nl,swda,downstream,1
 minbuza_nl,tdh_nl,downstream,1
-minbuza_nl,vngi,downstream,2
+minbuza_nl,vngi,downstream,1
 minbuza_nl,wipc,downstream,1
 minbuza_nl,wvnld,downstream,1
 msi,ciuk,downstream,1
@@ -465,11 +460,6 @@ siharegional,fidauganda,downstream,1
 siharegional,musawah,downstream,1
 siharegional,nagaad,downstream,1
 simavi,amrefnl,downstream,1
-snv,cidr,downstream,1
-snv,hsi,downstream,1
-snv,onl,downstream,1
-snv,protos,downstream,2
-snv,vngi,downstream,1
 sosnl,carenederland,downstream,1
 sosnl,cordaid,downstream,3
 sosnl,icco-cooperation,downstream,1
@@ -979,9 +969,10 @@ fcdo,ilo,upstream,51
 fcdo,imcw_admin,upstream,7
 fcdo,interburns,upstream,1
 fcdo,iom,upstream,17
+fcdo,ipas,upstream,1
 fcdo,ipeglobal,upstream,7
 fcdo,ippf,upstream,4
-fcdo,irc_inc,upstream,4
+fcdo,irc_inc,upstream,5
 fcdo,irc_uk,upstream,14
 fcdo,irw,upstream,4
 fcdo,itad,upstream,1
@@ -1036,7 +1027,6 @@ fcdo,peopleinaid,upstream,1
 fcdo,phase_worldwide,upstream,1
 fcdo,phe,upstream,1
 fcdo,pidg,upstream,1
-fcdo,pmc,upstream,1
 fcdo,pont,upstream,1
 fcdo,populationcouncil,upstream,2
 fcdo,pri,upstream,1
@@ -1060,7 +1050,6 @@ fcdo,sendacow,upstream,4
 fcdo,sense_international,upstream,2
 fcdo,sfcg,upstream,1
 fcdo,sfd-yemen,upstream,1
-fcdo,snv,upstream,1
 fcdo,soas,upstream,2
 fcdo,spuk,upstream,3
 fcdo,ss-org,upstream,137
@@ -1368,7 +1357,6 @@ minbuza_nl,cdc_ohg,upstream,1
 minbuza_nl,cdi_vn_2021,upstream,1
 minbuza_nl,cesc,upstream,1
 minbuza_nl,chs_alliance,upstream,2
-minbuza_nl,cidr,upstream,1
 minbuza_nl,cilc,upstream,1
 minbuza_nl,cis,upstream,1
 minbuza_nl,civic_admin,upstream,2
@@ -1423,7 +1411,7 @@ minbuza_nl,hefoundation,upstream,1
 minbuza_nl,hi_fed,upstream,3
 minbuza_nl,hif,upstream,2
 minbuza_nl,hiil_mfa,upstream,6
-minbuza_nl,hsi,upstream,2
+minbuza_nl,hsi,upstream,1
 minbuza_nl,ibfd,upstream,40
 minbuza_nl,icco-cooperation,upstream,18
 minbuza_nl,icnl_org,upstream,5
@@ -1477,7 +1465,7 @@ minbuza_nl,mcn,upstream,1
 minbuza_nl,mdf,upstream,5
 minbuza_nl,mefbenin,upstream,2
 minbuza_nl,mfwa,upstream,1
-minbuza_nl,minbuza_nl,upstream,35
+minbuza_nl,minbuza_nl,upstream,33
 minbuza_nl,mm1,upstream,2
 minbuza_nl,mml,upstream,1
 minbuza_nl,mondiaalfnv,upstream,1
@@ -1516,7 +1504,6 @@ minbuza_nl,pidg,upstream,1
 minbuza_nl,plama,upstream,1
 minbuza_nl,plannlno,upstream,9
 minbuza_nl,ppag_123,upstream,2
-minbuza_nl,protos,upstream,1
 minbuza_nl,psi,upstream,3
 minbuza_nl,pstc_1102,upstream,1
 minbuza_nl,pumnl,upstream,1
@@ -1538,7 +1525,7 @@ minbuza_nl,siren,upstream,1
 minbuza_nl,siwi,upstream,1
 minbuza_nl,sjac,upstream,1
 minbuza_nl,skf,upstream,1
-minbuza_nl,snv,upstream,20
+minbuza_nl,snv,upstream,1
 minbuza_nl,solidaridad,upstream,3
 minbuza_nl,solidaridad-europe,upstream,1
 minbuza_nl,solidaridad-ssea,upstream,2
@@ -1576,7 +1563,7 @@ minbuza_nl,unocha-sdc,upstream,2
 minbuza_nl,utz,upstream,1
 minbuza_nl,uvw,upstream,1
 minbuza_nl,vei_nl,upstream,3
-minbuza_nl,vngi,upstream,11
+minbuza_nl,vngi,upstream,10
 minbuza_nl,w-d,upstream,2
 minbuza_nl,wageningen_ur,upstream,10
 minbuza_nl,warchildholland,upstream,8
@@ -1708,7 +1695,6 @@ plannlno,rutgers,upstream,1
 plannlno,stad,upstream,1
 plannlno,tdh_nl,upstream,2
 practica,amrefnl,upstream,1
-protos,snv,upstream,1
 psi,msi,upstream,1
 pwc,acu,upstream,4
 pwc,britishcouncil,upstream,1
@@ -1785,11 +1771,6 @@ simavi,vhai-org,upstream,1
 simavi,wai,upstream,1
 simavi,waste,upstream,1
 simavi,wi,upstream,2
-snv,cidr,upstream,1
-snv,hsi,upstream,1
-snv,idh,upstream,1
-snv,protos,upstream,1
-snv,vngi,upstream,1
 solidaridad,bwi,upstream,2
 solidaridad,fairfood,upstream,5
 solidaridad,trustafrica,upstream,16
