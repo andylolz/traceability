@@ -372,7 +372,7 @@ mefbenin,ze,downstream,1
 minbuza_nl,agriterra,downstream,1
 minbuza_nl,carenederland,downstream,1
 minbuza_nl,cidr,downstream,1
-minbuza_nl,ewdna2025,downstream,1
+minbuza_nl,fowode,downstream,1
 minbuza_nl,icwrsa,downstream,1
 minbuza_nl,jass,downstream,1
 minbuza_nl,minbuza_nl,downstream,2
@@ -382,7 +382,6 @@ minbuza_nl,promsex,downstream,1
 minbuza_nl,protos,downstream,1
 minbuza_nl,scnl,downstream,2
 minbuza_nl,st_vluchteling,downstream,1
-minbuza_nl,swda,downstream,1
 minbuza_nl,tdh_nl,downstream,1
 minbuza_nl,vngi,downstream,2
 minbuza_nl,wctc,downstream,1
@@ -962,7 +961,7 @@ fcdo,gdihub,upstream,4
 fcdo,gecfundmanagerpwc,upstream,3
 fcdo,gi-toc,upstream,1
 fcdo,globalcanopy,upstream,1
-fcdo,gsma_foundation,upstream,504
+fcdo,gsma_foundation,upstream,115
 fcdo,handinhand,upstream,1
 fcdo,hha,upstream,1
 fcdo,hi,upstream,4
@@ -1122,7 +1121,6 @@ gac-amc,iisd,upstream,1
 gac-amc,ilo,upstream,10
 gac-amc,iom,upstream,4
 gac-amc,unhcr,upstream,39
-gain,yipl,upstream,1
 gdi,villageenterprise,upstream,1
 gecfundmanagerpwc,aaik,upstream,1
 gecfundmanagerpwc,amurt_kenya,upstream,1
@@ -1427,7 +1425,7 @@ minbuza_nl,icnl_org,upstream,5
 minbuza_nl,ictj,upstream,23
 minbuza_nl,idh,upstream,13
 minbuza_nl,idh_im,upstream,1
-minbuza_nl,idlo,upstream,21
+minbuza_nl,idlo,upstream,22
 minbuza_nl,idrccrdi,upstream,24
 minbuza_nl,ieu,upstream,1
 minbuza_nl,ifdc-us,upstream,7
