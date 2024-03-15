@@ -1573,7 +1573,6 @@ minbuza_nl,utz,upstream,1
 minbuza_nl,uvw,upstream,1
 minbuza_nl,vei_nl,upstream,3
 minbuza_nl,vngi,upstream,11
-minbuza_nl,w-d,upstream,2
 minbuza_nl,wageningen_ur,upstream,10
 minbuza_nl,warchildholland,upstream,8
 minbuza_nl,waste,upstream,1
@@ -1637,7 +1636,6 @@ nlrc,wi,upstream,2
 norad,ilo,upstream,96
 norad,tffus,upstream,1
 norad,unhcr,upstream,4
-norad,w-d,upstream,1
 nrc,acf,upstream,1
 nrc,irc_uk,upstream,1
 nso,icco-cooperation,upstream,3
@@ -1877,10 +1875,6 @@ vso,alfalit,upstream,1
 vso,anda,upstream,1
 vso,gan,upstream,1
 vso,hiuk,upstream,1
-w-d,csci_benkadi,upstream,1
-w-d,pascib_benin,upstream,1
-w-d,seco-ong-mali,upstream,1
-w-d,spong-burkina,upstream,2
 warchildholland,knvb,upstream,1
 warchildholland,onl,upstream,6
 warchildholland,rtp,upstream,1
