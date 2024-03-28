@@ -323,6 +323,7 @@ manniondaniels,sense_international,downstream,2
 manniondaniels,signal,downstream,1
 manniondaniels,sossaheluk,downstream,1
 manniondaniels,spuk,downstream,2
+manniondaniels,ss-org,downstream,1
 manniondaniels,street_child,downstream,2
 manniondaniels,stromme_ug,downstream,1
 manniondaniels,surf,downstream,1
@@ -1060,6 +1061,7 @@ fcdo,sfd-yemen,upstream,1
 fcdo,snv,upstream,1
 fcdo,soas,upstream,2
 fcdo,spuk,upstream,3
+fcdo,ss-org,upstream,137
 fcdo,stichting_hivos,upstream,1
 fcdo,stichtingfern,upstream,1
 fcdo,street_child,upstream,4
@@ -1407,7 +1409,7 @@ minbuza_nl,gain,upstream,4
 minbuza_nl,gichd,upstream,12
 minbuza_nl,giin,upstream,1
 minbuza_nl,giro555,upstream,1
-minbuza_nl,gnbcc,upstream,10
+minbuza_nl,gnbcc,upstream,9
 minbuza_nl,grp,upstream,1
 minbuza_nl,guttmacher,upstream,1
 minbuza_nl,hai,upstream,1
@@ -1496,7 +1498,7 @@ minbuza_nl,nwo,upstream,4
 minbuza_nl,nwp,upstream,1
 minbuza_nl,odi,upstream,1
 minbuza_nl,oneacrefund,upstream,1
-minbuza_nl,onl,upstream,1532
+minbuza_nl,onl,upstream,1523
 minbuza_nl,oxfamintermon,upstream,1
 minbuza_nl,oyw,upstream,1
 minbuza_nl,p-t-f-,upstream,1
@@ -1799,6 +1801,11 @@ sosnl,st_vluchteling,upstream,1
 sosnl,tdh_nl,upstream,1
 sosnl,tear,upstream,18
 sosnl,zoa,upstream,1
+ss-org,addinternational,upstream,5
+ss-org,hiuk,upstream,1
+ss-org,lcd_admin,upstream,1
+ss-org,lftw-int,upstream,2
+ss-org,sddirect,upstream,1
 st_vluchteling,carenederland,upstream,1
 st_vluchteling,irc_inc,upstream,2
 st_vluchteling,plannlno,upstream,1
@@ -1856,7 +1863,7 @@ uoe,ipcrg,upstream,1
 uom,iied,upstream,3
 usaid,idlo,upstream,1
 usaid,ilo,upstream,8
-usaid,iom,upstream,191
+usaid,iom,upstream,192
 usaid,itc,upstream,2
 usaid,odi,upstream,1
 usaid,saferworld,upstream,1
