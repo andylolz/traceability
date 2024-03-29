@@ -1317,8 +1317,12 @@ mefbenin,anaepmr_benin,upstream,1
 mefbenin,ine_benin,upstream,1
 mefbenin,soneb-benin,upstream,1
 mefbenin,ze,upstream,3
+mfat,ilo,upstream,2
+mfat,iom,upstream,1
+mfat,unhcr,upstream,1
 millenniumchallenge,ilo,upstream,1
 minbuza_nl,aanl,upstream,1
+minbuza_nl,abms,upstream,1
 minbuza_nl,abpf,upstream,1
 minbuza_nl,ac1999,upstream,2
 minbuza_nl,acet,upstream,1
@@ -1473,7 +1477,7 @@ minbuza_nl,mcn,upstream,1
 minbuza_nl,mdf,upstream,5
 minbuza_nl,mefbenin,upstream,2
 minbuza_nl,mfwa,upstream,1
-minbuza_nl,minbuza_nl,upstream,35
+minbuza_nl,minbuza_nl,upstream,36
 minbuza_nl,mm1,upstream,2
 minbuza_nl,mml,upstream,1
 minbuza_nl,mondiaalfnv,upstream,1
@@ -1572,7 +1576,8 @@ minbuza_nl,unocha-sdc,upstream,2
 minbuza_nl,utz,upstream,1
 minbuza_nl,uvw,upstream,1
 minbuza_nl,vei_nl,upstream,3
-minbuza_nl,vngi,upstream,11
+minbuza_nl,vngi,upstream,10
+minbuza_nl,w-d,upstream,2
 minbuza_nl,wageningen_ur,upstream,10
 minbuza_nl,warchildholland,upstream,8
 minbuza_nl,waste,upstream,1
@@ -1636,6 +1641,7 @@ nlrc,wi,upstream,2
 norad,ilo,upstream,96
 norad,tffus,upstream,1
 norad,unhcr,upstream,5
+norad,w-d,upstream,1
 nrc,acf,upstream,1
 nrc,irc_uk,upstream,1
 nso,icco-cooperation,upstream,3
@@ -1876,6 +1882,10 @@ vso,alfalit,upstream,1
 vso,anda,upstream,1
 vso,gan,upstream,1
 vso,hiuk,upstream,1
+w-d,csci_benkadi,upstream,1
+w-d,pascib_benin,upstream,1
+w-d,seco-ong-mali,upstream,1
+w-d,spong-burkina,upstream,2
 warchildholland,knvb,upstream,1
 warchildholland,onl,upstream,6
 warchildholland,rtp,upstream,1
