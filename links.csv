@@ -1551,7 +1551,7 @@ minbuza_nl,spark,upstream,6
 minbuza_nl,st_vluchteling,upstream,3
 minbuza_nl,stc-international,upstream,1
 minbuza_nl,stichting-subsidiegelden-dra,upstream,4
-minbuza_nl,stichting_hivos,upstream,14
+minbuza_nl,stichting_hivos,upstream,15
 minbuza_nl,stichtingfern,upstream,1
 minbuza_nl,syf,upstream,1
 minbuza_nl,t2p,upstream,1
@@ -1565,7 +1565,7 @@ minbuza_nl,ti-uk,upstream,1
 minbuza_nl,tifa_foundation,upstream,1
 minbuza_nl,tni,upstream,1
 minbuza_nl,tns,upstream,1
-minbuza_nl,trig,upstream,1
+minbuza_nl,trig,upstream,2
 minbuza_nl,twynstragudde,upstream,1
 minbuza_nl,undp,upstream,2
 minbuza_nl,unhcr,upstream,109
@@ -1646,6 +1646,7 @@ nrc,acf,upstream,1
 nrc,irc_uk,upstream,1
 nso,icco-cooperation,upstream,3
 nwp,nfp,upstream,1
+odakorea,ilo,upstream,24
 odi_sales_ltd,irc_uk,upstream,1
 onl,carenederland,upstream,2
 onl,cordaid,upstream,3
