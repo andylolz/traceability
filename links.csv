@@ -1414,7 +1414,7 @@ minbuza_nl,gain,upstream,4
 minbuza_nl,gichd,upstream,12
 minbuza_nl,giin,upstream,1
 minbuza_nl,giro555,upstream,1
-minbuza_nl,gnbcc,upstream,7
+minbuza_nl,gnbcc,upstream,4
 minbuza_nl,grp,upstream,1
 minbuza_nl,guttmacher,upstream,1
 minbuza_nl,hai,upstream,1
@@ -1624,7 +1624,6 @@ nimd-hq,bltp,upstream,3
 nimd-hq,cemi,upstream,3
 nimd-hq,gen,upstream,3
 nimd-hq,gorin,upstream,3
-nimd-hq,saferworld,upstream,3
 nl-kvk-41207989,galz,upstream,3
 nl-kvk-41207989,gnpplus,upstream,2
 nl-kvk-41207989,isdao,upstream,1
