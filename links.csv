@@ -526,7 +526,6 @@ tripleline_crownagents,traidcraft,downstream,1
 tripleline_crownagents,waronwant,downstream,2
 unf,fcdo,downstream,1
 unicefnl,solidaridad-europe,downstream,1
-unpf,bmu_iki,downstream,12
 uoe,bpcrs,downstream,1
 uoe,icddrb,downstream,1
 uoe,ipcrg,downstream,1
@@ -1532,7 +1531,7 @@ minbuza_nl,siren,upstream,1
 minbuza_nl,siwi,upstream,1
 minbuza_nl,sjac,upstream,1
 minbuza_nl,skf,upstream,1
-minbuza_nl,snv,upstream,20
+minbuza_nl,snv,upstream,18
 minbuza_nl,solidaridad,upstream,3
 minbuza_nl,solidaridad-europe,upstream,1
 minbuza_nl,solidaridad-ssea,upstream,2
@@ -1783,7 +1782,6 @@ simavi,waste,upstream,1
 simavi,wi,upstream,2
 snv,cidr,upstream,1
 snv,hsi,upstream,1
-snv,idh,upstream,1
 snv,protos,upstream,1
 snv,vngi,upstream,1
 solidaridad,bwi,upstream,2
@@ -1848,8 +1846,8 @@ undp,idlo,upstream,2
 unf,iif,upstream,1
 unido,ilo,upstream,3
 unocha-cbpf,cordaid,upstream,2
-unocha-cbpf,iom,upstream,8
-unocha-cbpf,unhcr,upstream,46
+unocha-cbpf,iom,upstream,11
+unocha-cbpf,unhcr,upstream,60
 unocha-cbpf,warchildholland,upstream,1
 unops,iom,upstream,1
 unpf,ilo,upstream,211
@@ -1860,7 +1858,7 @@ uoe,bpcrs,upstream,1
 uoe,icddrb,upstream,1
 uoe,ipcrg,upstream,1
 uom,iied,upstream,3
-usaid,idlo,upstream,1
+usaid,idlo,upstream,2
 usaid,ilo,upstream,8
 usaid,iom,upstream,192
 usaid,itc,upstream,2
