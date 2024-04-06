@@ -1116,6 +1116,12 @@ fwf,cdi_vn_2021,upstream,1
 fwf,cividep,upstream,1
 fwf,eti,upstream,1
 fwf,mondiaalfnv,upstream,1
+gac-amc,idi,upstream,1
+gac-amc,idlo,upstream,1
+gac-amc,iisd,upstream,1
+gac-amc,ilo,upstream,10
+gac-amc,iom,upstream,4
+gac-amc,unhcr,upstream,39
 gdi,villageenterprise,upstream,1
 gecfundmanagerpwc,aaik,upstream,1
 gecfundmanagerpwc,amurt_kenya,upstream,1
@@ -1517,7 +1523,7 @@ minbuza_nl,rcn,upstream,2
 minbuza_nl,rlb,upstream,2
 minbuza_nl,rmf-lb,upstream,1
 minbuza_nl,rutgers,upstream,4
-minbuza_nl,rvo,upstream,18
+minbuza_nl,rvo,upstream,19
 minbuza_nl,saferworld,upstream,11
 minbuza_nl,sca_afghanistan,upstream,1
 minbuza_nl,scnl,upstream,13
@@ -1846,13 +1852,13 @@ undp,idlo,upstream,2
 unf,iif,upstream,1
 unido,ilo,upstream,3
 unocha-cbpf,cordaid,upstream,2
-unocha-cbpf,iom,upstream,11
-unocha-cbpf,unhcr,upstream,60
+unocha-cbpf,iom,upstream,3
+unocha-cbpf,unhcr,upstream,30
 unocha-cbpf,warchildholland,upstream,1
 unops,iom,upstream,1
 unpf,ilo,upstream,211
 unpf,iom,upstream,3
-unpf,undp,upstream,5
+unpf,undp,upstream,4
 unpf,unhcr,upstream,2
 uoe,bpcrs,upstream,1
 uoe,icddrb,upstream,1
@@ -1900,7 +1906,7 @@ wnf,wwf_id,upstream,1
 wnf,wwfbr,upstream,1
 wnf,wwfna,upstream,1
 wnf,wwfzambia,upstream,1
-womankindworld,ewdna2025,upstream,1
+womankindworld,ewdna2025,upstream,2
 womankindworld,fida,upstream,1
 womankindworld,fowode,upstream,1
 womankindworld,nuwodu,upstream,1
