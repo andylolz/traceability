@@ -488,7 +488,7 @@ stichting-subsidiegelden-dra,carenederland,downstream,3
 stichting-subsidiegelden-dra,cordaid,downstream,3
 stichting-subsidiegelden-dra,dai,downstream,5
 stichting-subsidiegelden-dra,onl,downstream,3
-stichting-subsidiegelden-dra,plannlno,downstream,1
+stichting-subsidiegelden-dra,plannlno,downstream,2
 stichting-subsidiegelden-dra,scnl,downstream,3
 stichting-subsidiegelden-dra,sosnl,downstream,2
 stichting-subsidiegelden-dra,st_vluchteling,downstream,3
@@ -1388,7 +1388,7 @@ minbuza_nl,decp,upstream,3
 minbuza_nl,deltares,upstream,4
 minbuza_nl,dkti,upstream,1
 minbuza_nl,drc,upstream,8
-minbuza_nl,dri,upstream,1
+minbuza_nl,dri,upstream,2
 minbuza_nl,ecorysnl,upstream,1
 minbuza_nl,efi,upstream,1
 minbuza_nl,ehorg,upstream,1
@@ -1564,7 +1564,7 @@ minbuza_nl,thp_org,upstream,1
 minbuza_nl,ti-uk,upstream,1
 minbuza_nl,tifa_foundation,upstream,1
 minbuza_nl,tni,upstream,1
-minbuza_nl,tns,upstream,1
+minbuza_nl,tns,upstream,2
 minbuza_nl,trig,upstream,2
 minbuza_nl,twynstragudde,upstream,1
 minbuza_nl,undp,upstream,1
