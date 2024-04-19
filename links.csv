@@ -866,6 +866,7 @@ emms,mmh,upstream,1
 emms,nmhiati,upstream,1
 emms,pacam,upstream,1
 emms,pcst,upstream,2
+energy_saving_trust,adili_sh,upstream,1
 energy_saving_trust,agsollimited,upstream,2
 energy_saving_trust,bboxx,upstream,1
 energy_saving_trust,neopenda,upstream,1
@@ -1018,7 +1019,7 @@ fcdo,nathan,upstream,2
 fcdo,nrc,upstream,4
 fcdo,nutritionintl,upstream,1
 fcdo,odi,upstream,34
-fcdo,odi_sales_ltd,upstream,5
+fcdo,odi_sales_ltd,upstream,4
 fcdo,onetoonecf,upstream,1
 fcdo,onl,upstream,2
 fcdo,opml,upstream,2
@@ -1097,7 +1098,6 @@ fcdo,wcf,upstream,2
 fcdo,wfwiuk,upstream,2
 fcdo,worldveg,upstream,1
 fcdo,wowni,upstream,1
-fcdo,wri,upstream,1
 fcdo,wsup,upstream,1
 fcdo,wwfpakistan,upstream,2
 fcdo,wygi,upstream,6
@@ -1434,7 +1434,7 @@ minbuza_nl,idh_im,upstream,1
 minbuza_nl,idlo,upstream,22
 minbuza_nl,idrccrdi,upstream,24
 minbuza_nl,ieu,upstream,1
-minbuza_nl,ifdc-us,upstream,7
+minbuza_nl,ifdc-us,upstream,8
 minbuza_nl,ihedelft,upstream,3
 minbuza_nl,iisd,upstream,1
 minbuza_nl,ilo,upstream,69
@@ -1547,7 +1547,6 @@ minbuza_nl,solidaridad-waf,upstream,2
 minbuza_nl,solidarsuisse,upstream,1
 minbuza_nl,somo,upstream,1
 minbuza_nl,sosnl,upstream,1
-minbuza_nl,sosss_admin,upstream,1
 minbuza_nl,spark,upstream,6
 minbuza_nl,st_vluchteling,upstream,3
 minbuza_nl,stc-international,upstream,1
@@ -1596,7 +1595,6 @@ minbuza_nl,wlrc_aau,upstream,1
 minbuza_nl,wo-men,upstream,2
 minbuza_nl,womankindworld,upstream,1
 minbuza_nl,world_ywca,upstream,1
-minbuza_nl,worldrelief,upstream,1
 minbuza_nl,worldveg,upstream,1
 minbuza_nl,worldwaternet,upstream,2
 minbuza_nl,wpp,upstream,1
