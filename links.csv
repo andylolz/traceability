@@ -366,9 +366,6 @@ manniondaniels,yoneco1997,downstream,1
 manniondaniels,zet,downstream,1
 manniondaniels,zoa_uk,downstream,1
 manniondaniels,zsl,downstream,1
-mefbenin,anaepmr_benin,downstream,2
-mefbenin,ine_benin,downstream,1
-mefbenin,ze,downstream,1
 minbuza_nl,agriterra,downstream,1
 minbuza_nl,carenederland,downstream,1
 minbuza_nl,cidr,downstream,1
@@ -535,7 +532,6 @@ utd,malariaconsortium,downstream,1
 viva,crane,downstream,1
 vlir-uos,ares,downstream,1
 vngi,carenederland,downstream,1
-vngi,cordaid,downstream,1
 vso,britishcouncil,downstream,1
 vso,gan,downstream,1
 vso,hiuk,downstream,1
@@ -562,7 +558,6 @@ world_ywca,imc-2021,downstream,1
 world_ywca,kit,downstream,1
 world_ywca,ywcakenya,downstream,1
 world_ywca,ywcass,downstream,1
-worldwaternet,aw,downstream,1
 wv_de,wvi,downstream,148
 wvnld,cordaid,downstream,2
 wvnld,dai,downstream,1
@@ -916,7 +911,7 @@ fcdo,carbontrustadvisory,upstream,1
 fcdo,cardnoem,upstream,5
 fcdo,cepr,upstream,2
 fcdo,cgiar,upstream,4
-fcdo,chemonics,upstream,3
+fcdo,chemonics,upstream,1
 fcdo,childhopeuk,upstream,2
 fcdo,cic,upstream,2
 fcdo,cifal,upstream,1
@@ -1314,10 +1309,6 @@ mce,concernuk,upstream,1
 mce,irc_uk,upstream,2
 mce,nrc,upstream,1
 mce,st_vluchteling,upstream,1
-mefbenin,anaepmr_benin,upstream,1
-mefbenin,ine_benin,upstream,1
-mefbenin,soneb-benin,upstream,1
-mefbenin,ze,upstream,3
 mfat,ilo,upstream,2
 mfat,iom,upstream,1
 mfat,unhcr,upstream,1
@@ -1476,7 +1467,6 @@ minbuza_nl,max-foundation,upstream,3
 minbuza_nl,mce,upstream,5
 minbuza_nl,mcn,upstream,1
 minbuza_nl,mdf,upstream,5
-minbuza_nl,mefbenin,upstream,2
 minbuza_nl,mfwa,upstream,1
 minbuza_nl,minbuza_nl,upstream,36
 minbuza_nl,mm1,upstream,2
@@ -1493,7 +1483,7 @@ minbuza_nl,nimd-hq,upstream,7
 minbuza_nl,nl-kvk-41207989,upstream,3
 minbuza_nl,nl-kvk-54436222-27541,upstream,40
 minbuza_nl,nl_wg,upstream,1
-minbuza_nl,nlr,upstream,2
+minbuza_nl,nlr,upstream,1
 minbuza_nl,nlr_indonesia,upstream,1
 minbuza_nl,nlrc,upstream,223
 minbuza_nl,nrc,upstream,2
@@ -1512,7 +1502,6 @@ minbuza_nl,palladium_eur,upstream,1
 minbuza_nl,partos_nl,upstream,2
 minbuza_nl,pathfinder1,upstream,2
 minbuza_nl,pax,upstream,8
-minbuza_nl,pcf,upstream,2
 minbuza_nl,pidg,upstream,1
 minbuza_nl,plama,upstream,1
 minbuza_nl,plannlno,upstream,9
@@ -1576,7 +1565,7 @@ minbuza_nl,unocha-sdc,upstream,2
 minbuza_nl,utz,upstream,1
 minbuza_nl,uvw,upstream,1
 minbuza_nl,vei_nl,upstream,3
-minbuza_nl,vngi,upstream,10
+minbuza_nl,vngi,upstream,9
 minbuza_nl,w-d,upstream,2
 minbuza_nl,wageningen_ur,upstream,10
 minbuza_nl,warchildholland,upstream,8
@@ -1630,7 +1619,7 @@ nl-kvk-41207989,sisonke,upstream,1
 nl-kvk-41207989,uhai-eashri,upstream,1
 nl_wg,apn,upstream,1
 nl_wg,gfcf,upstream,1
-nl_wg,kcdf,upstream,1
+nl_wg,kcdf,upstream,2
 nl_wg,micfound,upstream,1
 nlrc,carenederland,upstream,1
 nlrc,cordaid,upstream,1
@@ -1906,7 +1895,7 @@ wnf,wwf_id,upstream,1
 wnf,wwfbr,upstream,1
 wnf,wwfna,upstream,1
 wnf,wwfzambia,upstream,1
-womankindworld,ewdna2025,upstream,2
+womankindworld,ewdna2025,upstream,1
 womankindworld,fida,upstream,1
 womankindworld,fowode,upstream,1
 womankindworld,nuwodu,upstream,1
