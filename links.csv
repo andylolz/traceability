@@ -381,6 +381,7 @@ minbuza_nl,plannlno,downstream,1
 minbuza_nl,promsex,downstream,1
 minbuza_nl,protos,downstream,1
 minbuza_nl,scnl,downstream,2
+minbuza_nl,sjg,downstream,1
 minbuza_nl,st_vluchteling,downstream,1
 minbuza_nl,swda,downstream,1
 minbuza_nl,tdh_nl,downstream,1
@@ -1528,7 +1529,6 @@ minbuza_nl,pcf,upstream,2
 minbuza_nl,pidg,upstream,1
 minbuza_nl,plama,upstream,1
 minbuza_nl,plannlno,upstream,9
-minbuza_nl,pmo-us,upstream,1
 minbuza_nl,ppag_123,upstream,2
 minbuza_nl,protos,upstream,1
 minbuza_nl,psi,upstream,3
@@ -1551,6 +1551,7 @@ minbuza_nl,simavi,upstream,3
 minbuza_nl,siren,upstream,1
 minbuza_nl,siwi,upstream,1
 minbuza_nl,sjac,upstream,1
+minbuza_nl,sjg,upstream,1
 minbuza_nl,skf,upstream,1
 minbuza_nl,snv,upstream,18
 minbuza_nl,solidaridad,upstream,3
