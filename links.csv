@@ -816,6 +816,7 @@ danida,di,upstream,1
 danida,drc,upstream,33
 danida,ibis_denmark,upstream,1
 danida,idh,upstream,1
+danida,idlo,upstream,1
 danida,ilo,upstream,9
 danida,ims,upstream,3
 danida,loftf,upstream,2
@@ -1223,7 +1224,7 @@ irc_inc,restless,upstream,2
 irc_inc,zoa,upstream,1
 irc_uk,goal,upstream,1
 irc_uk,hiuk,upstream,1
-irc_uk,irc_inc,upstream,91
+irc_uk,irc_inc,upstream,92
 irc_uk,irc_uk,upstream,1
 irc_uk,restless,upstream,2
 irishaid,idi,upstream,1
@@ -1252,6 +1253,7 @@ manniondaniels,aaik,upstream,1
 manniondaniels,aar,upstream,1
 manniondaniels,aauk,upstream,1
 manniondaniels,acf,upstream,1
+manniondaniels,addinternational,upstream,1
 manniondaniels,aet,upstream,1
 manniondaniels,afghanaid,upstream,1
 manniondaniels,afrikids,upstream,2
@@ -1538,7 +1540,7 @@ minbuza_nl,rcn,upstream,2
 minbuza_nl,rlb,upstream,2
 minbuza_nl,rmf-lb,upstream,1
 minbuza_nl,rutgers,upstream,4
-minbuza_nl,rvo,upstream,20
+minbuza_nl,rvo,upstream,21
 minbuza_nl,saferworld,upstream,11
 minbuza_nl,sca_afghanistan,upstream,1
 minbuza_nl,scnl,upstream,13
@@ -1772,6 +1774,7 @@ scuk,irc_uk,upstream,6
 scuk,sci,upstream,402
 sdi-int,pphpz,upstream,1
 sdi-int,sdi-k,upstream,1
+sida,idlo,upstream,2
 sida,unhcr,upstream,7
 siharegional,ewla,upstream,1
 siharegional,fidauganda,upstream,1
@@ -1827,6 +1830,7 @@ st_vluchteling,carenederland,upstream,1
 st_vluchteling,irc_inc,upstream,2
 st_vluchteling,plannlno,upstream,1
 st_vluchteling,tdh_nl,upstream,1
+state,idlo,upstream,2
 state,iom,upstream,72
 stichting-subsidiegelden-dra,carenederland,upstream,7
 stichting-subsidiegelden-dra,cordaid,upstream,4
