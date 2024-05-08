@@ -584,7 +584,7 @@ wvnld,warchildholland,downstream,1
 wvnld,wcuk,downstream,1
 wvnld,wvi,downstream,12
 wvnld,zoa,downstream,1
-wvuk,wvi,downstream,133
+wvuk,wvi,downstream,140
 zoa,agriterra,downstream,1
 zoa,carenederland,downstream,2
 zoa,cordaid,downstream,7
@@ -976,7 +976,7 @@ fcdo,gdihub,upstream,4
 fcdo,gecfundmanagerpwc,upstream,3
 fcdo,gi-toc,upstream,1
 fcdo,globalcanopy,upstream,1
-fcdo,gsma_foundation,upstream,504
+fcdo,gsma_foundation,upstream,661
 fcdo,handinhand,upstream,1
 fcdo,hha,upstream,1
 fcdo,hi,upstream,4
@@ -1493,7 +1493,7 @@ minbuza_nl,mcn,upstream,1
 minbuza_nl,mdf,upstream,5
 minbuza_nl,mefbenin,upstream,2
 minbuza_nl,mfwa,upstream,1
-minbuza_nl,minbuza_nl,upstream,36
+minbuza_nl,minbuza_nl,upstream,37
 minbuza_nl,mm1,upstream,2
 minbuza_nl,mml,upstream,1
 minbuza_nl,mondiaalfnv,upstream,1
@@ -1518,7 +1518,7 @@ minbuza_nl,nwo,upstream,4
 minbuza_nl,nwp,upstream,1
 minbuza_nl,odi,upstream,1
 minbuza_nl,oneacrefund,upstream,1
-minbuza_nl,onl,upstream,1526
+minbuza_nl,onl,upstream,1527
 minbuza_nl,oxfamintermon,upstream,1
 minbuza_nl,oyw,upstream,1
 minbuza_nl,p-t-f-,upstream,1
