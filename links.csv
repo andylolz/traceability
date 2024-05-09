@@ -374,7 +374,6 @@ minbuza_nl,carenederland,downstream,1
 minbuza_nl,cfyas,downstream,1
 minbuza_nl,cidr,downstream,1
 minbuza_nl,icwrsa,downstream,1
-minbuza_nl,jass,downstream,1
 minbuza_nl,minbuza_nl,downstream,1
 minbuza_nl,onl,downstream,2
 minbuza_nl,plannlno,downstream,1
@@ -491,13 +490,13 @@ stichting-subsidiegelden-dra,cordaid,downstream,3
 stichting-subsidiegelden-dra,dai,downstream,4
 stichting-subsidiegelden-dra,onl,downstream,3
 stichting-subsidiegelden-dra,plannlno,downstream,1
-stichting-subsidiegelden-dra,scnl,downstream,3
+stichting-subsidiegelden-dra,scnl,downstream,4
 stichting-subsidiegelden-dra,sosnl,downstream,2
 stichting-subsidiegelden-dra,st_vluchteling,downstream,3
 stichting-subsidiegelden-dra,tdh_nl,downstream,1
 stichting-subsidiegelden-dra,tear,downstream,2
 stichting-subsidiegelden-dra,warchildholland,downstream,2
-stichting-subsidiegelden-dra,wvnld,downstream,3
+stichting-subsidiegelden-dra,wvnld,downstream,2
 stichting-subsidiegelden-dra,zoa,downstream,3
 taf,dipr,downstream,1
 tear,carenederland,downstream,4
@@ -1493,7 +1492,7 @@ minbuza_nl,mcn,upstream,1
 minbuza_nl,mdf,upstream,5
 minbuza_nl,mefbenin,upstream,2
 minbuza_nl,mfwa,upstream,1
-minbuza_nl,minbuza_nl,upstream,37
+minbuza_nl,minbuza_nl,upstream,38
 minbuza_nl,mm1,upstream,2
 minbuza_nl,mml,upstream,1
 minbuza_nl,mondiaalfnv,upstream,1
@@ -1555,7 +1554,7 @@ minbuza_nl,siwi,upstream,1
 minbuza_nl,sjac,upstream,1
 minbuza_nl,sjg,upstream,1
 minbuza_nl,skf,upstream,1
-minbuza_nl,snv,upstream,18
+minbuza_nl,snv,upstream,19
 minbuza_nl,solidaridad,upstream,3
 minbuza_nl,solidaridad-europe,upstream,1
 minbuza_nl,solidaridad-ssea,upstream,2
