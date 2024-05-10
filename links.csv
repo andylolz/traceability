@@ -159,7 +159,7 @@ irc_uk,bbcmediaaction,downstream,1
 irc_uk,concern_worldwide,downstream,2
 irc_uk,concernuk,downstream,1
 irc_uk,fcdo,downstream,1
-irc_uk,irc_inc,downstream,84
+irc_uk,irc_inc,downstream,85
 irc_uk,irc_uk,downstream,2
 irc_uk,msi,downstream,1
 irc_uk,restless,downstream,2
@@ -760,7 +760,7 @@ ciuk,csom1,upstream,3
 clasp,energy_saving_trust,upstream,1
 clingendael,idlo,upstream,1
 cocnl_publisher,ilgaasia,upstream,1
-cocnl_publisher,pai155669,upstream,1
+cocnl_publisher,pai155669,upstream,2
 coffey,oca,upstream,1
 coffey,sddirect,upstream,2
 concernuk,concern_worldwide,upstream,55
@@ -1388,7 +1388,7 @@ minbuza_nl,cilc,upstream,1
 minbuza_nl,cis,upstream,1
 minbuza_nl,civic_admin,upstream,2
 minbuza_nl,civicus,upstream,1
-minbuza_nl,clingendael,upstream,6
+minbuza_nl,clingendael,upstream,7
 minbuza_nl,cocnl_publisher,upstream,1
 minbuza_nl,cordaid,upstream,28
 minbuza_nl,cpd,upstream,1
@@ -1866,6 +1866,7 @@ thp_org,wvnld,upstream,1
 traidcraft,fci,upstream,1
 uct,_cebrap,upstream,1
 uct,sparc_iati,upstream,1
+uct,tgi_india,upstream,1
 undp,idlo,upstream,2
 unf,iif,upstream,1
 unicef,trocaire,upstream,1
