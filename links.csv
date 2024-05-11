@@ -85,6 +85,7 @@ emms,dgmh,downstream,1
 emms,mmh,downstream,1
 emms,pcst,downstream,1
 et-adf-0317,zoa,downstream,1
+f2a,mm1,downstream,1
 f2a,world_ywca,downstream,1
 fca,ageintl,downstream,1
 fcam,bothends,downstream,1
@@ -1554,7 +1555,7 @@ minbuza_nl,siwi,upstream,1
 minbuza_nl,sjac,upstream,1
 minbuza_nl,sjg,upstream,1
 minbuza_nl,skf,upstream,1
-minbuza_nl,snv,upstream,19
+minbuza_nl,snv,upstream,20
 minbuza_nl,solidaridad,upstream,3
 minbuza_nl,solidaridad-europe,upstream,1
 minbuza_nl,solidaridad-ssea,upstream,2
@@ -1621,6 +1622,7 @@ minbuza_nl,yffhsd,upstream,3
 minbuza_nl,ywbod,upstream,1
 minbuza_nl,zoa,upstream,19
 mm1,carenederland,upstream,1
+mm1,f2a,upstream,1
 mm1,sfcg,upstream,1
 mm1,spr,upstream,1
 mm1,tear,upstream,1
