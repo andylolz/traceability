@@ -369,7 +369,6 @@ manniondaniels,zsl,downstream,1
 mefbenin,anaepmr_benin,downstream,2
 mefbenin,ine_benin,downstream,1
 mefbenin,ze,downstream,1
-minbuza_nl,agriterra,downstream,1
 minbuza_nl,arcfge,downstream,1
 minbuza_nl,carenederland,downstream,1
 minbuza_nl,cfyas,downstream,1
@@ -385,7 +384,7 @@ minbuza_nl,sjg,downstream,1
 minbuza_nl,st_vluchteling,downstream,1
 minbuza_nl,swda,downstream,1
 minbuza_nl,tdh_nl,downstream,1
-minbuza_nl,vngi,downstream,2
+minbuza_nl,vngi,downstream,1
 minbuza_nl,wctc,downstream,1
 minbuza_nl,wipc,downstream,1
 minbuza_nl,wvnld,downstream,1
@@ -585,7 +584,6 @@ wvnld,wcuk,downstream,1
 wvnld,wvi,downstream,12
 wvnld,zoa,downstream,1
 wvuk,wvi,downstream,140
-zoa,agriterra,downstream,1
 zoa,carenederland,downstream,2
 zoa,cordaid,downstream,7
 zoa,dai,downstream,8
@@ -604,7 +602,7 @@ zoa,syf,downstream,1
 zoa,tdh_nl,downstream,9
 zoa,tear,downstream,1
 zoa,tha,downstream,1
-zoa,vngi,downstream,2
+zoa,vngi,downstream,1
 zoa,wageningen_ur,downstream,1
 zoa,warchildholland,downstream,6
 zoa,worldrelief,downstream,1
@@ -1067,7 +1065,7 @@ fcdo,saferworld,upstream,7
 fcdo,sciaf,upstream,1
 fcdo,sct,upstream,1
 fcdo,scuk,upstream,1
-fcdo,sddirect,upstream,5
+fcdo,sddirect,upstream,4
 fcdo,sendacow,upstream,4
 fcdo,sense_international,upstream,2
 fcdo,sfcg,upstream,1
@@ -1723,7 +1721,7 @@ plannlno,pax,upstream,2
 plannlno,rutgers,upstream,1
 plannlno,stad,upstream,1
 plannlno,tdh_nl,upstream,2
-practica,amrefnl,upstream,1
+practica,ancb_benin,upstream,1
 protos,snv,upstream,1
 psi,msi,upstream,1
 pwc,acu,upstream,4
@@ -1794,7 +1792,7 @@ simavi,needs,upstream,1
 simavi,plannlno,upstream,1
 simavi,practica,upstream,3
 simavi,rainfoundation,upstream,1
-simavi,ruaf,upstream,3
+simavi,ruaf,upstream,4
 simavi,savsign-org,upstream,1
 simavi,simavi,upstream,6
 simavi,solidaridad-europe,upstream,1
