@@ -778,7 +778,7 @@ cordaid,warchildholland,upstream,4
 cordaid,wcuk,upstream,3
 cordaid,wipc,upstream,1
 cordaid,wvnld,upstream,6
-cordaid,zoa,upstream,8
+cordaid,zoa,upstream,9
 cowater,idlo,upstream,1
 cowateruk,sddirect,upstream,1
 cr,hdcentre,upstream,1
@@ -1387,6 +1387,7 @@ minbuza_nl,cilc,upstream,1
 minbuza_nl,cis,upstream,1
 minbuza_nl,civic_admin,upstream,2
 minbuza_nl,civicus,upstream,1
+minbuza_nl,cjid_ng,upstream,1
 minbuza_nl,clingendael,upstream,7
 minbuza_nl,cocnl_publisher,upstream,1
 minbuza_nl,cordaid,upstream,28
@@ -1567,7 +1568,6 @@ minbuza_nl,stc-international,upstream,1
 minbuza_nl,stichting-subsidiegelden-dra,upstream,4
 minbuza_nl,stichting_hivos,upstream,15
 minbuza_nl,stichtingfern,upstream,1
-minbuza_nl,syf,upstream,1
 minbuza_nl,t2p,upstream,1
 minbuza_nl,tan,upstream,1
 minbuza_nl,tbi,upstream,1
