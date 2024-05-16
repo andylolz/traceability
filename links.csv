@@ -404,7 +404,6 @@ niras,lts,downstream,1
 niras_uk,lts,downstream,1
 nl_wg,gfcf,downstream,1
 nl_wg,kcdf,downstream,1
-norad,aain,downstream,1
 nrc,acf,downstream,1
 open_university,uom,downstream,1
 options,sddirect,downstream,1
@@ -572,7 +571,6 @@ world_ywca,kit,downstream,1
 world_ywca,ywcakenya,downstream,1
 world_ywca,ywcass,downstream,1
 worldwaternet,aw,downstream,1
-wv_de,wvi,downstream,148
 wvnld,cordaid,downstream,2
 wvnld,dai,downstream,1
 wvnld,onl,downstream,1
@@ -581,9 +579,7 @@ wvnld,scnl,downstream,1
 wvnld,st_vluchteling,downstream,1
 wvnld,warchildholland,downstream,1
 wvnld,wcuk,downstream,1
-wvnld,wvi,downstream,12
 wvnld,zoa,downstream,1
-wvuk,wvi,downstream,140
 zoa,carenederland,downstream,2
 zoa,cordaid,downstream,7
 zoa,dai,downstream,8
@@ -1172,7 +1168,6 @@ giro555,st_vluchteling,upstream,20
 giro555,tdh_nl,upstream,1
 giro555,tear,upstream,5
 giro555,unicefnl,upstream,3
-giro555,wvi,upstream,2
 giro555,wvnld,upstream,4
 gppac,wfm-igp,upstream,1
 guttmacher,arcfge,upstream,1
@@ -1806,7 +1801,7 @@ snv,hsi,upstream,1
 snv,protos,upstream,1
 snv,vngi,upstream,1
 solidaridad,bwi,upstream,2
-solidaridad,fairfood,upstream,5
+solidaridad,fairfood,upstream,6
 solidaridad,trustafrica,upstream,16
 solidaridad-europe,solidaridad,upstream,86
 solidaridad-europe,solidaridad-ssea,upstream,24
@@ -1871,10 +1866,6 @@ undp,idlo,upstream,2
 unf,iif,upstream,1
 unicef,trocaire,upstream,1
 unido,ilo,upstream,3
-unocha-cbpf,cordaid,upstream,2
-unocha-cbpf,iom,upstream,11
-unocha-cbpf,unhcr,upstream,60
-unocha-cbpf,warchildholland,upstream,1
 unops,iom,upstream,1
 unpf,ilo,upstream,211
 unpf,iom,upstream,3
@@ -1945,9 +1936,6 @@ wvnld,tear,upstream,14
 wvnld,warchildholland,upstream,2
 wvnld,zoa,upstream,1
 wvuk,open_university,upstream,1
-wvuk,wv_cd,upstream,16
-wvuk,wv_cf,upstream,1
-wvuk,wv_et_activities,upstream,6
 wygi,lts,upstream,1
 zoa,agriterra,upstream,1
 zoa,carenederland,upstream,2
