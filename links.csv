@@ -852,12 +852,9 @@ drc,irc_uk,upstream,1
 drc,irw,upstream,1
 drc,mapaction,upstream,1
 drc,nrc,upstream,1
-ec-echo,iom,upstream,93
-ec-echo,nlrc,upstream,2
-ec-echo,onl,upstream,40
-ec-echo,tdh_nl,upstream,4
-ec-echo,unhcr,upstream,331
-ec-echo,warchildholland,upstream,4
+ec-echo,nlrc,upstream,1
+ec-echo,onl,upstream,7
+ec-echo,unhcr,upstream,17
 ec-fpi,unhcr,upstream,1
 ec-intpa,unhcr,upstream,17
 ec-near,unhcr,upstream,1
@@ -1873,7 +1870,7 @@ uoe,ipcrg,upstream,1
 uom,iied,upstream,3
 usaid,idlo,upstream,2
 usaid,ilo,upstream,8
-usaid,iom,upstream,181
+usaid,iom,upstream,178
 usaid,odi,upstream,1
 usaid,saferworld,upstream,1
 viva,bucksfarm,upstream,1
