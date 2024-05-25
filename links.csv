@@ -861,6 +861,7 @@ ec-echo,tdh_nl,upstream,4
 ec-echo,unhcr,upstream,331
 ec-echo,warchildholland,upstream,4
 ec-fpi,unhcr,upstream,1
+ec-intpa,idlo,upstream,1
 ec-intpa,unhcr,upstream,17
 ec-near,unhcr,upstream,1
 ecuk,sddirect,upstream,1
@@ -1821,7 +1822,7 @@ st_vluchteling,carenederland,upstream,1
 st_vluchteling,irc_inc,upstream,2
 st_vluchteling,plannlno,upstream,1
 st_vluchteling,tdh_nl,upstream,1
-state,idlo,upstream,2
+state,idlo,upstream,6
 state,iom,upstream,72
 stichting-subsidiegelden-dra,carenederland,upstream,7
 stichting-subsidiegelden-dra,cordaid,upstream,4
