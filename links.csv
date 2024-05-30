@@ -449,6 +449,8 @@ scnl,tear,downstream,7
 scnl,warchildholland,downstream,5
 scnl,wvnld,downstream,1
 scnl,zoa,downstream,5
+sdi-int,pphpz,downstream,1
+sdi-int,sdi-k,downstream,1
 siharegional,ewla,downstream,1
 siharegional,fidauganda,downstream,1
 siharegional,musawah,downstream,1
@@ -630,6 +632,7 @@ amrefug,cordaid,upstream,1
 ancb_benin,ancb_benin,upstream,24
 appro-eu,appro-af,upstream,2
 ares,vlir-uos,upstream,1
+ausgov,unhcr,upstream,2
 avsi_uganda,cordaid,upstream,1
 bbcmediaaction,ims,upstream,1
 be-dgd,111111_publisher,upstream,1
@@ -704,8 +707,8 @@ be-dgd,vvsg,upstream,1
 be-dgd,wapa,upstream,1
 be-dgd,wsm,upstream,1
 be-dgd,wwf-be,upstream,1
-bmgf,cabi,upstream,4
-bmgf,unhcr,upstream,26
+bmgf,cabi,upstream,3
+bmgf,unhcr,upstream,23
 bmz,ilo,upstream,40
 bmz,unhcr,upstream,4
 bothends,aanl,upstream,1
@@ -1825,6 +1828,7 @@ stichting_hivos,femnet,upstream,1
 stichting_hivos,marsa_welead,upstream,1
 stichting_hivos,pv,upstream,2
 stichting_hivos,restless,upstream,1
+stichting_hivos,sdi-int,upstream,1
 tccec,mce,upstream,1
 tdh_nl,dciecpatnl,upstream,2
 tdh_nl,freeagirl,upstream,4
@@ -1835,7 +1839,7 @@ tear,scnl,upstream,1
 tfac,tfacmalawi,upstream,1
 tffus,aain,upstream,1
 theglobalfund,iom,upstream,1
-theglobalfund,undp,upstream,1
+theglobalfund,undp,upstream,2
 thp_org,max-foundation,upstream,1
 thp_org,scnl,upstream,1
 thp_org,wvnld,upstream,1
@@ -1846,11 +1850,11 @@ uct,tgi_india,upstream,1
 undp,idlo,upstream,2
 unf,iif,upstream,1
 unicef,trocaire,upstream,1
-unido,ilo,upstream,3
+unido,ilo,upstream,1
 unops,iom,upstream,1
 unpf,ilo,upstream,210
 unpf,iom,upstream,3
-unpf,undp,upstream,4
+unpf,undp,upstream,10
 unpf,unhcr,upstream,2
 uoe,bpcrs,upstream,1
 uoe,icddrb,upstream,1
@@ -1887,6 +1891,9 @@ wemos,slf,upstream,1
 wemos,vso_nl,upstream,1
 wnf,amwa,upstream,1
 wnf,fundacionavina,upstream,1
+wnf,pphpz,upstream,1
+wnf,sdi-int,upstream,1
+wnf,sdi-k,upstream,1
 wnf,ssn,upstream,1
 wnf,stichting_hivos,upstream,1
 wnf,wwf-py,upstream,1
