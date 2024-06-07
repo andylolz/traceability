@@ -838,7 +838,7 @@ ec-echo,tdh_nl,upstream,4
 ec-echo,unhcr,upstream,331
 ec-echo,warchildholland,upstream,4
 ec-fpi,unhcr,upstream,1
-ec-intpa,idlo,upstream,1
+ec-intpa,idlo,upstream,3
 ec-intpa,unhcr,upstream,17
 ec-near,unhcr,upstream,1
 ecuk,sddirect,upstream,1
@@ -964,7 +964,7 @@ fcdo,interburns,upstream,1
 fcdo,iom,upstream,16
 fcdo,ipeglobal,upstream,7
 fcdo,ippf,upstream,4
-fcdo,irc_inc,upstream,4
+fcdo,irc_inc,upstream,3
 fcdo,irc_uk,upstream,14
 fcdo,irw,upstream,4
 fcdo,itad,upstream,1
@@ -1428,6 +1428,7 @@ minbuza_nl,isdglobal,upstream,1
 minbuza_nl,issafrica,upstream,3
 minbuza_nl,itc,upstream,2
 minbuza_nl,iucn,upstream,2
+minbuza_nl,iucn_nl,upstream,1
 minbuza_nl,ja_ppmn,upstream,1
 minbuza_nl,jass,upstream,1
 minbuza_nl,jfa-pfe,upstream,1
@@ -1715,7 +1716,7 @@ scuk,irc_uk,upstream,6
 scuk,sci,upstream,402
 sdi-int,pphpz,upstream,1
 sdi-int,sdi-k,upstream,1
-sida,idlo,upstream,3
+sida,idlo,upstream,4
 sida,unhcr,upstream,7
 siharegional,ewla,upstream,1
 siharegional,fidauganda,upstream,1
@@ -1767,7 +1768,7 @@ st_vluchteling,carenederland,upstream,1
 st_vluchteling,irc_inc,upstream,2
 st_vluchteling,plannlno,upstream,1
 st_vluchteling,tdh_nl,upstream,1
-state,idlo,upstream,8
+state,idlo,upstream,11
 state,iom,upstream,72
 stichting-subsidiegelden-dra,carenederland,upstream,7
 stichting-subsidiegelden-dra,cordaid,upstream,4
@@ -1821,7 +1822,7 @@ uoe,bpcrs,upstream,1
 uoe,icddrb,upstream,1
 uoe,ipcrg,upstream,1
 uom,iied,upstream,3
-usaid,idlo,upstream,2
+usaid,idlo,upstream,3
 usaid,ilo,upstream,12
 usaid,iom,upstream,193
 usaid,itc,upstream,2
@@ -1880,7 +1881,7 @@ wvnld,icco-cooperation,upstream,2
 wvnld,onl,upstream,3
 wvnld,scnl,upstream,2
 wvnld,st_vluchteling,upstream,4
-wvnld,tear,upstream,14
+wvnld,tear,upstream,19
 wvnld,warchildholland,upstream,2
 wvnld,zoa,upstream,1
 wvuk,open_university,upstream,1
