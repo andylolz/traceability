@@ -1058,7 +1058,7 @@ fcdo,sciaf,upstream,1
 fcdo,sct,upstream,1
 fcdo,scuk,upstream,1
 fcdo,sddirect,upstream,4
-fcdo,sendacow,upstream,4
+fcdo,sendacow,upstream,2
 fcdo,sense_international,upstream,2
 fcdo,sfcg,upstream,1
 fcdo,sfd-yemen,upstream,1
@@ -1377,6 +1377,7 @@ minbuza_nl,cpd,upstream,1
 minbuza_nl,creausa-org,upstream,4
 minbuza_nl,crehpa,upstream,1
 minbuza_nl,crisisgroup,upstream,1
+minbuza_nl,d4d,upstream,1
 minbuza_nl,dai,upstream,5
 minbuza_nl,dai-e,upstream,1
 minbuza_nl,dcaf,upstream,3
