@@ -362,6 +362,7 @@ manniondaniels,zsl,downstream,1
 mefbenin,anaepmr_benin,downstream,2
 mefbenin,ine_benin,downstream,1
 mefbenin,ze,downstream,1
+minbuza_nl,amrefkenya,downstream,1
 minbuza_nl,carenederland,downstream,1
 minbuza_nl,cidr,downstream,1
 minbuza_nl,creausa-org,downstream,1
@@ -815,7 +816,7 @@ danida,missioneast,upstream,6
 danida,plb,upstream,2
 danida,redbarnet,upstream,3
 danida,unhcr,upstream,32
-danida,wwfdk,upstream,1
+danida,wwfdk,upstream,2
 ddp,dhrc_nepal,upstream,1
 dec-uk,aauk,upstream,5
 dec-uk,acf,upstream,4
@@ -975,7 +976,6 @@ fcdo,htspe,upstream,2
 fcdo,icf,upstream,4
 fcdo,idi,upstream,1
 fcdo,idlo,upstream,1
-fcdo,idrccrdi,upstream,47
 fcdo,ids,upstream,7
 fcdo,ifpri,upstream,1
 fcdo,iied,upstream,4
@@ -1154,7 +1154,7 @@ giro555,nlrc,upstream,24
 giro555,pax,upstream,1
 giro555,plannlno,upstream,5
 giro555,scnl,upstream,6
-giro555,st_vluchteling,upstream,21
+giro555,st_vluchteling,upstream,23
 giro555,tdh_nl,upstream,1
 giro555,tear,upstream,5
 giro555,unicefnl,upstream,3
@@ -1179,7 +1179,6 @@ icco-cooperation,warchildholland,upstream,1
 icf,aauk,upstream,1
 icf,odi_sales_ltd,upstream,1
 icf,wwf-uk,upstream,1
-idrccrdi,ssn,upstream,1
 inasp,ashoka,upstream,1
 inasp,liwa-admin,upstream,1
 inasp,udom,upstream,1
@@ -1203,6 +1202,7 @@ irc_inc,irc_inc,upstream,2
 irc_inc,irc_uk,upstream,2
 irc_inc,mcn,upstream,1
 irc_inc,msi,upstream,1
+irc_inc,pjl,upstream,1
 irc_inc,restless,upstream,2
 irc_inc,zoa,upstream,1
 irc_uk,concern_worldwide,upstream,1
@@ -1427,7 +1427,7 @@ minbuza_nl,ictj,upstream,23
 minbuza_nl,idh,upstream,13
 minbuza_nl,idh_im,upstream,1
 minbuza_nl,idlo,upstream,22
-minbuza_nl,idrccrdi,upstream,24
+minbuza_nl,idrccrdi,upstream,8
 minbuza_nl,ieu,upstream,1
 minbuza_nl,ifdc-us,upstream,9
 minbuza_nl,ihedelft,upstream,3
