@@ -667,7 +667,7 @@ be-dgd,fairtrade_be,upstream,1
 be-dgd,fdhommes,upstream,1
 be-dgd,fian-belgium,upstream,1
 be-dgd,fos,upstream,1
-be-dgd,fucid,upstream,1
+be-dgd,fucid,upstream,2
 be-dgd,g3w-m3m_admin,upstream,1
 be-dgd,geomoun,upstream,1
 be-dgd,hib,upstream,1
@@ -954,14 +954,13 @@ fcdo,energy_saving_trust,upstream,1
 fcdo,evc,upstream,2
 fcdo,excellent,upstream,1
 fcdo,f-aids,upstream,1
-fcdo,fcdo,upstream,22
+fcdo,fcdo,upstream,21
 fcdo,fh,upstream,2
 fcdo,fhi360,upstream,1
 fcdo,foe_ewni,upstream,1
 fcdo,ftm-291333,upstream,2
 fcdo,fyf,upstream,3
 fcdo,gain,upstream,2
-fcdo,galvmed,upstream,1
 fcdo,gb-chc-220949,upstream,19
 fcdo,gca,upstream,2
 fcdo,gdi,upstream,1
@@ -1460,6 +1459,7 @@ minbuza_nl,jass,upstream,1
 minbuza_nl,jfa-pfe,upstream,1
 minbuza_nl,josa,upstream,1
 minbuza_nl,jowomenomics,upstream,3
+minbuza_nl,jp-nl,upstream,1
 minbuza_nl,kepsa,upstream,2
 minbuza_nl,kit,upstream,1
 minbuza_nl,ktk,upstream,1
@@ -1571,6 +1571,7 @@ minbuza_nl,utz,upstream,1
 minbuza_nl,uvw,upstream,1
 minbuza_nl,vei_nl,upstream,3
 minbuza_nl,vngi,upstream,8
+minbuza_nl,w-d,upstream,2
 minbuza_nl,wageningen_ur,upstream,11
 minbuza_nl,warchildholland,upstream,8
 minbuza_nl,waste,upstream,1
@@ -1633,6 +1634,7 @@ nlrc,wi,upstream,2
 norad,ilo,upstream,96
 norad,tffus,upstream,1
 norad,unhcr,upstream,5
+norad,w-d,upstream,1
 nrc,acf,upstream,1
 nrc,irc_uk,upstream,1
 nso,icco-cooperation,upstream,3
