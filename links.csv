@@ -675,6 +675,7 @@ be-dgd,idp,upstream,1
 be-dgd,ifsi_isvi,upstream,1
 be-dgd,iiwe,upstream,1
 be-dgd,ipis,upstream,1
+be-dgd,iteco,upstream,1
 be-dgd,itm,upstream,1
 be-dgd,kiyo,upstream,1
 be-dgd,lftw-be,upstream,1
@@ -1794,7 +1795,7 @@ st_vluchteling,carenederland,upstream,1
 st_vluchteling,irc_inc,upstream,2
 st_vluchteling,plannlno,upstream,1
 st_vluchteling,tdh_nl,upstream,1
-state,idlo,upstream,1
+state,idlo,upstream,2
 state,iom,upstream,88
 stichting-subsidiegelden-dra,carenederland,upstream,7
 stichting-subsidiegelden-dra,cordaid,upstream,6
