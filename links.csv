@@ -883,6 +883,7 @@ energy_saving_trust,sn-ninea-50255162x2,upstream,1
 energy_saving_trust,svrg,upstream,1
 energy_saving_trust,via,upstream,1
 energy_saving_trust,walaltd,upstream,1
+fao,ilo,upstream,1
 fca,ageintl,upstream,1
 fcam,bothends,upstream,2
 fcam,mamac,upstream,1
@@ -1025,7 +1026,7 @@ fcdo,mrc-sierra-leone,upstream,1
 fcdo,msi,upstream,12
 fcdo,namati_inc,upstream,1
 fcdo,nathan,upstream,2
-fcdo,nrc,upstream,5
+fcdo,nrc,upstream,6
 fcdo,nutritionintl,upstream,1
 fcdo,odi,upstream,34
 fcdo,odi_sales_ltd,upstream,6
@@ -1436,7 +1437,7 @@ minbuza_nl,icnl_org,upstream,5
 minbuza_nl,ictj,upstream,23
 minbuza_nl,idh,upstream,13
 minbuza_nl,idh_im,upstream,1
-minbuza_nl,idlo,upstream,22
+minbuza_nl,idlo,upstream,24
 minbuza_nl,idrccrdi,upstream,24
 minbuza_nl,ieu,upstream,1
 minbuza_nl,ifdc-us,upstream,9
