@@ -23,7 +23,6 @@ amrefnl,awa_sn,downstream,1
 amrefnl,cfyas,downstream,1
 amrefnl,hai,downstream,2
 amrefnl,rutgers,downstream,1
-amrefnl,sjg,downstream,1
 amrefnl,wemos,downstream,1
 appro-eu,appro-af,downstream,1
 asil,timidria,downstream,1
@@ -438,7 +437,6 @@ rutgers,my-ssm,downstream,1
 rutgers,norsaac,downstream,1
 rutgers,rnw_org,downstream,1
 rutgers,simavi,downstream,1
-rutgers,sjg,downstream,2
 saferworld,cr,downstream,1
 scnl,carenederland,downstream,4
 scnl,cordaid,downstream,3
@@ -631,7 +629,6 @@ amrefnl,amrefug,upstream,1
 amrefnl,hai,upstream,2
 amrefnl,kit,upstream,1
 amrefnl,rutgers,upstream,1
-amrefnl,sjg,upstream,1
 amrefnl,wemos,upstream,1
 amrefug,cordaid,upstream,1
 ancb_benin,ancb_benin,upstream,24
@@ -982,7 +979,6 @@ fcdo,htspe,upstream,2
 fcdo,icf,upstream,4
 fcdo,idi,upstream,1
 fcdo,idlo,upstream,1
-fcdo,idrccrdi,upstream,47
 fcdo,ids,upstream,7
 fcdo,ifpri,upstream,1
 fcdo,iied,upstream,4
@@ -1186,7 +1182,6 @@ icco-cooperation,warchildholland,upstream,1
 icf,aauk,upstream,1
 icf,odi_sales_ltd,upstream,1
 icf,wwf-uk,upstream,1
-idrccrdi,ssn,upstream,1
 inasp,ashoka,upstream,1
 inasp,liwa-admin,upstream,1
 inasp,udom,upstream,1
@@ -1438,7 +1433,7 @@ minbuza_nl,ictj,upstream,23
 minbuza_nl,idh,upstream,13
 minbuza_nl,idh_im,upstream,1
 minbuza_nl,idlo,upstream,24
-minbuza_nl,idrccrdi,upstream,24
+minbuza_nl,idrccrdi,upstream,8
 minbuza_nl,ieu,upstream,1
 minbuza_nl,ifdc-us,upstream,9
 minbuza_nl,ihedelft,upstream,3
@@ -1544,7 +1539,6 @@ minbuza_nl,simavi,upstream,3
 minbuza_nl,siren,upstream,1
 minbuza_nl,siwi,upstream,1
 minbuza_nl,sjac,upstream,1
-minbuza_nl,sjg,upstream,1
 minbuza_nl,skf,upstream,1
 minbuza_nl,snv,upstream,22
 minbuza_nl,solidaridad,upstream,3
@@ -1733,7 +1727,6 @@ rutgers,norsaac,upstream,1
 rutgers,rnw_org,upstream,1
 rutgers,rutgers,upstream,1
 rutgers,simavi,upstream,2
-rutgers,sjg,upstream,2
 rutgers,stichting_hivos,upstream,1
 rvo,akvo,upstream,1
 rvo,cabi,upstream,1
@@ -1760,6 +1753,8 @@ scuk,concernuk,upstream,3
 scuk,irc_inc,upstream,2
 scuk,irc_uk,upstream,6
 scuk,sci,upstream,402
+sdc_ch,cabi,upstream,1
+sdc_ch,unhcr,upstream,2
 sdi-int,pphpz,upstream,1
 sdi-int,sdi-k,upstream,1
 sida,idlo,upstream,4
@@ -1844,7 +1839,7 @@ traidcraft,fci,upstream,1
 uct,_cebrap,upstream,1
 uct,sparc_iati,upstream,1
 uct,tgi_india,upstream,1
-undp,idlo,upstream,2
+undp,idlo,upstream,3
 unf,iif,upstream,1
 unicef,trocaire,upstream,1
 unido,ilo,upstream,1
