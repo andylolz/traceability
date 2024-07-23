@@ -881,6 +881,7 @@ energy_saving_trust,sn-ninea-50255162x2,upstream,1
 energy_saving_trust,svrg,upstream,1
 energy_saving_trust,via,upstream,1
 energy_saving_trust,walaltd,upstream,1
+ewla,musawah,upstream,1
 fao,ilo,upstream,1
 fca,ageintl,upstream,1
 fcam,bothends,upstream,2
@@ -1403,6 +1404,7 @@ minbuza_nl,ejc,upstream,1
 minbuza_nl,elrha,upstream,1
 minbuza_nl,engenderhealth_eth,upstream,3
 minbuza_nl,esfd,upstream,1
+minbuza_nl,ewla,upstream,1
 minbuza_nl,f-aids,upstream,3
 minbuza_nl,fca,upstream,2
 minbuza_nl,fcam,upstream,2
