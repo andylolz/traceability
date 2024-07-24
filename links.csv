@@ -626,6 +626,7 @@ amrefnl,amrefhq,upstream,3
 amrefnl,amrefkenya,upstream,2
 amrefnl,amrefmw,upstream,3
 amrefnl,amrefug,upstream,1
+amrefnl,cfyas,upstream,1
 amrefnl,hai,upstream,2
 amrefnl,kit,upstream,1
 amrefnl,rutgers,upstream,1
@@ -1459,7 +1460,6 @@ minbuza_nl,irc_inc,upstream,1
 minbuza_nl,irc_uk,upstream,1
 minbuza_nl,isdglobal,upstream,1
 minbuza_nl,issafrica,upstream,3
-minbuza_nl,itc,upstream,2
 minbuza_nl,iucn,upstream,2
 minbuza_nl,iucn_nl,upstream,1
 minbuza_nl,ja_ppmn,upstream,1
@@ -1485,7 +1485,7 @@ minbuza_nl,mcn,upstream,1
 minbuza_nl,mdf,upstream,5
 minbuza_nl,mefbenin,upstream,2
 minbuza_nl,mfwa,upstream,1
-minbuza_nl,minbuza_nl,upstream,39
+minbuza_nl,minbuza_nl,upstream,40
 minbuza_nl,mm1,upstream,2
 minbuza_nl,mml,upstream,2
 minbuza_nl,mondiaalfnv,upstream,2
@@ -1852,7 +1852,7 @@ unicef,trocaire,upstream,1
 unido,ilo,upstream,1
 unocha-cbpf,cordaid,upstream,2
 unocha-cbpf,iom,upstream,12
-unocha-cbpf,unhcr,upstream,60
+unocha-cbpf,unhcr,upstream,58
 unocha-cbpf,warchildholland,upstream,1
 unops,iom,upstream,1
 unpf,ilo,upstream,210
@@ -1866,7 +1866,6 @@ uom,iied,upstream,3
 usaid,idlo,upstream,3
 usaid,ilo,upstream,8
 usaid,iom,upstream,195
-usaid,itc,upstream,2
 usaid,odi,upstream,1
 usaid,saferworld,upstream,1
 viva,bucksfarm,upstream,1
