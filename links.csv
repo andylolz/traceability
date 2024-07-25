@@ -1460,6 +1460,7 @@ minbuza_nl,irc_inc,upstream,1
 minbuza_nl,irc_uk,upstream,1
 minbuza_nl,isdglobal,upstream,1
 minbuza_nl,issafrica,upstream,3
+minbuza_nl,itc,upstream,2
 minbuza_nl,iucn,upstream,2
 minbuza_nl,iucn_nl,upstream,1
 minbuza_nl,ja_ppmn,upstream,1
@@ -1485,7 +1486,7 @@ minbuza_nl,mcn,upstream,1
 minbuza_nl,mdf,upstream,5
 minbuza_nl,mefbenin,upstream,2
 minbuza_nl,mfwa,upstream,1
-minbuza_nl,minbuza_nl,upstream,40
+minbuza_nl,minbuza_nl,upstream,39
 minbuza_nl,mm1,upstream,2
 minbuza_nl,mml,upstream,2
 minbuza_nl,mondiaalfnv,upstream,2
@@ -1549,6 +1550,7 @@ minbuza_nl,skf,upstream,1
 minbuza_nl,snv,upstream,23
 minbuza_nl,solidaridad,upstream,3
 minbuza_nl,solidaridad-ssea,upstream,2
+minbuza_nl,solidarites-international,upstream,1
 minbuza_nl,solidarsuisse,upstream,1
 minbuza_nl,sosnl,upstream,1
 minbuza_nl,sosss_admin,upstream,1
@@ -1681,7 +1683,7 @@ oxfamgb,bond,upstream,1
 oxfamgb,concern_worldwide,upstream,1
 oxfamgb,onl,upstream,38
 pacja,femnet,upstream,1
-pacja,onl,upstream,32
+pacja,onl,upstream,33
 palladium,hiuk,upstream,1
 palladium,manniondaniels,upstream,1
 palladium,sddirect,upstream,1
@@ -1852,7 +1854,7 @@ unicef,trocaire,upstream,1
 unido,ilo,upstream,1
 unocha-cbpf,cordaid,upstream,2
 unocha-cbpf,iom,upstream,12
-unocha-cbpf,unhcr,upstream,58
+unocha-cbpf,unhcr,upstream,60
 unocha-cbpf,warchildholland,upstream,1
 unops,iom,upstream,1
 unpf,ilo,upstream,210
@@ -1866,6 +1868,7 @@ uom,iied,upstream,3
 usaid,idlo,upstream,3
 usaid,ilo,upstream,8
 usaid,iom,upstream,195
+usaid,itc,upstream,2
 usaid,odi,upstream,1
 usaid,saferworld,upstream,1
 viva,bucksfarm,upstream,1
