@@ -131,7 +131,7 @@ gecfundmanagerpwc,viva,downstream,1
 gecfundmanagerpwc,vso,downstream,5
 gecfundmanagerpwc,wusc,downstream,2
 goal,irc_inc,downstream,1
-hai,twz1,downstream,1
+hai,twz1,downstream,2
 hiil_mfa,minbuza_nl,downstream,1
 hiuk,hi_fed,downstream,5
 hpa,manniondaniels,downstream,1
@@ -1431,7 +1431,7 @@ minbuza_nl,giro555,upstream,1
 minbuza_nl,gnbcc,upstream,9
 minbuza_nl,grp,upstream,1
 minbuza_nl,guttmacher,upstream,1
-minbuza_nl,hai,upstream,1
+minbuza_nl,hai,upstream,2
 minbuza_nl,halo,upstream,9
 minbuza_nl,hdcentre,upstream,1
 minbuza_nl,hefoundation,upstream,1
