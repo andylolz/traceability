@@ -8,8 +8,9 @@ aauk,aag,downstream,1
 aauk,aai,downstream,1
 aauk,aaik,downstream,1
 aauk,aar,downstream,1
-acf,acf-fr,downstream,1
+acf,acf-fr,downstream,2
 acf,acfspain,downstream,1
+acf,dec-uk,downstream,1
 ageintl,dec-uk,downstream,1
 ageintl,fca,downstream,1
 ageintl,helpage_international,downstream,3
@@ -366,7 +367,6 @@ manniondaniels,zsl,downstream,1
 mefbenin,anaepmr_benin,downstream,2
 mefbenin,ine_benin,downstream,1
 mefbenin,ze,downstream,1
-minbuza_nl,agriterra,downstream,1
 minbuza_nl,amrefkenya,downstream,1
 minbuza_nl,carenederland,downstream,1
 minbuza_nl,cidr,downstream,1
@@ -385,7 +385,7 @@ minbuza_nl,st_vluchteling,downstream,1
 minbuza_nl,syf,downstream,1
 minbuza_nl,tdh_nl,downstream,1
 minbuza_nl,tha,downstream,1
-minbuza_nl,vngi,downstream,3
+minbuza_nl,vngi,downstream,2
 minbuza_nl,wipc,downstream,1
 minbuza_nl,wvnld,downstream,1
 msi,ciuk,downstream,1
@@ -827,7 +827,7 @@ danida,unhcr,upstream,48
 danida,wwfdk,upstream,2
 ddp,dhrc_nepal,upstream,1
 dec-uk,aauk,upstream,5
-dec-uk,acf,upstream,4
+dec-uk,acf,upstream,5
 dec-uk,ageintl,upstream,8
 dec-uk,ciuk,upstream,2
 dec-uk,concern_worldwide,upstream,1
@@ -978,7 +978,7 @@ fcdo,gdihub,upstream,4
 fcdo,gecfundmanagerpwc,upstream,3
 fcdo,gi-toc,upstream,1
 fcdo,globalcanopy,upstream,1
-fcdo,gsma_foundation,upstream,546
+fcdo,gsma_foundation,upstream,661
 fcdo,handinhand,upstream,1
 fcdo,hha,upstream,1
 fcdo,hi,upstream,4
@@ -1349,7 +1349,7 @@ minbuza_nl,acfshr,upstream,2
 minbuza_nl,acted,upstream,1
 minbuza_nl,adsb,upstream,1
 minbuza_nl,agencia_do_zambeze,upstream,1
-minbuza_nl,agriterra,upstream,3
+minbuza_nl,agriterra,upstream,4
 minbuza_nl,ahead,upstream,1
 minbuza_nl,aias,upstream,1
 minbuza_nl,ajar,upstream,1
@@ -1589,7 +1589,7 @@ minbuza_nl,unocha-sdc,upstream,3
 minbuza_nl,utz,upstream,1
 minbuza_nl,uvw,upstream,1
 minbuza_nl,vei_nl,upstream,3
-minbuza_nl,vngi,upstream,8
+minbuza_nl,vngi,upstream,9
 minbuza_nl,w-d,upstream,2
 minbuza_nl,wageningen_ur,upstream,11
 minbuza_nl,warchildholland,upstream,8
