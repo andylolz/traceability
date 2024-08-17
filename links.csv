@@ -79,6 +79,7 @@ dai,st_vluchteling,downstream,1
 dai,tear,downstream,1
 dai,wvnld,downstream,1
 ddp,dhrc_nepal,downstream,2
+drc,hiuk,downstream,1
 drc,irc_inc,downstream,1
 drc,irc_uk,downstream,2
 emms,dgmh,downstream,1
@@ -479,12 +480,13 @@ sosnl,st_vluchteling,downstream,2
 sosnl,tdh_nl,downstream,2
 sosnl,tear,downstream,4
 sosnl,zoa,downstream,1
-st_vluchteling,carenederland,downstream,1
+st_vluchteling,carenederland,downstream,2
 st_vluchteling,cordaid,downstream,2
 st_vluchteling,intersos_main,downstream,1
 st_vluchteling,irc_inc,downstream,1
 st_vluchteling,mcn,downstream,1
 st_vluchteling,stichting-subsidiegelden-dra,downstream,1
+st_vluchteling,tear,downstream,1
 st_vluchteling,wvnld,downstream,1
 stichting-subsidiegelden-dra,carenederland,downstream,4
 stichting-subsidiegelden-dra,cordaid,downstream,3
@@ -571,6 +573,7 @@ womankindworld,nuwodu,downstream,1
 womankindworld,swda,downstream,1
 womankindworld,wctc,downstream,1
 world_ywca,e_n,downstream,1
+world_ywca,f2a,downstream,1
 world_ywca,imc-2021,downstream,1
 world_ywca,kit,downstream,1
 world_ywca,ywcakenya,downstream,1
@@ -809,7 +812,6 @@ dance4life,ippf,upstream,1
 danida,12921047,upstream,3
 danida,aadk,upstream,3
 danida,adra-dk,upstream,1
-danida,caritas_denmark,upstream,3
 danida,cisu,upstream,1
 danida,cku,upstream,2
 danida,danida,upstream,9
@@ -958,7 +960,7 @@ fcdo,dai-e,upstream,29
 fcdo,dc,upstream,1
 fcdo,ddp,upstream,4
 fcdo,dec-uk,upstream,5
-fcdo,drc,upstream,5
+fcdo,drc,upstream,6
 fcdo,ecuk,upstream,3
 fcdo,educomm,upstream,1
 fcdo,eel,upstream,1
@@ -987,7 +989,7 @@ fcdo,gsma_foundation,upstream,661
 fcdo,handinhand,upstream,1
 fcdo,hha,upstream,1
 fcdo,hi,upstream,4
-fcdo,hiuk,upstream,8
+fcdo,hiuk,upstream,7
 fcdo,htspe,upstream,2
 fcdo,icf,upstream,4
 fcdo,icnl_org,upstream,3
@@ -1820,10 +1822,13 @@ ss-org,hiuk,upstream,1
 ss-org,lcd_admin,upstream,1
 ss-org,lftw-int,upstream,2
 ss-org,sddirect,upstream,1
-st_vluchteling,carenederland,upstream,1
+st_vluchteling,carenederland,upstream,2
 st_vluchteling,irc_inc,upstream,2
+st_vluchteling,onl,upstream,1
 st_vluchteling,plannlno,upstream,1
+st_vluchteling,sosnl,upstream,1
 st_vluchteling,tdh_nl,upstream,1
+st_vluchteling,tear,upstream,1
 state,idlo,upstream,1
 state,iom,upstream,90
 stichting-subsidiegelden-dra,carenederland,upstream,7
@@ -1833,7 +1838,7 @@ stichting-subsidiegelden-dra,onl,upstream,65
 stichting-subsidiegelden-dra,plannlno,upstream,1
 stichting-subsidiegelden-dra,scnl,upstream,8
 stichting-subsidiegelden-dra,sosnl,upstream,4
-stichting-subsidiegelden-dra,st_vluchteling,upstream,5
+stichting-subsidiegelden-dra,st_vluchteling,upstream,6
 stichting-subsidiegelden-dra,tdh_nl,upstream,4
 stichting-subsidiegelden-dra,tear,upstream,4
 stichting-subsidiegelden-dra,warchildholland,upstream,4
