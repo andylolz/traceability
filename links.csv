@@ -1405,6 +1405,7 @@ minbuza_nl,dai-e,upstream,1
 minbuza_nl,dcaf,upstream,3
 minbuza_nl,decp,upstream,3
 minbuza_nl,deltares,upstream,4
+minbuza_nl,dkt_ethiopia,upstream,1
 minbuza_nl,dkti,upstream,1
 minbuza_nl,drc,upstream,8
 minbuza_nl,dri,upstream,2
@@ -1534,7 +1535,6 @@ minbuza_nl,pathfinder1,upstream,2
 minbuza_nl,pax,upstream,8
 minbuza_nl,pcf,upstream,2
 minbuza_nl,pidg,upstream,1
-minbuza_nl,plama,upstream,1
 minbuza_nl,plannlno,upstream,10
 minbuza_nl,ppag_123,upstream,2
 minbuza_nl,protos,upstream,1
