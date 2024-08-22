@@ -1177,7 +1177,7 @@ giro555,st_vluchteling,upstream,23
 giro555,tdh_nl,upstream,1
 giro555,tear,upstream,6
 giro555,unicefnl,upstream,3
-giro555,wvnld,upstream,4
+giro555,wvnld,upstream,5
 gppac,wfm-igp,upstream,1
 guttmacher,arcfge,upstream,1
 guttmacher,bapsa,upstream,1
@@ -1535,6 +1535,7 @@ minbuza_nl,pathfinder1,upstream,2
 minbuza_nl,pax,upstream,8
 minbuza_nl,pcf,upstream,2
 minbuza_nl,pidg,upstream,1
+minbuza_nl,plama,upstream,1
 minbuza_nl,plannlno,upstream,10
 minbuza_nl,ppag_123,upstream,2
 minbuza_nl,protos,upstream,1
@@ -1821,7 +1822,7 @@ ss-org,lftw-int,upstream,2
 ss-org,sddirect,upstream,1
 st_vluchteling,carenederland,upstream,2
 st_vluchteling,irc_inc,upstream,2
-st_vluchteling,onl,upstream,1
+st_vluchteling,onl,upstream,2
 st_vluchteling,plannlno,upstream,1
 st_vluchteling,sosnl,upstream,1
 st_vluchteling,tdh_nl,upstream,1
@@ -1968,4 +1969,4 @@ zoa,vngi,upstream,7
 zoa,wageningen_ur,upstream,1
 zoa,warchildholland,upstream,5
 zoa,worldrelief,upstream,1
-zoa,wvnld,upstream,3
+zoa,wvnld,upstream,4
