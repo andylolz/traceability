@@ -1352,6 +1352,7 @@ mefbenin,anaepmr_benin,upstream,1
 mefbenin,ine_benin,upstream,1
 mefbenin,soneb-benin,upstream,1
 mefbenin,ze,upstream,3
+mfat,ilo,upstream,2
 millenniumchallenge,ilo,upstream,1
 minbuza_nl,abms,upstream,1
 minbuza_nl,abpf,upstream,1
@@ -1371,6 +1372,7 @@ minbuza_nl,alcrer-1,upstream,1
 minbuza_nl,amrefnl,upstream,3
 minbuza_nl,amrefug,upstream,1
 minbuza_nl,ancb_benin,upstream,3
+minbuza_nl,aqua4all,upstream,1
 minbuza_nl,arcfge,upstream,8
 minbuza_nl,arij,upstream,1
 minbuza_nl,art19,upstream,1
@@ -1536,7 +1538,7 @@ minbuza_nl,nwo,upstream,4
 minbuza_nl,nwp,upstream,1
 minbuza_nl,odi,upstream,1
 minbuza_nl,oneacrefund,upstream,1
-minbuza_nl,onl,upstream,1165
+minbuza_nl,onl,upstream,1166
 minbuza_nl,oxfamintermon,upstream,1
 minbuza_nl,oyw,upstream,1
 minbuza_nl,p-t-f-,upstream,1
@@ -1671,7 +1673,7 @@ nl_wg,micfound,upstream,1
 nlrc,carenederland,upstream,1
 nlrc,cordaid,upstream,1
 nlrc,crb-ai_admin,upstream,1
-nlrc,wi,upstream,1
+nlrc,wi,upstream,2
 norad,ilo,upstream,96
 norad,tffus,upstream,1
 norad,unhcr,upstream,5
@@ -1814,7 +1816,8 @@ simavi,ruaf,upstream,4
 simavi,simavi,upstream,6
 simavi,stichting_hivos,upstream,1
 simavi,wai,upstream,1
-simavi,wi,upstream,1
+simavi,waste,upstream,1
+simavi,wi,upstream,2
 snv,cidr,upstream,1
 snv,hsi,upstream,1
 snv,protos,upstream,1
