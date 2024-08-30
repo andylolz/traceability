@@ -171,9 +171,9 @@ irc_uk,irc_uk,downstream,2
 irc_uk,msi,downstream,1
 irc_uk,restless,downstream,2
 itad,fcdo,downstream,1
-jass,cal_2000-pu,downstream,2
-jass,genderatwork,downstream,2
-jass,pekka_21,downstream,2
+jass,cal_2000-pu,downstream,1
+jass,genderatwork,downstream,1
+jass,pekka_21,downstream,1
 lcd_admin,plan_uk,downstream,1
 lstm,fcdo,downstream,1
 lts,snv,downstream,1
@@ -1491,7 +1491,7 @@ minbuza_nl,iucn,upstream,2
 minbuza_nl,iucn_nl,upstream,2
 minbuza_nl,iw_admin,upstream,1
 minbuza_nl,ja_ppmn,upstream,1
-minbuza_nl,jass,upstream,2
+minbuza_nl,jass,upstream,1
 minbuza_nl,jfa-pfe,upstream,1
 minbuza_nl,josa,upstream,1
 minbuza_nl,jowomenomics,upstream,3
