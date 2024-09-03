@@ -166,7 +166,7 @@ irc_uk,bbcmediaaction,downstream,1
 irc_uk,concern_worldwide,downstream,2
 irc_uk,concernuk,downstream,1
 irc_uk,fcdo,downstream,1
-irc_uk,irc_inc,downstream,90
+irc_uk,irc_inc,downstream,92
 irc_uk,irc_uk,downstream,2
 irc_uk,msi,downstream,1
 irc_uk,restless,downstream,2
@@ -1243,7 +1243,7 @@ irc_inc,zoa,upstream,1
 irc_uk,concern_worldwide,upstream,1
 irc_uk,goal,upstream,1
 irc_uk,hiuk,upstream,1
-irc_uk,irc_inc,upstream,96
+irc_uk,irc_inc,upstream,97
 irc_uk,irc_uk,upstream,1
 irc_uk,restless,upstream,1
 irishaid,idi,upstream,1
@@ -1354,6 +1354,7 @@ mefbenin,ine_benin,upstream,1
 mefbenin,soneb-benin,upstream,1
 mefbenin,ze,upstream,3
 mfat,ilo,upstream,2
+mfat,iom,upstream,1
 mfat,unhcr,upstream,1
 millenniumchallenge,ilo,upstream,1
 minbuza_nl,abms,upstream,1
@@ -1672,7 +1673,7 @@ nl-kvk-41207989,sisonke,upstream,1
 nl-kvk-41207989,uhai-eashri,upstream,1
 nl_wg,apn,upstream,1
 nl_wg,gfcf,upstream,1
-nl_wg,kcdf,upstream,2
+nl_wg,kcdf,upstream,3
 nl_wg,micfound,upstream,1
 nlrc,carenederland,upstream,1
 nlrc,cordaid,upstream,1
