@@ -166,7 +166,8 @@ irc_uk,bbcmediaaction,downstream,1
 irc_uk,concern_worldwide,downstream,2
 irc_uk,concernuk,downstream,1
 irc_uk,fcdo,downstream,1
-irc_uk,irc_inc,downstream,92
+irc_uk,goal,downstream,1
+irc_uk,irc_inc,downstream,93
 irc_uk,irc_uk,downstream,2
 irc_uk,msi,downstream,1
 irc_uk,restless,downstream,2
@@ -759,7 +760,7 @@ carenederland,plannlno,upstream,1
 carenederland,rnw_org,upstream,1
 carenederland,scnl,upstream,11
 carenederland,sosnl,upstream,1
-carenederland,st_vluchteling,upstream,9
+carenederland,st_vluchteling,upstream,10
 carenederland,tear,upstream,14
 carenederland,warchildholland,upstream,4
 carenederland,wvnld,upstream,3
@@ -1185,7 +1186,7 @@ giro555,nlrc,upstream,24
 giro555,pax,upstream,1
 giro555,plannlno,upstream,5
 giro555,scnl,upstream,6
-giro555,st_vluchteling,upstream,23
+giro555,st_vluchteling,upstream,30
 giro555,tdh_nl,upstream,1
 giro555,tear,upstream,6
 giro555,unicefnl,upstream,3
@@ -1240,11 +1241,10 @@ irc_inc,msi,upstream,1
 irc_inc,pjl,upstream,1
 irc_inc,restless,upstream,2
 irc_inc,zoa,upstream,1
-irc_uk,concern_worldwide,upstream,1
-irc_uk,goal,upstream,1
 irc_uk,hiuk,upstream,1
-irc_uk,irc_inc,upstream,97
+irc_uk,irc_inc,upstream,100
 irc_uk,irc_uk,upstream,1
+irc_uk,msi,upstream,1
 irc_uk,restless,upstream,1
 irishaid,idi,upstream,1
 irishaid,iied,upstream,1
@@ -1853,7 +1853,7 @@ st_vluchteling,tdh_nl,upstream,1
 st_vluchteling,tear,upstream,1
 st_vluchteling,wvnld,upstream,1
 state,idlo,upstream,1
-state,iom,upstream,90
+state,iom,upstream,91
 stichting-subsidiegelden-dra,carenederland,upstream,7
 stichting-subsidiegelden-dra,cordaid,upstream,4
 stichting-subsidiegelden-dra,dai,upstream,2
