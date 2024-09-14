@@ -656,6 +656,7 @@ ancb_benin,ancb_benin,upstream,24
 appro-eu,appro-af,upstream,2
 ares,vlir-uos,upstream,1
 ausgov,unhcr,upstream,2
+avsi_uganda,cordaid,upstream,1
 bbcmediaaction,ims,upstream,1
 be-dgd,111111_publisher,upstream,1
 be-dgd,a-t,upstream,1
@@ -1384,7 +1385,7 @@ minbuza_nl,atmf,upstream,5
 minbuza_nl,auxfinbi,upstream,1
 minbuza_nl,auxfinintl,upstream,1
 minbuza_nl,avsi-ssd,upstream,1
-minbuza_nl,avsi_uganda,upstream,1
+minbuza_nl,avsi_uganda,upstream,2
 minbuza_nl,awo2022,upstream,1
 minbuza_nl,berytech,upstream,1
 minbuza_nl,bmz,upstream,8
