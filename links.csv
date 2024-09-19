@@ -1149,12 +1149,7 @@ fwf,cdi_vn_2021,upstream,1
 fwf,cividep,upstream,1
 fwf,eti,upstream,1
 fwf,mondiaalfnv,upstream,1
-gac-amc,idi,upstream,1
-gac-amc,idlo,upstream,1
-gac-amc,iisd,upstream,1
-gac-amc,ilo,upstream,10
-gac-amc,iom,upstream,4
-gac-amc,unhcr,upstream,8
+gac-amc,ilo,upstream,2
 gdi,villageenterprise,upstream,1
 gecfundmanagerpwc,aaik,upstream,1
 gecfundmanagerpwc,amurt_kenya,upstream,1
@@ -1541,7 +1536,7 @@ minbuza_nl,nwo,upstream,4
 minbuza_nl,nwp,upstream,1
 minbuza_nl,odi,upstream,1
 minbuza_nl,oneacrefund,upstream,1
-minbuza_nl,onl,upstream,1169
+minbuza_nl,onl,upstream,1170
 minbuza_nl,oxfamintermon,upstream,1
 minbuza_nl,oyw,upstream,1
 minbuza_nl,p-t-f-,upstream,1
