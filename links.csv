@@ -995,13 +995,14 @@ fcdo,energy_saving_trust,upstream,1
 fcdo,evc,upstream,2
 fcdo,excellent,upstream,1
 fcdo,f-aids,upstream,1
-fcdo,fcdo,upstream,20
+fcdo,fcdo,upstream,21
 fcdo,fh,upstream,2
 fcdo,fhi360,upstream,1
 fcdo,foe_ewni,upstream,1
 fcdo,ftm-291333,upstream,2
 fcdo,fyf,upstream,3
 fcdo,gain,upstream,2
+fcdo,galvmed,upstream,1
 fcdo,gb-chc-220949,upstream,19
 fcdo,gca,upstream,2
 fcdo,gdi,upstream,1
@@ -1890,6 +1891,7 @@ stichting_hivos,pv,upstream,2
 stichting_hivos,restless,upstream,1
 stichting_hivos,sdi-int,upstream,1
 tccec,mce,upstream,1
+tdh_nl,crcasia,upstream,1
 tdh_nl,dciecpatnl,upstream,2
 tdh_nl,freeagirl,upstream,4
 tdh_nl,icco-cooperation,upstream,3
