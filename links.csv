@@ -405,7 +405,7 @@ minbuza_nl,dai,downstream,1
 minbuza_nl,ewdna2025,downstream,1
 minbuza_nl,fowode,downstream,1
 minbuza_nl,icwrsa,downstream,1
-minbuza_nl,minbuza_nl,downstream,1
+minbuza_nl,minbuza_nl,downstream,2
 minbuza_nl,onl,downstream,1
 minbuza_nl,plannlno,downstream,1
 minbuza_nl,promsex,downstream,1
@@ -534,7 +534,7 @@ tear,wvnld,downstream,1
 tear,zoa,downstream,1
 tearfund,acatba,downstream,1
 tffus,aain,downstream,1
-the_power_of_nutrition,worldbank,downstream,1
+the_power_of_nutrition,worldbank,downstream,2
 thp_org,max-foundation,downstream,2
 thp_org,scnl,downstream,2
 thp_org,wvnld,downstream,2
@@ -1375,6 +1375,7 @@ mefbenin,anaepmr_benin,upstream,1
 mefbenin,ine_benin,upstream,1
 mefbenin,soneb-benin,upstream,1
 mefbenin,ze,upstream,3
+millenniumchallenge,ilo,upstream,1
 minbuza_nl,abms,upstream,1
 minbuza_nl,abpf,upstream,1
 minbuza_nl,ac1999,upstream,3
@@ -1695,10 +1696,6 @@ nlrc,carenederland,upstream,1
 nlrc,cordaid,upstream,1
 nlrc,crb-ai_admin,upstream,1
 nlrc,wi,upstream,2
-norad,ilo,upstream,96
-norad,tffus,upstream,1
-norad,unhcr,upstream,6
-norad,w-d,upstream,1
 nrc,acf,upstream,1
 nrc,concernuk,upstream,2
 nrc,irc_uk,upstream,1
@@ -1870,7 +1867,7 @@ st_vluchteling,tdh_nl,upstream,1
 st_vluchteling,tear,upstream,1
 st_vluchteling,wvnld,upstream,1
 state,idlo,upstream,1
-state,iom,upstream,91
+state,iom,upstream,97
 stichting-subsidiegelden-dra,carenederland,upstream,7
 stichting-subsidiegelden-dra,cordaid,upstream,4
 stichting-subsidiegelden-dra,dai,upstream,3
