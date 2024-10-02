@@ -57,7 +57,6 @@ cordaid,plannlno,downstream,5
 cordaid,scnl,downstream,4
 cordaid,sosnl,downstream,4
 cordaid,st_vluchteling,downstream,9
-cordaid,tdh_nl,downstream,2
 cordaid,tear,downstream,3
 cordaid,tlo,downstream,1
 cordaid,warchildholland,downstream,4
@@ -93,8 +92,8 @@ danida,globaltfokus,downstream,1
 danida,ibis_denmark,downstream,2
 danida,ims,downstream,3
 danida,iom,downstream,10
-danida,loftf,downstream,2
-danida,missioneast,downstream,3
+danida,loftf,downstream,1
+danida,missioneast,downstream,2
 danida,plb,downstream,2
 danida,redbarnet,downstream,3
 danida,sosdk,downstream,1
@@ -117,7 +116,7 @@ fcdo,fhi360,downstream,1
 fcdo,healthpartners-international,downstream,1
 fcdo,ipas,downstream,1
 fcdo,ippf,downstream,1
-fcdo,irc_inc,downstream,4
+fcdo,irc_inc,downstream,5
 fcdo,lcd_admin,downstream,1
 fcdo,msi,downstream,1
 fcdo,options,downstream,3
@@ -405,19 +404,17 @@ minbuza_nl,dai,downstream,1
 minbuza_nl,ewdna2025,downstream,1
 minbuza_nl,fowode,downstream,1
 minbuza_nl,icwrsa,downstream,1
-minbuza_nl,minbuza_nl,downstream,2
+minbuza_nl,minbuza_nl,downstream,1
 minbuza_nl,onl,downstream,1
 minbuza_nl,plannlno,downstream,1
 minbuza_nl,promsex,downstream,1
 minbuza_nl,protos,downstream,1
 minbuza_nl,scnl,downstream,2
 minbuza_nl,st_vluchteling,downstream,1
-minbuza_nl,tdh_nl,downstream,1
 minbuza_nl,vngi,downstream,1
 minbuza_nl,wipc,downstream,1
 minbuza_nl,wvnld,downstream,1
 msi,ciuk,downstream,1
-msi,fcdo,downstream,1
 msi,fhi360,downstream,1
 msi,icwrsa,downstream,1
 msi,ipas,downstream,1
@@ -478,7 +475,6 @@ scnl,onl,downstream,2
 scnl,plannlno,downstream,5
 scnl,sosvdb_italia,downstream,1
 scnl,st_vluchteling,downstream,2
-scnl,tdh_nl,downstream,2
 scnl,tear,downstream,7
 scnl,warchildholland,downstream,5
 scnl,wvnld,downstream,1
@@ -502,7 +498,6 @@ sosnl,onl,downstream,1
 sosnl,plannlno,downstream,1
 sosnl,scnl,downstream,1
 sosnl,st_vluchteling,downstream,2
-sosnl,tdh_nl,downstream,2
 sosnl,tear,downstream,4
 sosnl,zoa,downstream,1
 st_vluchteling,carenederland,downstream,2
@@ -529,7 +524,6 @@ taf,dipr,downstream,1
 tear,carenederland,downstream,5
 tear,cordaid,downstream,1
 tear,scnl,downstream,1
-tear,tdh_nl,downstream,6
 tear,wvnld,downstream,1
 tear,zoa,downstream,1
 tearfund,acatba,downstream,1
@@ -633,7 +627,6 @@ zoa,sosnl,downstream,1
 zoa,sosss_admin,downstream,1
 zoa,st_vluchteling,downstream,3
 zoa,syf,downstream,1
-zoa,tdh_nl,downstream,9
 zoa,tear,downstream,1
 zoa,tha,downstream,1
 zoa,vngi,downstream,2
@@ -809,7 +802,6 @@ cordaid,scnl,upstream,4
 cordaid,sfcg,upstream,1
 cordaid,sosnl,upstream,4
 cordaid,st_vluchteling,upstream,13
-cordaid,tdh_nl,upstream,2
 cordaid,tlo,upstream,1
 cordaid,wanep,upstream,1
 cordaid,warchildholland,upstream,4
@@ -896,7 +888,6 @@ drc,mapaction,upstream,1
 drc,nrc,upstream,1
 ec-echo,iom,upstream,103
 ec-echo,nlrc,upstream,2
-ec-echo,tdh_nl,upstream,4
 ec-echo,unhcr,upstream,380
 ec-echo,warchildholland,upstream,4
 ec-fpi,unhcr,upstream,2
@@ -996,7 +987,7 @@ fcdo,energy_saving_trust,upstream,1
 fcdo,evc,upstream,2
 fcdo,excellent,upstream,1
 fcdo,f-aids,upstream,1
-fcdo,fcdo,upstream,21
+fcdo,fcdo,upstream,22
 fcdo,fh,upstream,2
 fcdo,fhi360,upstream,1
 fcdo,foe_ewni,upstream,1
@@ -1031,7 +1022,7 @@ fcdo,interburns,upstream,1
 fcdo,iom,upstream,16
 fcdo,ipeglobal,upstream,7
 fcdo,ippf,upstream,4
-fcdo,irc_inc,upstream,4
+fcdo,irc_inc,upstream,3
 fcdo,irc_uk,upstream,15
 fcdo,irw,upstream,4
 fcdo,itad,upstream,1
@@ -1071,7 +1062,7 @@ fcdo,odi,upstream,34
 fcdo,odi_sales_ltd,upstream,6
 fcdo,onetoonecf,upstream,1
 fcdo,opml,upstream,2
-fcdo,options,upstream,14
+fcdo,options,upstream,13
 fcdo,orbis_africa,upstream,1
 fcdo,orbis_uk,upstream,1
 fcdo,oxfamgb,upstream,20
@@ -1208,7 +1199,6 @@ giro555,pax,upstream,1
 giro555,plannlno,upstream,5
 giro555,scnl,upstream,6
 giro555,st_vluchteling,upstream,30
-giro555,tdh_nl,upstream,1
 giro555,tear,upstream,6
 giro555,unicefnl,upstream,3
 giro555,wvi,upstream,3
@@ -1613,7 +1603,6 @@ minbuza_nl,tan,upstream,1
 minbuza_nl,tap,upstream,1
 minbuza_nl,tbi,upstream,2
 minbuza_nl,tdh_foundation,upstream,1
-minbuza_nl,tdh_nl,upstream,6
 minbuza_nl,tha,upstream,1
 minbuza_nl,thp_org,upstream,1
 minbuza_nl,ti-uk,upstream,1
@@ -1632,7 +1621,6 @@ minbuza_nl,utz,upstream,1
 minbuza_nl,uvw,upstream,1
 minbuza_nl,vei_nl,upstream,3
 minbuza_nl,vngi,upstream,10
-minbuza_nl,w-d,upstream,2
 minbuza_nl,wageningen_ur,upstream,11
 minbuza_nl,warchildholland,upstream,8
 minbuza_nl,waste,upstream,1
@@ -1766,7 +1754,6 @@ plannlno,onl,upstream,5
 plannlno,pax,upstream,2
 plannlno,rutgers,upstream,1
 plannlno,stad,upstream,1
-plannlno,tdh_nl,upstream,2
 practica,ancb_benin,upstream,1
 protos,snv,upstream,1
 psi,msi,upstream,1
@@ -1805,7 +1792,6 @@ scnl,plannlno,upstream,8
 scnl,populationcouncil,upstream,1
 scnl,simavi,upstream,1
 scnl,st_vluchteling,upstream,4
-scnl,tdh_nl,upstream,2
 scnl,tear,upstream,72
 scnl,warchildholland,upstream,6
 scnl,wcc,upstream,1
@@ -1850,7 +1836,6 @@ sosnl,onl,upstream,3
 sosnl,plannlno,upstream,1
 sosnl,scnl,upstream,2
 sosnl,st_vluchteling,upstream,1
-sosnl,tdh_nl,upstream,1
 sosnl,tear,upstream,18
 sosnl,zoa,upstream,1
 ss-org,addinternational,upstream,5
@@ -1863,7 +1848,6 @@ st_vluchteling,irc_inc,upstream,2
 st_vluchteling,onl,upstream,2
 st_vluchteling,plannlno,upstream,1
 st_vluchteling,sosnl,upstream,1
-st_vluchteling,tdh_nl,upstream,1
 st_vluchteling,tear,upstream,1
 st_vluchteling,wvnld,upstream,1
 state,idlo,upstream,1
@@ -1876,7 +1860,6 @@ stichting-subsidiegelden-dra,plannlno,upstream,1
 stichting-subsidiegelden-dra,scnl,upstream,8
 stichting-subsidiegelden-dra,sosnl,upstream,4
 stichting-subsidiegelden-dra,st_vluchteling,upstream,6
-stichting-subsidiegelden-dra,tdh_nl,upstream,4
 stichting-subsidiegelden-dra,tear,upstream,4
 stichting-subsidiegelden-dra,warchildholland,upstream,4
 stichting-subsidiegelden-dra,wvnld,upstream,2
@@ -1888,11 +1871,6 @@ stichting_hivos,pv,upstream,2
 stichting_hivos,restless,upstream,1
 stichting_hivos,sdi-int,upstream,1
 tccec,mce,upstream,1
-tdh_nl,crcasia,upstream,1
-tdh_nl,dciecpatnl,upstream,2
-tdh_nl,freeagirl,upstream,4
-tdh_nl,icco-cooperation,upstream,3
-tdh_nl,plannlno,upstream,3
 tear,carenederland,upstream,1
 tear,onl,upstream,2
 tear,scnl,upstream,3
@@ -1913,7 +1891,7 @@ unicef,trocaire,upstream,1
 unido,ilo,upstream,1
 unocha-cbpf,cordaid,upstream,2
 unocha-cbpf,iom,upstream,12
-unocha-cbpf,unhcr,upstream,65
+unocha-cbpf,unhcr,upstream,63
 unocha-cbpf,warchildholland,upstream,1
 unops,iom,upstream,1
 unpf,ilo,upstream,210
@@ -2004,7 +1982,6 @@ zoa,sosnl,upstream,2
 zoa,sosss_admin,upstream,1
 zoa,st_vluchteling,upstream,2
 zoa,syf,upstream,1
-zoa,tdh_nl,upstream,6
 zoa,tear,upstream,6
 zoa,tha,upstream,1
 zoa,vngi,upstream,7
