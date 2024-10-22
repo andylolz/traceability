@@ -173,7 +173,7 @@ inasp,afelt,downstream,1
 inasp,udom,downstream,1
 inasp,umu,downstream,1
 ippf,msi,downstream,1
-irc,minbuza_nl,downstream,5
+irc,minbuza_nl,downstream,4
 irc_inc,bbcmediaaction,downstream,1
 irc_inc,ciuk,downstream,1
 irc_inc,concern_worldwide,downstream,3
@@ -878,6 +878,7 @@ dec-uk,plan_uk,upstream,5
 dec-uk,tearfund,upstream,4
 defra_transparency,cgiar,upstream,2
 defra_transparency,ffi_publisher,upstream,1
+defra_transparency,pa,upstream,1
 desnz,col-greenfinance,upstream,1
 desnz,ctbeijing,upstream,1
 desnz,desnz,upstream,1
@@ -1341,7 +1342,6 @@ manniondaniels,opportunity-international-uk,upstream,1
 manniondaniels,orbis_africa,upstream,1
 manniondaniels,orbis_international,upstream,2
 manniondaniels,orbis_uk,upstream,3
-manniondaniels,pa,upstream,2
 manniondaniels,pcst,upstream,1
 manniondaniels,peacedirect,upstream,1
 manniondaniels,read-foundation,upstream,1
@@ -1385,6 +1385,7 @@ millenniumchallenge,ilo,upstream,1
 minbuza_nl,abms,upstream,1
 minbuza_nl,abpf,upstream,1
 minbuza_nl,ac1999,upstream,3
+minbuza_nl,aceliafrica,upstream,1
 minbuza_nl,acet,upstream,1
 minbuza_nl,acfshr,upstream,2
 minbuza_nl,acted,upstream,1
@@ -1541,7 +1542,7 @@ minbuza_nl,mcn,upstream,1
 minbuza_nl,mdf,upstream,5
 minbuza_nl,mefbenin,upstream,2
 minbuza_nl,mfwa,upstream,1
-minbuza_nl,minbuza_nl,upstream,42
+minbuza_nl,minbuza_nl,upstream,43
 minbuza_nl,mm1,upstream,2
 minbuza_nl,mml,upstream,3
 minbuza_nl,mondiaalfnv,upstream,2
@@ -1710,7 +1711,6 @@ nrc,irc_uk,upstream,1
 nso,icco-cooperation,upstream,3
 nwp,nfp,upstream,2
 odakorea,ilo,upstream,24
-odakorea,unhcr,upstream,7
 odi_sales_ltd,irc_uk,upstream,1
 onl,carenederland,upstream,2
 onl,cordaid,upstream,3
