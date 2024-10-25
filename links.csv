@@ -82,7 +82,7 @@ danida,12921047,downstream,3
 danida,aadk,downstream,3
 danida,cisu,downstream,2
 danida,cku,downstream,6
-danida,danishrc,downstream,3
+danida,danishrc,downstream,4
 danida,danmission,downstream,1
 danida,dca,downstream,2
 danida,dfpa,downstream,2
@@ -518,7 +518,7 @@ st_vluchteling,wvnld,downstream,2
 stichting-subsidiegelden-dra,carenederland,downstream,4
 stichting-subsidiegelden-dra,cordaid,downstream,3
 stichting-subsidiegelden-dra,dai,downstream,4
-stichting-subsidiegelden-dra,onl,downstream,3
+stichting-subsidiegelden-dra,onl,downstream,4
 stichting-subsidiegelden-dra,plannlno,downstream,1
 stichting-subsidiegelden-dra,scnl,downstream,5
 stichting-subsidiegelden-dra,sosnl,downstream,2
@@ -1881,7 +1881,7 @@ state,iom,upstream,97
 stichting-subsidiegelden-dra,carenederland,upstream,7
 stichting-subsidiegelden-dra,cordaid,upstream,4
 stichting-subsidiegelden-dra,dai,upstream,3
-stichting-subsidiegelden-dra,onl,upstream,66
+stichting-subsidiegelden-dra,onl,upstream,65
 stichting-subsidiegelden-dra,plannlno,upstream,1
 stichting-subsidiegelden-dra,scnl,upstream,8
 stichting-subsidiegelden-dra,sosnl,upstream,4
