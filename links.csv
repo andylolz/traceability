@@ -408,6 +408,7 @@ minbuza_nl,ewdna2025,downstream,1
 minbuza_nl,fowode,downstream,1
 minbuza_nl,icwrsa,downstream,1
 minbuza_nl,minbuza_nl,downstream,1
+minbuza_nl,nlr_indonesia,downstream,1
 minbuza_nl,onl,downstream,1
 minbuza_nl,plannlno,downstream,1
 minbuza_nl,promsex,downstream,1
@@ -463,7 +464,7 @@ restless,intrac,downstream,1
 rnli_international,ciprb,downstream,1
 saferworld,cr,downstream,1
 scnl,carenederland,downstream,4
-scnl,cordaid,downstream,4
+scnl,cordaid,downstream,3
 scnl,dai,downstream,3
 scnl,icco-cooperation,downstream,6
 scnl,minbuza_nl,downstream,2
@@ -527,6 +528,7 @@ tear,wvnld,downstream,2
 tear,zoa,downstream,2
 tearfund,acatba,downstream,1
 tffus,aain,downstream,1
+the_power_of_nutrition,worldbank,downstream,2
 thp_org,max-foundation,downstream,2
 thp_org,scnl,downstream,2
 thp_org,wvnld,downstream,2
@@ -764,7 +766,6 @@ britishcouncil,sddirect,upstream,1
 caeb_mali,cordaid,upstream,1
 cal,acf,upstream,1
 cal,hpa,upstream,1
-carbontrustadvisory,uct,upstream,1
 carenederland,bsf1,upstream,1
 carenederland,cordaid,upstream,2
 carenederland,dai,upstream,1
@@ -786,6 +787,7 @@ cerf,unhcr,upstream,174
 cfyas,ippf,upstream,1
 ciuk,cnepal,upstream,2
 ciuk,csom1,upstream,3
+ciuk,hiuk,upstream,1
 clasp,energy_saving_trust,upstream,1
 clingendael,idlo,upstream,1
 cocnl_publisher,ilgaasia,upstream,1
@@ -797,7 +799,7 @@ cordaid,carenederland,upstream,2
 cordaid,icco-cooperation,upstream,10
 cordaid,onl,upstream,13
 cordaid,plannlno,upstream,3
-cordaid,scnl,upstream,4
+cordaid,scnl,upstream,3
 cordaid,sfcg,upstream,1
 cordaid,sosnl,upstream,4
 cordaid,st_vluchteling,upstream,13
@@ -1509,7 +1511,7 @@ minbuza_nl,iucn_nl,upstream,2
 minbuza_nl,iw_admin,upstream,1
 minbuza_nl,ja_ppmn,upstream,1
 minbuza_nl,jass,upstream,1
-minbuza_nl,jfa-pfe,upstream,1
+minbuza_nl,jfa-pfe,upstream,2
 minbuza_nl,josa,upstream,1
 minbuza_nl,jowomenomics,upstream,3
 minbuza_nl,jp-nl,upstream,1
@@ -1543,10 +1545,10 @@ minbuza_nl,nchrdk,upstream,1
 minbuza_nl,ndsicde,upstream,1
 minbuza_nl,nfp,upstream,3
 minbuza_nl,nimd-hq,upstream,7
+minbuza_nl,nl-kvk-41207989,upstream,3
 minbuza_nl,nl-kvk-54436222-27541,upstream,60
 minbuza_nl,nl_wg,upstream,1
 minbuza_nl,nlr,upstream,2
-minbuza_nl,nlr_indonesia,upstream,1
 minbuza_nl,nlrc,upstream,227
 minbuza_nl,nrc,upstream,2
 minbuza_nl,nso,upstream,1
@@ -1676,6 +1678,12 @@ nimd-hq,cemi,upstream,3
 nimd-hq,gen,upstream,3
 nimd-hq,gorin,upstream,3
 nimd-hq,saferworld,upstream,3
+nl-kvk-41207989,galz,upstream,3
+nl-kvk-41207989,gnpplus,upstream,2
+nl-kvk-41207989,isdao,upstream,1
+nl-kvk-41207989,sanpud,upstream,1
+nl-kvk-41207989,sisonke,upstream,1
+nl-kvk-41207989,uhai-eashri,upstream,1
 nl_wg,apn,upstream,1
 nl_wg,gfcf,upstream,1
 nl_wg,kcdf,upstream,3
@@ -1849,7 +1857,7 @@ st_vluchteling,tear,upstream,2
 st_vluchteling,wvnld,upstream,1
 state,idlo,upstream,1
 state,iom,upstream,97
-stichting-subsidiegelden-dra,carenederland,upstream,7
+stichting-subsidiegelden-dra,carenederland,upstream,9
 stichting-subsidiegelden-dra,cordaid,upstream,4
 stichting-subsidiegelden-dra,dai,upstream,3
 stichting-subsidiegelden-dra,onl,upstream,65
@@ -1874,7 +1882,7 @@ tdh_nl,dciecpatnl,upstream,2
 tdh_nl,freeagirl,upstream,4
 tdh_nl,icco-cooperation,upstream,3
 tdh_nl,plannlno,upstream,3
-tear,carenederland,upstream,1
+tear,carenederland,upstream,2
 tear,onl,upstream,2
 tear,scnl,upstream,3
 tear,zoa,upstream,1
