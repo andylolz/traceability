@@ -654,7 +654,7 @@ afdb,unhcr,upstream,2
 afghanaid,concernuk,upstream,4
 aics,ilo,upstream,18
 aics,iom,upstream,1
-aics,unhcr,upstream,26
+aics,unhcr,upstream,27
 aics,unocha,upstream,1
 akfuk73,akf_afghanistan,upstream,1
 akfuk73,crs,upstream,1
@@ -738,7 +738,7 @@ be-dgd,trias,upstream,1
 be-dgd,ub,upstream,1
 be-dgd,ucos,upstream,1
 be-dgd,ulbcoop,upstream,1
-be-dgd,unhcr,upstream,21
+be-dgd,unhcr,upstream,23
 be-dgd,uvcw,upstream,1
 be-dgd,via-db,upstream,1
 be-dgd,vlir-uos,upstream,1
@@ -852,7 +852,7 @@ danida,loftf,upstream,1
 danida,missioneast,upstream,6
 danida,plb,upstream,2
 danida,redbarnet,upstream,3
-danida,unhcr,upstream,51
+danida,unhcr,upstream,55
 danida,wwfdk,upstream,2
 ddp,dhrc_nepal,upstream,1
 dec-uk,aauk,upstream,5
@@ -1619,7 +1619,7 @@ minbuza_nl,trig,upstream,3
 minbuza_nl,twynstragudde,upstream,1
 minbuza_nl,twz1,upstream,1
 minbuza_nl,undp,upstream,1
-minbuza_nl,unhcr,upstream,124
+minbuza_nl,unhcr,upstream,113
 minbuza_nl,unicefnl,upstream,1
 minbuza_nl,united_work,upstream,4
 minbuza_nl,universiteit_leiden,upstream,4
@@ -1809,7 +1809,7 @@ sdc_ch,unhcr,upstream,2
 sdi-int,pphpz,upstream,1
 sdi-int,sdi-k,upstream,1
 sida,idlo,upstream,5
-sida,unhcr,upstream,10
+sida,unhcr,upstream,5
 siharegional,ewla,upstream,1
 siharegional,fidauganda,upstream,1
 siharegional,musawah,upstream,1
