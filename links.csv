@@ -99,7 +99,6 @@ danida,redbarnet,downstream,3
 danida,sosdk,downstream,1
 danida,wwfdk,downstream,1
 ddp,dhrc_nepal,downstream,2
-drc,hiuk,downstream,1
 drc,irc_inc,downstream,1
 drc,irc_uk,downstream,2
 emms,dgmh,downstream,1
@@ -984,7 +983,7 @@ fcdo,dai-e,upstream,29
 fcdo,dc,upstream,1
 fcdo,ddp,upstream,4
 fcdo,dec-uk,upstream,5
-fcdo,drc,upstream,6
+fcdo,drc,upstream,5
 fcdo,ecuk,upstream,3
 fcdo,educomm,upstream,1
 fcdo,eel,upstream,1
@@ -1013,7 +1012,7 @@ fcdo,gsma_foundation,upstream,661
 fcdo,handinhand,upstream,1
 fcdo,hha,upstream,1
 fcdo,hi,upstream,4
-fcdo,hiuk,upstream,7
+fcdo,hiuk,upstream,8
 fcdo,htspe,upstream,2
 fcdo,icf,upstream,4
 fcdo,icnl_org,upstream,3
@@ -1783,6 +1782,7 @@ pwc,mml,upstream,2
 pwc,open_university,upstream,1
 pwc,pasgr,upstream,1
 pwc,sddirect,upstream,1
+rbg_kew,ciuk,upstream,1
 restless,ycare,upstream,1
 rikolto_belgium,rikolto,upstream,12
 rvo,akvo,upstream,1
