@@ -123,7 +123,6 @@ fcdo,pa,downstream,1
 fcdo,plan_uk,downstream,1
 fcdo,pmc,downstream,1
 fcdo,pwc,downstream,1
-fcdo,sddirect,downstream,1
 fcdo,sinda,downstream,1
 foenl,foei,downstream,2
 foenl,gaia,downstream,1
@@ -552,7 +551,6 @@ tripleline_crownagents,tbalert,downstream,1
 tripleline_crownagents,traidcraft,downstream,1
 tripleline_crownagents,waronwant,downstream,2
 unf,fcdo,downstream,1
-unpf,bmu_iki,downstream,12
 uoe,bpcrs,downstream,1
 uoe,icddrb,downstream,1
 uoe,ipcrg,downstream,1
@@ -1053,7 +1051,7 @@ fcdo,lshtm,upstream,3
 fcdo,lstm,upstream,2
 fcdo,lts,upstream,2
 fcdo,m2m_sa,upstream,1
-fcdo,malariaconsortium,upstream,4
+fcdo,malariaconsortium,upstream,2
 fcdo,manniondaniels,upstream,3
 fcdo,marysmeals,upstream,1
 fcdo,mce,upstream,8
@@ -1101,7 +1099,7 @@ fcdo,saferworld,upstream,7
 fcdo,sciaf,upstream,1
 fcdo,sct,upstream,1
 fcdo,scuk,upstream,1
-fcdo,sddirect,upstream,4
+fcdo,sddirect,upstream,3
 fcdo,sendacow,upstream,2
 fcdo,sense_international,upstream,2
 fcdo,sfcg,upstream,1
@@ -1554,7 +1552,7 @@ minbuza_nl,nlr,upstream,2
 minbuza_nl,nlrc,upstream,227
 minbuza_nl,nrc,upstream,2
 minbuza_nl,nso,upstream,1
-minbuza_nl,nuffic20171017,upstream,1
+minbuza_nl,nuffic20171017,upstream,2
 minbuza_nl,nwo,upstream,4
 minbuza_nl,nwp,upstream,1
 minbuza_nl,odi,upstream,1
