@@ -24,6 +24,7 @@ amrefnl,amrefug,downstream,1
 amrefnl,awa_sn,downstream,1
 amrefnl,cfyas,downstream,1
 amrefnl,hai,downstream,2
+amrefnl,rutgers,downstream,1
 amrefnl,wemos,downstream,1
 appro-eu,appro-af,downstream,1
 asil,timidria,downstream,1
@@ -461,6 +462,12 @@ rcn,minbuza_nl,downstream,1
 restless,accountablenow,downstream,1
 restless,intrac,downstream,1
 rnli_international,ciprb,downstream,1
+rutgers,cfyas,downstream,1
+rutgers,ippf,downstream,1
+rutgers,my-ssm,downstream,1
+rutgers,norsaac,downstream,1
+rutgers,rnw_org,downstream,1
+rutgers,simavi,downstream,1
 saferworld,cr,downstream,1
 scnl,carenederland,downstream,4
 scnl,cordaid,downstream,3
@@ -664,6 +671,7 @@ amrefnl,amrefug,upstream,1
 amrefnl,cfyas,upstream,1
 amrefnl,hai,upstream,2
 amrefnl,kit,upstream,1
+amrefnl,rutgers,upstream,1
 amrefnl,wemos,upstream,1
 amrefug,cordaid,upstream,1
 ancb_benin,ancb_benin,upstream,24
@@ -750,6 +758,7 @@ bmgf,cabi,upstream,3
 bmgf,unhcr,upstream,23
 bmz,ilo,upstream,40
 bmz,unhcr,upstream,4
+bmz,yffhsd,upstream,2
 bothends,aanl,upstream,1
 bothends,ccc,upstream,1
 bothends,foei,upstream,1
@@ -1439,7 +1448,7 @@ minbuza_nl,decp,upstream,3
 minbuza_nl,deltares,upstream,4
 minbuza_nl,dkt_ethiopia,upstream,1
 minbuza_nl,drc,upstream,8
-minbuza_nl,dri,upstream,2
+minbuza_nl,dri,upstream,3
 minbuza_nl,ecorysnl,upstream,1
 minbuza_nl,efi,upstream,1
 minbuza_nl,ehorg,upstream,1
@@ -1576,6 +1585,8 @@ minbuza_nl,pumnl,upstream,2
 minbuza_nl,rcn,upstream,2
 minbuza_nl,rlb,upstream,2
 minbuza_nl,rmf-lb,upstream,1
+minbuza_nl,rnw_org,upstream,1
+minbuza_nl,rutgers,upstream,4
 minbuza_nl,rvo,upstream,26
 minbuza_nl,saferworld,upstream,11
 minbuza_nl,sca_afghanistan,upstream,1
@@ -1627,7 +1638,7 @@ minbuza_nl,unocha-sdc,upstream,3
 minbuza_nl,utz,upstream,1
 minbuza_nl,uvw,upstream,1
 minbuza_nl,vei_nl,upstream,3
-minbuza_nl,vngi,upstream,10
+minbuza_nl,vngi,upstream,11
 minbuza_nl,w-d,upstream,2
 minbuza_nl,wageningen_ur,upstream,11
 minbuza_nl,warchildholland,upstream,8
@@ -1764,6 +1775,7 @@ plannlno,healthnet,upstream,3
 plannlno,kit,upstream,9
 plannlno,onl,upstream,5
 plannlno,pax,upstream,2
+plannlno,rutgers,upstream,1
 plannlno,sosnl,upstream,1
 plannlno,stad,upstream,1
 plannlno,tdh_nl,upstream,2
@@ -1783,6 +1795,14 @@ pwc,sddirect,upstream,1
 rbg_kew,ciuk,upstream,1
 restless,ycare,upstream,1
 rikolto_belgium,rikolto,upstream,12
+rutgers,cfyas,upstream,3
+rutgers,ippf,upstream,2
+rutgers,my-ssm,upstream,1
+rutgers,norsaac,upstream,1
+rutgers,rnw_org,upstream,1
+rutgers,rutgers,upstream,1
+rutgers,simavi,upstream,2
+rutgers,stichting_hivos,upstream,1
 rvo,akvo,upstream,1
 rvo,cabi,upstream,1
 rvo,cordaid,upstream,1
