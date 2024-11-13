@@ -1135,7 +1135,6 @@ fcdo,trocaire,upstream,4
 fcdo,uct,upstream,1
 fcdo,ul,upstream,2
 fcdo,umn,upstream,1
-fcdo,undp,upstream,3
 fcdo,unf,upstream,2
 fcdo,unhcr,upstream,110
 fcdo,unocha,upstream,5
@@ -1269,7 +1268,7 @@ irc_inc,restless,upstream,2
 irc_inc,zoa,upstream,1
 irc_uk,hiuk,upstream,1
 irc_uk,irc_inc,upstream,101
-irc_uk,irc_uk,upstream,2
+irc_uk,irc_uk,upstream,1
 irc_uk,msi,upstream,1
 irc_uk,restless,upstream,1
 irishaid,idi,upstream,1
@@ -1629,7 +1628,6 @@ minbuza_nl,tns,upstream,2
 minbuza_nl,trig,upstream,3
 minbuza_nl,twynstragudde,upstream,1
 minbuza_nl,twz1,upstream,1
-minbuza_nl,undp,upstream,1
 minbuza_nl,unhcr,upstream,113
 minbuza_nl,unicefnl,upstream,1
 minbuza_nl,united_work,upstream,4
@@ -1913,7 +1911,6 @@ tear,zoa,upstream,1
 tfac,tfacmalawi,upstream,1
 tffus,aain,upstream,1
 theglobalfund,iom,upstream,1
-theglobalfund,undp,upstream,2
 thp_org,max-foundation,upstream,1
 thp_org,scnl,upstream,1
 thp_org,wvnld,upstream,1
@@ -1921,7 +1918,6 @@ traidcraft,fci,upstream,1
 uct,_cebrap,upstream,1
 uct,sparc_iati,upstream,1
 uct,tgi_india,upstream,1
-undp,idlo,upstream,3
 unf,iif,upstream,1
 unicef,trocaire,upstream,2
 unido,ilo,upstream,1
@@ -1930,10 +1926,6 @@ unocha-cbpf,iom,upstream,12
 unocha-cbpf,unhcr,upstream,66
 unocha-cbpf,warchildholland,upstream,1
 unops,iom,upstream,1
-unpf,ilo,upstream,212
-unpf,iom,upstream,3
-unpf,undp,upstream,10
-unpf,unhcr,upstream,2
 uoe,bpcrs,upstream,1
 uoe,icddrb,upstream,1
 uoe,ipcrg,upstream,1
