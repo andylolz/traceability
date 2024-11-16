@@ -28,7 +28,7 @@ amrefnl,rutgers,downstream,1
 amrefnl,wemos,downstream,1
 appro-eu,appro-af,downstream,1
 asil,timidria,downstream,1
-bond,sinda,downstream,1
+bond,sinda,downstream,2
 bothends,aanl,downstream,1
 bothends,ccc,downstream,1
 bothends,foenl,downstream,1
@@ -450,7 +450,11 @@ pax,defenddefenders,downstream,1
 plan_uk,irc_inc,downstream,1
 plannlno,amrefeth,downstream,1
 plannlno,amrefkenya,downstream,1
+plannlno,carenederland,downstream,1
 plannlno,sosnl,downstream,1
+plannlno,tdh_nl,downstream,1
+plannlno,tear,downstream,1
+plannlno,zoa,downstream,2
 pwc,acu,downstream,1
 pwc,britishcouncil,downstream,1
 pwc,dcapitalpartners,downstream,1
@@ -528,7 +532,7 @@ stichting-subsidiegelden-dra,zoa,downstream,3
 taf,dipr,downstream,1
 tear,carenederland,downstream,6
 tear,cordaid,downstream,2
-tear,plannlno,downstream,2
+tear,plannlno,downstream,3
 tear,scnl,downstream,2
 tear,tdh_nl,downstream,7
 tear,wvnld,downstream,2
@@ -760,6 +764,7 @@ bmgf,unhcr,upstream,23
 bmz,ilo,upstream,40
 bmz,unhcr,upstream,4
 bmz,yffhsd,upstream,2
+bond,sinda,upstream,1
 bothends,aanl,upstream,1
 bothends,ccc,upstream,1
 bothends,foei,upstream,1
@@ -959,7 +964,7 @@ fcdo,bauk,upstream,1
 fcdo,bbcmediaaction,upstream,1
 fcdo,beesfordevelopment,upstream,1
 fcdo,blueventures,upstream,1
-fcdo,bond,upstream,3
+fcdo,bond,upstream,4
 fcdo,britishcouncil,upstream,5
 fcdo,bvs-nepal,upstream,1
 fcdo,cabi,upstream,6
@@ -1774,7 +1779,7 @@ plannlno,dciecpatnl,upstream,1
 plannlno,femnet,upstream,1
 plannlno,healthnet,upstream,3
 plannlno,kit,upstream,9
-plannlno,onl,upstream,5
+plannlno,onl,upstream,7
 plannlno,pax,upstream,2
 plannlno,rutgers,upstream,1
 plannlno,sosnl,upstream,1
@@ -1882,7 +1887,7 @@ st_vluchteling,tear,upstream,2
 st_vluchteling,wvnld,upstream,1
 state,idlo,upstream,1
 state,iom,upstream,97
-stichting-subsidiegelden-dra,carenederland,upstream,9
+stichting-subsidiegelden-dra,carenederland,upstream,10
 stichting-subsidiegelden-dra,cordaid,upstream,4
 stichting-subsidiegelden-dra,dai,upstream,3
 stichting-subsidiegelden-dra,onl,upstream,65
