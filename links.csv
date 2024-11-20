@@ -86,6 +86,7 @@ danida,danishrc,downstream,4
 danida,danmission,downstream,1
 danida,dca,downstream,2
 danida,dfpa,downstream,2
+danida,di,downstream,1
 danida,drc,downstream,4
 danida,duf,downstream,1
 danida,fowdk,downstream,1
@@ -93,7 +94,7 @@ danida,globaltfokus,downstream,1
 danida,ibis_denmark,downstream,2
 danida,ims,downstream,3
 danida,iom,downstream,10
-danida,loftf,downstream,1
+danida,loftf,downstream,2
 danida,missioneast,downstream,2
 danida,plb,downstream,2
 danida,redbarnet,downstream,3
@@ -198,6 +199,7 @@ jass,cal_2000-pu,downstream,1
 jass,genderatwork,downstream,1
 jass,pekka_21,downstream,1
 lcd_admin,plan_uk,downstream,1
+loftf,di,downstream,1
 lstm,fcdo,downstream,1
 lts,snv,downstream,1
 mamac,creausa-org,downstream,1
@@ -855,6 +857,7 @@ danida,danishrc,upstream,6
 danida,danmission,upstream,2
 danida,dca,upstream,4
 danida,dfpa,upstream,1
+danida,di,upstream,1
 danida,drc,upstream,35
 danida,ibis_denmark,upstream,1
 danida,idh,upstream,1
@@ -862,7 +865,7 @@ danida,idlo,upstream,1
 danida,ilo,upstream,9
 danida,ims,upstream,3
 danida,iom,upstream,3
-danida,loftf,upstream,1
+danida,loftf,upstream,2
 danida,missioneast,upstream,6
 danida,plb,upstream,2
 danida,redbarnet,upstream,3
@@ -1293,7 +1296,7 @@ ktk,crtda,upstream,1
 ktk,pwwsd_2022,upstream,1
 lcd_admin,ilo,upstream,5
 lcd_admin,open_university,upstream,1
-loftf,di,upstream,1
+loftf,di,upstream,2
 mag,crs,upstream,1
 mag,halo,upstream,1
 mamac,creausa-org,upstream,1
@@ -1719,7 +1722,7 @@ nrc,irc_uk,upstream,1
 nso,icco-cooperation,upstream,3
 nwp,nfp,upstream,2
 odakorea,ilo,upstream,24
-odakorea,unhcr,upstream,7
+odakorea,unhcr,upstream,1
 odi_sales_ltd,irc_uk,upstream,1
 onl,carenederland,upstream,2
 onl,cordaid,upstream,3
