@@ -609,6 +609,7 @@ world_ywca,kit,downstream,1
 world_ywca,ywcakenya,downstream,1
 world_ywca,ywcass,downstream,1
 worldwaternet,aw,downstream,1
+wv_de,wvi,downstream,148
 wvnld,cordaid,downstream,2
 wvnld,dai,downstream,1
 wvnld,onl,downstream,1
@@ -617,7 +618,9 @@ wvnld,scnl,downstream,1
 wvnld,st_vluchteling,downstream,1
 wvnld,warchildholland,downstream,1
 wvnld,wcuk,downstream,1
+wvnld,wvi,downstream,12
 wvnld,zoa,downstream,1
+wvuk,wvi,downstream,144
 yy_ventures,minbuza_nl,downstream,1
 zoa,agriterra,downstream,1
 zoa,carenederland,downstream,2
@@ -759,7 +762,7 @@ bmgf,cabi,upstream,3
 bmgf,unhcr,upstream,23
 bmz,ilo,upstream,17
 bmz,unhcr,upstream,4
-bmz,yffhsd,upstream,2
+bmz,yffhsd,upstream,3
 bond,sinda,upstream,1
 bothends,aanl,upstream,1
 bothends,ccc,upstream,1
@@ -988,7 +991,7 @@ fcdo,crs,upstream,4
 fcdo,ctc,upstream,1
 fcdo,cww,upstream,1
 fcdo,cyan,upstream,2
-fcdo,dai-e,upstream,27
+fcdo,dai-e,upstream,29
 fcdo,dc,upstream,1
 fcdo,ddp,upstream,4
 fcdo,dec-uk,upstream,5
@@ -1016,6 +1019,7 @@ fcdo,gdi,upstream,1
 fcdo,gdihub,upstream,4
 fcdo,gecfundmanagerpwc,upstream,3
 fcdo,gi-toc,upstream,1
+fcdo,globalcanopy,upstream,1
 fcdo,gsma_foundation,upstream,661
 fcdo,handinhand,upstream,1
 fcdo,hha,upstream,1
@@ -1045,7 +1049,8 @@ fcdo,iza,upstream,13
 fcdo,jeevika_trust,upstream,1
 fcdo,jpal,upstream,2
 fcdo,kipkelion,upstream,1
-fcdo,kpmgea,upstream,2
+fcdo,kpmgea,upstream,3
+fcdo,kpmgllp,upstream,1
 fcdo,ktk_ho,upstream,1
 fcdo,lbg,upstream,1
 fcdo,lboro,upstream,1
@@ -1082,7 +1087,7 @@ fcdo,orbis_uk,upstream,1
 fcdo,oxfamgb,upstream,20
 fcdo,oxford,upstream,2
 fcdo,pa,upstream,2
-fcdo,palladium,upstream,14
+fcdo,palladium,upstream,16
 fcdo,pcst,upstream,1
 fcdo,pegasys-eu,upstream,1
 fcdo,peopleinaid,upstream,1
@@ -1096,6 +1101,7 @@ fcdo,pri,upstream,1
 fcdo,pumpaid,upstream,1
 fcdo,pwc,upstream,9
 fcdo,pwcplindia,upstream,10
+fcdo,ran,upstream,2
 fcdo,rc,upstream,1
 fcdo,rcel,upstream,1
 fcdo,restless,upstream,10
@@ -1116,6 +1122,7 @@ fcdo,soas,upstream,2
 fcdo,spuk,upstream,3
 fcdo,ss-org,upstream,141
 fcdo,stichting_hivos,upstream,1
+fcdo,stichtingfern,upstream,1
 fcdo,street_child,upstream,4
 fcdo,stromme_ug,upstream,1
 fcdo,surf,upstream,1
@@ -1137,7 +1144,7 @@ fcdo,unf,upstream,2
 fcdo,unhcr,upstream,110
 fcdo,unocha,upstream,5
 fcdo,uom,upstream,2
-fcdo,uq,upstream,5
+fcdo,uq,upstream,6
 fcdo,vao,upstream,1
 fcdo,vfan,upstream,1
 fcdo,vso,upstream,32
@@ -1213,6 +1220,7 @@ giro555,st_vluchteling,upstream,30
 giro555,tdh_nl,upstream,1
 giro555,tear,upstream,7
 giro555,unicefnl,upstream,3
+giro555,wvi,upstream,3
 giro555,wvnld,upstream,5
 gppac,wfm-igp,upstream,1
 guttmacher,bapsa,upstream,1
