@@ -398,6 +398,7 @@ manniondaniels,zsl,downstream,1
 mefbenin,anaepmr_benin,downstream,2
 mefbenin,ine_benin,downstream,1
 mefbenin,ze,downstream,1
+minbuza_nl,agriterra,downstream,1
 minbuza_nl,amrefkenya,downstream,1
 minbuza_nl,carenederland,downstream,1
 minbuza_nl,cidr,downstream,1
@@ -415,7 +416,7 @@ minbuza_nl,protos,downstream,1
 minbuza_nl,scnl,downstream,2
 minbuza_nl,st_vluchteling,downstream,1
 minbuza_nl,tdh_nl,downstream,1
-minbuza_nl,vngi,downstream,1
+minbuza_nl,vngi,downstream,2
 minbuza_nl,wipc,downstream,2
 minbuza_nl,wvnld,downstream,1
 msi,ciuk,downstream,1
@@ -682,6 +683,7 @@ amrefug,cordaid,upstream,1
 ancb_benin,ancb_benin,upstream,24
 appro-eu,appro-af,upstream,2
 ares,vlir-uos,upstream,1
+ausgov,unhcr,upstream,2
 avsi_uganda,cordaid,upstream,1
 bbcmediaaction,ims,upstream,1
 be-dgd,111111_publisher,upstream,1
@@ -1395,7 +1397,7 @@ minbuza_nl,acfshr,upstream,2
 minbuza_nl,acted,upstream,1
 minbuza_nl,adsb,upstream,1
 minbuza_nl,agencia_do_zambeze,upstream,1
-minbuza_nl,agriterra,upstream,4
+minbuza_nl,agriterra,upstream,3
 minbuza_nl,ahead,upstream,1
 minbuza_nl,aias,upstream,1
 minbuza_nl,ajar,upstream,1
@@ -1641,7 +1643,7 @@ minbuza_nl,unocha-sdc,upstream,3
 minbuza_nl,utz,upstream,1
 minbuza_nl,uvw,upstream,1
 minbuza_nl,vei_nl,upstream,3
-minbuza_nl,vngi,upstream,10
+minbuza_nl,vngi,upstream,9
 minbuza_nl,w-d,upstream,2
 minbuza_nl,wageningen_ur,upstream,11
 minbuza_nl,warchildholland,upstream,8
