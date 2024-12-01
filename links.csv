@@ -611,6 +611,7 @@ world_ywca,kit,downstream,1
 world_ywca,ywcakenya,downstream,1
 world_ywca,ywcass,downstream,1
 worldwaternet,aw,downstream,1
+wv_de,wvi,downstream,148
 wvnld,cordaid,downstream,2
 wvnld,dai,downstream,1
 wvnld,onl,downstream,1
@@ -619,7 +620,9 @@ wvnld,scnl,downstream,1
 wvnld,st_vluchteling,downstream,1
 wvnld,warchildholland,downstream,1
 wvnld,wcuk,downstream,1
+wvnld,wvi,downstream,12
 wvnld,zoa,downstream,1
+wvuk,wvi,downstream,144
 yy_ventures,minbuza_nl,downstream,1
 zoa,agriterra,downstream,1
 zoa,carenederland,downstream,2
@@ -911,7 +914,7 @@ ec-echo,unhcr,upstream,380
 ec-echo,warchildholland,upstream,4
 ec-fpi,unhcr,upstream,2
 ec-intpa,idlo,upstream,3
-ec-intpa,unhcr,upstream,42
+ec-intpa,unhcr,upstream,44
 ec-near,unhcr,upstream,29
 ecuk,sddirect,upstream,1
 ecw,unhcr,upstream,12
@@ -1220,6 +1223,7 @@ giro555,st_vluchteling,upstream,30
 giro555,tdh_nl,upstream,1
 giro555,tear,upstream,7
 giro555,unicefnl,upstream,3
+giro555,wvi,upstream,3
 giro555,wvnld,upstream,5
 gppac,wfm-igp,upstream,1
 guttmacher,bapsa,upstream,1
