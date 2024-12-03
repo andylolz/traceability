@@ -1023,7 +1023,7 @@ fcdo,gdihub,upstream,4
 fcdo,gecfundmanagerpwc,upstream,3
 fcdo,gi-toc,upstream,1
 fcdo,globalcanopy,upstream,1
-fcdo,gsma_foundation,upstream,546
+fcdo,gsma_foundation,upstream,431
 fcdo,handinhand,upstream,1
 fcdo,hha,upstream,1
 fcdo,hi,upstream,4
@@ -1107,6 +1107,7 @@ fcdo,pwcplindia,upstream,10
 fcdo,ran,upstream,2
 fcdo,rc,upstream,1
 fcdo,rcel,upstream,1
+fcdo,redeenkind,upstream,1
 fcdo,restless,upstream,10
 fcdo,rfpap,upstream,2
 fcdo,rfuk,upstream,2
@@ -1462,6 +1463,7 @@ minbuza_nl,ejc,upstream,1
 minbuza_nl,elrha,upstream,1
 minbuza_nl,engenderhealth_eth,upstream,3
 minbuza_nl,esfd,upstream,1
+minbuza_nl,et-adf-0317,upstream,1
 minbuza_nl,ewla,upstream,1
 minbuza_nl,f-aids,upstream,3
 minbuza_nl,fca,upstream,2
